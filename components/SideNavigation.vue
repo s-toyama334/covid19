@@ -141,9 +141,21 @@ export default Vue.extend({
       return [
         {
           icon: 'mdi-chart-timeline-variant',
-          title: this.$t('都内の最新感染動向'),
-          link: this.localePath('/')
+          title: this.$t('青森県内の最新感染動向（デーリー東北）'),
+          link: 'https://www.daily-tohoku.news/'
         },
+        {
+          icon: 'mdi-chart-timeline-variant',
+          title: this.$t('新型コロナウイルス感染症に関する情報（青森県庁）'),
+          link: 'https://www.pref.aomori.lg.jp/koho/coronavirus_index.html'
+        },
+                {
+          icon: 'mdi-chart-timeline-variant',
+          title: this.$t('新型コロナウイルス感染症に係る対応（八戸市）'),
+          link: 'https://www.city.hachinohe.aomori.jp/emergency/13872.html'
+        },
+
+
         {
           icon: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配なときに'),

@@ -30,18 +30,20 @@
           'number-of-reports-to-covid19-consultation-desk'
       "
     />
+
     <metro-card
       v-else-if="
         this.$route.params.card == 'predicted-number-of-toei-subway-passengers'
       "
     />
+
     <agency-card v-else-if="this.$route.params.card == 'agency'" />
     <shinjuku-visitors-card
       v-else-if="this.$route.params.card == 'shinjuku-visitors'"
     />
-    <chiyoda-visitors-card
-      v-else-if="this.$route.params.card == 'chiyoda-visitors'"
-    />
+
+
+    
   </div>
 </template>
 
