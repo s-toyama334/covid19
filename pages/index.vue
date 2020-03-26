@@ -27,6 +27,11 @@
       <confirmed-cases-number-card />
     </v-row>
       <whats-new2 class="mb-4" :items="newsItems2" />
+
+      <div class="mb-4">
+        <h1>ああああああ</h1>
+      </div>
+
   </div>
 </template>
 

@@ -94,18 +94,20 @@
           </a>
         </div>
         <small class="SideNavigation-Copyright">
-          {{ $t('このサイトの内容物は') }}
-          <a
-            :href="$t('https://creativecommons.org/licenses/by/4.0/deed.ja')"
-            target="_blank"
-            rel="license"
-            class="SideNavigation-LicenseLink"
-          >
-            {{ $t('クリエイティブ・コモンズ 表示 4.0 ライセンス') }}
-          </a>
-          {{ $t('の下に提供されています。') }}
-          <br />
-          2020 Tokyo Metropolitan Government
+
+          <div class="SideNavigation-SponsorLinkContainer sp-none">
+            Powered by:<br />
+            <a href="https://www.daily-tohoku.news/" target="_blank" rel="noopener">
+              <img
+                class="daily-logo"
+                src="/logo.png"
+                width="176px"
+                height="62px"
+                alt="デーリー東北新聞社"
+              />
+            </a>
+          </div>
+
         </small>
       </footer>
     </div>
@@ -299,7 +301,7 @@ export default Vue.extend({
     width: 100px;
   }
     @include lessThan($small) {
-    height: 64px;
+    height: 50px;
   }
 }
 
