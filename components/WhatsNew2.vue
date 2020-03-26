@@ -6,13 +6,10 @@
       </v-icon>
       {{ $t('中止のイベント') }}
     </h3>
-    <ul class="WhatsNew-list">
+    <ul class="WhatsNew-list2">
       <li v-for="(item, i) in items" :key="i" class="WhatsNew-list-item">
         <p
           class="WhatsNew-list-item-anchor"
-          :href="item.url"
-          target="_blank"
-          rel="noopener"
         >
           <time
             class="WhatsNew-list-item-anchor-time px-2"
@@ -20,7 +17,7 @@
           >
             {{ item.date }}
           </time>
-          <span class="WhatsNew-list-item-anchor-link">
+          <span class="WhatsNew-list-item-anchor-link2">
             {{ item.text }}
             <v-icon
               v-if="!isInternalLink(item.url)"
@@ -81,7 +78,7 @@ export default Vue.extend({
   }
 }
 
-.WhatsNew .WhatsNew-list {
+.WhatsNew .WhatsNew-list2 {
   padding-left: 0;
   list-style-type: none;
 
@@ -107,14 +104,14 @@ export default Vue.extend({
         color: $gray-1;
       }
 
-      &-link {
+      &-link2 {
         flex: 0 1 auto;
-
-        @include body-text();
 
         @include lessThan($medium) {
           padding-left: 8px;
         }
+
+        color: $gray-1 !important;
       }
 
       &-ExternalLinkIcon {
