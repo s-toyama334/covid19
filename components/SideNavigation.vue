@@ -145,18 +145,6 @@ export default Vue.extend({
           link: 'https://www.daily-tohoku.news/'
         },
         {
-          icon: 'mdi-chart-timeline-variant',
-          title: this.$t('新型コロナウイルス感染症に関する情報（青森県庁）'),
-          link: 'https://www.pref.aomori.lg.jp/koho/coronavirus_index.html'
-        },
-                {
-          icon: 'mdi-chart-timeline-variant',
-          title: this.$t('新型コロナウイルス感染症に係る対応（八戸市）'),
-          link: 'https://www.city.hachinohe.aomori.jp/emergency/13872.html'
-        },
-
-
-        {
           icon: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配なときに'),
           link: this.localePath('/flow'),
@@ -168,42 +156,23 @@ export default Vue.extend({
           link: this.localePath('/parent')
         },
         {
-          icon: 'mdi-account-multiple',
-          title: this.$t('都民の皆様へ'),
-          link: 'https://www.metro.tokyo.lg.jp/tosei/tosei/news/2019-ncov.html'
+          icon: 'mdi-chart-timeline-variant',
+          title: this.$t('新型コロナウイルス感染症に関する情報（青森県庁）'),
+          link: 'https://www.pref.aomori.lg.jp/koho/coronavirus_index.html'
+        },
+                {
+          icon: 'mdi-chart-timeline-variant',
+          title: this.$t('新型コロナウイルス感染症に係る対応（八戸市）'),
+          link: 'https://www.city.hachinohe.aomori.jp/emergency/13872.html'
         },
         {
-          icon: 'mdi-domain',
-          title: this.$t('企業の皆様・はたらく皆様へ'),
-          link: this.localePath('/worker'),
-          divider: true
-        },
-        {
-          title: this.$t('東京都新型コロナウイルス感染症対策本部報'),
+          title: this.$t('青森県知事からのメッセージ'),
           link:
-            'https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html'
-        },
-        {
-          title: this.$t('東京都主催等 中止又は延期するイベント等'),
-          link:
-            'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event00.html'
-        },
-        {
-          title: this.$t('知事からのメッセージ'),
-          link:
-            'https://www.metro.tokyo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
+            'https://www.pref.aomori.lg.jp/koho/R020228message.html'
         },
         {
           title: this.$t('当サイトについて'),
           link: this.localePath('/about')
-        },
-        {
-          title: this.$t('お問い合わせ先一覧'),
-          link: this.localePath('/contacts')
-        },
-        {
-          title: this.$t('東京都公式ホームページ'),
-          link: 'https://www.metro.tokyo.lg.jp/'
         }
       ]
     }
