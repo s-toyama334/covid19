@@ -329,6 +329,9 @@ export default Vue.extend({
   @include lessThan($tiny) {
     width: 100px;
   }
+    @include lessThan($small) {
+    height: 64px;
+  }
 }
 
 .SideNavigation-HeaderText {

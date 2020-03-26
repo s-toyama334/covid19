@@ -13,6 +13,8 @@
       </div>
     </div>
     <whats-new class="mb-4" :items="newsItems" />
+    <whats-new2 class="mb-4" :items="newsItems2" />
+
     <static-info
       class="mb-4"
       :url="localePath('/flow')"
@@ -24,6 +26,7 @@
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
+      <whats-new2 class="mb-4" :items="newsItems2" />
   </div>
 </template>
 
@@ -32,9 +35,11 @@ import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
 import WhatsNew from '@/components/WhatsNew.vue'
+import WhatsNew2 from '@/components/WhatsNew2.vue'
 import StaticInfo from '@/components/StaticInfo.vue'
 import Data from '@/data/data.json'
 import News from '@/data/news.json'
+import News2 from '@/data/news2.json'
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
 import TestedCasesDetailsCard from '@/components/cards/TestedCasesDetailsCard.vue'
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
@@ -53,6 +58,7 @@ export default Vue.extend({
   components: {
     PageHeader,
     WhatsNew,
+    WhatsNew2,
     StaticInfo,
     ConfirmedCasesDetailsCard,
     TestedCasesDetailsCard,
@@ -74,7 +80,8 @@ export default Vue.extend({
         icon: 'mdi-chart-timeline-variant',
         title: this.$t('青森県内の最新感染動向')
       },
-      newsItems: News.newsItems
+      newsItems: News.newsItems,
+      newsItems2: News2.newsItems2
     }
     return data
   },
