@@ -28,8 +28,45 @@
     </v-row>
       <whats-new2 class="mb-4" :items="newsItems2" />
 
-      <div class="mb-4">
-        <h1>ああああああ</h1>
+      <div class="WorryInfoBlock mb-4">
+        <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size: 24px;"></i>
+        新型コロナウイルスの感染が心配なときは
+        </h3>
+        <img class="worryimg" src="/worryinfo.png" alt="新型コロナウイルスの感染が心配なときは" />
+        <h4 class="tabletitle">帰国者・接触者相談センター相談窓口</h4>
+        <table>
+          <thead>
+              <tr>
+                  <th class="col1"  scope="col">保健所名</th>
+                  <th class="col2" scope="col">電話番号</th>
+                  <th class="col3" scope="col">管轄市町村</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <th>八戸市保健所</th>
+                <td data-label="電話番号" class="txt">0178-43-2291</td>
+                <td data-label="管轄市町村" class="price">八戸市</td>
+            </tr>
+            <tr>
+                <th>三戸地方保健所</th>
+                <td data-label="電話番号" class="txt">0178-27-5111</td>
+                <td data-label="管轄市町村"class="price">三戸町、五戸町、田子町、南部町、階上町、新郷村、おいらせ町</td>
+            </tr>
+            <tr>
+                <th>上十三保健所</th>
+                <td data-label="電話番号" class="txt">0176-23-4261</td>
+                <td data-label="管轄市町村"class="price">十和田市、三沢市、野辺地町、七戸町、六戸町、横浜町、東北町、六ケ所村</td>
+            </tr>
+            <tr>
+                <th>むつ保健所</th>
+                <td data-label="電話番号" class="txt">0175-31-1388</td>
+                <td data-label="管轄市町村"class="price">むつ市、大間町、東通村、風間浦村、佐井村</td>
+            </tr>
+            
+          </tbody>
+        </table>   
+
       </div>
 
   </div>
@@ -144,5 +181,109 @@ export default Vue.extend({
       }
     }
   }
+  .WorryInfoBlock {
+    margin: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 0 2px rgba(112, 15, 15, 0.15);
+    border: 0.5px solid #d9d9d9 !important;
+    border-radius: 4px;
+    padding: 10px;
+
+    .worryimg {
+      display: block;
+      width: 85%;
+      margin: 20px auto 40px auto;
+      @include lessThan($small) {
+        width: 100%;
+      }
+    }
+    h4 {
+      font-size: 1.1875rem;
+      text-align: center;
+    }
+    table {
+      border-collapse: collapse;
+      margin: 0 auto;
+      padding: 0;
+      width: 95%;
+      table-layout: fixed;
+    }
+
+    table tr {
+      background-color: #fff;
+      border: 1px solid #bbb;
+      padding: .35em;
+    }
+    table th,
+    table td {
+      padding: 1em 10px 1em 1em;
+      border-right: 1px solid #bbb;
+    }
+    table th {
+      font-size: .85em;
+    }
+    table thead tr{
+      background-color: #eee;
+    }
+    table .col1 {
+      width: 20%;
+    }
+    .txt{
+      text-align: left;
+      font-size: .85em;
+    }
+    .price{
+      text-align: left;
+    }
+    @media screen and (max-width: 600px) {
+      table {
+        border: 0;
+        width:100%
+      }
+      table th{
+        background-color: #eee;
+        display: block;
+        border-right: none;
+      }
+      table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+      }
+      
+      table tr {
+        display: block;
+        margin-bottom: .625em;
+      }
+      
+      table td {
+        border-bottom: 1px solid #bbb;
+        display: block;
+        font-size: .8em;
+        text-align: right;
+        position: relative;
+        padding: .625em .625em .625em 4em;
+        border-right: none;
+      }
+      
+      table td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        position: absolute;
+        left: 10px;
+      }
+      
+      table td:last-child {
+        border-bottom: 0;
+      }
+    }
+
+  }
+  
 }
 </style>

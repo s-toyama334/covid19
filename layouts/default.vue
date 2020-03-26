@@ -2,8 +2,8 @@
   <v-app class="app">
     <v-overlay v-if="loading" color="#F8F9FA" opacity="1" z-index="9999">
       <div class="loader">
-        <img src="/logo.svg" alt="東京都" />
-        <scale-loader color="#00A040" />
+        <img src="/logo.svg" alt="デーリー東北z" />
+        <scale-loader color="#4169e1" />
       </div>
     </v-overlay>
     <div v-if="hasNavigation" class="appContainer">
@@ -94,20 +94,20 @@ export default Vue.extend({
         {
           hid: 'author',
           name: 'author',
-          content: this.$tc('東京都')
+          content: this.$tc('デーリー東北')
         },
         {
           hid: 'description',
           name: 'description',
           content: this.$tc(
-            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、東京都が開設したものです。'
+            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、デーリー東北新聞社（青森県八戸市）が開設したものです。'
           )
         },
         {
           hid: 'og:site_name',
           property: 'og:site_name',
           content:
-            this.$t('東京都') +
+            this.$t('デーリー東北') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +
@@ -127,7 +127,7 @@ export default Vue.extend({
           hid: 'og:title',
           property: 'og:title',
           content:
-            this.$t('東京都') +
+            this.$t('デーリー東北') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +
@@ -137,7 +137,7 @@ export default Vue.extend({
           hid: 'og:description',
           property: 'og:description',
           content: this.$tc(
-            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、東京都が開設したものです。'
+            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、デーリー東北新聞社（青森県八戸市）が開設したものです。'
           )
         },
         {
@@ -149,7 +149,7 @@ export default Vue.extend({
           hid: 'apple-mobile-web-app-title',
           name: 'apple-mobile-web-app-title',
           content:
-            this.$t('東京都') +
+            this.$t('デーリー東北') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +

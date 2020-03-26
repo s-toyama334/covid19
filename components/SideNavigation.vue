@@ -13,7 +13,7 @@
           <img
             class="SideNavigation-HeaderLogo"
             src="/logo.svg"
-            :alt="$t('東京都')"
+            :alt="$t('デーリー東北')"
           />
           <div class="SideNavigation-HeaderText">
             {{ $t('menu/新型コロナウイルス感染症') }}<br />{{
@@ -100,7 +100,7 @@
             <a href="https://www.daily-tohoku.news/" target="_blank" rel="noopener">
               <img
                 class="daily-logo"
-                src="/logo.png"
+                src="/logo.svg"
                 width="176px"
                 height="62px"
                 alt="デーリー東北新聞社"
@@ -143,7 +143,7 @@ export default Vue.extend({
       return [
         {
           icon: 'mdi-chart-timeline-variant',
-          title: this.$t('青森県内の最新感染動向（デーリー東北）'),
+          title: this.$t('青森県内の最新感染動向'),
           link: 'https://www.daily-tohoku.news/'
         },
         {
