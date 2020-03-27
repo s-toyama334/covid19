@@ -14,13 +14,6 @@
     </div>
     <whats-new class="mb-4" :items="newsItems" />
     <whats-new2 class="mb-4" :items="newsItems2" />
-
-    <static-info
-      class="mb-4"
-      :url="localePath('/flow')"
-      :text="$t('自分や家族の症状に不安や心配があればまずは電話相談をどうぞ')"
-      :btn-text="$t('相談の手順を見る')"
-    />
     <v-row class="DataBlock">
       <confirmed-cases-details-card />
       <confirmed-cases-attributes-card />
@@ -45,23 +38,23 @@
           <tbody>
             <tr>
                 <th>八戸市保健所</th>
-                <td data-label="電話番号" class="txt">0178-43-2291</td>
-                <td data-label="管轄市町村" class="price">八戸市</td>
+                <td data-label="電話番号" class="tel"><a href="tel:0178432291">0178-43-2291</a></td>
+                <td data-label="管轄市町村" class="txt">八戸市</td>
             </tr>
             <tr>
                 <th>三戸地方保健所</th>
-                <td data-label="電話番号" class="txt">0178-27-5111</td>
-                <td data-label="管轄市町村"class="price">三戸町、五戸町、田子町、南部町、階上町、新郷村、おいらせ町</td>
+                <td data-label="電話番号" class="tel"><a href="tel:0178275111">0178-27-5111</a></td>
+                <td data-label="管轄市町村"class="txt">三戸町、五戸町、田子町、南部町、階上町、新郷村、おいらせ町</td>
             </tr>
             <tr>
                 <th>上十三保健所</th>
-                <td data-label="電話番号" class="txt">0176-23-4261</td>
-                <td data-label="管轄市町村"class="price">十和田市、三沢市、野辺地町、七戸町、六戸町、横浜町、東北町、六ケ所村</td>
+                <td data-label="電話番号" class="tel"><a href="tel:0176234261">0176-23-4261</a></td>
+                <td data-label="管轄市町村"class="txt">十和田市、三沢市、野辺地町、七戸町、六戸町、横浜町、東北町、六ケ所村</td>
             </tr>
             <tr>
                 <th>むつ保健所</th>
-                <td data-label="電話番号" class="txt">0175-31-1388</td>
-                <td data-label="管轄市町村"class="price">むつ市、大間町、東通村、風間浦村、佐井村</td>
+                <td data-label="電話番号" class="tel"><a href="tel:0175311388">0175-31-1388</a></td>
+                <td data-label="管轄市町村"class="txt">むつ市、大間町、東通村、風間浦村、佐井村</td>
             </tr>
             
           </tbody>
@@ -78,7 +71,6 @@ import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
 import WhatsNew from '@/components/WhatsNew.vue'
 import WhatsNew2 from '@/components/WhatsNew2.vue'
-import StaticInfo from '@/components/StaticInfo.vue'
 import Data from '@/data/data.json'
 import News from '@/data/news.json'
 import News2 from '@/data/news2.json'
@@ -101,7 +93,6 @@ export default Vue.extend({
     PageHeader,
     WhatsNew,
     WhatsNew2,
-    StaticInfo,
     ConfirmedCasesDetailsCard,
     TestedCasesDetailsCard,
     ConfirmedCasesNumberCard,
@@ -198,7 +189,7 @@ export default Vue.extend({
       }
     }
     h4 {
-      font-size: 1.1875rem;
+      font-size: 1rem;
       text-align: center;
     }
     table {
@@ -225,14 +216,18 @@ export default Vue.extend({
     table thead tr{
       background-color: #eee;
     }
-    table .col1 {
+    table .col1,table .col2 {
       width: 20%;
     }
-    .txt{
+    .tel{
       text-align: left;
       font-size: .85em;
     }
-    .price{
+    .tel a{
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .txt{
       text-align: left;
     }
     @media screen and (max-width: 600px) {
@@ -267,7 +262,7 @@ export default Vue.extend({
         font-size: .8em;
         text-align: right;
         position: relative;
-        padding: .625em .625em .625em 4em;
+        padding: .625em .625em .625em 7.5em;
         border-right: none;
       }
       

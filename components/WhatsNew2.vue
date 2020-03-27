@@ -111,6 +111,10 @@ export default Vue.extend({
           padding-left: 8px;
         }
 
+        @include lessThan($small) {
+          padding-left: 8px;
+        }
+
         color: $gray-1 !important;
       }
 
