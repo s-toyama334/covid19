@@ -13,13 +13,13 @@
       </div>
     </div>
     <whats-new class="mb-4" :items="newsItems" />
-    <whats-new2 class="mb-4" :items="newsItems2" />
+    <whats-new2 class="mb-4" :items="eventItems" />
     <v-row class="DataBlock">
       <confirmed-cases-details-card />
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
-      <whats-new2 class="mb-4" :items="newsItems2" />
+      <whats-new3 class="mb-4" :items="sportsItems"/>
 
       <div class="WorryInfoBlock mb-4">
         <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size: 24px;"></i>
@@ -71,9 +71,11 @@ import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
 import WhatsNew from '@/components/WhatsNew.vue'
 import WhatsNew2 from '@/components/WhatsNew2.vue'
+import WhatsNew3 from '@/components/Sports.vue'
 import Data from '@/data/data.json'
 import News from '@/data/news.json'
-import News2 from '@/data/news2.json'
+import Event from '@/data/event.json'
+import Sports from '@/data/sports.json'
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
 import TestedCasesDetailsCard from '@/components/cards/TestedCasesDetailsCard.vue'
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
@@ -93,6 +95,7 @@ export default Vue.extend({
     PageHeader,
     WhatsNew,
     WhatsNew2,
+    WhatsNew3,
     ConfirmedCasesDetailsCard,
     TestedCasesDetailsCard,
     ConfirmedCasesNumberCard,
@@ -114,7 +117,8 @@ export default Vue.extend({
         title: this.$t('青森県内の最新感染動向')
       },
       newsItems: News.newsItems,
-      newsItems2: News2.newsItems2
+      eventItems: Event.eventItems,
+      sportsItems: Sports.sportsItems
     }
     return data
   },

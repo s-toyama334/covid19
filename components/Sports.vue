@@ -1,26 +1,27 @@
 <template>
-  <div class="Event">
-    <h3 class="Event-heading">
-      <v-icon size="24" class="Event-heading-icon">
+  <div class="WhatsNew">
+    <h3 class="WhatsNew-heading">
+      <v-icon size="24" class="WhatsNew-heading-icon">
         mdi-information
       </v-icon>
-      {{ $t('中止のイベント') }}
+      {{ $t('スポーツのイベント中止・延期') }}
     </h3>
-    <ul class="Event-list2">
-      <li v-for="(item, i) in items" :key="i" class="Event-list2-item">
+    <ul class="WhatsNew-list2">
+      <li v-for="(item, i) in items" :key="i" class="WhatsNew-list2-item">
         <p
-          class="Event-list2-item-anchor"
+          class="WhatsNew-list2-item-anchor"
         >
           <time
-            class="Event-list-item-anchor-time px-2"
+            class="WhatsNew-list-item-anchor-time px-2"
+            :datetime="formattedDate(item.date)"
           >
             {{ item.datetext }}
           </time>
-          <span class="Event-list2-item-anchor-link2">
+          <span class="WhatsNew-list2-item-anchor-link2">
             {{ item.text }}
             <v-icon
               v-if="!isInternalLink(item.url)"
-              class="Event-item-ExternalLinkIcon"
+              class="WhatsNew-item-ExternalLinkIcon"
               size="12"
             >
               mdi-open-in-new
@@ -55,14 +56,14 @@ export default Vue.extend({
 </script>
 
 <style lang="scss">
-.Event {
+.WhatsNew {
   @include card-container();
 
   padding: 10px;
   margin-bottom: 20px;
 }
 
-.Event-heading {
+.WhatsNew-heading {
   display: flex;
   align-items: center;
 
@@ -77,7 +78,7 @@ export default Vue.extend({
   }
 }
 
-.Event .Event-list2 {
+.WhatsNew .WhatsNew-list2 {
   padding-left: 0;
   list-style-type: none;
 
