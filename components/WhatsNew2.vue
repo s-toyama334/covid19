@@ -6,17 +6,17 @@
       </v-icon>
       {{ $t('中止のイベント') }}
     </h3>
-    <ul class="Event-list2">
-      <li v-for="(item, i) in items" :key="i" class="Event-list2-item">
+    <ul class="Event-list">
+      <li v-for="(item, i) in items" :key="i" class="Event-list-item">
         <p
-          class="Event-list2-item-anchor"
+          class="Event-list-item-anchor"
         >
           <time
             class="Event-list-item-anchor-time px-2"
           >
             {{ item.datetext }}
           </time>
-          <span class="Event-list2-item-anchor-link2">
+          <span class="Event-list-item-anchor-link2">
             {{ item.text }}
             <v-icon
               v-if="!isInternalLink(item.url)"
@@ -77,7 +77,7 @@ export default Vue.extend({
   }
 }
 
-.Event .Event-list2 {
+.Event .Event-list {
   padding-left: 0;
   list-style-type: none;
 
@@ -95,7 +95,7 @@ export default Vue.extend({
       }
 
       &-time {
-        flex: 0 0 30%;
+        flex: 0 0 18%;
 
         @include lessThan($medium) {
           flex: 0 0 100%;

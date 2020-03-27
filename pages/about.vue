@@ -6,7 +6,7 @@
     <StaticCard>
       {{
         $t(
-          '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、デーリー東北新聞社（青森県八戸市）が開設したものです。'
+          '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、デーリー東北新聞社（青森県八戸市）が開設したものです。複製・改変が許されたオープンソースライセンスで公開されている、東京都公式新型コロナウイルス対策サイトの仕組みを利用しています。'
         )
       }}<br />
       <br />
@@ -168,42 +168,6 @@
             '当サイトに掲載されている情報は、予告なしに変更又は削除することがあります。'
           )
         }}
-      </p>
-    </StaticCard>
-    <StaticCard>
-      <h3>{{ $t('データについて') }}</h3>
-      <i18n
-        tag="p"
-        path="本サイトで公表しているデータは、{catalogWebsite}より誰でも自由にダウンロードが可能です。（データは順次追加予定です）"
-      >
-        <a
-          href="https://portal.data.metro.tokyo.lg.jp/"
-          target="_blank"
-          rel="noopener"
-          place="catalogWebsite"
-        >
-          {{ $t('東京都オープンデータカタログサイト') }}
-        </a>
-      </i18n>
-    </StaticCard>
-    <StaticCard>
-      <h3>{{ $t('ソースコードについて') }}</h3>
-      <p>
-        {{
-          $t(
-            '当サイトのソースコードはMITライセンスで公開されており、誰でも自由に利用することができます。'
-          )
-        }}
-        <i18n path="詳しくは、{githubRepo}をご確認ください。">
-          <a
-            href="https://github.com/tokyo-metropolitan-gov/covid19"
-            target="_blank"
-            rel="noopener"
-            place="githubRepo"
-          >
-            {{ $t('GitHub リポジトリ') }}
-          </a>
-        </i18n>
       </p>
     </StaticCard>
   </div>
