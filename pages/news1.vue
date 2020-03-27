@@ -1,11 +1,17 @@
 <template>
-  <div class="Parent" :items="newsItems">
+  <div class="Parent"  :items="newsItems">
+
+
     <page-header class="mb-3">
       {{ $t('臨時休校中の新型コロナウイルス感染症対応についてのお願い') }}
     </page-header>
     <StaticCard>
       <h3>1. {{ $t('感染予防・健康管理') }}</h3>
-      {{ item.text }}
+
+
+{{ item.text }}
+
+
       <ul>
         <li>
           {{
@@ -62,8 +68,6 @@ import { MetaInfo } from 'vue-meta'
 import StaticCard from '@/components/StaticCard.vue'
 import PageHeader from '@/components/PageHeader.vue'
 
-import News from '@/data/news.json'
-
 export default Vue.extend({
   components: {
     PageHeader,
@@ -73,11 +77,6 @@ export default Vue.extend({
     return {
       title: this.$t('お子様をお持ちの皆様へ') as string
     }
-  },
-  data() {
-    const data = {
-      newsItems: News.newsItems,
-    }
-    return data
-  },  props: {
-    items: {
+  }
+})
+</script>
