@@ -30,6 +30,7 @@
         </p>
       </li>
     </ul>
+    <p class="annotation" style="font-size:12px; margin-top:10px;">※主なイベントを掲載しています。このほかにも中止のものがありますので、詳しくは主催者にお問い合わせください。</p>
   </div>
 </template>
 
