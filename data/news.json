@@ -1,10 +1,15 @@
 {
     "newsItems": [
       
-        {
+       {
+            "date": "2020\/03\/29",
+            "url": "https://www.daily-tohoku.news/archives/32977",
+            "text": "【新型コロナ】八戸帰省の女性感染　都内在住の３０代女性、新幹線で移動"
+        },
+      {
             "date": "2020\/03\/28",
             "url": "https://www.daily-tohoku.news/archives/32960",
-            "text": "濃厚接触者は母親と夫の２人"
+            "text": "【新型コロナ】濃厚接触者は母親と夫の２人"
         },
         {
             "date": "2020\/03\/28",
