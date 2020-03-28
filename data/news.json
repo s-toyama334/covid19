@@ -1,29 +1,9 @@
 {
     "newsItems": [
         {
-            "date": "2020\/03\/28",
-            "url": "https://www.daily-tohoku.news/archives/32899",
-            "text": "【新型コロナ】ナガイモ収穫ピンチ　外国人実習生、入国できず"
-        },
-        {
             "date": "2020\/03\/27",
             "url": "https://www.daily-tohoku.news/archives/32890",
             "text": "【新型コロナ】弘前大、入学式を中止"
-        },
-        {
-            "date": "2020\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/32888",
-            "text": "【新型コロナ】県に早急な情報提供申し入れ／階上町"
-        },
-        {
-            "date": "2020\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/32886",
-            "text": "【新型コロナ】全日空とＦＤＡが減便追加"
-        },
-        {
-            "date": "2020\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/32880",
-            "text": "【新型コロナ】会員制サロン、オープン延期／三春屋"
         },
         {
             "date": "2020\/03\/27",
@@ -32,18 +12,8 @@
         },
         {
             "date": "2020\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/32864",
-            "text": "【新型コロナ】八戸市の母子保健事業中止"
-        },
-        {
-            "date": "2020\/03\/27",
             "url": "https://www.daily-tohoku.news/archives/32817",
             "text": "【新型コロナ】重大局面の八戸経済　主要団体、地域経済の回復目指す"
-        },
-        {
-            "date": "2020\/03\/26",
-            "url": "https://www.daily-tohoku.news/archives/32810",
-            "text": "【新型コロナ】４月下旬まで山車制作休止要請／八戸三社大祭運営委"
         },
         {
             "date": "2020\/03\/26",
@@ -59,16 +29,6 @@
             "date": "2020\/03\/25",
             "url": "https://www.daily-tohoku.news/archives/32745",
             "text": "【新型コロナ】八戸で新たに４人の感染判明　６０、７０代ツアー客"
-        },
-        {
-            "date": "2020\/03\/25",
-            "url": " https://www.daily-tohoku.news/archives/32736",
-            "text": "【新型コロナ】八戸市教委、修了式自粛を要請"
-        },
-        {
-            "date": "2020\/03\/25",
-            "url": "https://www.daily-tohoku.news/archives/32732",
-            "text": "【新型コロナ】三戸中央病院、屋外に臨時診察室"
         },
         {
             "date": "2020\/03\/25",
@@ -89,13 +49,6 @@
             "date": "2020\/03\/23",
             "url": "https://www.daily-tohoku.news/archives/32572",
             "text": "【新型コロナ】感染者は八戸市内の７０代男女　スペイン帰り"
-        },
-        {
-            "date": "2020\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/32571",
-            "text": "【新型コロナ】感染確認されたのは八戸市"
         }
-
-        
     ]
 }
