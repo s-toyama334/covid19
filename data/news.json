@@ -1,7 +1,17 @@
 {
     "newsItems": [
-      
+
        {
+            "date": "2020\/03\/29",
+            "url": "https://www.daily-tohoku.news/archives/32987",
+            "text": "【新型コロナ】相次ぐ春イベント中止に業者や主催者落胆「いつまで続くのか」"
+        },
+       {
+            "date": "2020\/03\/29",
+            "url": "https://www.daily-tohoku.news/archives/32980",
+            "text": "【新型コロナ】新たな感染者確認に八戸市民動揺「今後も増える予感、怖い」"
+        },
+      {
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/32977",
             "text": "【新型コロナ】八戸帰省の女性感染　都内在住の３０代女性、新幹線で移動"
@@ -40,21 +50,6 @@
             "date": "2020\/03\/25",
             "url": "https://www.daily-tohoku.news/archives/32745",
             "text": "【新型コロナ】八戸で新たに４人の感染判明　６０、７０代ツアー客"
-        },
-        {
-            "date": "2020\/03\/24",
-            "url": "https://www.daily-tohoku.news/archives/32595",
-            "text": "【新型コロナ】八戸の夫婦感染　青森県内初確認"
-        },
-        {
-            "date": "2020\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/32578",
-            "text": "【新型コロナ】ツアー旅行中に感染か"
-        },
-        {
-            "date": "2020\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/32572",
-            "text": "【新型コロナ】感染者は八戸市内の７０代男女　スペイン帰り"
         }
     ]
 }
