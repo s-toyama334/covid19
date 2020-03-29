@@ -1,22 +1,26 @@
 {
     "newsItems": [
-
-       {
+        {
+            "date": "2020\/03\/29",
+            "url": "https://www.daily-tohoku.news/archives/32803",
+            "text": "https://www.daily-tohoku.news/archives/33004"
+        },
+        {
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/32987",
             "text": "【新型コロナ】相次ぐ春イベント中止に業者や主催者落胆「いつまで続くのか」"
         },
-       {
+        {
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/32980",
             "text": "【新型コロナ】新たな感染者確認に八戸市民動揺「今後も増える予感、怖い」"
         },
-      {
+        {
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/32977",
             "text": "【新型コロナ】八戸帰省の女性感染　都内在住の３０代女性、新幹線で移動"
         },
-      {
+        {
             "date": "2020\/03\/28",
             "url": "https://www.daily-tohoku.news/archives/32960",
             "text": "【新型コロナ】濃厚接触者は母親と夫の２人"
@@ -40,11 +44,6 @@
             "date": "2020\/03\/26",
             "url": "https://www.daily-tohoku.news/archives/32805",
             "text": "【新型コロナ】弘前さくらまつり、はちのへ公園春まつり中止"
-        },
-        {
-            "date": "2020\/03\/26",
-            "url": "https://www.daily-tohoku.news/archives/32803",
-            "text": "【新型コロナ】八戸市内の小中学校が修了式中止"
         },
         {
             "date": "2020\/03\/25",
