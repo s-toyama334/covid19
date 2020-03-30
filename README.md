@@ -4,7 +4,6 @@
 
 [![青森県 新型コロナウイルス感染症対策サイト](https://covid19-daily-tohoku.news//ogp.png)](https://covid19-daily-tohoku.news/)
 
-### 日本語 | [English](./docs/en/README.md) | [Español](./docs/es/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh_TW/README.md) | [简体中文](./docs/zh_CN/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ภาษาไทย](./docs/th/README.md) | [Français](./docs/fr/README.md)
 
 ## 貢献の仕方
 Issues にあるいろいろな修正にご協力いただけると嬉しいです。
