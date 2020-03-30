@@ -1,6 +1,16 @@
 {
     "newsItems": [
-        {
+       {
+            "date": "2020\/03\/30",
+            "url": "https://www.daily-tohoku.news/archives/33038",
+            "text": "【新型コロナ】五所川原保健所管内で新型コロナ感染者確認"
+        }, 
+      {
+            "date": "2020\/03\/30",
+            "url": "https://www.daily-tohoku.news/archives/33021",
+            "text": "【新型コロナ】企業の新体制に余波　　青森県内の入社式や研修など縮小、延期"
+        }, 
+      {
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/33004",
             "text": "【新型コロナ】八戸に帰省、感染者女性の母は陰性"
@@ -39,16 +49,6 @@
             "date": "2020\/03\/27",
             "url": "https://www.daily-tohoku.news/archives/32817",
             "text": "【新型コロナ】重大局面の八戸経済　主要団体、地域経済の回復目指す"
-        },
-        {
-            "date": "2020\/03\/26",
-            "url": "https://www.daily-tohoku.news/archives/32805",
-            "text": "【新型コロナ】弘前さくらまつり、はちのへ公園春まつり中止"
-        },
-        {
-            "date": "2020\/03\/25",
-            "url": "https://www.daily-tohoku.news/archives/32745",
-            "text": "【新型コロナ】八戸で新たに４人の感染判明　６０、７０代ツアー客"
         }
     ]
 }
