@@ -147,6 +147,32 @@
       </ul>
     </StaticCard>
     <StaticCard>
+      <h3>{{ $t('ソースコードについて') }}</h3>
+      <p>
+        {{
+          $t(
+            '当サイトのソースコードはMITライセンスで公開されており、誰でも自由に利用することができます。'
+          )
+        }}
+        <i18n path="詳しくは、{githubRepo}をご確認ください。">
+          <template v-slot:githubRepo>
+            <a
+              href="https://github.com/tokyo-metropolitan-gov/covid19"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {{ $t('GitHub リポジトリ') }}
+            </a>
+          </template>
+        </i18n>
+      </p>
+      <p>Copyright (c) 2020 Tokyo Metropolitan Government</p>
+      <p>Released under the MIT license</p>
+      <a href="https://github.com/tokyo-metropolitan-gov/covid19/blob/development/LICENSE.txt" target="_blank" rel="noopener noreferrer">
+        https://github.com/tokyo-metropolitan-gov/covid19/blob/development/LICENSE.txt
+      </a>
+    </StaticCard>
+    <StaticCard>
       <h3>{{ $t('免責事項') }}</h3>
       <p>
         {{
