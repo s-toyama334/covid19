@@ -56,7 +56,16 @@
                 <td data-label="電話番号" class="tel"><a href="tel:0175311388">0175-31-1388</a></td>
                 <td data-label="管轄市町村"class="txt">むつ市、大間町、東通村、風間浦村、佐井村</td>
             </tr>
-            
+            <tr>
+                <th>久慈保健所</th>
+                <td data-label="電話番号" class="tel"><a href="tel:0194534987">0194-53-4987</a></td>
+                <td data-label="管轄市町村"class="txt">久慈市、普代村、洋野町、野田村</td>
+            </tr>
+            <tr>
+                <th>二戸保健所</th>
+                <td data-label="電話番号" class="tel"><a href="tel:0195239206">0195-23-9206</a></td>
+                <td data-label="管轄市町村"class="txt">二戸市、軽米町、九戸村、一戸町</td>
+            </tr>
           </tbody>
         </table>   
 
