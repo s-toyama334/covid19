@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/33163",
+            "text": "【新型コロナ】感染者の電子カルテ流出／つがる西北五連合が謝罪"
+       },
+       {
+            "date": "2020\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/33156",
+            "text": "【新型コロナ】アメリカンデーなど中止相次ぐ／青森県南、岩手県北"
+       },
+       {
+            "date": "2020\/04\/01",
             "url": "https://www.daily-tohoku.news/archives/33119",
             "text": "【新型コロナ】「とうとう津軽でも…」五所川原市、公共施設の利用自粛"
        },
@@ -44,11 +54,6 @@
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/32980",
             "text": "【新型コロナ】新たな感染者確認に八戸市民動揺「今後も増える予感、怖い」"
-        },
-        {
-            "date": "2020\/03\/29",
-            "url": "https://www.daily-tohoku.news/archives/32977",
-            "text": "【新型コロナ】八戸帰省の女性感染　都内在住の３０代女性、新幹線で移動"
         }
     ]
 }
