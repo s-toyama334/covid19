@@ -1,8 +1,13 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/33119",
+            "text": "【新型コロナ】「とうとう津軽でも…」五所川原市、公共施設の利用自粛"
+       },
+       {
             "date": "2020\/03\/31",
-            "url": "ttps://www.daily-tohoku.news/archives/33109",
+            "url": "https://www.daily-tohoku.news/archives/33109",
             "text": "【新型コロナ】青森ねぶた祭、中止含め検討　４月８日の実行委で判断"
        },
        {
@@ -34,11 +39,6 @@
             "date": "2020\/03\/29",
             "url": "https://www.daily-tohoku.news/archives/33004",
             "text": "【新型コロナ】八戸に帰省、感染者女性の母は陰性"
-        },
-        {
-            "date": "2020\/03\/29",
-            "url": "https://www.daily-tohoku.news/archives/32987",
-            "text": "【新型コロナ】相次ぐ春イベント中止に業者や主催者落胆「いつまで続くのか」"
         },
         {
             "date": "2020\/03\/29",
