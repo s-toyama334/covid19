@@ -2,8 +2,18 @@
     "newsItems": [
        {
             "date": "2020\/04\/02",
-            "url": "https://www.daily-tohoku.news/archives/33199",
+            "url": "https://www.daily-tohoku.news/archives/33209",
+            "text": "【新型コロナ】感染の医師は八戸で１日まで診療"
+       },
+       {
+            "date": "2020\/04\/02",
+            "url": "https://www.daily-tohoku.news/archives/33208",
             "text": "【新型コロナ】八戸で新たな感染者１人を確認"
+       },
+       {
+            "date": "2020\/04\/02",
+            "url": "https://www.daily-tohoku.news/archives/33199",
+            "text": "【新型コロナ】感染者は５０代男性医師"
        },
        {
             "date": "2020\/04\/01",
