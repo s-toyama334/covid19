@@ -16,12 +16,13 @@ const config: Configuration = {
     titleTemplate: '%s | デーリー東北新聞社 青森県 八戸市 新型コロナウイルス感染症対策サイト',
     meta: [
       { charset: 'utf-8' },
+      { name: 'google-site-verification', content: 'rhev7xQYJM4TKuzpxucXDoP0ISl-kzE3j1fNsrF07O4' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://stopcovid19.metro.tokyo.lg.jp'
+        content: 'https://covid19-daily-tohoku.news/'
       },
       {
         hid: 'twitter:card',
@@ -31,12 +32,12 @@ const config: Configuration = {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: '@tokyo_bousai'
+        content: '@daily_tohoku'
       },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: '@tokyo_bousai'
+        content: '@daily_tohoku'
       },
       {
         hid: 'fb:app_id',
