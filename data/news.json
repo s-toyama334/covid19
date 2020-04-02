@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/02",
+            "url": "https://www.daily-tohoku.news/archives/33212",
+            "text": "【新型コロナ】診察した患者全員の健康確認へ"
+       },
+       {
+            "date": "2020\/04\/02",
             "url": "https://www.daily-tohoku.news/archives/33209",
             "text": "【新型コロナ】感染の医師は八戸で１日まで診療"
        },
