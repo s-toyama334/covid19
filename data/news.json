@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33263",
+            "text": "【新型コロナ】青森市の感染者は２０代男性消防士"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33260",
+            "text": "【新型コロナ】青森市で初の感染者１人確認"
+       },
+       {
+            "date": "2020\/04\/03",
             "url": "https://www.daily-tohoku.news/archives/33237",
             "text": "【新型コロナ】八戸市内小中学校、８～１７日臨時休校"
        },
