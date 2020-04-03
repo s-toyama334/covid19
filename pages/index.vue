@@ -13,13 +13,13 @@
       </div>
     </div>
     <whats-new class="mb-4" :items="newsItems" />
-    <whats-new2 class="mb-4" :items="eventItems" />
     <v-row class="DataBlock">
       <confirmed-cases-details-card />
       <tested-cases-details-card />
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
+      <whats-new2 class="mb-4" :items="eventItems" />
       <whats-new3 class="mb-4" :items="sportsItems"/>
 
       <div class="WorryInfoBlock mb-4">
