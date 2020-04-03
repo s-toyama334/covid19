@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33272",
+            "text": "【新型コロナ】八戸・耳鼻科医の両親は陰性"
+       },
+       {
+            "date": "2020\/04\/03",
             "url": "https://www.daily-tohoku.news/archives/33265",
             "text": "【新型コロナ】青森労災病院（八戸）の男性医師感染"
        },
