@@ -37,6 +37,7 @@ export default (data: DataType) => {
     合計件数: data.children[0].value,
     陰性件数: data.children[0].children[0].value,
     陽性件数: data.children[0].children[1].value
+    
   }
   return formattedData
 }
