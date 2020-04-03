@@ -2,8 +2,33 @@
     "newsItems": [
        {
             "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33237",
+            "text": "【新型コロナ】八戸市内小中学校、８～１７日臨時休校"
+       },
+       {
+            "date": "2020\/04\/03",
             "url": "https://www.daily-tohoku.news/archives/33233",
             "text": "【新型コロナ】三沢病院が一時休診"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33227",
+            "text": "【新型コロナ】感染拡大地域から来た人は自宅待機を／八戸市長"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33226",
+            "text": "【新型コロナ】患者２００人は濃厚接触者か否か／県と市で見解分かれる"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33225",
+            "text": "【新型コロナ】医師感染、市民に動揺広がる／八戸"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33223",
+            "text": "【新型コロナ】八戸の耳鼻科で９日間診療、都内在住の医師感染／県内９例目"
        },
       {
             "date": "2020\/04\/02",
