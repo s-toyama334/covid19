@@ -34,9 +34,9 @@
         <li :class="[$style.box, $style.inside]">
           <div :class="$style.pillar">
             <div :class="$style.content">
-              <span>{{ $t('都内発生') }}</span>
+              <span>{{ $t('陰性') }}</span>
               <span>
-                <strong>{{ 都内発生件数 }}</strong>
+                <strong>{{ 陰性件数 }}</strong>
                 <span :class="$style.unit">{{ $t('件.tested') }}</span>
               </span>
             </div>
@@ -45,12 +45,9 @@
         <li :class="[$style.box, $style.others]">
           <div :class="$style.pillar">
             <div :class="$style.content">
-              <span>{{ $t('その他.graph') }}</span>
-              <span :class="$style.small">{{
-                $t('（チャーター機・クルーズ船等）')
-              }}</span>
+              <span>{{ $t('陽性') }}</span>
               <span>
-                <strong>{{ その他件数 }}</strong>
+                <strong>{{ 陽性件数 }}</strong>
                 <span :class="$style.unit">{{ $t('件.tested') }}</span>
               </span>
             </div>
@@ -75,11 +72,11 @@ export default Vue.extend({
       type: Number,
       required: true
     },
-    都内発生件数: {
+    陰性件数: {
       type: Number,
       required: true
     },
-    その他件数: {
+    陽性件数: {
       type: Number,
       required: true
     }
