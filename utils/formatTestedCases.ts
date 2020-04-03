@@ -11,7 +11,7 @@ type DataType = {
           value: number
         },
         {
-          attr: '陽性件数'
+          attr: 'その他件数'
           value: number
         }
       ]
@@ -23,7 +23,7 @@ type TestedCasesType = {
   累計人数: number
   合計件数: number
   陰性件数: number
-  陽性件数: number
+  その他件数: number
 }
 
 /**
@@ -36,8 +36,7 @@ export default (data: DataType) => {
     累計人数: data.value,
     合計件数: data.children[0].value,
     陰性件数: data.children[0].children[0].value,
-    陽性件数: data.children[0].children[1].value
-    
+    その他件数: data.children[0].children[1].value
   }
   return formattedData
 }
