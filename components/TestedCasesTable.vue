@@ -45,9 +45,12 @@
         <li :class="[$style.box, $style.others]">
           <div :class="$style.pillar">
             <div :class="$style.content">
-              <span>{{ $t('陽性') }}</span>
+              <span>{{ $t('その他.graph') }}</span>
+              <span :class="$style.small">{{
+                $t('（チャーター機・クルーズ船等）')
+              }}</span>
               <span>
-                <strong>{{ 陽性件数 }}</strong>
+                <strong>{{ その他件数 }}</strong>
                 <span :class="$style.unit">{{ $t('件.tested') }}</span>
               </span>
             </div>
@@ -76,7 +79,7 @@ export default Vue.extend({
       type: Number,
       required: true
     },
-    陽性件数: {
+    その他件数: {
       type: Number,
       required: true
     }
