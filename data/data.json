@@ -568,21 +568,21 @@
                         "children": [
                             {
                                 "attr": "軽症・中等症",
-                                "value": 0
+                                "value": "-"
                             },
                             {
                                 "attr": "重症",
-                                "value": 0
+                                "value": "-"
                             }
                         ]
                     },
                     {
                         "attr": "死亡",
-                        "value": 0
+                        "value": "-"
                     },
                     {
                         "attr": "退院",
-                        "value": 0
+                        "value": "-"
                     }
                 ]
             }
