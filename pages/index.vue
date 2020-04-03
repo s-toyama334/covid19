@@ -16,6 +16,7 @@
     <whats-new2 class="mb-4" :items="eventItems" />
     <v-row class="DataBlock">
       <confirmed-cases-details-card />
+      <tested-cases-details-card />
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
