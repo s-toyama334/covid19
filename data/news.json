@@ -1,6 +1,46 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33325",
+            "text": "【新型コロナ】病床確保へ一般病床の活用視野／八戸市が方針"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33322",
+            "text": "【新型コロナ】新学期目前、休校再び　「当然の判断」「もう限界」／八戸"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33321",
+            "text": "【新型コロナ】八戸の館鼻朝市、４月中の開催見送り"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33318",
+            "text": "【新型コロナ】突然の休診に市民戸惑い／三沢病院"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33315",
+            "text": "【新型コロナ】市が受診患者の体調確認急ぐ／八戸の耳鼻科勤務医感染"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33312",
+            "text": "【新型コロナ】弘大卒業式当日に３０人で会食　秋田で感染確認の研修医"
+       },
+       {
+            "date": "2020\/04\/03",
+            "url": "https://www.daily-tohoku.news/archives/33311",
+            "text": "【新型コロナ】７日の入学式、始業式は実施／８～１７日休校の八戸市内小中"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33286",
+            "text": "【新型コロナ】青森県内、新たな感染は２人／計１１人に"
+       },
+      {
             "date": "2020\/04\/03",
             "url": "https://www.daily-tohoku.news/archives/33278",
             "text": "【新型コロナ】三沢病院の濃厚接触者は陰性"
@@ -9,56 +49,6 @@
             "date": "2020\/04\/03",
             "url": "https://www.daily-tohoku.news/archives/33272",
             "text": "【新型コロナ】八戸・耳鼻科医の両親は陰性"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33265",
-            "text": "【新型コロナ】青森労災病院（八戸）の男性医師感染"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33264",
-            "text": "【新型コロナ】秋田で陽性の研修医は弘大卒"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33263",
-            "text": "【新型コロナ】青森市の感染者は２０代男性消防士"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33260",
-            "text": "【新型コロナ】青森市で初の感染者１人確認"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33237",
-            "text": "【新型コロナ】八戸市内小中学校、８～１７日臨時休校"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33233",
-            "text": "【新型コロナ】三沢病院が一時休診"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33227",
-            "text": "【新型コロナ】感染拡大地域から来た人は自宅待機を／八戸市長"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33226",
-            "text": "【新型コロナ】患者２００人は濃厚接触者か否か／県と市で見解分かれる"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33225",
-            "text": "【新型コロナ】医師感染、市民に動揺広がる／八戸"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33223",
-            "text": "【新型コロナ】八戸の耳鼻科で９日間診療、都内在住の医師感染／県内９例目"
        }
     ]
 }
