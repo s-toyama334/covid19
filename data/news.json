@@ -3,9 +3,19 @@
       
        {
             "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33346",
+            "text": "【新型コロナ】北村耳鼻咽喉科のスタッフ６人のうち３人陰性"
+       },
+       {
+            "date": "2020\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/33331",
+            "text": "【新型コロナ】六ケ所村、手作り布マスク６千枚配布へ"
+       },
+       {
+            "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33351",
             "text": "【新型コロナ】秋田の感染男性と会食／青森労災病院の研修医"
-       },
+       }, 
        {
             "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33346",
@@ -50,16 +60,6 @@
             "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33286",
             "text": "【新型コロナ】青森県内、新たな感染は２人／計１１人に"
-       },
-      {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33278",
-            "text": "【新型コロナ】三沢病院の濃厚接触者は陰性"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33272",
-            "text": "【新型コロナ】八戸・耳鼻科医の両親は陰性"
        }
     ]
 }
