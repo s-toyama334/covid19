@@ -1,6 +1,25 @@
 {
     "newsItems": [
-      
+       {
+            "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33386",
+            "text": "【新型コロナ】全３１競技中止へ／青森県高校春季大会"
+       },
+       {
+            "date": "2020\/04\/05",
+            "url": "https://www.daily-tohoku.news/archives/33361",
+            "text": "【新型コロナ】就職や進学、わが子東京へ　晴れの門出も心配尽きず"
+       },
+       {
+            "date": "2020\/04\/05",
+            "url": "https://www.daily-tohoku.news/archives/33357",
+            "text": "【新型コロナ】青森労災病院　１０日まで休診"
+       },
+       {
+            "date": "2020\/04\/05",
+            "url": "https://www.daily-tohoku.news/archives/33354",
+            "text": "【新型コロナ】４日時点で患者の体調不良確認されず／八戸・耳鼻科医感染"
+       }, 
        {
             "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33346",
@@ -30,36 +49,6 @@
             "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33322",
             "text": "【新型コロナ】新学期目前、休校再び　「当然の判断」「もう限界」／八戸"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33321",
-            "text": "【新型コロナ】八戸の館鼻朝市、４月中の開催見送り"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33318",
-            "text": "【新型コロナ】突然の休診に市民戸惑い／三沢病院"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33315",
-            "text": "【新型コロナ】市が受診患者の体調確認急ぐ／八戸の耳鼻科勤務医感染"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33312",
-            "text": "【新型コロナ】弘大卒業式当日に３０人で会食　秋田で感染確認の研修医"
-       },
-       {
-            "date": "2020\/04\/03",
-            "url": "https://www.daily-tohoku.news/archives/33311",
-            "text": "【新型コロナ】７日の入学式、始業式は実施／８～１７日休校の八戸市内小中"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33286",
-            "text": "【新型コロナ】青森県内、新たな感染は２人／計１１人に"
        }
     ]
 }
