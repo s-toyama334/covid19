@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33414",
+            "text": "【新型コロナ】緊急宣言は７都府県、５月６日まで"
+       },
+       {
+            "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33408",
             "text": "【新型コロナ】青森市の濃厚接触者全員陰性"
        },
