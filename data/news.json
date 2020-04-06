@@ -2,6 +2,21 @@
     "newsItems": [
        {
             "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33435",
+            "text": "【新型コロナ】低所得者対策など八戸市に要望"
+       },      
+       {
+            "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33434",
+            "text": "【新型コロナ】耳鼻科残り３人は陰性／八戸"
+       },
+       {
+            "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33423",
+            "text": "【新型コロナ】予定通り７日再開、外来診療など／三沢病院"
+       },
+       {
+            "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33414",
             "text": "【新型コロナ】緊急宣言は７都府県、５月６日まで"
        },
@@ -54,16 +69,6 @@
             "date": "2020\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/33346",
             "text": "【新型コロナ】北村耳鼻咽喉科のスタッフ６人のうち３人陰性"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33325",
-            "text": "【新型コロナ】病床確保へ一般病床の活用視野／八戸市が方針"
-       },
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33322",
-            "text": "【新型コロナ】新学期目前、休校再び　「当然の判断」「もう限界」／八戸"
        }
     ]
 }
