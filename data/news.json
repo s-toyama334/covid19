@@ -1,10 +1,25 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/33442",
+            "text": "【新型コロナ】青森県内公立病院、万一に備え対策が進む"
+       },
+       {
+            "date": "2020\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/33440",
+            "text": "【新型コロナ】本紙記者ルポ／感染拡大「異常事態」続く東京"
+       },
+       {
+            "date": "2020\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/33437",
+            "text": "【新型コロナ】城山公園、１５日から入場禁止／三戸町"
+       },
+       {
             "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33435",
             "text": "【新型コロナ】低所得者対策など八戸市に要望"
-       },      
+       },
        {
             "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33434",
