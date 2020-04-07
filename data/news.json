@@ -1,6 +1,11 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/33506",
+            "text": "【新型コロナ】青森市の会社員感染、県内１２例目　３月２９日から発熱"
+       },
+       {
             "date": "2020\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/33500",
             "text": "【新型コロナ】会社員の感染経路は調査中"
@@ -69,16 +74,6 @@
             "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33408",
             "text": "【新型コロナ】青森市の濃厚接触者全員陰性"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33388",
-            "text": "【新型コロナ】献血者減少で血液不足懸念／青森県内"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33386",
-            "text": "【新型コロナ】全３１競技中止へ／青森県高校春季大会"
        }
     ]
 }
