@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/33500",
+            "text": "【新型コロナ】感染の会社員は渡航歴なし"
+       },
+       {
+            "date": "2020\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/33498",
+            "text": "【新型コロナ】青森市の感染者は４０代男性会社員"
+       },
+       {
+            "date": "2020\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/33493",
             "text": "【新型コロナ】青森市で新たに１人感染確認"
        },
@@ -10,11 +20,15 @@
             "url": "https://www.daily-tohoku.news/archives/33492",
             "text": "【新型コロナ】三村知事、緊急事態宣言は「重要な局面」"
        },
-      
        {
             "date": "2020\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/33491",
             "text": "【新型コロナ】達増知事「発令地域への往来控えて」"
+       },      
+       {
+            "date": "2020\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/33487",
+            "text": "【新型コロナ】南郷ジャズフェス、初の中止"
        },
        {
             "date": "2020\/04\/07",
@@ -65,26 +79,6 @@
             "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33386",
             "text": "【新型コロナ】全３１競技中止へ／青森県高校春季大会"
-       },
-       {
-            "date": "2020\/04\/05",
-            "url": "https://www.daily-tohoku.news/archives/33361",
-            "text": "【新型コロナ】就職や進学、わが子東京へ　晴れの門出も心配尽きず"
-       },
-       {
-            "date": "2020\/04\/05",
-            "url": "https://www.daily-tohoku.news/archives/33357",
-            "text": "【新型コロナ】青森労災病院　１０日まで休診"
-       },
-       {
-            "date": "2020\/04\/05",
-            "url": "https://www.daily-tohoku.news/archives/33354",
-            "text": "【新型コロナ】４日時点で患者の体調不良確認されず／八戸・耳鼻科医感染"
-       }, 
-       {
-            "date": "2020\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/33346",
-            "text": "【新型コロナ】北村耳鼻咽喉科のスタッフ６人のうち３人陰性"
        }
     ]
 }
