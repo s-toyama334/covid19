@@ -1,9 +1,19 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33567",
+            "text": "【新型コロナ】経済損失「計り知れない」／青森ねぶた祭中止"
+       },
+       {
+            "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33564",
+            "text": "【新型コロナ】他の祭り開催可否にも影響必至／青森ねぶた祭中止"
+       },
+       {
             "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33519",
-            "text": "【新型コロナ】青森ねぶた　中止決定"
+            "url": "https://www.daily-tohoku.news/archives/33562",
+            "text": "【新型コロナ】青森ねぶた祭が初の中止　人出２００万人超、経済に影響"
        },
        {
             "date": "2020\/04\/08",
@@ -39,51 +49,6 @@
             "date": "2020\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/33493",
             "text": "【新型コロナ】青森市で新たに１人感染確認"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33492",
-            "text": "【新型コロナ】三村知事、緊急事態宣言は「重要な局面」"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33491",
-            "text": "【新型コロナ】達増知事「発令地域への往来控えて」"
-       },      
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33487",
-            "text": "【新型コロナ】南郷ジャズフェス、初の中止"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33442",
-            "text": "【新型コロナ】青森県内公立病院、万一に備え対策が進む"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33440",
-            "text": "【新型コロナ】本紙記者ルポ／感染拡大「異常事態」続く東京"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33437",
-            "text": "【新型コロナ】城山公園、１５日から入場禁止／三戸町"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33435",
-            "text": "【新型コロナ】低所得者対策など八戸市に要望"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33434",
-            "text": "【新型コロナ】耳鼻科残り３人は陰性／八戸"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33423",
-            "text": "【新型コロナ】予定通り７日再開、外来診療など／三沢病院"
        }
     ]
 }
