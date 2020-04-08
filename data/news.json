@@ -2,6 +2,26 @@
     "newsItems": [
        {
             "date": "2020\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/33519",
+            "text": "【新型コロナ】青森ねぶた　中止決定"
+       },
+       {
+            "date": "2020\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/33513",
+            "text": "【新型コロナ】青森市の感染者は東北電力子会社従業員"
+       },
+       {
+            "date": "2020\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/33512",
+            "text": "【新型コロナ】青森県民「抑制になれば」「地方避難増える」／緊急事態宣言"
+       },
+       {
+            "date": "2020\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/33511",
+            "text": "【新型コロナ】異例の新学期どう過ごした／八戸　記者ルポ"
+       },
+       {
+            "date": "2020\/04\/08",
             "url": "https://www.daily-tohoku.news/archives/33506",
             "text": "【新型コロナ】青森市の会社員感染、県内１２例目　３月２９日から発熱"
        },
@@ -64,16 +84,6 @@
             "date": "2020\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/33423",
             "text": "【新型コロナ】予定通り７日再開、外来診療など／三沢病院"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33414",
-            "text": "【新型コロナ】緊急宣言は７都府県、５月６日まで"
-       },
-       {
-            "date": "2020\/04\/06",
-            "url": "https://www.daily-tohoku.news/archives/33408",
-            "text": "【新型コロナ】青森市の濃厚接触者全員陰性"
        }
     ]
 }
