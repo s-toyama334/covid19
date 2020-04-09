@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33579",
+            "text": "【新型コロナ】上十三管内で初の感染確認"
+       },   
+       {
+            "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33576",
             "text": "【新型コロナ】逆境に負けない！　飲食店結集し「おべんとう市」／八戸"
        },      
@@ -44,11 +49,6 @@
             "date": "2020\/04\/08",
             "url": "https://www.daily-tohoku.news/archives/33506",
             "text": "【新型コロナ】青森市の会社員感染、県内１２例目　３月２９日から発熱"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33500",
-            "text": "【新型コロナ】会社員の感染経路は調査中"
        }
     ]
 }
