@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33576",
+            "text": "【新型コロナ】逆境に負けない！　飲食店結集し「おべんとう市」／八戸"
+       },      
+       {
+            "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33572",
+            "text": "【新型コロナ】初期症状出たら事前連絡を　八戸の医療機関呼び掛け"
+       },
+       {
+            "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33567",
             "text": "【新型コロナ】経済損失「計り知れない」／青森ねぶた祭中止"
        },
@@ -39,16 +49,6 @@
             "date": "2020\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/33500",
             "text": "【新型コロナ】会社員の感染経路は調査中"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33498",
-            "text": "【新型コロナ】青森市の感染者は４０代男性会社員"
-       },
-       {
-            "date": "2020\/04\/07",
-            "url": "https://www.daily-tohoku.news/archives/33493",
-            "text": "【新型コロナ】青森市で新たに１人感染確認"
        }
     ]
 }
