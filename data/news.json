@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33605",
+            "text": "【新型コロナ】感染者は東北電子会社社員"
+       },
+       {
+            "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33603",
             "text": "【新型コロナ】青森市で新たな感染者／５０代男性会社員"
        },
