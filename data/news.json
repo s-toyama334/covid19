@@ -2,9 +2,24 @@
     "newsItems": [
        {
             "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33583",
+            "text": "【新型コロナ】８０代女性は現時点では軽症"
+       },      
+       {
+            "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33582",
+            "text": "【新型コロナ】感染者は十和田市の認知症グループホーム入居"
+       },
+       {
+            "date": "2020\/04\/09",
+            "url": "https://www.daily-tohoku.news/archives/33581",
+            "text": "【新型コロナ】感染者は８０代介護施設入居者"
+       },
+       {
+            "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33579",
             "text": "【新型コロナ】上十三管内で初の感染確認"
-       },   
+       },
        {
             "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33576",
@@ -34,21 +49,6 @@
             "date": "2020\/04\/08",
             "url": "https://www.daily-tohoku.news/archives/33513",
             "text": "【新型コロナ】青森市の感染者は東北電力子会社従業員"
-       },
-       {
-            "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33512",
-            "text": "【新型コロナ】青森県民「抑制になれば」「地方避難増える」／緊急事態宣言"
-       },
-       {
-            "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33511",
-            "text": "【新型コロナ】異例の新学期どう過ごした／八戸　記者ルポ"
-       },
-       {
-            "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33506",
-            "text": "【新型コロナ】青森市の会社員感染、県内１２例目　３月２９日から発熱"
        }
     ]
 }
