@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33660",
+            "text": "【新型コロナ】十和田、東北、六戸の小中学校があすから休校"
+       },
+       {
+            "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33659",
             "text": "【新型コロナ】八戸シーガルビューホテルが４月１４日で閉館"
        },
@@ -54,11 +59,6 @@
             "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33564",
             "text": "【新型コロナ】他の祭り開催可否にも影響必至／青森ねぶた祭中止"
-       },
-       {
-            "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33562",
-            "text": "【新型コロナ】青森ねぶた祭が初の中止　人出２００万人超、経済に影響"
        }
     ]
 }
