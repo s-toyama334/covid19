@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33663",
+            "text": "【新型コロナ】感染した３人は介護職員"
+       },
+       {
+            "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33662",
+            "text": "【新型コロナ】上十三管内で新たに３人感染確認"
+       },
+       {
+            "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33660",
             "text": "【新型コロナ】十和田、東北、六戸の小中学校があすから休校"
        },
@@ -49,16 +59,6 @@
             "date": "2020\/04\/09",
             "url": "https://www.daily-tohoku.news/archives/33572",
             "text": "【新型コロナ】初期症状出たら事前連絡を　八戸の医療機関呼び掛け"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33567",
-            "text": "【新型コロナ】経済損失「計り知れない」／青森ねぶた祭中止"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33564",
-            "text": "【新型コロナ】他の祭り開催可否にも影響必至／青森ねぶた祭中止"
        }
     ]
 }
