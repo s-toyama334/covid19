@@ -2,6 +2,16 @@
     "newsItems": [
        {
             "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33641",
+            "text": "【新型コロナ】山車運行見送り／八戸三社大祭　山車振興会が方針"
+       },
+       {
+            "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33640",
+            "text": "【新型コロナ】感染経路、県と市で見解に違い／青森市３人目感染"
+       },
+       {
+            "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33637",
             "text": "【新型コロナ】関係者衝撃「恐れていたことが…」／介護施設で初の感染者"
        },
@@ -44,11 +54,6 @@
             "date": "2020\/04\/08",
             "url": "https://www.daily-tohoku.news/archives/33562",
             "text": "【新型コロナ】青森ねぶた祭が初の中止　人出２００万人超、経済に影響"
-       },
-       {
-            "date": "2020\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/33513",
-            "text": "【新型コロナ】青森市の感染者は東北電力子会社従業員"
        }
     ]
 }
