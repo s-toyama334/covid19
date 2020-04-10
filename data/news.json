@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33665",
+            "text": "【新型コロナ】青森県「クラスターの可能性高まる」"
+       },
+       {
+            "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33663",
             "text": "【新型コロナ】感染した３人は介護職員"
        },
