@@ -1,6 +1,41 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33777",
+            "text": "【【新型コロナ】東京から“疎開”「もし感染していたら」募る不安"
+       },
+       {
+            "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33776",
+            "text": "【新型コロナ】十和田のグループホーム施設長陳謝「注意足りなかった」"
+       },
+       {
+            "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33775",
+            "text": "【新型コロナ】“コロナ疎開”懸念高まる"
+       },
+       {
+            "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33774",
+            "text": "【新型コロナ】クラスター発生で地域住民に衝撃「拡大、食い止めて」"
+       },
+       {
+            "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33772",
+            "text": "【新型コロナ】十和田のグループホームで新たに５人感染／青森県内初のクラスター"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33768",
+            "text": "【新型コロナ】青森で感染判明の男性の妻と子、陰性"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33767",
+            "text": "【新型コロナ】「景色最高だったのに」常連客や市民、閉館惜しむ声続々"
+       },
+       {
             "date": "2020\/04\/11",
             "url": "https://www.daily-tohoku.news/archives/33755",
             "text": "【新型コロナ】青森県、初の「クラスター」との認識"
@@ -44,26 +79,6 @@
             "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33672",
             "text": "【新型コロナ】市内３病院で１２床確保、さらに１０数床を増床可能／八戸市"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33665",
-            "text": "【新型コロナ】青森県「クラスターの可能性高まる」"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33663",
-            "text": "【新型コロナ】感染した３人は介護職員"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33662",
-            "text": "【新型コロナ】上十三管内で新たに３人感染確認"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33660",
-            "text": "【新型コロナ】十和田、東北、六戸の小中学校があすから休校"
        }
     ]
 }
