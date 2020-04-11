@@ -2,9 +2,25 @@
     "newsItems": [
        {
             "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33755",
+            "text": "【新型コロナ】青森県、初の「クラスター」との認識"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33754",
+            "text": "【新型コロナ】感染の５人は入居者"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33753",
+            "text": "【新型コロナ】十和田市で新たに５人感染"
+       },
+       {
+            "date": "2020\/04\/11",
             "url": "https://www.daily-tohoku.news/archives/33724",
             "text": "【新型コロナ】グループホームが取材対応取りやめ"
-       },       {
+       },       
+       {
             "date": "2020\/04\/11",
             "url": "https://www.daily-tohoku.news/archives/33723",
             "text": "【新型コロナ】八戸市長。軽症者の保養先として検討"
@@ -48,16 +64,6 @@
             "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33660",
             "text": "【新型コロナ】十和田、東北、六戸の小中学校があすから休校"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33641",
-            "text": "【新型コロナ】山車運行見送り／八戸三社大祭　山車振興会が方針"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33640",
-            "text": "【新型コロナ】感染経路、県と市で見解に違い／青森市３人目感染"
        }
     ]
 }
