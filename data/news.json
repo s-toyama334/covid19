@@ -1,6 +1,35 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33724",
+            "text": "【新型コロナ】グループホームが取材対応取りやめ"
+       },       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33723",
+            "text": "【新型コロナ】八戸市長。軽症者の保養先として検討"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33722",
+            "text": "【新型コロナ】対応病床１３床増加へ／十和田市立中央病院"
+       },
+       {
+            "date": "2020\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/33712",
+            "text": "【新型コロナ】八戸シーガルビューホテルが４月１４日で閉館"
+       },
+       {
+            "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33709",
+            "text": "【新型コロナ】八戸公園、一時全面閉鎖へ"
+       },
+       {
+            "date": "2020\/04\/10",
+            "url": "https://www.daily-tohoku.news/archives/33672",
+            "text": "【新型コロナ】市内３病院で１２床確保、さらに１０数床を増床可能／八戸市"
+       },
+       {
             "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33665",
             "text": "【新型コロナ】青森県「クラスターの可能性高まる」"
@@ -22,11 +51,6 @@
        },
        {
             "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33659",
-            "text": "【新型コロナ】八戸シーガルビューホテルが４月１４日で閉館"
-       },
-       {
-            "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33641",
             "text": "【新型コロナ】山車運行見送り／八戸三社大祭　山車振興会が方針"
        },
@@ -34,36 +58,6 @@
             "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33640",
             "text": "【新型コロナ】感染経路、県と市で見解に違い／青森市３人目感染"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33637",
-            "text": "【新型コロナ】関係者衝撃「恐れていたことが…」／介護施設で初の感染者"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33633",
-            "text": "【新型コロナ】東北電力子会社の同僚／青森市３人目の感染者"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33632",
-            "text": "【新型コロナ】県内新たに２人感染、計１４人に／上十三では初確認"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33626",
-            "text": "【新型コロナ】１１～１９日、町民体育館など４施設の利用を停止／階上町"
-       },
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33576",
-            "text": "【新型コロナ】逆境に負けない！　飲食店結集し「おべんとう市」／八戸"
-       },      
-       {
-            "date": "2020\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/33572",
-            "text": "【新型コロナ】初期症状出たら事前連絡を　八戸の医療機関呼び掛け"
        }
     ]
 }
