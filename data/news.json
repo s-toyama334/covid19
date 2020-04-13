@@ -2,6 +2,11 @@
     "newsItems": [
        {
             "date": "2020\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/33788",
+            "text": "【新型コロナ】町内全小中学校を臨時休校／五戸"
+       },
+       {
+            "date": "2020\/04\/12",
             "url": "https://www.daily-tohoku.news/archives/33777",
             "text": "【新型コロナ】東京から“疎開”「もし感染していたら」募る不安"
        },
