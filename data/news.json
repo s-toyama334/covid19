@@ -2,6 +2,21 @@
     "newsItems": [
        {
             "date": "2020\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/33840",
+            "text": "【新型コロナ】検査終えた濃厚接触者１５人は陰性／十和田のクラスター"
+       },
+       {
+            "date": "2020\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/33829",
+            "text": "【新型コロナ】十和田市長「施設への誹謗中傷やめて」"
+       },
+       {
+            "date": "2020\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/33820",
+            "text": "【新型コロナ】弘大医卒業生の会食参加者２１人陰性"
+       },
+       {
+            "date": "2020\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/33788",
             "text": "【新型コロナ】町内全小中学校を臨時休校／五戸"
        },
@@ -69,16 +84,6 @@
             "date": "2020\/04\/11",
             "url": "https://www.daily-tohoku.news/archives/33722",
             "text": "【新型コロナ】対応病床１３床増加へ／十和田市立中央病院"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33712",
-            "text": "【新型コロナ】八戸シーガルビューホテルが４月１４日で閉館"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33709",
-            "text": "【新型コロナ】八戸公園、一時全面閉鎖へ"
        }
     ]
 }
