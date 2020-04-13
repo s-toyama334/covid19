@@ -1,7 +1,7 @@
 {
     "newsItems": [
        {
-            "date": "2020\/04\/12",
+            "date": "2020\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/33788",
             "text": "【新型コロナ】町内全小中学校を臨時休校／五戸"
        },
@@ -79,11 +79,6 @@
             "date": "2020\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/33709",
             "text": "【新型コロナ】八戸公園、一時全面閉鎖へ"
-       },
-       {
-            "date": "2020\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/33672",
-            "text": "【新型コロナ】市内３病院で１２床確保、さらに１０数床を増床可能／八戸市"
        }
     ]
 }
