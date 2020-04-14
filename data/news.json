@@ -2,10 +2,24 @@
     "newsItems": [
        {
             "date": "2020\/04\/14",
+            "url": "https://www.daily-tohoku.news/archives/33893",
+            "text": "【新型コロナ】青森県内企業「既に影響」５割超／東京商工リサーチまとめ"
+       },       {
+            "date": "2020\/04\/14",
+            "url": "https://www.daily-tohoku.news/archives/33889",
+            "text": "【新型コロナ】１６日まで外来など休診　感染疑い患者受診で／六ケ所村医療センター"
+       },
+       {
+            "date": "2020\/04\/14",
+            "url": "https://www.daily-tohoku.news/archives/33888",
+            "text": "【新型コロナ】十和田の施設１６人も陰性／濃厚接触者３１人の調査終了"
+       },
+       {
+            "date": "2020\/04\/14",
             "url": "https://www.daily-tohoku.news/archives/33855",
             "text": "【新型コロナ】青森県内プロスポーツにも暗い影　大幅減収避けられず"
        },
-      {
+       {
             "date": "2020\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/33840",
             "text": "【新型コロナ】検査終えた濃厚接触者１５人は陰性／十和田のクラスター"
@@ -34,21 +48,6 @@
             "date": "2020\/04\/12",
             "url": "https://www.daily-tohoku.news/archives/33776",
             "text": "【新型コロナ】十和田のグループホーム施設長陳謝「注意足りなかった」"
-       },
-       {
-            "date": "2020\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/33775",
-            "text": "【新型コロナ】“コロナ疎開”懸念高まる"
-       },
-       {
-            "date": "2020\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/33774",
-            "text": "【新型コロナ】クラスター発生で地域住民に衝撃「拡大、食い止めて」"
-       },
-       {
-            "date": "2020\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/33772",
-            "text": "【新型コロナ】十和田のグループホームで新たに５人感染／青森県内初のクラスター"
        }
     ]
 }
