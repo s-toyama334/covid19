@@ -1,6 +1,11 @@
 {
     "newsItems": [
        {
+            "date": "2020\/04\/14",
+            "url": "https://www.daily-tohoku.news/archives/33855",
+            "text": "【新型コロナ】青森県内プロスポーツにも暗い影　大幅減収避けられず"
+       },
+      {
             "date": "2020\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/33840",
             "text": "【新型コロナ】検査終えた濃厚接触者１５人は陰性／十和田のクラスター"
@@ -44,46 +49,6 @@
             "date": "2020\/04\/12",
             "url": "https://www.daily-tohoku.news/archives/33772",
             "text": "【新型コロナ】十和田のグループホームで新たに５人感染／青森県内初のクラスター"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33768",
-            "text": "【新型コロナ】青森で感染判明の男性の妻と子、陰性"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33767",
-            "text": "【新型コロナ】「景色最高だったのに」常連客や市民、閉館惜しむ声続々"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33755",
-            "text": "【新型コロナ】青森県、初の「クラスター」との認識"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33754",
-            "text": "【新型コロナ】感染の５人は入居者"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33753",
-            "text": "【新型コロナ】十和田市で新たに５人感染"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33724",
-            "text": "【新型コロナ】グループホームが取材対応取りやめ"
-       },       
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33723",
-            "text": "【新型コロナ】八戸市長。軽症者の保養先として検討"
-       },
-       {
-            "date": "2020\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/33722",
-            "text": "【新型コロナ】対応病床１３床増加へ／十和田市立中央病院"
        }
     ]
 }
