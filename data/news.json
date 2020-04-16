@@ -2,6 +2,31 @@
     "newsItems": [       
        {
             "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/34004",
+            "text": "【新型コロナ】是川縄文館など休館へ／八戸市"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": " https://www.daily-tohoku.news/archives/34003",
+            "text": "【新型コロナ】三沢の公共施設休館へ"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33989",
+            "text": "【新型コロナ】イベント中止相次ぐ／青森県南地方"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33986",
+            "text": "【新型コロナ】中国大連市からマスクのお返し　青森県と青森市に各２万枚"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33984",
+            "text": "【新型コロナ】従来形式での開催を中止／五所川原立佞武多"
+       },
+       {
+            "date": "2020\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/33963",
             "text": "【新型コロナ】首相が緊急事態宣言を全都道府県に拡大意向"
        },
@@ -34,36 +59,6 @@
             "date": "2020\/04\/15",
             "url": "https://www.daily-tohoku.news/archives/33940",
             "text": "【新型コロナ】主催・共催イベント当面自粛／三沢市"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33939",
-            "text": "【新型コロナ】妊産婦にマスク３０枚／三戸町"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33937",
-            "text": "【新型コロナ】ＰＣＲ検査９６件、医療用ガウン不足懸念／十和田市立中央病院"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33925",
-            "text": "【新型コロナ】弘前ねぷた　初の中止"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33900",
-            "text": "【新型コロナ】八戸高専、オンライン授業導入へ／八学大や八工大も検討"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "ttps://www.daily-tohoku.news/archives/33898",
-            "text": "【新型コロナ】ネット掲示板「三沢のごちそうＬＩＮＫ（リンク）」開設／三沢市"
-       },
-       {
-            "date": "2020\/04\/14",
-            "url": "https://www.daily-tohoku.news/archives/33889",
-            "text": "【新型コロナ】１６日まで外来など休診　感染疑い患者受診で／六ケ所村医療センター"
        }
     ]
 }
