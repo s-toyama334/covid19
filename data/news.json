@@ -1,5 +1,30 @@
 {
-    "newsItems": [
+    "newsItems": [       
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33951",
+            "text": "【新型コロナ】止まらぬ価格下落、和牛生産者悲鳴／青森県内"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33950",
+            "text": "【新型コロナ】交替勤務でリスク減／在京の青森県内自治体や企業"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/33946",
+            "text": "【新型コロナ】八戸出身の経営者も苦慮／都内の飲食店、休業余儀なく"
+       },
+       {
+            "date": "2020\/04\/15",
+            "url": "https://www.daily-tohoku.news/archives/33944",
+            "text": "【新型コロナ】関東訪れた陰性職員から感染か／県が見解　十和田のクラスター"
+       },
+       {
+            "date": "2020\/04\/15",
+            "url": "https://www.daily-tohoku.news/archives/33943",
+            "text": "【新型コロナ】岩手で診療した宇都宮の医師感染　スタッフ１１人は陰性"
+       },
        {
             "date": "2020\/04\/15",
             "url": "https://www.daily-tohoku.news/archives/33940",
@@ -34,31 +59,6 @@
             "date": "2020\/04\/14",
             "url": "https://www.daily-tohoku.news/archives/33889",
             "text": "【新型コロナ】１６日まで外来など休診　感染疑い患者受診で／六ケ所村医療センター"
-       },
-       {
-            "date": "2020\/04\/14",
-            "url": "https://www.daily-tohoku.news/archives/33888",
-            "text": "【新型コロナ】十和田の施設１６人も陰性／濃厚接触者３１人の調査終了"
-       },
-       {
-            "date": "2020\/04\/14",
-            "url": "https://www.daily-tohoku.news/archives/33855",
-            "text": "【新型コロナ】青森県内プロスポーツにも暗い影　大幅減収避けられず"
-       },
-       {
-            "date": "2020\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/33840",
-            "text": "【新型コロナ】検査終えた濃厚接触者１５人は陰性／十和田のクラスター"
-       },
-       {
-            "date": "2020\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/33829",
-            "text": "【新型コロナ】十和田市長「施設への誹謗中傷やめて」"
-       },
-       {
-            "date": "2020\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/33820",
-            "text": "【新型コロナ】弘大医卒業生の会食参加者２１人陰性"
        }
     ]
 }
