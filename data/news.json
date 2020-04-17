@@ -1,10 +1,31 @@
 {
     "newsItems": [       
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/34014",
-            "text": "【新型コロナ】本人地元入りできず対応苦慮　国会議員の事務所"
-       },       {
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34113",
+            "text": "【緊急事態宣言】青森県立校の休校５月６日まで　休業要請は週明け判断"
+       },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34112",
+            "text": "【緊急事態宣言】接待伴う飲食店に休業要請へ／岩手県　休校措置は求めず"
+       },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34111",
+            "text": "【緊急事態宣言】５月６日まで小中学校一斉休校／八戸など県南５市町"
+       },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34100",
+            "text": "【新型コロナ】十鉄３００人一時帰休／全社員対象"
+       },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34089",
+            "text": "【新型コロナ】感染経路「不明」と結論／十和田と五所川原の２例"
+       },
+      {
             "date": "2020\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/34014",
             "text": "【新型コロナ】本人地元入りできず対応苦慮　国会議員の事務所"
@@ -28,41 +49,6 @@
             "date": "2020\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/33989",
             "text": "【新型コロナ】イベント中止相次ぐ／青森県南地方"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33986",
-            "text": "【新型コロナ】中国大連市からマスクのお返し　青森県と青森市に各２万枚"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33984",
-            "text": "【新型コロナ】従来形式での開催を中止／五所川原立佞武多"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33963",
-            "text": "【新型コロナ】首相が緊急事態宣言を全都道府県に拡大意向"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33951",
-            "text": "【新型コロナ】止まらぬ価格下落、和牛生産者悲鳴／青森県内"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33950",
-            "text": "【新型コロナ】交替勤務でリスク減／在京の青森県内自治体や企業"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33946",
-            "text": "【新型コロナ】八戸出身の経営者も苦慮／都内の飲食店、休業余儀なく"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33944",
-            "text": "【新型コロナ】関東訪れた陰性職員から感染か／県が見解　十和田のクラスター"
        }
     ]
 }
