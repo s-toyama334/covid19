@@ -2,9 +2,49 @@
     "newsItems": [       
       {
             "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34106",
+            "text": "【新型コロナ】田子町、１７１０世帯にマスク配布へ"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34100",
+            "text": "【新型コロナ】十鉄３００人一時帰休／全社員対象"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34087",
+            "text": "【新型コロナ】岩手県高総体、春季高校野球の中止を正式決定"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34084",
+            "text": "【新型コロナ】北奥羽地方の公共施設　休館、閉鎖など相次ぐ"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34073",
+            "text": "【新型コロナ】「かぶーにゃ」の開業延期　オープン時期未定"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34068",
+            "text": "【新型コロナ】青森県立学校２０日から一斉休校"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34066",
+            "text": "【新型コロナ】十和田、六戸の小中も休校延長"
+      },
+      {
+            "date": "2020\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/34056",
+            "text": "【新型コロナ】八戸、階上の小中学校は５月６日まで休校延長"
+      },
+      {
+            "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34113",
             "text": "【緊急事態宣言】青森県立校の休校５月６日まで　休業要請は週明け判断"
-       },
+      },
       {
             "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34112",
@@ -15,40 +55,15 @@
             "url": "https://www.daily-tohoku.news/archives/34111",
             "text": "【緊急事態宣言】５月６日まで小中学校一斉休校／八戸など県南５市町"
        },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34100",
-            "text": "【新型コロナ】十鉄３００人一時帰休／全社員対象"
-       },
-      {
+       {
             "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34089",
             "text": "【新型コロナ】感染経路「不明」と結論／十和田と五所川原の２例"
-       },
-      {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/34014",
-            "text": "【新型コロナ】本人地元入りできず対応苦慮　国会議員の事務所"
        },
        {
             "date": "2020\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/34013",
             "text": "【新型コロナ】七戸町が飲食店に１０万円支援金　南部町も独自給付へ"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/34004",
-            "text": "【新型コロナ】是川縄文館など休館へ／八戸市"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": " https://www.daily-tohoku.news/archives/34003",
-            "text": "【新型コロナ】三沢の公共施設休館へ"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/33989",
-            "text": "【新型コロナ】イベント中止相次ぐ／青森県南地方"
        }
     ]
 }
