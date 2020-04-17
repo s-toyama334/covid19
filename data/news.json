@@ -2,6 +2,20 @@
     "newsItems": [       
        {
             "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/34014",
+            "text": "【新型コロナ】本人地元入りできず対応苦慮　国会議員の事務所"
+       },       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/34014",
+            "text": "【新型コロナ】本人地元入りできず対応苦慮　国会議員の事務所"
+       },
+       {
+            "date": "2020\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/34013",
+            "text": "【新型コロナ】七戸町が飲食店に１０万円支援金　南部町も独自給付へ"
+       },
+       {
+            "date": "2020\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/34004",
             "text": "【新型コロナ】是川縄文館など休館へ／八戸市"
        },
@@ -49,16 +63,6 @@
             "date": "2020\/04\/15",
             "url": "https://www.daily-tohoku.news/archives/33944",
             "text": "【新型コロナ】関東訪れた陰性職員から感染か／県が見解　十和田のクラスター"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33943",
-            "text": "【新型コロナ】岩手で診療した宇都宮の医師感染　スタッフ１１人は陰性"
-       },
-       {
-            "date": "2020\/04\/15",
-            "url": "https://www.daily-tohoku.news/archives/33940",
-            "text": "【新型コロナ】主催・共催イベント当面自粛／三沢市"
        }
     ]
 }
