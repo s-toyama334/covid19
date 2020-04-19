@@ -1,6 +1,36 @@
 {
     "newsItems": [       
       {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34187",
+            "text": "【新型コロナ】高齢者施設でガラス越しに面会　家族と入居者の心つなぐ／サンライフ豊寿苑（八戸）"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34185",
+            "text": "【新型コロナ】北奥羽を襲った疫病、過去に潜むヒント"
+      },
+      {
+            "date": "2020\/04\/19",
+            "url": "https://www.daily-tohoku.news/archives/34170",
+            "text": "【新型コロナ】花見スポット２公園を閉鎖／むつ市"
+      },
+      {
+            "date": "2020\/04\/18",
+            "url": "https://www.daily-tohoku.news/archives/34148",
+            "text": "【新型コロナ】平庭闘牛　５、６月は中止"
+      },
+      {
+            "date": "2020\/04\/18",
+            "url": "https://www.daily-tohoku.news/archives/34144",
+            "text": "【新型コロナ】三沢の小中２１日から臨時休校"
+      },
+      {
+            "date": "2020\/04\/18",
+            "url": "https://www.daily-tohoku.news/archives/34120",
+            "text": "【新型コロナ】１９日から無料オンライン学習／八戸などに拠点の学習塾"
+      },
+      {
             "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34106",
             "text": "【新型コロナ】田子町、１７１０世帯にマスク配布へ"
@@ -34,36 +64,6 @@
             "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34066",
             "text": "【新型コロナ】十和田、六戸の小中も休校延長"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34056",
-            "text": "【新型コロナ】八戸、階上の小中学校は５月６日まで休校延長"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34113",
-            "text": "【緊急事態宣言】青森県立校の休校５月６日まで　休業要請は週明け判断"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34112",
-            "text": "【緊急事態宣言】接待伴う飲食店に休業要請へ／岩手県　休校措置は求めず"
-       },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34111",
-            "text": "【緊急事態宣言】５月６日まで小中学校一斉休校／八戸など県南５市町"
-       },
-       {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34089",
-            "text": "【新型コロナ】感染経路「不明」と結論／十和田と五所川原の２例"
-       },
-       {
-            "date": "2020\/04\/16",
-            "url": "https://www.daily-tohoku.news/archives/34013",
-            "text": "【新型コロナ】七戸町が飲食店に１０万円支援金　南部町も独自給付へ"
-       }
+      }
     ]
 }
