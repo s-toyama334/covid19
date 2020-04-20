@@ -1,5 +1,35 @@
 {
-    "newsItems": [       
+    "newsItems": [
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34287",
+            "text": "【新型コロナ】飲食業者に最大３６万円／南部町が独自支援"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34259",
+            "text": "【新型コロナ】オンライン授業開始／八戸高専　勉強再開に学生安堵"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34236",
+            "text": "【新型コロナ】全従業員に一時金５万円／サン・コンピュータ"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34217",
+            "text": "【新型コロナ】青森県内患者、新たに２人退院　退院者は計８人／１９日現在"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34210",
+            "text": "【新型コロナ】６町２村で小中休校へ"
+      },
+      {
+            "date": "2020\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/34199",
+            "text": "【新型コロナ】高校野球春季青森県大会は中止　青森県高野連"
+      },
       {
             "date": "2020\/04\/20",
             "url": "https://www.daily-tohoku.news/archives/34187",
@@ -34,36 +64,6 @@
             "date": "2020\/04\/17",
             "url": "https://www.daily-tohoku.news/archives/34106",
             "text": "【新型コロナ】田子町、１７１０世帯にマスク配布へ"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34100",
-            "text": "【新型コロナ】十鉄３００人一時帰休／全社員対象"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34087",
-            "text": "【新型コロナ】岩手県高総体、春季高校野球の中止を正式決定"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34084",
-            "text": "【新型コロナ】北奥羽地方の公共施設　休館、閉鎖など相次ぐ"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34073",
-            "text": "【新型コロナ】「かぶーにゃ」の開業延期　オープン時期未定"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34068",
-            "text": "【新型コロナ】青森県立学校２０日から一斉休校"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34066",
-            "text": "【新型コロナ】十和田、六戸の小中も休校延長"
       }
     ]
 }
