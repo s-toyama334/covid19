@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/04\/21",
+            "url": "https://www.daily-tohoku.news/archives/34269",
+            "text": "【新型コロナ】本格料理を自宅で　八戸・芽生会が「出張レストラン」"
+      },
+      {
+            "date": "2020\/04\/21",
+            "url": "https://www.daily-tohoku.news/archives/34264",
+            "text": "【新型コロナ】ネット使った休校中の学習検討／八戸市教委"
+      },
+      {
+            "date": "2020\/04\/21",
+            "url": "https://www.daily-tohoku.news/archives/34281",
+            "text": "【新型コロナ】ようやく入学式の学校も…　八戸の小中学校再び休校"
+      },
+      {
             "date": "2020\/04\/20",
             "url": "https://www.daily-tohoku.news/archives/34287",
             "text": "【新型コロナ】飲食業者に最大３６万円／南部町が独自支援"
@@ -49,21 +64,6 @@
             "date": "2020\/04\/18",
             "url": "https://www.daily-tohoku.news/archives/34148",
             "text": "【新型コロナ】平庭闘牛　５、６月は中止"
-      },
-      {
-            "date": "2020\/04\/18",
-            "url": "https://www.daily-tohoku.news/archives/34144",
-            "text": "【新型コロナ】三沢の小中２１日から臨時休校"
-      },
-      {
-            "date": "2020\/04\/18",
-            "url": "https://www.daily-tohoku.news/archives/34120",
-            "text": "【新型コロナ】１９日から無料オンライン学習／八戸などに拠点の学習塾"
-      },
-      {
-            "date": "2020\/04\/17",
-            "url": "https://www.daily-tohoku.news/archives/34106",
-            "text": "【新型コロナ】田子町、１７１０世帯にマスク配布へ"
       }
     ]
 }
