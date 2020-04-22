@@ -1,5 +1,20 @@
 {
-    "newsItems": [      
+    "newsItems": [
+      {
+            "date": "2020\/04\/22",
+            "url": "https://www.daily-tohoku.news/archives/34394",
+            "text": "【新型コロナ】岩手の高校・小中、２９日から休校へ"
+      },
+      {
+            "date": "2020\/04\/22",
+            "url": "https://www.daily-tohoku.news/archives/34385",
+            "text": "【新型コロナ】「うちで踊ろう」動画コラボ、北奥羽でも続々"
+      },
+      {
+            "date": "2020\/04\/22",
+            "url": "https://www.daily-tohoku.news/archives/34381",
+            "text": "【新型コロナ】持ち帰り料理　工夫凝らし／八戸市内の飲食業界"
+      },
       {
             "date": "2020\/04\/22",
             "url": "https://www.daily-tohoku.news/archives/34381",
@@ -54,31 +69,6 @@
             "date": "2020\/04\/21",
             "url": "https://www.daily-tohoku.news/archives/34345",
             "text": "【新型コロナ】二戸市内の出前・テークアウト情報、ウェブで発信"
-      },
-      {
-            "date": "2020\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/34342",
-            "text": "【新型コロナ】５月青森発着便　全て運休／ＦＤＡ"
-      },
-      {
-            "date": "2020\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/34312",
-            "text": "【新型コロナ】余った給食食材を福祉施設などに譲渡　十和田"
-      },
-      {
-            "date": "2020\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/34309",
-            "text": "【新型コロナ】五戸の小中学校が臨時休校延長"
-      },
-      {
-            "date": "2020\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/34269",
-            "text": "【新型コロナ】本格料理を自宅で　八戸・芽生会が「出張レストラン」"
-      },
-      {
-            "date": "2020\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/34264",
-            "text": "【新型コロナ】ネット使った休校中の学習検討／八戸市教委"
       }
     ]
 }
