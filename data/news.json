@@ -1,5 +1,60 @@
 {
-    "newsItems": [     
+    "newsItems": [
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34533",
+            "text": "【新型コロナ】休業要請協力金の事前相談窓口、２６日に設置／青森県"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34532",
+            "text": "【新型コロナ】新たに１人退院、退院者は計１４人／青森県"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34526",
+            "text": "【新型コロナ】飲食業者らに独自で給付金支給へ、１０万～２０万円想定／八戸市"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34525",
+            "text": "【新型コロナ】路線バス３分の１を減便へ／十和田観光電鉄"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34507",
+            "text": "【新型コロナ】協力金は法人３０万円、個人事業主２０万円／青森県"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34506",
+            "text": "【新型コロナ】青森県が休業要請を表明"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34501",
+            "text": "【新型コロナ】六ケ所村が村民１人５万円給付、小規模事業者に２０万円"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34492",
+            "text": "【新型コロナ】東北・新潟７県が県境またぐ移動自粛を要請"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34487",
+            "text": "【新型コロナ】会員事業者アンケート、約６割が売り上げ減少／八戸商工会議所"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34485",
+            "text": "【新型コロナ】１０万円給付の準備急ピッチ　久慈市早ければ５月中旬"
+      },
+      {
+            "date": "2020\/04\/24",
+            "url": "https://www.daily-tohoku.news/archives/34483",
+            "text": "【新型コロナ】ヴァンラーレ出場できず／サッカー天皇杯　大会方式が変更"
+      },
       {
             "date": "2020\/04\/23",
             "url": "https://www.daily-tohoku.news/archives/34477",
@@ -24,56 +79,6 @@
             "date": "2020\/04\/23",
             "url": "https://www.daily-tohoku.news/archives/34471",
             "text": "【新型コロナ】感染者新たに１人退院／青森県内"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34467",
-            "text": "【新型コロナ】金田一温泉６宿泊施設、５月６日まで休業"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34460",
-            "text": "【新型コロナ】高速バス「うみねこ号」全便運休へ"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34460",
-            "text": "【新型コロナ】高速バス「うみねこ号」全便運休へ"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34459",
-            "text": "【新型コロナ】八戸屋台村、５月６日まで原則営業自粛"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34453",
-            "text": "【新型コロナ】二戸と洋野の小中学校、休校決定"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34445",
-            "text": "【新型コロナ】接客伴う飲食店などに休業要請／岩手県"
-      }, 
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34442",
-            "text": "【青森・コロナ確認１カ月】日常激変、暮らしは仕事は…／八戸"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34440",
-            "text": "【新型コロナ】消毒用アルコール製造へ／南部美人（二戸）"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34438",
-            "text": "【青森・コロナ確認１カ月】接触減らすのが終息への鍵／専門家に聞く"
-      },
-      {
-            "date": "2020\/04\/22",
-            "url": "https://www.daily-tohoku.news/archives/34431",
-            "text": "【新型コロナ】八戸市が独自の支援策検討"
       }
     ]
 }
