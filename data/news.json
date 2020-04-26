@@ -1,6 +1,61 @@
 {
     "newsItems": [
       {
+            "date": "2020\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/34622",
+            "text": "【新型コロナ】インターハイ初の中止　青森県高校総体も"
+      },
+      {
+            "date": "2020\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/34619",
+            "text": "【新型コロナ】休業要請協力金の電話相談　初日は１０８２件／青森県"
+      },
+      {
+            "date": "2020\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/34611",
+            "text": "【新型コロナ】全国高体連、インターハイ中止決定"
+      },
+      {
+            "date": "2020\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/34606",
+            "text": "【新型コロナ】空気清浄機５０台寄贈　青森県有の医療施設などに／アンデス電気（八戸）"
+      },
+      {
+            "date": "2020\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/34595",
+            "text": "【新型コロナ】車内で注文、料理受け取り可能「ドライブスルーレストラン」／八戸"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34595",
+            "text": "【新型コロナ】車内で注文、料理受け取り可能「ドライブスルーレストラン」／八戸"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34593",
+            "text": "【新型コロナ】独自の経済支援打ち出す　北奥羽地方の自治体"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34556",
+            "text": "【新型コロナ】青森県の休業要請／県南の事業者「要請に従う」と理解　協力金の額に不満の声も"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34555",
+            "text": "【新型コロナ】青森県、ようやく休業要請へ／東北で最後発"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34554",
+            "text": "【新型コロナ】青森県が休業要請　２９日～５月６日まで"
+      },
+      {
+            "date": "2020\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/34552",
+            "text": "【新型コロナ】越境自粛要請　県境またぐ北奥羽は分断？"
+      },
+      {
             "date": "2020\/04\/24",
             "url": "https://www.daily-tohoku.news/archives/34533",
             "text": "【新型コロナ】休業要請協力金の事前相談窓口、２６日に設置／青森県"
@@ -24,61 +79,6 @@
             "date": "2020\/04\/24",
             "url": "https://www.daily-tohoku.news/archives/34507",
             "text": "【新型コロナ】協力金は法人３０万円、個人事業主２０万円／青森県"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34506",
-            "text": "【新型コロナ】青森県が休業要請を表明"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34501",
-            "text": "【新型コロナ】六ケ所村が村民１人５万円給付、小規模事業者に２０万円"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34492",
-            "text": "【新型コロナ】東北・新潟７県が県境またぐ移動自粛を要請"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34487",
-            "text": "【新型コロナ】会員事業者アンケート、約６割が売り上げ減少／八戸商工会議所"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34485",
-            "text": "【新型コロナ】１０万円給付の準備急ピッチ　久慈市早ければ５月中旬"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34483",
-            "text": "【新型コロナ】ヴァンラーレ出場できず／サッカー天皇杯　大会方式が変更"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34477",
-            "text": "【新型コロナ】売り上げ減の飲食店に２０万円助成　市独自の経済支援対策／十和田市"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34476",
-            "text": "【新型コロナ】飲食店に１０万円独自給付へ／二戸市"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34474",
-            "text": "【新型コロナ】三村知事、休業事業者への支援約束"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34473",
-            "text": "【新型コロナ】５種類の施設に休業要請　応じた中小事業者に協力金／岩手県"
-      },
-      {
-            "date": "2020\/04\/23",
-            "url": "https://www.daily-tohoku.news/archives/34471",
-            "text": "【新型コロナ】感染者新たに１人退院／青森県内"
       }
     ]
 }
