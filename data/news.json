@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34639",
+            "text": "【新型コロナ】十和田市で新たに１人感染確認"
+      },
+      {
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34631",
+            "text": "【新型コロナ】花き市場に大打撃　行事自粛、規模縮小など背景に"
+      },
+      {
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34628",
+            "text": "【新型コロナ】八食センターが全館臨時休業　５月６日まで"
+      },
+      {
             "date": "2020\/04\/26",
             "url": "https://www.daily-tohoku.news/archives/34622",
             "text": "【新型コロナ】インターハイ初の中止　青森県高校総体も"
