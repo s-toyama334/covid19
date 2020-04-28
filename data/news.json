@@ -1,6 +1,56 @@
 {
     "newsItems": [      
       {
+            "date": "2020\/04\/29",
+            "url": "ttps://www.daily-tohoku.news/archives/34776",
+            "text": "【新型コロナ】厳戒下の大型連休へ　行楽地「今は自粛して」看板設置、パトロール実施も"
+      },
+      {
+            "date": "2020\/04\/29",
+            "url": "https://www.daily-tohoku.news/archives/34770",
+            "text": "【新型コロナ】介護的看護、防御難しく／十和田市立中央病院、新たなに看護師３人感染"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34756",
+            "text": "【新型コロナ】青い森信金が大型連休中に相談窓口開設"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34751",
+            "text": "【新型コロナ】カルテ流出問題で看護師３人を懲戒処分／つがる西北五広域連合"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34750",
+            "text": "【新型コロナ】独自の経済支援策を正式発表、事業者に２０万円支給／八戸市"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34747",
+            "text": "【新型コロナ】休業要請応じない店舗、公表しない方針／青森県"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34740",
+            "text": "【新型コロナ】青銀、業績予想を下方修正／連結純利益１８億円減"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34737",
+            "text": "【新型コロナ】大平洋金属（東京）２０年３月期通期の連結業績予想を下方修正／ニッケル価格下落基調が要因"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34733",
+            "text": "【新型コロナ】青銀が大型連休に相談窓口"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34732",
+            "text": "【新型コロナ】みち銀が大型連休に相談窓口"
+      },
+      {
             "date": "2020\/04\/28",
             "url": "https://www.daily-tohoku.news/archives/34729",
             "text": "【新型コロナ】「院内感染が濃厚」と青森県"
@@ -24,61 +74,6 @@
             "date": "2020\/04\/28",
             "url": "https://www.daily-tohoku.news/archives/34698",
             "text": "【新型コロナ】感染症病２９床から９９床に増／青森県内"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34697",
-            "text": "【十和田コロナ感染】５０人濃厚接触の恐れ　病院側「対策十分取ったはず」"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34694",
-            "text": "【新型コロナ】市町村支援に１０億円　青森県、補正予算を専決処分"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34690",
-            "text": "【新型コロナ】十和田中央病院の女性看護師感染　感染症病棟を担当"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34682",
-            "text": "【新型コロナ】三沢市、飲食店に２０万円助成へ"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34681",
-            "text": "【新型コロナ】休業要請の対象施設は？　青森県が具体例を公表"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34677",
-            "text": "【新型コロナ】３月の宿泊者数３１・２％減　団体客キャンセル多発"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34673",
-            "text": "【新型コロナ】事業者への家賃補助対象を拡充　久慈市が独自支援"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34668",
-            "text": "【新型コロナ】食料品売り場以外　２９日から臨時休業／さくらの百貨店"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34667",
-            "text": "【新型コロナ】給付金や経済支援速やかに　十和田市が特別対策室開設"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34661",
-            "text": "【新型コロナ】青森県内のパチンコ店１２１店舗に休業通達"
-      },
-      {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34659",
-            "text": "【新型コロナ】青森県立学校の校庭、体育館の開放中止"
       }
     ]
 }
