@@ -1,5 +1,15 @@
 {
-    "newsItems": [
+    "newsItems": [      
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34729",
+            "text": "【新型コロナ】「院内感染が濃厚」と青森県"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34728",
+            "text": "【新型コロナ】十和田市で新たに３人の感染確認"
+      },
       {
             "date": "2020\/04\/28",
             "url": "https://www.daily-tohoku.news/archives/34705",
