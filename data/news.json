@@ -1,99 +1,74 @@
 {
     "newsItems": [
       {
-            "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34639",
-            "text": "【新型コロナ】十和田市で新たに１人感染確認"
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34705",
+            "text": "【新型コロナ】タクシーで料理宅配　八戸で「飲食店応援プロジェクト」"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34700",
+            "text": "【新型コロナ】特別相談４月急増　雇用調整助成金や休業目立つ"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34698",
+            "text": "【新型コロナ】感染症病２９床から９９床に増／青森県内"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34697",
+            "text": "【十和田コロナ感染】５０人濃厚接触の恐れ　病院側「対策十分取ったはず」"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34694",
+            "text": "【新型コロナ】市町村支援に１０億円　青森県、補正予算を専決処分"
+      },
+      {
+            "date": "2020\/04\/28",
+            "url": "https://www.daily-tohoku.news/archives/34690",
+            "text": "【新型コロナ】十和田中央病院の女性看護師感染　感染症病棟を担当"
       },
       {
             "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34631",
-            "text": "【新型コロナ】花き市場に大打撃　行事自粛、規模縮小など背景に"
+            "url": "https://www.daily-tohoku.news/archives/34682",
+            "text": "【新型コロナ】三沢市、飲食店に２０万円助成へ"
       },
       {
             "date": "2020\/04\/27",
-            "url": "https://www.daily-tohoku.news/archives/34628",
-            "text": "【新型コロナ】八食センターが全館臨時休業　５月６日まで"
+            "url": "https://www.daily-tohoku.news/archives/34681",
+            "text": "【新型コロナ】休業要請の対象施設は？　青森県が具体例を公表"
       },
       {
-            "date": "2020\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/34622",
-            "text": "【新型コロナ】インターハイ初の中止　青森県高校総体も"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34677",
+            "text": "【新型コロナ】３月の宿泊者数３１・２％減　団体客キャンセル多発"
       },
       {
-            "date": "2020\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/34619",
-            "text": "【新型コロナ】休業要請協力金の電話相談　初日は１０８２件／青森県"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34673",
+            "text": "【新型コロナ】事業者への家賃補助対象を拡充　久慈市が独自支援"
       },
       {
-            "date": "2020\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/34611",
-            "text": "【新型コロナ】全国高体連、インターハイ中止決定"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34668",
+            "text": "【新型コロナ】食料品売り場以外　２９日から臨時休業／さくらの百貨店"
       },
       {
-            "date": "2020\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/34606",
-            "text": "【新型コロナ】空気清浄機５０台寄贈　青森県有の医療施設などに／アンデス電気（八戸）"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34667",
+            "text": "【新型コロナ】給付金や経済支援速やかに　十和田市が特別対策室開設"
       },
       {
-            "date": "2020\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/34595",
-            "text": "【新型コロナ】車内で注文、料理受け取り可能「ドライブスルーレストラン」／八戸"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34661",
+            "text": "【新型コロナ】青森県内のパチンコ店１２１店舗に休業通達"
       },
       {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34595",
-            "text": "【新型コロナ】車内で注文、料理受け取り可能「ドライブスルーレストラン」／八戸"
-      },
-      {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34593",
-            "text": "【新型コロナ】独自の経済支援打ち出す　北奥羽地方の自治体"
-      },
-      {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34556",
-            "text": "【新型コロナ】青森県の休業要請／県南の事業者「要請に従う」と理解　協力金の額に不満の声も"
-      },
-      {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34555",
-            "text": "【新型コロナ】青森県、ようやく休業要請へ／東北で最後発"
-      },
-      {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34554",
-            "text": "【新型コロナ】青森県が休業要請　２９日～５月６日まで"
-      },
-      {
-            "date": "2020\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/34552",
-            "text": "【新型コロナ】越境自粛要請　県境またぐ北奥羽は分断？"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34533",
-            "text": "【新型コロナ】休業要請協力金の事前相談窓口、２６日に設置／青森県"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34532",
-            "text": "【新型コロナ】新たに１人退院、退院者は計１４人／青森県"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34526",
-            "text": "【新型コロナ】飲食業者らに独自で給付金支給へ、１０万～２０万円想定／八戸市"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34525",
-            "text": "【新型コロナ】路線バス３分の１を減便へ／十和田観光電鉄"
-      },
-      {
-            "date": "2020\/04\/24",
-            "url": "https://www.daily-tohoku.news/archives/34507",
-            "text": "【新型コロナ】協力金は法人３０万円、個人事業主２０万円／青森県"
+            "date": "2020\/04\/27",
+            "url": "https://www.daily-tohoku.news/archives/34659",
+            "text": "【新型コロナ】青森県立学校の校庭、体育館の開放中止"
       }
     ]
 }
