@@ -1,8 +1,43 @@
 {
-    "newsItems": [      
+    "newsItems": [
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34809",
+            "text": "【新型コロナ】残る濃厚接触者は全員陰性　十和田市立中央病院"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34808",
+            "text": "【新型コロナ】かぶーにゃ開業延期、蕪嶋まつり中止など祝賀ムード一変「コロナに翻弄された」／八戸"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34804",
+            "text": "【新型コロナ】「何して過ごす？」コロナ禍で外出自粛の中、ＧＷが本格的にスタート"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34798",
+            "text": "【新型コロナ】残る２０人、一部は陰性　十和田中央病院の濃厚接触者"
+      },
       {
             "date": "2020\/04\/29",
-            "url": "ttps://www.daily-tohoku.news/archives/34776",
+            "url": "https://www.daily-tohoku.news/archives/34795",
+            "text": "【新型コロナ】八戸、他県のナンバーは「入店拒否」　ラーメン店に苦情殺到／弘前"
+      },
+      {
+            "date": "2020\/04\/29",
+            "url": "https://www.daily-tohoku.news/archives/34791",
+            "text": "【新型コロナ】協力金の電話相談、３日間で３千件超／青森県"
+      },
+      {
+            "date": "2020\/04\/29",
+            "url": "https://www.daily-tohoku.news/archives/34781",
+            "text": "新型コロナ対策に役立てて　久慈地域エネルギー、久慈市に５００万円寄付"
+      },
+      {
+            "date": "2020\/04\/29",
+            "url": "https://www.daily-tohoku.news/archives/34776",
             "text": "【新型コロナ】厳戒下の大型連休へ　行楽地「今は自粛して」看板設置、パトロール実施も"
       },
       {
@@ -39,41 +74,6 @@
             "date": "2020\/04\/28",
             "url": "https://www.daily-tohoku.news/archives/34737",
             "text": "【新型コロナ】大平洋金属（東京）２０年３月期通期の連結業績予想を下方修正／ニッケル価格下落基調が要因"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34733",
-            "text": "【新型コロナ】青銀が大型連休に相談窓口"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34732",
-            "text": "【新型コロナ】みち銀が大型連休に相談窓口"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34729",
-            "text": "【新型コロナ】「院内感染が濃厚」と青森県"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34728",
-            "text": "【新型コロナ】十和田市で新たに３人の感染確認"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34705",
-            "text": "【新型コロナ】タクシーで料理宅配　八戸で「飲食店応援プロジェクト」"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34700",
-            "text": "【新型コロナ】特別相談４月急増　雇用調整助成金や休業目立つ"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34698",
-            "text": "【新型コロナ】感染症病２９床から９９床に増／青森県内"
       }
     ]
 }
