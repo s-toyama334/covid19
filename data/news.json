@@ -1,6 +1,71 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/01",
+            "url": "https://www.daily-tohoku.news/archives/34878",
+            "text": "【新型コロナ】一律１０万円給付、北奥羽住民「生活費の足しにする」など歓迎／給付時期ばらつきに不満も"
+      },
+      {
+            "date": "2020\/05\/01",
+            "url": "https://www.daily-tohoku.news/archives/34877",
+            "text": "【新型コロナ】大学生らに２０万円給付の独自策　村内に保護者持つ大学生などに生活支援／六ケ所村"
+      },
+      {
+            "date": "2020\/05\/01",
+            "url": "https://www.daily-tohoku.news/archives/34876",
+            "text": "【新型コロナ】県内３月経済概況　新型コロナ影響で個人消費が不振／青い森信用金庫"
+      },
+      {
+            "date": "2020\/05\/01",
+            "url": "https://www.daily-tohoku.news/archives/34873",
+            "text": "【新型コロナ】岩手県の休業要請、対象のスナック「分かりにくい」　臨時会議で指摘相次ぐ／久慈市議会"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34871",
+            "text": "【新型コロナ】「１０万円給付金」北奥羽の市町村は多くが５月中に支給開始へ"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34859",
+            "text": "【新型コロナ】５８人陰性、新たな感染者なし　十和田市立中央病院"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34854",
+            "text": "【新型コロナ】十和田市立中央病院、外来と救急の制限期間を延長"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34852",
+            "text": "【新型コロナ】軽症者療養、青森市のホテルと合意　３０室使用可能／青森県"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34847",
+            "text": "【新型コロナ】県立学校、予定通り５月７日から再開する方針／青森県教委"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34843",
+            "text": "【新型コロナ】県休業要請の協力金、５月７日申請スタート／青森県"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34842",
+            "text": "【新型コロナ】店舗サービスの一部、当面休止／サンデー（八戸）"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34840",
+            "text": "【新型コロナ】総合相談窓口開設、初日は１２件の相談寄せられる／八戸市"
+      },
+      {
+            "date": "2020\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/34836",
+            "text": "【新型コロナ】全業種を対象に支援金給付へ　町独自の支援策、最大３６万円／南部町"
+      },
+      {
             "date": "2020\/04\/30",
             "url": "https://www.daily-tohoku.news/archives/34809",
             "text": "【新型コロナ】残る濃厚接触者は全員陰性　十和田市立中央病院"
@@ -29,51 +94,6 @@
             "date": "2020\/04\/29",
             "url": "https://www.daily-tohoku.news/archives/34791",
             "text": "【新型コロナ】協力金の電話相談、３日間で３千件超／青森県"
-      },
-      {
-            "date": "2020\/04\/29",
-            "url": "https://www.daily-tohoku.news/archives/34781",
-            "text": "新型コロナ対策に役立てて　久慈地域エネルギー、久慈市に５００万円寄付"
-      },
-      {
-            "date": "2020\/04\/29",
-            "url": "https://www.daily-tohoku.news/archives/34776",
-            "text": "【新型コロナ】厳戒下の大型連休へ　行楽地「今は自粛して」看板設置、パトロール実施も"
-      },
-      {
-            "date": "2020\/04\/29",
-            "url": "https://www.daily-tohoku.news/archives/34770",
-            "text": "【新型コロナ】介護的看護、防御難しく／十和田市立中央病院、新たなに看護師３人感染"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34756",
-            "text": "【新型コロナ】青い森信金が大型連休中に相談窓口開設"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34751",
-            "text": "【新型コロナ】カルテ流出問題で看護師３人を懲戒処分／つがる西北五広域連合"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34750",
-            "text": "【新型コロナ】独自の経済支援策を正式発表、事業者に２０万円支給／八戸市"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34747",
-            "text": "【新型コロナ】休業要請応じない店舗、公表しない方針／青森県"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34740",
-            "text": "【新型コロナ】青銀、業績予想を下方修正／連結純利益１８億円減"
-      },
-      {
-            "date": "2020\/04\/28",
-            "url": "https://www.daily-tohoku.news/archives/34737",
-            "text": "【新型コロナ】大平洋金属（東京）２０年３月期通期の連結業績予想を下方修正／ニッケル価格下落基調が要因"
       }
     ]
 }
