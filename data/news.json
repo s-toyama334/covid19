@@ -1,11 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/04",
+            "url": "https://www.daily-tohoku.news/archives/35027",
+            "text": "【新型コロナ】導入進むオンライン授業／授業づくりの課題は？"
+      },
+      {
+            "date": "2020\/05\/04",
+            "url": "https://www.daily-tohoku.news/archives/35026",
+            "text": "【新型コロナ】休校長期化、教員も対応苦慮　現場に負担感も／青森県内"
+      },
+      {
+            "date": "2020\/05\/04",
+            "url": "https://www.daily-tohoku.news/archives/35024",
+            "text": "【新型コロナ】感染症拡大時の避難所運営「避難者の安全確保」「感染症対策」両立に腐心、対応急ぐ／青森県内自治体"
+      },
+      {
+            "date": "2020\/05\/03",
+            "url": "https://www.daily-tohoku.news/archives/35008",
+            "text": "【新型コロナ】２０年１～３月期景況リポート「リーマン・ショック以来の大幅悪化」／青い森信用金庫"
+      },
+      {
             "date": "2020\/05\/03",
             "url": "https://www.daily-tohoku.news/archives/34981",
             "text": "【新型コロナ】客足ぱたり　市場出荷も収入大幅減／八戸・観光イチゴ農園"
       },
-            {
+      {
             "date": "2020\/05\/03",
             "url": "https://www.daily-tohoku.news/archives/34972",
             "text": "【新型コロナ】階上町、事業者に一律１５万円支給　全町民に商品券配布"
@@ -15,7 +35,7 @@
             "url": "https://www.daily-tohoku.news/archives/34949",
             "text": "【新型コロナ】三戸大神宮が御朱印の郵送開始"
       },
-            {
+      {
             "date": "2020\/05\/02",
             "url": "https://www.daily-tohoku.news/archives/34948",
             "text": "【新型コロナ】悔しさ、悲しさ、怒り…インターハイ中止　ＳＮＳ上で心境吐露"
@@ -34,21 +54,6 @@
             "date": "2020\/05\/01",
             "url": "https://www.daily-tohoku.news/archives/34877",
             "text": "【新型コロナ】大学生らに２０万円給付の独自策　村内に保護者持つ大学生などに生活支援／六ケ所村"
-      },
-      {
-            "date": "2020\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/34876",
-            "text": "【新型コロナ】県内３月経済概況　新型コロナ影響で個人消費が不振／青い森信用金庫"
-      },
-      {
-            "date": "2020\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/34873",
-            "text": "【新型コロナ】岩手県の休業要請、対象のスナック「分かりにくい」　臨時会議で指摘相次ぐ／久慈市議会"
-      },
-      {
-            "date": "2020\/04\/30",
-            "url": "https://www.daily-tohoku.news/archives/34871",
-            "text": "【新型コロナ】「１０万円給付金」北奥羽の市町村は多くが５月中に支給開始へ"
       }
     ]
 }
