@@ -1,16 +1,46 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/06",
+            "url": "https://www.daily-tohoku.news/archives/35106",
+            "text": "経営者「開けても来ない」「追加支援を」／休業要請解除の青森県内"
+      },      
+      {
+            "date": "2020\/05\/06",
+            "url": "https://www.daily-tohoku.news/archives/35104",
+            "text": "【新型コロナ】青森県民、歓迎と不安と／県外出自粛緩和へ"
+      },
+      {
+            "date": "2020\/05\/06",
+            "url": "https://www.daily-tohoku.news/archives/35101",
+            "text": "【小中学校再開】八戸など県南１２市町村は７日から"
+      },
+      {
+            "date": "2020\/05\/06",
+            "url": "https://www.daily-tohoku.news/archives/35098",
+            "text": "【緊急事態宣言延長】感染者ゼロの岩手県、休業要請延長せず"
+      },      
+      {
+            "date": "2020\/05\/06",
+            "url": "https://www.daily-tohoku.news/archives/35097",
+            "text": "【緊急事態宣言延長】休業要請７日で解除／青森県　封じ込めの状況踏まえ"
+      },
+      {
+            "date": "2020\/05\/05",
+            "url": "https://www.daily-tohoku.news/archives/35072",
+            "text": "ウェブ制作会社がテークアウト情報など紹介する特設サイトを公開／八戸"
+      },
+      {
             "date": "2020\/05\/05",
             "url": "https://www.daily-tohoku.news/archives/35069",
             "text": "【新型コロナ】休業要請のないゴルフ場、「３密」減らし通常営業　利用客「外出は良くないが…」／青森県南地方"
       },
-            {
+      {
             "date": "2020\/05\/05",
             "url": "https://www.daily-tohoku.news/archives/35067",
             "text": "【新型コロナ】八戸市内のライブハウスやクラブは今／クラウドファンディングなど展開、音楽の灯守る"
       },
-            {
+      {
             "date": "2020\/05\/04",
             "url": "https://www.daily-tohoku.news/archives/35042",
             "text": "【新型コロナ】漆染めマスクいかが　二戸市商工会青年部が市に寄贈「二戸らしいもの」"
@@ -34,21 +64,6 @@
             "date": "2020\/05\/03",
             "url": "https://www.daily-tohoku.news/archives/35008",
             "text": "【新型コロナ】２０年１～３月期景況リポート「リーマン・ショック以来の大幅悪化」／青い森信用金庫"
-      },
-      {
-            "date": "2020\/05\/03",
-            "url": "https://www.daily-tohoku.news/archives/34981",
-            "text": "【新型コロナ】客足ぱたり　市場出荷も収入大幅減／八戸・観光イチゴ農園"
-      },
-      {
-            "date": "2020\/05\/03",
-            "url": "https://www.daily-tohoku.news/archives/34972",
-            "text": "【新型コロナ】階上町、事業者に一律１５万円支給　全町民に商品券配布"
-      },
-            {
-            "date": "2020\/05\/02",
-            "url": "https://www.daily-tohoku.news/archives/34949",
-            "text": "【新型コロナ】三戸大神宮が御朱印の郵送開始"
       }
     ]
 }
