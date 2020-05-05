@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/05",
+            "url": "https://www.daily-tohoku.news/archives/35069",
+            "text": "【新型コロナ】休業要請のないゴルフ場、「３密」減らし通常営業　利用客「外出は良くないが…」／青森県南地方"
+      },
+            {
+            "date": "2020\/05\/05",
+            "url": "https://www.daily-tohoku.news/archives/35067",
+            "text": "【新型コロナ】八戸市内のライブハウスやクラブは今／クラウドファンディングなど展開、音楽の灯守る"
+      },
+            {
+            "date": "2020\/05\/04",
+            "url": "https://www.daily-tohoku.news/archives/35042",
+            "text": "【新型コロナ】漆染めマスクいかが　二戸市商工会青年部が市に寄贈「二戸らしいもの」"
+      },
+      {
             "date": "2020\/05\/04",
             "url": "https://www.daily-tohoku.news/archives/35027",
             "text": "【新型コロナ】導入進むオンライン授業／授業づくりの課題は？"
@@ -34,26 +49,6 @@
             "date": "2020\/05\/02",
             "url": "https://www.daily-tohoku.news/archives/34949",
             "text": "【新型コロナ】三戸大神宮が御朱印の郵送開始"
-      },
-      {
-            "date": "2020\/05\/02",
-            "url": "https://www.daily-tohoku.news/archives/34948",
-            "text": "【新型コロナ】悔しさ、悲しさ、怒り…インターハイ中止　ＳＮＳ上で心境吐露"
-      },
-            {
-            "date": "2020\/05\/02",
-            "url": "https://www.daily-tohoku.news/archives/34947",
-            "text": "【新型コロナ】館鼻朝市（八戸）苦しい春　開催見通し立たず、大幅収入減"
-      },
-      {
-            "date": "2020\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/34878",
-            "text": "【新型コロナ】一律１０万円給付、北奥羽住民「生活費の足しにする」など歓迎／給付時期ばらつきに不満も"
-      },
-      {
-            "date": "2020\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/34877",
-            "text": "【新型コロナ】大学生らに２０万円給付の独自策　村内に保護者持つ大学生などに生活支援／六ケ所村"
       }
     ]
 }
