@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35175",
+            "text": "【新型コロナ】十和田の男性１人陽性／十和田中央病院勤務の看護師の夫"
+      },
+      {
+            "date": "2020\/05\/07",
+            "url": "https://www.daily-tohoku.news/archives/35170",
+            "text": "【新型コロナ】青森県の協力金相談窓口の電話番号変更"
+      },
+      {
+            "date": "2020\/05\/07",
+            "url": "https://www.daily-tohoku.news/archives/35169",
+            "text": "【新型コロナ】自動車車検の有効期限７月１日まで再延長"
+      },
+      {
+            "date": "2020\/05\/07",
+            "url": " https://www.daily-tohoku.news/archives/35168",
+            "text": "【新型コロナ】六戸町が独自支援策を発表"
+      },
+      {
+            "date": "2020\/05\/07",
+            "url": "https://www.daily-tohoku.news/archives/35167",
+            "text": "【新型コロナ】六戸、小中学校１１日から再開へ"
+      },
+      {
+            "date": "2020\/05\/07",
+            "url": "https://www.daily-tohoku.news/archives/35164",
+            "text": "【新型コロナ】農業者への支援金給付を検討／南部町"
+      },
+      {
             "date": "2020\/05\/07",
             "url": "https://www.daily-tohoku.news/archives/35157",
             "text": "【新型コロナ】２度目の検査で陽性判明"
@@ -44,41 +74,6 @@
             "date": "2020\/05\/05",
             "url": "https://www.daily-tohoku.news/archives/35072",
             "text": "ウェブ制作会社がテークアウト情報など紹介する特設サイトを公開／八戸"
-      },
-      {
-            "date": "2020\/05\/05",
-            "url": "https://www.daily-tohoku.news/archives/35069",
-            "text": "【新型コロナ】休業要請のないゴルフ場、「３密」減らし通常営業　利用客「外出は良くないが…」／青森県南地方"
-      },
-      {
-            "date": "2020\/05\/05",
-            "url": "https://www.daily-tohoku.news/archives/35067",
-            "text": "【新型コロナ】八戸市内のライブハウスやクラブは今／クラウドファンディングなど展開、音楽の灯守る"
-      },
-      {
-            "date": "2020\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/35042",
-            "text": "【新型コロナ】漆染めマスクいかが　二戸市商工会青年部が市に寄贈「二戸らしいもの」"
-      },
-      {
-            "date": "2020\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/35027",
-            "text": "【新型コロナ】導入進むオンライン授業／授業づくりの課題は？"
-      },
-      {
-            "date": "2020\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/35026",
-            "text": "【新型コロナ】休校長期化、教員も対応苦慮　現場に負担感も／青森県内"
-      },
-      {
-            "date": "2020\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/35024",
-            "text": "【新型コロナ】感染症拡大時の避難所運営「避難者の安全確保」「感染症対策」両立に腐心、対応急ぐ／青森県内自治体"
-      },
-      {
-            "date": "2020\/05\/03",
-            "url": "https://www.daily-tohoku.news/archives/35008",
-            "text": "【新型コロナ】２０年１～３月期景況リポート「リーマン・ショック以来の大幅悪化」／青い森信用金庫"
       }
     ]
 }
