@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/05\/07",
+            "url": "https://www.daily-tohoku.news/archives/35157",
+            "text": "【新型コロナ】２度目の検査で陽性判明"
+      },
+      {
+            "date": "2020\/05\/07",
             "url": "https://www.daily-tohoku.news/archives/35156",
             "text": "【新型コロナ】男性は感染した看護師の同居家族"
       },
