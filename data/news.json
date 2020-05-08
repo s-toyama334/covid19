@@ -2,6 +2,26 @@
     "newsItems": [
       {
             "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35185",
+            "text": "自粛疲れ癒やす農業　コロナ渦で三八地域「唯一の楽しみ」の声も"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35181",
+            "text": "市内中心街、新規店舗も奮闘「コロナに負けない」／八戸"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35180",
+            "text": "【新型コロナ】大型連休中、新幹線と特急の利用者９５％減　史上最低に／ＪＲ旅客６社まとめ"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35178",
+            "text": "休業要請のゴールデンウイーク明け、飲食店など営業再開　コロナ禍対応の新たな日常へ／北奥羽地方"
+      },
+      {
+            "date": "2020\/05\/08",
             "url": "https://www.daily-tohoku.news/archives/35175",
             "text": "【新型コロナ】十和田の男性１人陽性／十和田中央病院勤務の看護師の夫"
       },
@@ -44,36 +64,6 @@
             "date": "2020\/05\/07",
             "url": "https://www.daily-tohoku.news/archives/35154",
             "text": "【新型コロナ】上十三保健所管内で新たに１人の感染者"
-      },
-      {
-            "date": "2020\/05\/06",
-            "url": "https://www.daily-tohoku.news/archives/35106",
-            "text": "経営者「開けても来ない」「追加支援を」／休業要請解除の青森県内"
-      },      
-      {
-            "date": "2020\/05\/06",
-            "url": "https://www.daily-tohoku.news/archives/35104",
-            "text": "【新型コロナ】青森県民、歓迎と不安と／県外出自粛緩和へ"
-      },
-      {
-            "date": "2020\/05\/06",
-            "url": "https://www.daily-tohoku.news/archives/35101",
-            "text": "【小中学校再開】八戸など県南１２市町村は７日から"
-      },
-      {
-            "date": "2020\/05\/06",
-            "url": "https://www.daily-tohoku.news/archives/35098",
-            "text": "【緊急事態宣言延長】感染者ゼロの岩手県、休業要請延長せず"
-      },      
-      {
-            "date": "2020\/05\/06",
-            "url": "https://www.daily-tohoku.news/archives/35097",
-            "text": "【緊急事態宣言延長】休業要請７日で解除／青森県　封じ込めの状況踏まえ"
-      },
-      {
-            "date": "2020\/05\/05",
-            "url": "https://www.daily-tohoku.news/archives/35072",
-            "text": "ウェブ制作会社がテークアウト情報など紹介する特設サイトを公開／八戸"
       }
     ]
 }
