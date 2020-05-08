@@ -1,5 +1,50 @@
 {
-    "newsItems": [
+    "newsItems": [      
+      {
+            "date": "2020\/05\/09",
+            "url": "https://www.daily-tohoku.news/archives/35260",
+            "text": "どうなる「ジュノハート」全国デビュー　コロナ渦で戦略見直し必至、生産者戸惑い／南部"
+      },
+      {
+            "date": "2020\/05\/09",
+            "url": "https://www.daily-tohoku.news/archives/35258",
+            "text": "【新型コロナ】青森県中学校体育大会夏季大会、中止決定／地区大会は各地区の判断"
+      },
+      {
+            "date": "2020\/05\/09",
+            "url": "https://www.daily-tohoku.news/archives/35255",
+            "text": "【新型コロナ】十和田市立中央病院、感染者病棟に９人が入院"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35253",
+            "text": "【新型コロナ】八戸タクシーが飲食店の料理を宅配、１３日までの限定で"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35246",
+            "text": "３期連続悪化、コロナで全産業で落ち込み　青森県内景況調査２０年１～３月期／みちのく銀行まとめ"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35243",
+            "text": "コロナ影響で利用者９割超減　大型連休、三沢・青森両空港の利用状況／日本航空青森支店まとめ"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35242",
+            "text": "【新型コロナ】タクシーやバスにも助成　十和田市が新たな経済支援策"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35240",
+            "text": "【新型コロナ】十和田市の小中学校、１１日から授業再開"
+      },
+      {
+            "date": "2020\/05\/08",
+            "url": "https://www.daily-tohoku.news/archives/35197",
+            "text": "【新型コロナ】青森県中総体の県大会中止"
+      },
       {
             "date": "2020\/05\/08",
             "url": "https://www.daily-tohoku.news/archives/35185",
@@ -19,51 +64,6 @@
             "date": "2020\/05\/08",
             "url": "https://www.daily-tohoku.news/archives/35178",
             "text": "休業要請のゴールデンウイーク明け、飲食店など営業再開　コロナ禍対応の新たな日常へ／北奥羽地方"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35175",
-            "text": "【新型コロナ】十和田の男性１人陽性／十和田中央病院勤務の看護師の夫"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35170",
-            "text": "【新型コロナ】青森県の協力金相談窓口の電話番号変更"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35169",
-            "text": "【新型コロナ】自動車車検の有効期限７月１日まで再延長"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": " https://www.daily-tohoku.news/archives/35168",
-            "text": "【新型コロナ】六戸町が独自支援策を発表"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35167",
-            "text": "【新型コロナ】六戸、小中学校１１日から再開へ"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35164",
-            "text": "【新型コロナ】農業者への支援金給付を検討／南部町"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35157",
-            "text": "【新型コロナ】２度目の検査で陽性判明"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35156",
-            "text": "【新型コロナ】男性は感染した看護師の同居家族"
-      },
-      {
-            "date": "2020\/05\/07",
-            "url": "https://www.daily-tohoku.news/archives/35154",
-            "text": "【新型コロナ】上十三保健所管内で新たに１人の感染者"
       }
     ]
 }
