@@ -1,5 +1,20 @@
 {
-    "newsItems": [      
+    "newsItems": [            
+      {
+            "date": "2020\/05\/10",
+            "url": "https://www.daily-tohoku.news/archives/35337",
+            "text": "新型コロナ影響、特例貸付申請相次ぐ／青森県内"
+      },
+      {
+            "date": "2020\/05\/09",
+            "url": "https://www.daily-tohoku.news/archives/35320",
+            "text": "コロナ情報、ＬＩＮＥで発信／岩手県開設の専用アカウント好評"
+      },
+      {
+            "date": "2020\/05\/09",
+            "url": "https://www.daily-tohoku.news/archives/35307",
+            "text": "コロナ禍にあえぐ青森県南地方の銭湯／営業時間短縮も、対策徹底し“生活の一部”守る"
+      },
       {
             "date": "2020\/05\/09",
             "url": "https://www.daily-tohoku.news/archives/35267",
