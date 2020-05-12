@@ -1,5 +1,25 @@
 {
-    "newsItems": [            
+    "newsItems": [
+      {
+            "date": "2020\/05\/12",
+            "url": "https://www.daily-tohoku.news/archives/35376",
+            "text": "【新型コロナ】ＰＣＲ検査数大幅増へ、青森県が新装置２台導入／入院１４９床確保目指す"
+      },
+      {
+            "date": "2020\/05\/11",
+            "url": "https://www.daily-tohoku.news/archives/35364",
+            "text": "【新型コロナ】小中学校再開　笑顔の再会／十和田など上十三の１市３町"
+      },
+      {
+            "date": "2020\/05\/11",
+            "url": "https://www.daily-tohoku.news/archives/35362",
+            "text": "【新型コロナ】青森県知事２０％、副知事１５％給料減、６月から"
+      },
+      {
+            "date": "2020\/05\/11",
+            "url": "https://www.daily-tohoku.news/archives/35355",
+            "text": "コロナ対策に４７億円　保健医療体制の整備、経済活動回復へ／青森県補正予算"
+      },
       {
             "date": "2020\/05\/10",
             "url": "https://www.daily-tohoku.news/archives/35337",
@@ -34,21 +54,6 @@
             "date": "2020\/05\/08",
             "url": "https://www.daily-tohoku.news/archives/35246",
             "text": "３期連続悪化、コロナで全産業で落ち込み　青森県内景況調査２０年１～３月期／みちのく銀行まとめ"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35243",
-            "text": "コロナ影響で利用者９割超減　大型連休、三沢・青森両空港の利用状況／日本航空青森支店まとめ"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35240",
-            "text": "【新型コロナ】十和田市の小中学校、１１日から授業再開"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35197",
-            "text": "【新型コロナ】青森県中総体の県大会中止"
       }
     ]
 }
