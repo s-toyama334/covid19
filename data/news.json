@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/13",
+            "url": "https://www.daily-tohoku.news/archives/35429",
+            "text": "【新型コロナ】高総文・ネット開催へ／生徒たち、初の試みに期待と不安交錯"
+      },
+      {
+            "date": "2020\/05\/12",
+            "url": "https://www.daily-tohoku.news/archives/35416",
+            "text": "コロナ影響、純利益８３％減／大平洋金属２０年３月期"
+      },
+      {
             "date": "2020\/05\/12",
             "url": "https://www.daily-tohoku.news/archives/35376",
             "text": "【新型コロナ】ＰＣＲ検査数大幅増へ、青森県が新装置２台導入／入院１４９床確保目指す"
@@ -44,16 +54,6 @@
             "date": "2020\/05\/09",
             "url": "https://www.daily-tohoku.news/archives/35255",
             "text": "【新型コロナ】十和田市立中央病院、感染者病棟に９人が入院"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35253",
-            "text": "【新型コロナ】八戸タクシーが飲食店の料理を宅配、１３日までの限定で"
-      },
-      {
-            "date": "2020\/05\/08",
-            "url": "https://www.daily-tohoku.news/archives/35246",
-            "text": "３期連続悪化、コロナで全産業で落ち込み　青森県内景況調査２０年１～３月期／みちのく銀行まとめ"
       }
     ]
 }
