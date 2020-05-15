@@ -2,8 +2,18 @@
     "newsItems": [
       {
             "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35608",
-            "text": "青森県内初、新型コロナ感染者が死亡"
+            "url": "https://www.daily-tohoku.news/archives/35638",
+            "text": "【新型コロナ】青森県内で初の感染者死亡"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35633",
+            "text": "【新型コロナ】保健所職員の残業時間、上十三で６・６倍"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35628",
+            "text": "【新型コロナ】南部町教委、小中学校の夏休み短縮"
       },
       {
             "date": "2020\/05\/15",
@@ -44,21 +54,6 @@
             "date": "2020\/05\/13",
             "url": "https://www.daily-tohoku.news/archives/35469",
             "text": "新型コロナ医療相談窓口を一本化／岩手県"
-      },
-      {
-            "date": "2020\/05\/13",
-            "url": "https://www.daily-tohoku.news/archives/35459",
-            "text": "【新型コロナ】１８日から一部列車を当面運休／三鉄"
-      },
-      {
-            "date": "2020\/05\/13",
-            "url": "https://www.daily-tohoku.news/archives/35457",
-            "text": "【新型コロナ】東北町、全町民に１万円給付　町独自の経済支援策"
-      },
-      {
-            "date": "2020\/05\/13",
-            "url": "https://www.daily-tohoku.news/archives/35429",
-            "text": "【新型コロナ】高総文・ネット開催へ／生徒たち、初の試みに期待と不安交錯"
       }
     ]
 }
