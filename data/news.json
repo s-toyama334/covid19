@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/14",
+            "url": "https://www.daily-tohoku.news/archives/35536",
+            "text": "【新型コロナ】分散授業、時差出校…　感染防止へ「要注意月間」／八戸市内小中"
+      },
+      {
+            "date": "2020\/05\/14",
+            "url": "https://www.daily-tohoku.news/archives/35525",
+            "text": "【新型コロナ】定額給付金対象外の新生児に１０万円／五戸町"
+      },
+      {
+            "date": "2020\/05\/14",
+            "url": "https://www.daily-tohoku.news/archives/35513",
+            "text": "【新型コロナ】台南市（台湾）が青森県などに医療用物品を寄贈"
+      },
+      {
             "date": "2020\/05\/13",
             "url": "https://www.daily-tohoku.news/archives/35469",
             "text": "新型コロナ医療相談窓口を一本化／岩手県"
@@ -44,16 +59,6 @@
             "date": "2020\/05\/11",
             "url": "https://www.daily-tohoku.news/archives/35355",
             "text": "コロナ対策に４７億円　保健医療体制の整備、経済活動回復へ／青森県補正予算"
-      },
-      {
-            "date": "2020\/05\/10",
-            "url": "https://www.daily-tohoku.news/archives/35337",
-            "text": "新型コロナ影響、特例貸付申請相次ぐ／青森県内"
-      },
-      {
-            "date": "2020\/05\/09",
-            "url": "https://www.daily-tohoku.news/archives/35320",
-            "text": "コロナ情報、ＬＩＮＥで発信／岩手県開設の専用アカウント好評"
       }
     ]
 }
