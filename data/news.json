@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35608",
+            "text": "青森県内初、新型コロナ感染者が死亡"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35603",
+            "text": "【新型コロナ】市総合福祉会館など１０施設、再開へ／八戸市"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35600",
+            "text": "「リスク高い都道府県への移動回避」など求める　岩手県の感染防止対策決定／新型コロナ対策本部員会議"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35599",
+            "text": "【新型コロナ】臨時会閉会、２０年度一般会計補正予算など可決／青森県議会"
+      },
+      {
+            "date": "2020\/05\/15",
+            "url": "https://www.daily-tohoku.news/archives/35592",
+            "text": "【新型コロナ】夏の成人式中止　来年１月開催も視野に日程検討／六戸町"
+      },
+      {
             "date": "2020\/05\/14",
             "url": "https://www.daily-tohoku.news/archives/35536",
             "text": "【新型コロナ】分散授業、時差出校…　感染防止へ「要注意月間」／八戸市内小中"
@@ -34,31 +59,6 @@
             "date": "2020\/05\/13",
             "url": "https://www.daily-tohoku.news/archives/35429",
             "text": "【新型コロナ】高総文・ネット開催へ／生徒たち、初の試みに期待と不安交錯"
-      },
-      {
-            "date": "2020\/05\/12",
-            "url": "https://www.daily-tohoku.news/archives/35416",
-            "text": "コロナ影響、純利益８３％減／大平洋金属２０年３月期"
-      },
-      {
-            "date": "2020\/05\/12",
-            "url": "https://www.daily-tohoku.news/archives/35376",
-            "text": "【新型コロナ】ＰＣＲ検査数大幅増へ、青森県が新装置２台導入／入院１４９床確保目指す"
-      },
-      {
-            "date": "2020\/05\/11",
-            "url": "https://www.daily-tohoku.news/archives/35364",
-            "text": "【新型コロナ】小中学校再開　笑顔の再会／十和田など上十三の１市３町"
-      },
-      {
-            "date": "2020\/05\/11",
-            "url": "https://www.daily-tohoku.news/archives/35362",
-            "text": "【新型コロナ】青森県知事２０％、副知事１５％給料減、６月から"
-      },
-      {
-            "date": "2020\/05\/11",
-            "url": "https://www.daily-tohoku.news/archives/35355",
-            "text": "コロナ対策に４７億円　保健医療体制の整備、経済活動回復へ／青森県補正予算"
       }
     ]
 }
