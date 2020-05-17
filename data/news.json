@@ -1,9 +1,34 @@
 {
     "newsItems": [
       {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35638",
-            "text": "青森県内初、新型コロナ感染者が死亡"
+            "date": "2020\/05\/17",
+            "url": "https://www.daily-tohoku.news/archives/35703",
+            "text": "【新型コロナ】「麺屋　鈴」（むつ）がチャリティーＴシャツ販売、市に売り上げ寄付"
+      },
+      {
+            "date": "2020\/05\/17",
+            "url": "https://www.daily-tohoku.news/archives/35688",
+            "text": "【新型コロナ】八戸市出身の格闘家、前澤さん「相手に勝つために、今は自分を守るとき」／自主トレ励む"
+      },
+      {
+            "date": "2020\/05\/16",
+            "url": "https://www.daily-tohoku.news/archives/35651",
+            "text": "【新型コロナ】三戸郡中体連、夏季大会中止へ"
+      },
+      {
+            "date": "2020\/05\/16",
+            "url": "https://www.daily-tohoku.news/archives/35646",
+            "text": "【新型コロナ】イベント新基準で青森県内関係者／新しい在り方模索"
+      },
+      {
+            "date": "2020\/05\/16",
+            "url": "https://www.daily-tohoku.news/archives/35643",
+            "text": "【新型コロナ】夏の甲子園中止へ／青森県関係者「残念」「早く結論を」"
+      },
+      {
+            "date": "2020\/05\/16",
+            "url": "https://www.daily-tohoku.news/archives/35636",
+            "text": "【新型コロナ】青森県「経済対策会議」来月設置／独自の健在対策を検討"
       },
       {
             "date": "2020\/05\/15",
@@ -29,31 +54,6 @@
             "date": "2020\/05\/15",
             "url": "https://www.daily-tohoku.news/archives/35599",
             "text": "【新型コロナ】臨時会閉会、２０年度一般会計補正予算など可決／青森県議会"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35592",
-            "text": "【新型コロナ】夏の成人式中止　来年１月開催も視野に日程検討／六戸町"
-      },
-      {
-            "date": "2020\/05\/14",
-            "url": "https://www.daily-tohoku.news/archives/35536",
-            "text": "【新型コロナ】分散授業、時差出校…　感染防止へ「要注意月間」／八戸市内小中"
-      },
-      {
-            "date": "2020\/05\/14",
-            "url": "https://www.daily-tohoku.news/archives/35525",
-            "text": "【新型コロナ】定額給付金対象外の新生児に１０万円／五戸町"
-      },
-      {
-            "date": "2020\/05\/14",
-            "url": "https://www.daily-tohoku.news/archives/35513",
-            "text": "【新型コロナ】台南市（台湾）が青森県などに医療用物品を寄贈"
-      },
-      {
-            "date": "2020\/05\/13",
-            "url": "https://www.daily-tohoku.news/archives/35469",
-            "text": "新型コロナ医療相談窓口を一本化／岩手県"
       }
     ]
 }
