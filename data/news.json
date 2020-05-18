@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/18",
+            "url": "https://www.daily-tohoku.news/archives/35758",
+            "text": "【新型コロナ】売り上げ減の全事業者に１０万円／三戸町が追加支援策"
+      },
+      {
+            "date": "2020\/05\/18",
+            "url": "https://www.daily-tohoku.news/archives/35751",
+            "text": "コロナ禍で休業中の従業員、農業分野で活躍"
+      },
+      {
             "date": "2020\/05\/17",
             "url": "https://www.daily-tohoku.news/archives/35703",
             "text": "【新型コロナ】「麺屋　鈴」（むつ）がチャリティーＴシャツ販売、市に売り上げ寄付"
@@ -44,16 +54,6 @@
             "date": "2020\/05\/15",
             "url": "https://www.daily-tohoku.news/archives/35603",
             "text": "【新型コロナ】市総合福祉会館など１０施設、再開へ／八戸市"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35600",
-            "text": "「リスク高い都道府県への移動回避」など求める　岩手県の感染防止対策決定／新型コロナ対策本部員会議"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35599",
-            "text": "【新型コロナ】臨時会閉会、２０年度一般会計補正予算など可決／青森県議会"
       }
     ]
 }
