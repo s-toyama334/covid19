@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/20",
+            "url": "https://www.daily-tohoku.news/archives/35860",
+            "text": "【新型コロナ】ＧＷ後２週間　新規感染なし／青森県内"
+      },
+      {
+            "date": "2020\/05\/20",
+            "url": "https://www.daily-tohoku.news/archives/35847",
+            "text": "新型コロナ「既に影響」６５％　売上減少が最多／青森県内企業"
+      },
+      {
             "date": "2020\/05\/19",
             "url": "https://www.daily-tohoku.news/archives/35768",
             "text": "映像や文字でやりとり円滑に　県立青森聾学校でオンライン授業"
@@ -49,16 +59,6 @@
             "date": "2020\/05\/15",
             "url": "https://www.daily-tohoku.news/archives/35633",
             "text": "【新型コロナ】保健所職員の残業時間、上十三で６・６倍"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35628",
-            "text": "【新型コロナ】南部町教委、小中学校の夏休み短縮"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35603",
-            "text": "【新型コロナ】市総合福祉会館など１０施設、再開へ／八戸市"
       }
     ]
 }
