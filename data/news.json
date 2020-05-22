@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/05\/22",
+            "url": "https://www.daily-tohoku.news/archives/35943",
+            "text": "【新型コロナ】支給対象、全業種に拡大へ　八戸市が独自支援策"
+      },
+      {
+            "date": "2020\/05\/21",
+            "url": "https://www.daily-tohoku.news/archives/35930",
+            "text": "「８ｂａｓｅ」開業９月に延期　新型コロナ影響、工事に遅れ"
+      },
+      {
+            "date": "2020\/05\/21",
+            "url": "https://www.daily-tohoku.news/archives/35924",
+            "text": "林業のコロナ支援、県と県議会に求める　青森県林業協会と県林業会議"
+      },      
+      {
+            "date": "2020\/05\/21",
+            "url": "https://www.daily-tohoku.news/archives/35924",
+            "text": "林業のコロナ支援、県と県議会に求める　青森県林業協会と県林業会議"
+      },
+      {
+            "date": "2020\/05\/20",
+            "url": "https://www.daily-tohoku.news/archives/35908",
+            "text": "【新型コロナ】青森県内の患者３人退院予定"
+      },
+      {
             "date": "2020\/05\/20",
             "url": "https://www.daily-tohoku.news/archives/35860",
             "text": "【新型コロナ】ＧＷ後２週間　新規感染なし／青森県内"
@@ -49,16 +74,6 @@
             "date": "2020\/05\/16",
             "url": "https://www.daily-tohoku.news/archives/35643",
             "text": "【新型コロナ】夏の甲子園中止へ／青森県関係者「残念」「早く結論を」"
-      },
-      {
-            "date": "2020\/05\/16",
-            "url": "https://www.daily-tohoku.news/archives/35636",
-            "text": "【新型コロナ】青森県「経済対策会議」来月設置／独自の健在対策を検討"
-      },
-      {
-            "date": "2020\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/35633",
-            "text": "【新型コロナ】保健所職員の残業時間、上十三で６・６倍"
       }
     ]
 }
