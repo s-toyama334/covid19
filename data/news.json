@@ -1,5 +1,26 @@
 {
     "newsItems": [
+      
+      {
+            "date": "2020\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/36051",
+            "text": "和風グリル「飛鳥」（八戸）が創業５０年／コロナ禍でも奮闘「店を守り抜く」"
+      },
+      {
+            "date": "2020\/05\/24",
+            "url": "https://www.daily-tohoku.news/archives/36043",
+            "text": "【新型コロナ】ビデオ会議アプリを活用、就活をサポート／ジョブカフェあおもり"
+      },
+      {
+            "date": "2020\/05\/24",
+            "url": "https://www.daily-tohoku.news/archives/36023",
+            "text": "【新型コロナ】焼き鳥の移動販売店「兼田」（八戸）仮設店舗設置／兼田さん「とにかく前へ進まなければ」"
+      },
+      {
+            "date": "2020\/05\/23",
+            "url": "https://www.daily-tohoku.news/archives/35992",
+            "text": "【新型コロナ】市立小中学校６月以降の教育活動の指針をまとめる／八戸市教委"
+      },
       {
             "date": "2020\/05\/23",
             "url": "https://www.daily-tohoku.news/archives/35989",
@@ -25,11 +46,6 @@
             "url": "https://www.daily-tohoku.news/archives/35930",
             "text": "「８ｂａｓｅ」開業９月に延期　新型コロナ影響、工事に遅れ"
       },
-      {
-            "date": "2020\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/35924",
-            "text": "林業のコロナ支援、県と県議会に求める　青森県林業協会と県林業会議"
-      },      
       {
             "date": "2020\/05\/21",
             "url": "https://www.daily-tohoku.news/archives/35924",
@@ -64,21 +80,6 @@
             "date": "2020\/05\/18",
             "url": "https://www.daily-tohoku.news/archives/35751",
             "text": "コロナ禍で休業中の従業員、農業分野で活躍"
-      },
-      {
-            "date": "2020\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/35703",
-            "text": "【新型コロナ】「麺屋　鈴」（むつ）がチャリティーＴシャツ販売、市に売り上げ寄付"
-      },
-      {
-            "date": "2020\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/35688",
-            "text": "【新型コロナ】八戸市出身の格闘家、前澤さん「相手に勝つために、今は自分を守るとき」／自主トレ励む"
-      },
-      {
-            "date": "2020\/05\/16",
-            "url": "https://www.daily-tohoku.news/archives/35651",
-            "text": "【新型コロナ】三戸郡中体連、夏季大会中止へ"
       }
     ]
 }
