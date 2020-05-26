@@ -1,10 +1,29 @@
 {
     "newsItems": [
-      
+      {
+            "date": "2020\/05\/26",
+            "url": "https://www.daily-tohoku.news/archives/36109",
+            "text": "【新型コロナ】「はちのへゆーゆらんど新八温泉」今月末で閉館／市内最大規模の温泉施設、２９年の営業に幕"
+      },
       {
             "date": "2020\/05\/25",
-            "url": "https://www.daily-tohoku.news/archives/36051",
-            "text": "和風グリル「飛鳥」（八戸）が創業５０年／コロナ禍でも奮闘「店を守り抜く」"
+            "url": "https://www.daily-tohoku.news/archives/36098",
+            "text": "館鼻岸壁朝市（八戸）６月１４日から開催　コロナ対策を徹底"
+      },
+      {
+            "date": "2020\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/36097",
+            "text": "【新型コロナ】八戸市教委が奨学生募集"
+      },
+      {
+            "date": "2020\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/36075",
+            "text": "八戸市の財政調整基金、コロナ対策で残り３億４千万円／今後の財政運営の不安材料に"
+      },
+      {
+            "date": "2020\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/36052",
+            "text": "コロナで車検延長、分かりやすく解説　八工大生が動画制作"
       },
       {
             "date": "2020\/05\/24",
@@ -40,46 +59,6 @@
             "date": "2020\/05\/22",
             "url": "https://www.daily-tohoku.news/archives/35943",
             "text": "【新型コロナ】支給対象、全業種に拡大へ　八戸市が独自支援策"
-      },
-      {
-            "date": "2020\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/35930",
-            "text": "「８ｂａｓｅ」開業９月に延期　新型コロナ影響、工事に遅れ"
-      },
-      {
-            "date": "2020\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/35924",
-            "text": "林業のコロナ支援、県と県議会に求める　青森県林業協会と県林業会議"
-      },
-      {
-            "date": "2020\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/35908",
-            "text": "【新型コロナ】青森県内の患者３人退院予定"
-      },
-      {
-            "date": "2020\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/35860",
-            "text": "【新型コロナ】ＧＷ後２週間　新規感染なし／青森県内"
-      },
-      {
-            "date": "2020\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/35847",
-            "text": "新型コロナ「既に影響」６５％　売上減少が最多／青森県内企業"
-      },
-      {
-            "date": "2020\/05\/19",
-            "url": "https://www.daily-tohoku.news/archives/35768",
-            "text": "映像や文字でやりとり円滑に　県立青森聾学校でオンライン授業"
-      },
-      {
-            "date": "2020\/05\/18",
-            "url": "https://www.daily-tohoku.news/archives/35758",
-            "text": "【新型コロナ】売り上げ減の全事業者に１０万円／三戸町が追加支援策"
-      },
-      {
-            "date": "2020\/05\/18",
-            "url": "https://www.daily-tohoku.news/archives/35751",
-            "text": "コロナ禍で休業中の従業員、農業分野で活躍"
       }
     ]
 }
