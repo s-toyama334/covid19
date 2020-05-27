@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2020\/05\/26",
+            "url": "https://www.daily-tohoku.news/archives/36170",
+            "text": "【新型コロナ】青森県、段階的に移動制限緩和へ／県専門家会議"
+      },
+      {
+            "date": "2020\/05\/26",
+            "url": "https://www.daily-tohoku.news/archives/36147",
+            "text": "国際ホテル（青森市）破産　負債１６億円、新型コロナ影響"
+      },
+      {
+            "date": "2020\/05\/26",
+            "url": "https://www.daily-tohoku.news/archives/36125",
+            "text": "「黒にんにく」健康効果に注目　関東圏中心に注文増、新型コロナ影響か"
+      },
+      {
+            "date": "2020\/05\/26",
             "url": "https://www.daily-tohoku.news/archives/36109",
             "text": "【新型コロナ】「はちのへゆーゆらんど新八温泉」今月末で閉館／市内最大規模の温泉施設、２９年の営業に幕"
       },
@@ -49,16 +64,6 @@
             "date": "2020\/05\/22",
             "url": "https://www.daily-tohoku.news/archives/35985",
             "text": "【新型コロナ】感染者の子ども２人　健康観察終了／上十三管内"
-      },
-      {
-            "date": "2020\/05\/22",
-            "url": "https://www.daily-tohoku.news/archives/35982",
-            "text": "【新型コロナ】テレワーク、遠隔授業、オンライン飲み会など／ＩＣＴ活用のコミュニケーション需要増、社会はどう変わるのか"
-      },
-      {
-            "date": "2020\/05\/22",
-            "url": "https://www.daily-tohoku.news/archives/35943",
-            "text": "【新型コロナ】支給対象、全業種に拡大へ　八戸市が独自支援策"
       }
     ]
 }
