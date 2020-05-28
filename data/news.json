@@ -1,5 +1,30 @@
 {
-    "newsItems": [
+    "newsItems": [      
+      {
+            "date": "2020\/05\/28",
+            "url": "https://www.daily-tohoku.news/archives/36233",
+            "text": "コロナ影響　県内損失１６６１億円／弘大講師、２０年度推計"
+      },
+      {
+            "date": "2020\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/36226",
+            "text": "【新型コロナ】イベント人数や移動制限　６月１９日以降段階的に緩和／青森県"
+      },
+      {
+            "date": "2020\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/36220",
+            "text": "市の事業、段階的に再開　八戸市がコロナ対策本部会議"
+      },
+      {
+            "date": "2020\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/36218",
+            "text": "新型コロナ感染者対応の看護職へ危険手当を　青森県看護協会、県に要望"
+      },
+      {
+            "date": "2020\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/36217",
+            "text": "【新型コロナ】青森県内の入院患者１人に"
+      },
       {
             "date": "2020\/05\/26",
             "url": "https://www.daily-tohoku.news/archives/36170",
@@ -39,31 +64,6 @@
             "date": "2020\/05\/25",
             "url": "https://www.daily-tohoku.news/archives/36052",
             "text": "コロナで車検延長、分かりやすく解説　八工大生が動画制作"
-      },
-      {
-            "date": "2020\/05\/24",
-            "url": "https://www.daily-tohoku.news/archives/36043",
-            "text": "【新型コロナ】ビデオ会議アプリを活用、就活をサポート／ジョブカフェあおもり"
-      },
-      {
-            "date": "2020\/05\/24",
-            "url": "https://www.daily-tohoku.news/archives/36023",
-            "text": "【新型コロナ】焼き鳥の移動販売店「兼田」（八戸）仮設店舗設置／兼田さん「とにかく前へ進まなければ」"
-      },
-      {
-            "date": "2020\/05\/23",
-            "url": "https://www.daily-tohoku.news/archives/35992",
-            "text": "【新型コロナ】市立小中学校６月以降の教育活動の指針をまとめる／八戸市教委"
-      },
-      {
-            "date": "2020\/05\/23",
-            "url": "https://www.daily-tohoku.news/archives/35989",
-            "text": "【新型コロナ】八戸市中学校体育大会夏季大会中止、代替大会も行わず"
-      },
-      {
-            "date": "2020\/05\/22",
-            "url": "https://www.daily-tohoku.news/archives/35985",
-            "text": "【新型コロナ】感染者の子ども２人　健康観察終了／上十三管内"
       }
     ]
 }
