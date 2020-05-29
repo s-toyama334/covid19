@@ -1,5 +1,25 @@
 {
-    "newsItems": [      
+    "newsItems": [       
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36301",
+            "text": "【新型コロナ】全国デビューに向け連携確認　「ジュノハート」関係者が南部町で検討会"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36297",
+            "text": "新型コロナ影響、解雇・雇い止めの県内労働者２１２人　宿泊、飲食業で影響大きく／青森労働局"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36292",
+            "text": "【新型コロナ】「ごく当たり前の光景」が戻りつつある八戸市中心街／未知のウイルスに市民ら警戒心は消えず"
+      },
+      {
+            "date": "2020\/05\/28",
+            "url": "https://www.daily-tohoku.news/archives/36287",
+            "text": "【新型コロナ】むつ市が小３～中３に一人１台のタブレット端末配備／全教室の通信環境も整備"
+      },
       {
             "date": "2020\/05\/28",
             "url": "https://www.daily-tohoku.news/archives/36233",
@@ -44,26 +64,6 @@
             "date": "2020\/05\/26",
             "url": "https://www.daily-tohoku.news/archives/36109",
             "text": "【新型コロナ】「はちのへゆーゆらんど新八温泉」今月末で閉館／市内最大規模の温泉施設、２９年の営業に幕"
-      },
-      {
-            "date": "2020\/05\/25",
-            "url": "https://www.daily-tohoku.news/archives/36098",
-            "text": "館鼻岸壁朝市（八戸）６月１４日から開催　コロナ対策を徹底"
-      },
-      {
-            "date": "2020\/05\/25",
-            "url": "https://www.daily-tohoku.news/archives/36097",
-            "text": "【新型コロナ】八戸市教委が奨学生募集"
-      },
-      {
-            "date": "2020\/05\/25",
-            "url": "https://www.daily-tohoku.news/archives/36075",
-            "text": "八戸市の財政調整基金、コロナ対策で残り３億４千万円／今後の財政運営の不安材料に"
-      },
-      {
-            "date": "2020\/05\/25",
-            "url": "https://www.daily-tohoku.news/archives/36052",
-            "text": "コロナで車検延長、分かりやすく解説　八工大生が動画制作"
       }
     ]
 }
