@@ -1,5 +1,51 @@
 {
-    "newsItems": [       
+    "newsItems": [             
+      
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36453",
+            "text": "新型コロナと人権、沼田会長「教訓問い直すべき」「助け合いの力発揮を」と訴え／青森県人権擁護委員連合会"
+      },
+      {
+            "date": "2020\/05\/30",
+            "url": "https://www.daily-tohoku.news/archives/36390",
+            "text": "【新型コロナ】五戸町が飲食店応援チケットを販売"
+      },
+      {
+            "date": "2020\/05\/30",
+            "url": "https://www.daily-tohoku.news/archives/36378",
+            "text": "【新型コロナ】求職者、農家で受け入れ広がる／青森県南地方"
+      },
+      {
+            "date": "2020\/05\/30",
+            "url": "https://www.daily-tohoku.news/archives/36370",
+            "text": "【新型コロナ】観光に大打撃、県内宿泊者数７３・２％減　４月観光統計調査／青森県"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36360",
+            "text": "青森県内４月有効求人倍率１・００倍　新型コロナ影響顕著／青森労働局"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36351",
+            "text": "【新型コロナ】地域経済支援で会員の飲食費助成、１人千円が上限／南部町職員互助会"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36343",
+            "text": "海岸清掃で手当、収入落ち込む漁業者支援　新型コロナ影響で／風間浦村"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36336",
+            "text": "【新型コロナ】十和田市長の期末手当、半額に引き下げ／市内の経済状況など考慮"
+      },
+      {
+            "date": "2020\/05\/29",
+            "url": "https://www.daily-tohoku.news/archives/36334",
+            "text": "コロナ対策の独自給付金を農畜水産業に対象拡大／野辺地町"
+      },
       {
             "date": "2020\/05\/29",
             "url": "https://www.daily-tohoku.news/archives/36301",
@@ -14,56 +60,6 @@
             "date": "2020\/05\/29",
             "url": "https://www.daily-tohoku.news/archives/36292",
             "text": "【新型コロナ】「ごく当たり前の光景」が戻りつつある八戸市中心街／未知のウイルスに市民ら警戒心は消えず"
-      },
-      {
-            "date": "2020\/05\/28",
-            "url": "https://www.daily-tohoku.news/archives/36287",
-            "text": "【新型コロナ】むつ市が小３～中３に一人１台のタブレット端末配備／全教室の通信環境も整備"
-      },
-      {
-            "date": "2020\/05\/28",
-            "url": "https://www.daily-tohoku.news/archives/36233",
-            "text": "コロナ影響　県内損失１６６１億円／弘大講師、２０年度推計"
-      },
-      {
-            "date": "2020\/05\/27",
-            "url": "https://www.daily-tohoku.news/archives/36226",
-            "text": "【新型コロナ】イベント人数や移動制限　６月１９日以降段階的に緩和／青森県"
-      },
-      {
-            "date": "2020\/05\/27",
-            "url": "https://www.daily-tohoku.news/archives/36220",
-            "text": "市の事業、段階的に再開　八戸市がコロナ対策本部会議"
-      },
-      {
-            "date": "2020\/05\/27",
-            "url": "https://www.daily-tohoku.news/archives/36218",
-            "text": "新型コロナ感染者対応の看護職へ危険手当を　青森県看護協会、県に要望"
-      },
-      {
-            "date": "2020\/05\/27",
-            "url": "https://www.daily-tohoku.news/archives/36217",
-            "text": "【新型コロナ】青森県内の入院患者１人に"
-      },
-      {
-            "date": "2020\/05\/26",
-            "url": "https://www.daily-tohoku.news/archives/36170",
-            "text": "【新型コロナ】青森県、段階的に移動制限緩和へ／県専門家会議"
-      },
-      {
-            "date": "2020\/05\/26",
-            "url": "https://www.daily-tohoku.news/archives/36147",
-            "text": "国際ホテル（青森市）破産　負債１６億円、新型コロナ影響"
-      },
-      {
-            "date": "2020\/05\/26",
-            "url": "https://www.daily-tohoku.news/archives/36125",
-            "text": "「黒にんにく」健康効果に注目　関東圏中心に注文増、新型コロナ影響か"
-      },
-      {
-            "date": "2020\/05\/26",
-            "url": "https://www.daily-tohoku.news/archives/36109",
-            "text": "【新型コロナ】「はちのへゆーゆらんど新八温泉」今月末で閉館／市内最大規模の温泉施設、２９年の営業に幕"
       }
     ]
 }
