@@ -1,6 +1,50 @@
 {
-    "newsItems": [             
-      
+    "newsItems": [
+      {
+            "date": "2020\/06\/02",
+            "url": "https://www.daily-tohoku.news/archives/36534",
+            "text": "【新型コロナ】二戸まつり中止"
+      },
+      {
+            "date": "2020\/06\/02",
+            "url": "https://www.daily-tohoku.news/archives/36531",
+            "text": "会議は時短、書面議決　コロナ対策に腐心／青森県内企業・団体"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36515",
+            "text": "【新型コロナ】青森県が経済対策会議の初会合／中小事業者支援へ"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36514",
+            "text": "【新型コロナ】検体採取の手順確認　八戸市医師会が「検査センター」開設"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36510",
+            "text": "【新型コロナ】八戸・神明宮「茅の輪祭」中止"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36500",
+            "text": "【新型コロナ】二戸市、７月上旬にも「発熱外来」設置"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36498",
+            "text": "【新型コロナ】三沢基地航空祭が中止　３２年ぶり"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36497",
+            "text": "新型コロナ入院患者ゼロに／青森県内"
+      },
+      {
+            "date": "2020\/06\/01",
+            "url": "https://www.daily-tohoku.news/archives/36486",
+            "text": "【新型コロナ】町内小売店にも１０万円給付　七戸町"
+      },
       {
             "date": "2020\/06\/01",
             "url": "https://www.daily-tohoku.news/archives/36453",
@@ -20,46 +64,6 @@
             "date": "2020\/05\/30",
             "url": "https://www.daily-tohoku.news/archives/36370",
             "text": "【新型コロナ】観光に大打撃、県内宿泊者数７３・２％減　４月観光統計調査／青森県"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36360",
-            "text": "青森県内４月有効求人倍率１・００倍　新型コロナ影響顕著／青森労働局"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36351",
-            "text": "【新型コロナ】地域経済支援で会員の飲食費助成、１人千円が上限／南部町職員互助会"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36343",
-            "text": "海岸清掃で手当、収入落ち込む漁業者支援　新型コロナ影響で／風間浦村"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36336",
-            "text": "【新型コロナ】十和田市長の期末手当、半額に引き下げ／市内の経済状況など考慮"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36334",
-            "text": "コロナ対策の独自給付金を農畜水産業に対象拡大／野辺地町"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36301",
-            "text": "【新型コロナ】全国デビューに向け連携確認　「ジュノハート」関係者が南部町で検討会"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36297",
-            "text": "新型コロナ影響、解雇・雇い止めの県内労働者２１２人　宿泊、飲食業で影響大きく／青森労働局"
-      },
-      {
-            "date": "2020\/05\/29",
-            "url": "https://www.daily-tohoku.news/archives/36292",
-            "text": "【新型コロナ】「ごく当たり前の光景」が戻りつつある八戸市中心街／未知のウイルスに市民ら警戒心は消えず"
       }
     ]
 }
