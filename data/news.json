@@ -1,6 +1,61 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/36746",
+            "text": "再びにぎわう八戸駅に　駅員の内村さんコロナ収束願う"
+      },
+      {
+            "date": "2020\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/36737",
+            "text": "新型コロナでネット通販のニーズ高まる／外出自粛を背景に市場活況"
+      },
+      {
+            "date": "2020\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/36724",
+            "text": "【新型コロナ】「観光の活性化が重要」三村知事、オンライン全国知事会議で／達増知事は「地域医療体制強化へ国の支援」求める"
+      },
+      {
+            "date": "2020\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/36722",
+            "text": "五戸町がコロナ独自対策の第二弾を発表"
+      },
+      {
+            "date": "2020\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/36721",
+            "text": "【新型コロナ】回答医師の８割以上が外来患者数「減った」／青森県保険医協会"
+      },
+      {
+            "date": "2020\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/36677",
+            "text": "【新型コロナ】八戸商工会議所が需要と供給をマッチングさせる「Ｂｕｙはちのへ＃運動」を展開"
+      },
+      {
+            "date": "2020\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/36658",
+            "text": "【新型コロナ】青森県スポレク祭、７月の一斉開催を中止／分散開催を検討"
+      },
+      {
+            "date": "2020\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/36629",
+            "text": "巨人が坂本、大城両選手の新型コロナ陽性を発表"
+      },
+      {
+            "date": "2020\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/36614",
+            "text": "コロナ関連会見、手話対応に　「命守るため大切」手話通訳士意気込む／青森県"
+      },
+      {
+            "date": "2020\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/36605",
+            "text": "【新型コロナ】「手話通訳の苦労や役割に理解深めて」多くはマスク着けずフェースガードで対応"
+      },
+      {
+            "date": "2020\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/36605",
+            "text": "【新型コロナ】「手話通訳の苦労や役割に理解深めて」多くはマスク着けずフェースガードで対応"
+      },
+      {
             "date": "2020\/06\/02",
             "url": "https://www.daily-tohoku.news/archives/36579",
             "text": "当期純利益３６７万円、新型コロナで大幅減／青い森鉄道１９年度決算"
@@ -24,46 +79,6 @@
             "date": "2020\/06\/02",
             "url": "https://www.daily-tohoku.news/archives/36531",
             "text": "会議は時短、書面議決　コロナ対策に腐心／青森県内企業・団体"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36515",
-            "text": "【新型コロナ】青森県が経済対策会議の初会合／中小事業者支援へ"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36514",
-            "text": "【新型コロナ】検体採取の手順確認　八戸市医師会が「検査センター」開設"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36510",
-            "text": "【新型コロナ】八戸・神明宮「茅の輪祭」中止"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36500",
-            "text": "【新型コロナ】二戸市、７月上旬にも「発熱外来」設置"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36498",
-            "text": "【新型コロナ】三沢基地航空祭が中止　３２年ぶり"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36497",
-            "text": "新型コロナ入院患者ゼロに／青森県内"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36486",
-            "text": "【新型コロナ】町内小売店にも１０万円給付　七戸町"
-      },
-      {
-            "date": "2020\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/36453",
-            "text": "新型コロナと人権、沼田会長「教訓問い直すべき」「助け合いの力発揮を」と訴え／青森県人権擁護委員連合会"
       }
     ]
 }
