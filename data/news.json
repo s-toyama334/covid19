@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/06",
+            "url": "https://www.daily-tohoku.news/archives/36810",
+            "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
+      },
+      {
+            "date": "2020\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/36794",
+            "text": "【新型コロナ】農林漁業者へ支援を　岩手県町村会、県に１６項目要望"
+      },
+      {
+            "date": "2020\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/36789",
+            "text": "【新型コロナ】県の休業要請協力金　申請６６００件、支給５３９５件"
+      },
+      {
             "date": "2020\/06\/05",
             "url": "https://www.daily-tohoku.news/archives/36746",
             "text": "再びにぎわう八戸駅に　駅員の内村さんコロナ収束願う"
@@ -64,21 +79,6 @@
             "date": "2020\/06\/02",
             "url": "https://www.daily-tohoku.news/archives/36576",
             "text": "シーガルビューホテル、コロナ療養所に適さず"
-      },
-      {
-            "date": "2020\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/36569",
-            "text": "青森県内５月倒産２件、負債１６億３千万円　新型コロナ影響、今後急増も／東京商工リサーチ"
-      },
-      {
-            "date": "2020\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/36534",
-            "text": "【新型コロナ】二戸まつり中止"
-      },
-      {
-            "date": "2020\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/36531",
-            "text": "会議は時短、書面議決　コロナ対策に腐心／青森県内企業・団体"
       }
     ]
 }
