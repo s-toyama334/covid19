@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/08",
+            "url": "https://www.daily-tohoku.news/archives/36894",
+            "text": "【新型コロナ】苦境逆手にＩＣＴ促進　オンラインで町教育研究大会も／三戸"
+      },
+      {
+            "date": "2020\/06\/07",
+            "url": "https://www.daily-tohoku.news/archives/36851",
+            "text": "外出自粛、休業要請奏功　青森県、新規コロナ感染者ゼロ１カ月"
+      },
+      {
+            "date": "2020\/06\/06",
+            "url": "https://www.daily-tohoku.news/archives/36810",
+            "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
+      },
+      {
             "date": "2020\/06\/06",
             "url": "https://www.daily-tohoku.news/archives/36810",
             "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
@@ -64,21 +79,6 @@
             "date": "2020\/06\/03",
             "url": "https://www.daily-tohoku.news/archives/36605",
             "text": "【新型コロナ】「手話通訳の苦労や役割に理解深めて」多くはマスク着けずフェースガードで対応"
-      },
-      {
-            "date": "2020\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/36605",
-            "text": "【新型コロナ】「手話通訳の苦労や役割に理解深めて」多くはマスク着けずフェースガードで対応"
-      },
-      {
-            "date": "2020\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/36579",
-            "text": "当期純利益３６７万円、新型コロナで大幅減／青い森鉄道１９年度決算"
-      },
-      {
-            "date": "2020\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/36576",
-            "text": "シーガルビューホテル、コロナ療養所に適さず"
       }
     ]
 }
