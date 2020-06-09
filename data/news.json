@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/06\/08",
+            "url": "https://www.daily-tohoku.news/archives/36936",
+            "text": "【新型コロナ】高校生１人当たり１０万円給付へ／六ケ所村"
+      },
+      {
+            "date": "2020\/06\/08",
+            "url": "https://www.daily-tohoku.news/archives/36924",
+            "text": "コロナで事業中止　留保予算８千万円／八戸市議会一般質問"
+      },
+      {
+            "date": "2020\/06\/08",
             "url": "https://www.daily-tohoku.news/archives/36894",
             "text": "【新型コロナ】苦境逆手にＩＣＴ促進　オンラインで町教育研究大会も／三戸"
       },
@@ -59,26 +69,6 @@
             "date": "2020\/06\/04",
             "url": "https://www.daily-tohoku.news/archives/36677",
             "text": "【新型コロナ】八戸商工会議所が需要と供給をマッチングさせる「Ｂｕｙはちのへ＃運動」を展開"
-      },
-      {
-            "date": "2020\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/36658",
-            "text": "【新型コロナ】青森県スポレク祭、７月の一斉開催を中止／分散開催を検討"
-      },
-      {
-            "date": "2020\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/36629",
-            "text": "巨人が坂本、大城両選手の新型コロナ陽性を発表"
-      },
-      {
-            "date": "2020\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/36614",
-            "text": "コロナ関連会見、手話対応に　「命守るため大切」手話通訳士意気込む／青森県"
-      },
-      {
-            "date": "2020\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/36605",
-            "text": "【新型コロナ】「手話通訳の苦労や役割に理解深めて」多くはマスク着けずフェースガードで対応"
       }
     ]
 }
