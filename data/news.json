@@ -1,6 +1,41 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37052",
+            "text": "【新型コロナ】林業に打撃、行き場失う原木／関係者「どこにも出荷できない」"
+      },
+      {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37044",
+            "text": "【新型コロナ】外出自粛で青森県内５割の子どもに心身に悪影響／全国認定こども園支部調査"
+      },
+      {
+            "date": "2020\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/37042",
+            "text": "【新型コロナ】県高総文１５部門の実施決定、総合開会式は中止／青森県高文連理事会"
+      },
+      {
+            "date": "2020\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/37041",
+            "text": "【新型コロナ】「あおもり倉石牛」支援でクラウドファンディング活用"
+      },
+      {
+            "date": "2020\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/37030",
+            "text": "【新型コロナ】ユニバース（八戸）が２０年入社式を開催／新入社員５２人が地域貢献を誓う"
+      },
+      {
+            "date": "2020\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/37020",
+            "text": "【新型コロナ】海女の素潜り実演中止／久慈市漁協小袖漁業生産部"
+      },
+      {
+            "date": "2020\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/36963",
+            "text": "閉店デマ大迷惑！！再開時期模索の休業店主、怒り／コロナ禍の八戸市内"
+      },
+      {
             "date": "2020\/06\/08",
             "url": "https://www.daily-tohoku.news/archives/36936",
             "text": "【新型コロナ】高校生１人当たり１０万円給付へ／六ケ所村"
@@ -26,11 +61,6 @@
             "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
       },
       {
-            "date": "2020\/06\/06",
-            "url": "https://www.daily-tohoku.news/archives/36810",
-            "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
-      },
-      {
             "date": "2020\/06\/05",
             "url": "https://www.daily-tohoku.news/archives/36794",
             "text": "【新型コロナ】農林漁業者へ支援を　岩手県町村会、県に１６項目要望"
@@ -39,36 +69,6 @@
             "date": "2020\/06\/05",
             "url": "https://www.daily-tohoku.news/archives/36789",
             "text": "【新型コロナ】県の休業要請協力金　申請６６００件、支給５３９５件"
-      },
-      {
-            "date": "2020\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/36746",
-            "text": "再びにぎわう八戸駅に　駅員の内村さんコロナ収束願う"
-      },
-      {
-            "date": "2020\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/36737",
-            "text": "新型コロナでネット通販のニーズ高まる／外出自粛を背景に市場活況"
-      },
-      {
-            "date": "2020\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/36724",
-            "text": "【新型コロナ】「観光の活性化が重要」三村知事、オンライン全国知事会議で／達増知事は「地域医療体制強化へ国の支援」求める"
-      },
-      {
-            "date": "2020\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/36722",
-            "text": "五戸町がコロナ独自対策の第二弾を発表"
-      },
-      {
-            "date": "2020\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/36721",
-            "text": "【新型コロナ】回答医師の８割以上が外来患者数「減った」／青森県保険医協会"
-      },
-      {
-            "date": "2020\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/36677",
-            "text": "【新型コロナ】八戸商工会議所が需要と供給をマッチングさせる「Ｂｕｙはちのへ＃運動」を展開"
       }
     ]
 }
