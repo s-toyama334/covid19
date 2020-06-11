@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/37132",
+            "text": "青森県補正予算１８７億円　新型コロナ感染防止対策で応援金１０万円／公立小中校に学習指導員配置も"
+      },
+      {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37109",
+            "text": "東北信越ブロック内各空港の新型コロナ対応でテレビ会議／東京航空局"
+      },
+      {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37107",
+            "text": "【新型コロナ】東北町が町長や議員の給与削減、７月から半年間"
+      },
+      {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37103",
+            "text": "達増知事、震災復興やコロナ対策の財源確保をオンラインで要望／岩手県"
+      },
+      {
+            "date": "2020\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/37097",
+            "text": "【新型コロナ】９月の「八戸セミナー」中止／八戸市"
+      },
+      {
             "date": "2020\/06\/10",
             "url": "https://www.daily-tohoku.news/archives/37052",
             "text": "【新型コロナ】林業に打撃、行き場失う原木／関係者「どこにも出荷できない」"
@@ -39,36 +64,6 @@
             "date": "2020\/06\/08",
             "url": "https://www.daily-tohoku.news/archives/36936",
             "text": "【新型コロナ】高校生１人当たり１０万円給付へ／六ケ所村"
-      },
-      {
-            "date": "2020\/06\/08",
-            "url": "https://www.daily-tohoku.news/archives/36924",
-            "text": "コロナで事業中止　留保予算８千万円／八戸市議会一般質問"
-      },
-      {
-            "date": "2020\/06\/08",
-            "url": "https://www.daily-tohoku.news/archives/36894",
-            "text": "【新型コロナ】苦境逆手にＩＣＴ促進　オンラインで町教育研究大会も／三戸"
-      },
-      {
-            "date": "2020\/06\/07",
-            "url": "https://www.daily-tohoku.news/archives/36851",
-            "text": "外出自粛、休業要請奏功　青森県、新規コロナ感染者ゼロ１カ月"
-      },
-      {
-            "date": "2020\/06\/06",
-            "url": "https://www.daily-tohoku.news/archives/36810",
-            "text": "【新型コロナ】感染者との接触可能性、メールで通知　八戸市が導入／県内初"
-      },
-      {
-            "date": "2020\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/36794",
-            "text": "【新型コロナ】農林漁業者へ支援を　岩手県町村会、県に１６項目要望"
-      },
-      {
-            "date": "2020\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/36789",
-            "text": "【新型コロナ】県の休業要請協力金　申請６６００件、支給５３９５件"
       }
     ]
 }
