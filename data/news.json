@@ -1,6 +1,41 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37183",
+            "text": "コロナ影響大幅下降　マイナス５０・０／青森県内４～６月期ＢＳＩ"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37181",
+            "text": "【新型コロナ】４、５月客数大幅減　八戸市の主要観光施設５カ所"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37176",
+            "text": "コロナで受診、服薬やめないで　電話で診療、処方薬宅配／八戸市と周辺町村"
+      },
+      {
+            "date": "2020\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/37154",
+            "text": "【新型コロナ】町内小売店に１０万円　一戸町が独自追加支援策"
+      },
+      {
+            "date": "2020\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/37151",
+            "text": "【新型コロナ】野辺地町、子ども１人当たり２万円支給へ"
+      },
+      {
+            "date": "2020\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/37138",
+            "text": "【新型コロナ】水産加工「ヤイチ」の柳沢さん「今こそ地域のために」／鮫町テークアウトマップを制作"
+      },
+      {
+            "date": "2020\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/37137",
+            "text": "よこまち（八戸）の移動スーパー事業、新型コロナで重要性高まる／売り上げアップ、利用客に好評"
+      },
+      {
             "date": "2020\/06\/11",
             "url": "https://www.daily-tohoku.news/archives/37132",
             "text": "青森県補正予算１８７億円　新型コロナ感染防止対策で応援金１０万円／公立小中校に学習指導員配置も"
@@ -39,31 +74,6 @@
             "date": "2020\/06\/09",
             "url": "https://www.daily-tohoku.news/archives/37042",
             "text": "【新型コロナ】県高総文１５部門の実施決定、総合開会式は中止／青森県高文連理事会"
-      },
-      {
-            "date": "2020\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/37041",
-            "text": "【新型コロナ】「あおもり倉石牛」支援でクラウドファンディング活用"
-      },
-      {
-            "date": "2020\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/37030",
-            "text": "【新型コロナ】ユニバース（八戸）が２０年入社式を開催／新入社員５２人が地域貢献を誓う"
-      },
-      {
-            "date": "2020\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/37020",
-            "text": "【新型コロナ】海女の素潜り実演中止／久慈市漁協小袖漁業生産部"
-      },
-      {
-            "date": "2020\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/36963",
-            "text": "閉店デマ大迷惑！！再開時期模索の休業店主、怒り／コロナ禍の八戸市内"
-      },
-      {
-            "date": "2020\/06\/08",
-            "url": "https://www.daily-tohoku.news/archives/36936",
-            "text": "【新型コロナ】高校生１人当たり１０万円給付へ／六ケ所村"
       }
     ]
 }
