@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/13",
+            "url": "https://www.daily-tohoku.news/archives/37241",
+            "text": "ネココロナ研究１８年「知識、技術提供を」北里大・高野教授、ワクチン開発支援へ"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37234",
+            "text": "和牛生産者を応援「コロナに負けない！三戸・田子牛フェア」"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37233",
+            "text": "コロナ感染防止策　旗でアピール／八戸中心商店街連絡協議会"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37224",
+            "text": "【新型コロナ】青森県、休業協力金受け付け終了"
+      },
+      {
+            "date": "2020\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/37218",
+            "text": "【新型コロナ】注意喚起メールサービス、新たに１１施設で導入／八戸"
+      },
+      {
             "date": "2020\/06\/12",
             "url": "https://www.daily-tohoku.news/archives/37183",
             "text": "コロナ影響大幅下降　マイナス５０・０／青森県内４～６月期ＢＳＩ"
@@ -49,31 +74,6 @@
             "date": "2020\/06\/10",
             "url": "https://www.daily-tohoku.news/archives/37107",
             "text": "【新型コロナ】東北町が町長や議員の給与削減、７月から半年間"
-      },
-      {
-            "date": "2020\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/37103",
-            "text": "達増知事、震災復興やコロナ対策の財源確保をオンラインで要望／岩手県"
-      },
-      {
-            "date": "2020\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/37097",
-            "text": "【新型コロナ】９月の「八戸セミナー」中止／八戸市"
-      },
-      {
-            "date": "2020\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/37052",
-            "text": "【新型コロナ】林業に打撃、行き場失う原木／関係者「どこにも出荷できない」"
-      },
-      {
-            "date": "2020\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/37044",
-            "text": "【新型コロナ】外出自粛で青森県内５割の子どもに心身に悪影響／全国認定こども園支部調査"
-      },
-      {
-            "date": "2020\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/37042",
-            "text": "【新型コロナ】県高総文１５部門の実施決定、総合開会式は中止／青森県高文連理事会"
       }
     ]
 }
