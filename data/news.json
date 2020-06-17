@@ -1,6 +1,25 @@
 {
     "newsItems": [
-      
+      {
+            "date": "2020\/06\/17",
+            "url": "https://www.daily-tohoku.news/archives/37441",
+            "text": "米軍三沢基地内で複数のコロナ陽性"
+      },
+      {
+            "date": "2020\/06\/16",
+            "url": "https://www.daily-tohoku.news/archives/37416",
+            "text": "【新型コロナ】十和田市飲食業協会が市に「飲食店利用呼び掛け」を要望"
+      },
+      {
+            "date": "2020\/06\/16",
+            "url": "https://www.daily-tohoku.news/archives/37415",
+            "text": "【新型コロナ】おいらせ町に匿名で３０万円の寄付"
+      },
+      {
+            "date": "2020\/06\/16",
+            "url": "https://www.daily-tohoku.news/archives/37406",
+            "text": "【新型コロナ】村独自の追加経済対策　全村民に現金１万円給付など／佐井村"
+      },
       {
             "date": "2020\/06\/15",
             "url": "https://www.daily-tohoku.news/archives/37371",
@@ -50,26 +69,6 @@
             "date": "2020\/06\/12",
             "url": "https://www.daily-tohoku.news/archives/37233",
             "text": "コロナ感染防止策　旗でアピール／八戸中心商店街連絡協議会"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37224",
-            "text": "【新型コロナ】青森県、休業協力金受け付け終了"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37218",
-            "text": "【新型コロナ】注意喚起メールサービス、新たに１１施設で導入／八戸"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37183",
-            "text": "コロナ影響大幅下降　マイナス５０・０／青森県内４～６月期ＢＳＩ"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37181",
-            "text": "【新型コロナ】４、５月客数大幅減　八戸市の主要観光施設５カ所"
       }
     ]
 }
