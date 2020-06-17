@@ -957,13 +957,13 @@
         ]
     },
     "inspection_status_summary": {
-        "date": "2020\/06\/15 09:30",
+        "date": "2020\/06\/17 09:30",
         "attr": "検査実施人数（累計）",
-        "value": 917,
+        "value": 922,
         "children": [
             {
                 "attr": "検査実施件数（累計）",
-                "value": 917,
+                "value": 922,
                 "children": [
                     {
                         "attr": "陰性件数",
@@ -977,10 +977,10 @@
             }
         ]
     },
-    "lastUpdate": "2020\/06\/15 09:30",
+    "lastUpdate": "2020\/06\/17 09:30",
     "main_summary": {
         "attr": "検査実施人数",
-        "value":  917,
+        "value":  922,
         "children": [
             {
                 "attr": "陽性患者数",
