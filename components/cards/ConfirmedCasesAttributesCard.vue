@@ -9,9 +9,6 @@
       :info="sumInfoOfPatients"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
     />
-    <template v-slot:description>
-      {{ $t('※土・日・祝日を除く庁舎開庁日の1週間累計数') }}
-    </template>
   </v-col>
 </template>
 
