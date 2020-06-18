@@ -1,6 +1,6 @@
 <template>
-  <p class="annotation" style="font-size:12px; margin-top:10px;">※米軍三沢基地内の感染者は含まれていない</p>
   <v-col cols="12" md="6" class="DataCard">
+    <p class="annotation" style="font-size:12px; margin-top:10px;">※米軍三沢基地内の感染者は含まれていない</p>
     <time-bar-chart
       :title="$t('青森県内の陽性患者数')"
       :title-id="'number-of-confirmed-cases'"
