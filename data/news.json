@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37520",
+            "text": "【米軍三沢コロナ感染】住民の濃厚接触有無、青森県確認急ぐ"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37518",
+            "text": "【米軍三沢コロナ感染】「基地の外に広げないで」　経済ダメージ懸念も／三沢市民"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37512",
+            "text": "【新型コロナ】米軍三沢で３人感染　市長「基地内で抑えられている」"
+      },
+      {
             "date": "2020\/06\/17",
             "url": "https://www.daily-tohoku.news/archives/37441",
             "text": "米軍三沢基地内で複数のコロナ陽性"
@@ -44,31 +59,11 @@
             "date": "2020\/06\/15",
             "url": "https://www.daily-tohoku.news/archives/37343",
             "text": "【新型コロナ】八戸市内バス・タクシー事業者、プレミアム券限定販売へ"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37343",
-            "text": "【新型コロナ】八戸市内バス・タクシー事業者、プレミアム券限定販売へ"
-      },
+      }
       {
             "date": "2020\/06\/15",
             "url": "https://www.daily-tohoku.news/archives/37341",
             "text": "【新型コロナ】高齢者世帯の一部に弁当配達、村出身学生に５万円／九戸村が追加経済対策"
-      },
-      {
-            "date": "2020\/06\/13",
-            "url": "https://www.daily-tohoku.news/archives/37241",
-            "text": "ネココロナ研究１８年「知識、技術提供を」北里大・高野教授、ワクチン開発支援へ"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37234",
-            "text": "和牛生産者を応援「コロナに負けない！三戸・田子牛フェア」"
-      },
-      {
-            "date": "2020\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/37233",
-            "text": "コロナ感染防止策　旗でアピール／八戸中心商店街連絡協議会"
       }
     ]
 }
