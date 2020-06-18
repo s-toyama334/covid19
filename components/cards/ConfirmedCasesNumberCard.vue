@@ -9,6 +9,7 @@
       :unit="$t('人')"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
     />
+    </time-bar-chart>
   </v-col>
 </template>
 
