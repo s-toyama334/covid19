@@ -20,6 +20,7 @@
         <slot />
       </div>
       <div class="DataView-Description">
+        <p class="annotation" style="font-size:12px;margin-top:10px">※米軍三沢基地内の感染者は含まれていない</p>
         <slot name="footer-description" />
       </div>
       <div class="DataView-Footer">
