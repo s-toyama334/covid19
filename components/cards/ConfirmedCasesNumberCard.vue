@@ -10,6 +10,22 @@
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
     />
     <p class="annotation" style="font-size:12px;margin-top:10px">※米軍三沢基地内の感染者は含まれていない</p>
+    <template v-slot:description>
+        <ul class="ListStyleNone">
+          <li>
+            {{ $t('（注）保健所から発生届が提出された日を基準とする') }}
+          </li>
+          <li>
+            {{ $t('（注）医療機関等が行った検査も含む') }}
+          </li>
+          <li>
+            {{
+              $t('（注）チャーター機帰国者、クルーズ船乗客等は含まれていない')
+            }}
+          </li>
+        </ul>
+        <p class="annotation" style="font-size:12px;margin-top:10px">※米軍三沢基地内の感染者は含まれていない</p>
+      </template>
     </time-bar-chart>
   </v-col>
 </template>
