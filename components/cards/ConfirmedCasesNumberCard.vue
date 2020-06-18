@@ -9,8 +9,8 @@
       :unit="$t('人')"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
     />
-    </time-bar-chart>
     <p class="annotation" style="font-size:12px;margin-top:10px">※米軍三沢基地内の感染者は含まれていない</p>
+    </time-bar-chart>
   </v-col>
 </template>
 
