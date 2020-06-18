@@ -1,4 +1,5 @@
 <template>
+  <p class="annotation" style="font-size:12px; margin-top:10px;">※米軍三沢基地内の感染者は含まれていない</p>
   <ul :class="$style.container">
     <li :class="[$style.box, $style.tall, $style.parent, $style.confirmed]">
       <div :class="$style.pillar">
