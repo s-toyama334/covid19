@@ -10,6 +10,9 @@
         v-bind="confirmedCases"
       />
     </confirmed-cases-card>
+    <template v-slot:description>
+      {{ $t('※土・日・祝日を除く庁舎開庁日の1週間累計数') }}
+    </template>
   </v-col>
 </template>
 
