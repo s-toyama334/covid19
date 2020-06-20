@@ -1,6 +1,66 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/37706",
+            "text": "【新型コロナ】米軍三沢基地内で新たに数人陽性反応　米政府チャーター機の乗客"
+      },
+      {
+            "date": "2020\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/37681",
+            "text": "【新型コロナ】五戸町商工会が「飲食店応援チケット」追加販売"
+      },
+      {
+            "date": "2020\/06\/20",
+            "url": "https://www.daily-tohoku.news/archives/37658",
+            "text": "【コロナ移動自粛解除】北奥羽地方　学校の修学旅行どうなる？"
+      },
+      {
+            "date": "2020\/06\/20",
+            "url": "https://www.daily-tohoku.news/archives/37656",
+            "text": "【コロナ移動自粛解除】北奥羽の経済活動回復へ「まず一歩」"
+      },
+      {
+            "date": "2020\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/37649",
+            "text": "南部町の観光農園でサクランボ狩りオープンへ　コロナ対策で来園人数制限も"
+      },
+      {
+            "date": "2020\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/37644",
+            "text": "【新型コロナ】南部七唄七踊り全国大会中止"
+      },
+      {
+            "date": "2020\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/37633",
+            "text": "むつ市長、米軍にコロナ感染予防徹底申し入れへ　７月の日米掃海訓練控え"
+      },
+      {
+            "date": "2020\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/37591",
+            "text": "情報収集に「軍事」の壁　感染者数明かされず、濃厚接触者の状況も不明／米軍三沢基地の新型コロナ問題"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37583",
+            "text": "【新型コロナ】青森県「ステップ２」へ移行　外出自粛、イベント制限を緩和"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37561",
+            "text": "【新型コロナ】おしまこ流し踊り中止／むつ"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37520",
+            "text": "【米軍三沢コロナ感染】住民の濃厚接触有無、青森県確認急ぐ"
+      },
+      {
+            "date": "2020\/06\/18",
+            "url": "https://www.daily-tohoku.news/archives/37518",
+            "text": "【米軍三沢コロナ感染】「基地の外に広げないで」　経済ダメージ懸念も／三沢市民"
+      },
+      {
             "date": "2020\/06\/18",
             "url": "https://www.daily-tohoku.news/archives/37520",
             "text": "【米軍三沢コロナ感染】住民の濃厚接触有無、青森県確認急ぐ"
@@ -19,51 +79,6 @@
             "date": "2020\/06\/17",
             "url": "https://www.daily-tohoku.news/archives/37441",
             "text": "米軍三沢基地内で複数のコロナ陽性"
-      },
-      {
-            "date": "2020\/06\/16",
-            "url": "https://www.daily-tohoku.news/archives/37416",
-            "text": "【新型コロナ】十和田市飲食業協会が市に「飲食店利用呼び掛け」を要望"
-      },
-      {
-            "date": "2020\/06\/16",
-            "url": "https://www.daily-tohoku.news/archives/37415",
-            "text": "【新型コロナ】おいらせ町に匿名で３０万円の寄付"
-      },
-      {
-            "date": "2020\/06\/16",
-            "url": "https://www.daily-tohoku.news/archives/37406",
-            "text": "【新型コロナ】村独自の追加経済対策　全村民に現金１万円給付など／佐井村"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37371",
-            "text": "【新型コロナ】八戸ちびっこマラソン中止"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37359",
-            "text": "【新型コロナ】４、５月の医業収入２０％減　十和田市立中央病院"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37356",
-            "text": "「多くの業種にコロナの影響」八戸市長定例会見"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37346",
-            "text": "【新型コロナ】民間事業者に初のＱＲコード配布　八戸市のメールサービス"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37343",
-            "text": "【新型コロナ】八戸市内バス・タクシー事業者、プレミアム券限定販売へ"
-      },
-      {
-            "date": "2020\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/37341",
-            "text": "【新型コロナ】高齢者世帯の一部に弁当配達、村出身学生に５万円／九戸村が追加経済対策"
       }
     ]
 }
