@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/37755",
+            "text": "運動会、元気いっぱいに　コロナ感染対策で競技・実施時間制限も／八戸"
+      },
+      {
+            "date": "2020\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/37730",
+            "text": "青森県建設業協会など３団体「コロナ対策に役立てて」県に５００万円寄付"
+      },
+      {
+            "date": "2020\/06\/21",
             "url": "https://www.daily-tohoku.news/archives/37706",
             "text": "【新型コロナ】米軍三沢基地内で新たに数人陽性反応　米政府チャーター機の乗客"
       },
@@ -59,26 +69,6 @@
             "date": "2020\/06\/18",
             "url": "https://www.daily-tohoku.news/archives/37518",
             "text": "【米軍三沢コロナ感染】「基地の外に広げないで」　経済ダメージ懸念も／三沢市民"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37520",
-            "text": "【米軍三沢コロナ感染】住民の濃厚接触有無、青森県確認急ぐ"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37518",
-            "text": "【米軍三沢コロナ感染】「基地の外に広げないで」　経済ダメージ懸念も／三沢市民"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37512",
-            "text": "【新型コロナ】米軍三沢で３人感染　市長「基地内で抑えられている」"
-      },
-      {
-            "date": "2020\/06\/17",
-            "url": "https://www.daily-tohoku.news/archives/37441",
-            "text": "米軍三沢基地内で複数のコロナ陽性"
       }
     ]
 }
