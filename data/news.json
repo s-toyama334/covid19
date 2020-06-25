@@ -1,6 +1,41 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/25",
+            "url": "https://www.daily-tohoku.news/archives/37939",
+            "text": "【新型コロナ】利用回復へ八戸３ホテルが連携／宴会利用の統一ガイドライン作製"
+      },
+      {
+            "date": "2020\/06\/24",
+            "url": "https://www.daily-tohoku.news/archives/37919",
+            "text": "【新型コロナ】シジミ貝の採取場開設せず／小川原湖"
+      },
+      {
+            "date": "2020\/06\/24",
+            "url": "https://www.daily-tohoku.news/archives/37910",
+            "text": "コロナ対応強化も　八戸商議所常議員会・議員総会、２０年度事業計画を承認"
+      },
+      {
+            "date": "2020\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/37864",
+            "text": "【新型コロナ】八戸でもテレワーク関連商品、売れ行き好調／第２波に備え、各店は商品確保に力入れる"
+      },
+      {
+            "date": "2020\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/37863",
+            "text": "【新型コロナ】十和田観光電鉄が役員報酬削減３カ月延長"
+      },
+      {
+            "date": "2020\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/37859",
+            "text": "【新型コロナ】現代美術館の企画展、７月２３日スタート"
+      },
+      {
+            "date": "2020\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/37849",
+            "text": "【新型コロナ】小中学校、夏季休業中に３～５日間の授業日設ける／三沢市教委"
+      },
+      {
             "date": "2020\/06\/23",
             "url": "https://www.daily-tohoku.news/archives/37846",
             "text": "【新型コロナ】むつ４飲食店「疫病退散祈願酒」提供／２５日から"
@@ -44,66 +79,6 @@
             "date": "2020\/06\/21",
             "url": "https://www.daily-tohoku.news/archives/37730",
             "text": "青森県建設業協会など３団体「コロナ対策に役立てて」県に５００万円寄付"
-      },
-      {
-            "date": "2020\/06\/21",
-            "url": "https://www.daily-tohoku.news/archives/37706",
-            "text": "【新型コロナ】米軍三沢基地内で新たに数人陽性反応　米政府チャーター機の乗客"
-      },
-      {
-            "date": "2020\/06\/21",
-            "url": "https://www.daily-tohoku.news/archives/37681",
-            "text": "【新型コロナ】五戸町商工会が「飲食店応援チケット」追加販売"
-      },
-      {
-            "date": "2020\/06\/20",
-            "url": "https://www.daily-tohoku.news/archives/37658",
-            "text": "【コロナ移動自粛解除】北奥羽地方　学校の修学旅行どうなる？"
-      },
-      {
-            "date": "2020\/06\/20",
-            "url": "https://www.daily-tohoku.news/archives/37656",
-            "text": "【コロナ移動自粛解除】北奥羽の経済活動回復へ「まず一歩」"
-      },
-      {
-            "date": "2020\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/37649",
-            "text": "南部町の観光農園でサクランボ狩りオープンへ　コロナ対策で来園人数制限も"
-      },
-      {
-            "date": "2020\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/37644",
-            "text": "【新型コロナ】南部七唄七踊り全国大会中止"
-      },
-      {
-            "date": "2020\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/37633",
-            "text": "むつ市長、米軍にコロナ感染予防徹底申し入れへ　７月の日米掃海訓練控え"
-      },
-      {
-            "date": "2020\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/37591",
-            "text": "情報収集に「軍事」の壁　感染者数明かされず、濃厚接触者の状況も不明／米軍三沢基地の新型コロナ問題"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37583",
-            "text": "【新型コロナ】青森県「ステップ２」へ移行　外出自粛、イベント制限を緩和"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37561",
-            "text": "【新型コロナ】おしまこ流し踊り中止／むつ"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37520",
-            "text": "【米軍三沢コロナ感染】住民の濃厚接触有無、青森県確認急ぐ"
-      },
-      {
-            "date": "2020\/06\/18",
-            "url": "https://www.daily-tohoku.news/archives/37518",
-            "text": "【米軍三沢コロナ感染】「基地の外に広げないで」　経済ダメージ懸念も／三沢市民"
       }
     ]
 }
