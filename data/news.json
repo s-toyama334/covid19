@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38011",
+            "text": "【新型コロナ】「森のおとぎ会」実施見送り　今年はネットで配信"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38009",
+            "text": "【新型コロナ】３保健所職員１３人が時間外労働　「過労死ライン」超え／青森県内"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38008",
+            "text": "【新型コロナ】八戸市内の宿泊料補助　北東北３県住民対象"
+      },
+      {
+            "date": "2020\/06\/25",
+            "url": "https://www.daily-tohoku.news/archives/37984",
+            "text": "【新型コロナ】おいらせ町、１０月の生涯学習フェス中止"
+      },
+      {
             "date": "2020\/06\/25",
             "url": "https://www.daily-tohoku.news/archives/37939",
             "text": "【新型コロナ】利用回復へ八戸３ホテルが連携／宴会利用の統一ガイドライン作製"
@@ -59,26 +79,6 @@
             "date": "2020\/06\/22",
             "url": "https://www.daily-tohoku.news/archives/37790",
             "text": "【新型コロナ】テークアウト半額で“新しい生活様式”定着後押し／十和田市「ステイホーム応援企画」事業"
-      },
-      {
-            "date": "2020\/06\/22",
-            "url": "https://www.daily-tohoku.news/archives/37788",
-            "text": "【新型コロナ】とわだ駒街道マラソン中止"
-      },
-      {
-            "date": "2020\/06\/22",
-            "url": "https://www.daily-tohoku.news/archives/37787",
-            "text": "【新型コロナ】南部町の「とまべちまつり」中止"
-      },
-      {
-            "date": "2020\/06\/21",
-            "url": "https://www.daily-tohoku.news/archives/37755",
-            "text": "運動会、元気いっぱいに　コロナ感染対策で競技・実施時間制限も／八戸"
-      },
-      {
-            "date": "2020\/06\/21",
-            "url": "https://www.daily-tohoku.news/archives/37730",
-            "text": "青森県建設業協会など３団体「コロナ対策に役立てて」県に５００万円寄付"
       }
     ]
 }
