@@ -1,6 +1,61 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/29",
+            "url": "https://www.daily-tohoku.news/archives/38182",
+            "text": "【新型コロナ】青森県南でキャンプ人気じわり／屋内施設利用控えの影響も"
+      },
+      {
+            "date": "2020\/06\/28",
+            "url": "https://www.daily-tohoku.news/archives/38175",
+            "text": "蕪嶋神社が初の「夏越の大祓」新型コロナ感染症の沈静化願い／人形（ひとかた）を海へ"
+      },
+      {
+            "date": "2020\/06\/28",
+            "url": "https://www.daily-tohoku.news/archives/38158",
+            "text": "「コロナに負けるな」応援ボード設置　決意や思いを書いて／二戸地域振興センター"
+      },
+      {
+            "date": "2020\/06\/27",
+            "url": "https://www.daily-tohoku.news/archives/38097",
+            "text": "【新型コロナ】八戸三社大祭「はちのへ山車振興会」が７月３１日～８月１６日にマチニワで山車３台展示へ"
+      },
+      {
+            "date": "2020\/06\/27",
+            "url": "https://www.daily-tohoku.news/archives/38094",
+            "text": "【新型コロナ】青森県民駅伝　９３年のスタート以来、初の中止"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38085",
+            "text": "【新型コロナ】青森県内のグリーンツーリズム、キャンセル相次ぐ／国内外６校中止、３０校延期"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38080",
+            "text": "コロナ対策“見える化”観光施設の登録制度スタート、観光客の利用後押しへ／青森県"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38077",
+            "text": "【新型コロナ】青森県が修学旅行誘致を促進／宿泊者数に応じ、旅行業者に補助金"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38076",
+            "text": "【新型コロナ】青森県立高、授業遅れ２学期開始までに解消見込み　夏休み短縮は１８校／青森県教委"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38071",
+            "text": "【新型コロナ】青森県が中小企業の経済影響　８５％の企業で売上減／「２割以上減」とした企業割合増"
+      },
+      {
+            "date": "2020\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/38016",
+            "text": "青森県民駅伝中止　新型コロナの影響"
+      },
+      {
             "date": "2020\/06\/26",
             "url": "https://www.daily-tohoku.news/archives/38011",
             "text": "【新型コロナ】「森のおとぎ会」実施見送り　今年はネットで配信"
@@ -14,71 +69,6 @@
             "date": "2020\/06\/26",
             "url": "https://www.daily-tohoku.news/archives/38008",
             "text": "【新型コロナ】八戸市内の宿泊料補助　北東北３県住民対象"
-      },
-      {
-            "date": "2020\/06\/25",
-            "url": "https://www.daily-tohoku.news/archives/37984",
-            "text": "【新型コロナ】おいらせ町、１０月の生涯学習フェス中止"
-      },
-      {
-            "date": "2020\/06\/25",
-            "url": "https://www.daily-tohoku.news/archives/37939",
-            "text": "【新型コロナ】利用回復へ八戸３ホテルが連携／宴会利用の統一ガイドライン作製"
-      },
-      {
-            "date": "2020\/06\/24",
-            "url": "https://www.daily-tohoku.news/archives/37919",
-            "text": "【新型コロナ】シジミ貝の採取場開設せず／小川原湖"
-      },
-      {
-            "date": "2020\/06\/24",
-            "url": "https://www.daily-tohoku.news/archives/37910",
-            "text": "コロナ対応強化も　八戸商議所常議員会・議員総会、２０年度事業計画を承認"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37864",
-            "text": "【新型コロナ】八戸でもテレワーク関連商品、売れ行き好調／第２波に備え、各店は商品確保に力入れる"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37863",
-            "text": "【新型コロナ】十和田観光電鉄が役員報酬削減３カ月延長"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37859",
-            "text": "【新型コロナ】現代美術館の企画展、７月２３日スタート"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37849",
-            "text": "【新型コロナ】小中学校、夏季休業中に３～５日間の授業日設ける／三沢市教委"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37846",
-            "text": "【新型コロナ】むつ４飲食店「疫病退散祈願酒」提供／２５日から"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37808",
-            "text": "差別「自分たちだけで十分」　混乱招き自責の念／コロナ感染の男性証言"
-      },
-      {
-            "date": "2020\/06\/23",
-            "url": "https://www.daily-tohoku.news/archives/37806",
-            "text": "【青森県内コロナ初確認３カ月】情報開示どこまで／行政対応を検証"
-      },
-      {
-            "date": "2020\/06\/22",
-            "url": "https://www.daily-tohoku.news/archives/37801",
-            "text": "青森県内企業、５月売上前年割れ８割　新型コロナの影響調査／東京商工リサーチ青森支店"
-      },
-      {
-            "date": "2020\/06\/22",
-            "url": "https://www.daily-tohoku.news/archives/37790",
-            "text": "【新型コロナ】テークアウト半額で“新しい生活様式”定着後押し／十和田市「ステイホーム応援企画」事業"
       }
     ]
 }
