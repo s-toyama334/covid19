@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38248",
+            "text": "【新型コロナ】青森県・県民割安プラン１０日開始／１人５５００円引き"
+      },
+      {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38246",
+            "text": "【新型コロナ】「八食サマーフリーライブ」２０回目節目も開催見送り"
+      },
+      {
+            "date": "2020\/06\/29",
+            "url": "https://www.daily-tohoku.news/archives/38240",
+            "text": "【新型コロナ】解雇、雇い止め４０１人　飲食、宿泊業で影響顕著／雇調金は１４１３件支給"
+      },
+      {
+            "date": "2020\/06\/29",
+            "url": "https://www.daily-tohoku.news/archives/38238",
+            "text": "【新型コロナ】苦境の県内の学生を応援　地域経済も活性化、参加店募集／青森県商工会議所青年部連合会がＣＦ"
+      },
+      {
+            "date": "2020\/06\/29",
+            "url": "https://www.daily-tohoku.news/archives/38234",
+            "text": "【新型コロナ】東北管内の交通量徐々に回復、国道４５号など"
+      },
+      {
+            "date": "2020\/06\/29",
+            "url": "https://www.daily-tohoku.news/archives/38213",
+            "text": "【新型コロナ】むつ市が事業者対象の３０万円給付金の対象拡大へ"
+      },
+      {
             "date": "2020\/06\/29",
             "url": "https://www.daily-tohoku.news/archives/38182",
             "text": "【新型コロナ】青森県南でキャンプ人気じわり／屋内施設利用控えの影響も"
@@ -39,36 +69,6 @@
             "date": "2020\/06\/26",
             "url": "https://www.daily-tohoku.news/archives/38077",
             "text": "【新型コロナ】青森県が修学旅行誘致を促進／宿泊者数に応じ、旅行業者に補助金"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38076",
-            "text": "【新型コロナ】青森県立高、授業遅れ２学期開始までに解消見込み　夏休み短縮は１８校／青森県教委"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38071",
-            "text": "【新型コロナ】青森県が中小企業の経済影響　８５％の企業で売上減／「２割以上減」とした企業割合増"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38016",
-            "text": "青森県民駅伝中止　新型コロナの影響"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38011",
-            "text": "【新型コロナ】「森のおとぎ会」実施見送り　今年はネットで配信"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38009",
-            "text": "【新型コロナ】３保健所職員１３人が時間外労働　「過労死ライン」超え／青森県内"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38008",
-            "text": "【新型コロナ】八戸市内の宿泊料補助　北東北３県住民対象"
       }
     ]
 }
