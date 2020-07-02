@@ -1,6 +1,46 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/01",
+            "url": "https://www.daily-tohoku.news/archives/38387",
+            "text": "【新型コロナ】助成事業９月末まで延長／青森県共同募金会"
+      },
+      {
+            "date": "2020\/07\/01",
+            "url": "https://www.daily-tohoku.news/archives/38386",
+            "text": "青森県５月宿泊８割減　コロナ禍、移動鈍化で大打撃"
+      },
+      {
+            "date": "2020\/07\/01",
+            "url": "https://www.daily-tohoku.news/archives/38378",
+            "text": "米軍三沢のコロナ情報開示拡大を　政府に米国側へ働き掛け要望／三沢市"
+      },
+      {
+            "date": "2020\/07\/01",
+            "url": "https://www.daily-tohoku.news/archives/38340",
+            "text": "４年３カ月ぶり、有効求人倍率１倍下回る／求人数の減少響く「早くコロナ収まって」切実な声"
+      },
+      {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38337",
+            "text": "青森県内５月有効求人倍率０・９３倍、４年３カ月ぶりに１倍下回る／新型コロナ影響大きく"
+      },
+      {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38319",
+            "text": "【新型コロナ】酸ケ湯温泉（青森）７月１日、営業再開"
+      },
+      {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38291",
+            "text": "青銀、みち銀が出資／コロナ影響受けた青森県内事業者を支援"
+      },
+      {
+            "date": "2020\/06\/30",
+            "url": "https://www.daily-tohoku.news/archives/38262",
+            "text": "【新型コロナ】体験型イベント「オンライン青森夏祭り」７月３１日から開催"
+      },
+      {
             "date": "2020\/06\/30",
             "url": "https://www.daily-tohoku.news/archives/38248",
             "text": "【新型コロナ】青森県・県民割安プラン１０日開始／１人５５００円引き"
@@ -44,31 +84,6 @@
             "date": "2020\/06\/28",
             "url": "https://www.daily-tohoku.news/archives/38158",
             "text": "「コロナに負けるな」応援ボード設置　決意や思いを書いて／二戸地域振興センター"
-      },
-      {
-            "date": "2020\/06\/27",
-            "url": "https://www.daily-tohoku.news/archives/38097",
-            "text": "【新型コロナ】八戸三社大祭「はちのへ山車振興会」が７月３１日～８月１６日にマチニワで山車３台展示へ"
-      },
-      {
-            "date": "2020\/06\/27",
-            "url": "https://www.daily-tohoku.news/archives/38094",
-            "text": "【新型コロナ】青森県民駅伝　９３年のスタート以来、初の中止"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38085",
-            "text": "【新型コロナ】青森県内のグリーンツーリズム、キャンセル相次ぐ／国内外６校中止、３０校延期"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38080",
-            "text": "コロナ対策“見える化”観光施設の登録制度スタート、観光客の利用後押しへ／青森県"
-      },
-      {
-            "date": "2020\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/38077",
-            "text": "【新型コロナ】青森県が修学旅行誘致を促進／宿泊者数に応じ、旅行業者に補助金"
       }
     ]
 }
