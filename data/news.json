@@ -1,5 +1,45 @@
 {
-    "newsItems": [
+    "newsItems": [      
+      {
+            "date": "2020\/07\/05",
+            "url": "https://www.daily-tohoku.news/archives/38616",
+            "text": "青森県・財政調整基金残高７２億円　新型コロナ対策で８８億円取り崩し／さらに残高減の恐れ"
+      },
+      {
+            "date": "2020\/07\/04",
+            "url": "https://www.daily-tohoku.news/archives/38556",
+            "text": "【新型コロナ】夏の風物詩・八戸花火大会の開催決定／イベント中止が相次ぐ中、市民に元気を"
+      },
+      {
+            "date": "2020\/07\/04",
+            "url": "https://www.daily-tohoku.news/archives/38555",
+            "text": "夏の風物詩・八戸花火大会、８月２３日に開催決定／コロナ対策で会場入場は招待客、有料観覧席購入者に制限"
+      },
+      {
+            "date": "2020\/07\/03",
+            "url": "https://www.daily-tohoku.news/archives/38544",
+            "text": "【米軍三沢基地内のコロナ感染受け、情報開示求める／三沢市長が防衛省などに"
+      },
+      {
+            "date": "2020\/07\/03",
+            "url": "https://www.daily-tohoku.news/archives/38523",
+            "text": "【新型コロナ】非接触型温度計を青森県内４１競技団体に配布／県競技力向上対策本部"
+      },
+      {
+            "date": "2020\/07\/03",
+            "url": "https://www.daily-tohoku.news/archives/38521",
+            "text": "【新型コロナ】県民スポレク祭、２６種目を分散開催／青森県教委"
+      },
+      {
+            "date": "2020\/07\/03",
+            "url": "https://www.daily-tohoku.news/archives/38516",
+            "text": "【新型コロナ】十和田市が事業所への２０万円助成、対象を拡大"
+      },
+      {
+            "date": "2020\/07\/03",
+            "url": "https://www.daily-tohoku.news/archives/38515",
+            "text": "【新型コロナ】大間町が町民１人１万円の地域振興券配布へ／追加の経済対策"
+      },
       {
             "date": "2020\/07\/02",
             "url": "https://www.daily-tohoku.news/archives/38467",
@@ -24,61 +64,6 @@
             "date": "2020\/07\/01",
             "url": "https://www.daily-tohoku.news/archives/38387",
             "text": "【新型コロナ】助成事業９月末まで延長／青森県共同募金会"
-      },
-      {
-            "date": "2020\/07\/01",
-            "url": "https://www.daily-tohoku.news/archives/38386",
-            "text": "青森県５月宿泊８割減　コロナ禍、移動鈍化で大打撃"
-      },
-      {
-            "date": "2020\/07\/01",
-            "url": "https://www.daily-tohoku.news/archives/38378",
-            "text": "米軍三沢のコロナ情報開示拡大を　政府に米国側へ働き掛け要望／三沢市"
-      },
-      {
-            "date": "2020\/07\/01",
-            "url": "https://www.daily-tohoku.news/archives/38340",
-            "text": "４年３カ月ぶり、有効求人倍率１倍下回る／求人数の減少響く「早くコロナ収まって」切実な声"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38337",
-            "text": "青森県内５月有効求人倍率０・９３倍、４年３カ月ぶりに１倍下回る／新型コロナ影響大きく"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38319",
-            "text": "【新型コロナ】酸ケ湯温泉（青森）７月１日、営業再開"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38291",
-            "text": "青銀、みち銀が出資／コロナ影響受けた青森県内事業者を支援"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38262",
-            "text": "【新型コロナ】体験型イベント「オンライン青森夏祭り」７月３１日から開催"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38248",
-            "text": "【新型コロナ】青森県・県民割安プラン１０日開始／１人５５００円引き"
-      },
-      {
-            "date": "2020\/06\/30",
-            "url": "https://www.daily-tohoku.news/archives/38246",
-            "text": "【新型コロナ】「八食サマーフリーライブ」２０回目節目も開催見送り"
-      },
-      {
-            "date": "2020\/06\/29",
-            "url": "https://www.daily-tohoku.news/archives/38240",
-            "text": "【新型コロナ】解雇、雇い止め４０１人　飲食、宿泊業で影響顕著／雇調金は１４１３件支給"
-      },
-      {
-            "date": "2020\/06\/29",
-            "url": "https://www.daily-tohoku.news/archives/38238",
-            "text": "【新型コロナ】苦境の県内の学生を応援　地域経済も活性化、参加店募集／青森県商工会議所青年部連合会がＣＦ"
       }
     ]
 }
