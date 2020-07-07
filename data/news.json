@@ -1,6 +1,21 @@
 {
     "newsItems": [      
       {
+            "date": "2020\/07\/06",
+            "url": "https://www.daily-tohoku.news/archives/38698",
+            "text": "【新型コロナ】感染防止対策の備品購入費　市内事業者に一部助成／十和田市"
+      },
+      {
+            "date": "2020\/07\/06",
+            "url": "https://www.daily-tohoku.news/archives/38691",
+            "text": "【新型コロナ】プレミアム付き食事券や交通券／久慈市が追加対策"
+      },
+      {
+            "date": "2020\/07\/06",
+            "url": "https://www.daily-tohoku.news/archives/38678",
+            "text": "【新型コロナ】小中学校で非接触型検温システム運用進む／三沢市教委"
+      },
+      {
             "date": "2020\/07\/05",
             "url": "https://www.daily-tohoku.news/archives/38616",
             "text": "青森県・財政調整基金残高７２億円　新型コロナ対策で８８億円取り崩し／さらに残高減の恐れ"
@@ -49,21 +64,6 @@
             "date": "2020\/07\/02",
             "url": "https://www.daily-tohoku.news/archives/38465",
             "text": "【新型コロナ】町出身学生に支援金１０万円　森林整備事業の経費最大３割補助も／田子町"
-      },
-      {
-            "date": "2020\/07\/02",
-            "url": "https://www.daily-tohoku.news/archives/38463",
-            "text": "【新型コロナ】青森－ソウル線　８月末まで運休延長"
-      },
-      {
-            "date": "2020\/07\/02",
-            "url": "https://www.daily-tohoku.news/archives/38418",
-            "text": "【新型コロナ】飲食で県産品が当たる　青森県がキャンペーン"
-      },
-      {
-            "date": "2020\/07\/01",
-            "url": "https://www.daily-tohoku.news/archives/38387",
-            "text": "【新型コロナ】助成事業９月末まで延長／青森県共同募金会"
       }
     ]
 }
