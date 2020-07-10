@@ -1083,7 +1083,7 @@
                     },
                     {
                         "attr": "陽性件数",
-                        "value": 28
+                        "value": 29
                     }
                 ]
             }
@@ -1096,7 +1096,7 @@
         "children": [
             {
                 "attr": "陽性患者数",
-                "value": 28,
+                "value": 29,
                 "children": [
                     {
                         "attr": "入院中",
