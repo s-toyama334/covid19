@@ -2,6 +2,11 @@
     "newsItems": [      
       {
             "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/38997",
+            "text": "青森市で女性１人がコロナ感染"
+      },
+      {
+            "date": "2020\/07\/10",
             "url": "https://www.daily-tohoku.news/archives/38951",
             "text": "【新型コロナ】岩手の宿泊需要回復へ　県、希望者に「地元割クーポン」配布"
       },
