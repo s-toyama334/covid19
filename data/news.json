@@ -1,74 +1,69 @@
 {
     "newsItems": [      
       {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/38951",
+            "text": "【新型コロナ】岩手の宿泊需要回復へ　県、希望者に「地元割クーポン」配布"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/38948",
+            "text": "【新型コロナ】プロスポーツ観戦可能に　青森県が開催要件緩和"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/38942",
+            "text": "【新型コロナ】県内では２カ月ぶりの感染者　青森市で６０代男性陽性"
+      },
+      {
             "date": "2020\/07\/09",
             "url": "https://www.daily-tohoku.news/archives/38936",
             "text": "【速報】青森市で６０代男性が新型コロナ感染"
       },
       {
-            "date": "2020\/07\/06",
-            "url": "https://www.daily-tohoku.news/archives/38698",
-            "text": "【新型コロナ】感染防止対策の備品購入費　市内事業者に一部助成／十和田市"
+            "date": "2020\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/38933",
+            "text": "【新型コロナ】農業者への独自給付金支給開始／南部町"
+      },
+      {
+            "date": "2020\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/38933",
+            "text": "【新型コロナ】農業者への独自給付金支給開始／南部町"
+      },
+      {
+            "date": "2020\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/38930",
+            "text": "【新型コロナ】十和田市議会会派、市に経済支援策拡充を要望"
+      },
+      {
+            "date": "2020\/07\/08",
+            "url": "https://www.daily-tohoku.news/archives/38815",
+            "text": "【新型コロナ】東北町、プレミアム付き商品券販売へ"
+      },
+      {
+            "date": "2020\/07\/08",
+            "url": "https://www.daily-tohoku.news/archives/38771",
+            "text": "海水浴場様変わり　コロナ禍、手探りの運営　６カ所で開場見送り"
+      },
+      {
+            "date": "2020\/07\/07",
+            "url": "https://www.daily-tohoku.news/archives/38760",
+            "text": "報酬削減か消費喚起か　コロナ支援巡り二つの発議案／南部町議会"
+      },
+      {
+            "date": "2020\/07\/07",
+            "url": "https://www.daily-tohoku.news/archives/38753",
+            "text": "県提示「企業のデジタル化推進」「交通事業者の感染対策支援」など了承／青森県コロナ経済対策会議"
+      },
+      {
+            "date": "2020\/07\/07",
+            "url": "https://www.daily-tohoku.news/archives/38753",
+            "text": "県提示「企業のデジタル化推進」「交通事業者の感染対策支援」など了承／青森県コロナ経済対策会議"
       },
       {
             "date": "2020\/07\/06",
-            "url": "https://www.daily-tohoku.news/archives/38691",
-            "text": "【新型コロナ】プレミアム付き食事券や交通券／久慈市が追加対策"
-      },
-      {
-            "date": "2020\/07\/06",
-            "url": "https://www.daily-tohoku.news/archives/38678",
-            "text": "【新型コロナ】小中学校で非接触型検温システム運用進む／三沢市教委"
-      },
-      {
-            "date": "2020\/07\/05",
-            "url": "https://www.daily-tohoku.news/archives/38616",
-            "text": "青森県・財政調整基金残高７２億円　新型コロナ対策で８８億円取り崩し／さらに残高減の恐れ"
-      },
-      {
-            "date": "2020\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/38556",
-            "text": "【新型コロナ】夏の風物詩・八戸花火大会の開催決定／イベント中止が相次ぐ中、市民に元気を"
-      },
-      {
-            "date": "2020\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/38555",
-            "text": "夏の風物詩・八戸花火大会、８月２３日に開催決定／コロナ対策で会場入場は招待客、有料観覧席購入者に制限"
-      },
-      {
-            "date": "2020\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/38544",
-            "text": "【米軍三沢基地内のコロナ感染受け、情報開示求める／三沢市長が防衛省などに"
-      },
-      {
-            "date": "2020\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/38523",
-            "text": "【新型コロナ】非接触型温度計を青森県内４１競技団体に配布／県競技力向上対策本部"
-      },
-      {
-            "date": "2020\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/38521",
-            "text": "【新型コロナ】県民スポレク祭、２６種目を分散開催／青森県教委"
-      },
-      {
-            "date": "2020\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/38516",
-            "text": "【新型コロナ】十和田市が事業所への２０万円助成、対象を拡大"
-      },
-      {
-            "date": "2020\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/38515",
-            "text": "【新型コロナ】大間町が町民１人１万円の地域振興券配布へ／追加の経済対策"
-      },
-      {
-            "date": "2020\/07\/02",
-            "url": "https://www.daily-tohoku.news/archives/38467",
-            "text": "【新型コロナ】六戸・メイプルマラソン中止"
-      },
-      {
-            "date": "2020\/07\/02",
-            "url": "https://www.daily-tohoku.news/archives/38465",
-            "text": "【新型コロナ】町出身学生に支援金１０万円　森林整備事業の経費最大３割補助も／田子町"
+            "url": "https://www.daily-tohoku.news/archives/38752",
+            "text": "【新型コロナ】海自大湊地方隊が災害派遣訓練実施／被災地支援時、住民と自衛隊の安全確保狙い"
       }
     ]
 }
