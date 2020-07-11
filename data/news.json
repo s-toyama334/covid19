@@ -1,5 +1,51 @@
 {
     "newsItems": [      
+      
+      {
+            "date": "2020\/07\/11",
+            "url": "https://www.daily-tohoku.news/archives/39041",
+            "text": "【新型コロナ】青森市で２０代女性の感染確認／無店舗風俗店勤務、３０人接客"
+      },
+      {
+            "date": "2020\/07\/11",
+            "url": "https://www.daily-tohoku.news/archives/39040",
+            "text": "【新型コロナ】青森県内約２カ月ぶりの感染者／「東京由来」に危機感"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39032",
+            "text": "【新型コロナ】夏休み短縮は小中学校の約９割／青森県教委まとめ"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39031",
+            "text": "【新型コロナ】具合悪い時は受診して／感染ゼロの岩手県が県民へメッセージ"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39029",
+            "text": "【新型コロナ】八戸市教委、市民大学講座や交流事業を中止に"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39016",
+            "text": "【新型コロナ】八戸市、２２日から宿泊キャンペーン"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39015",
+            "text": "【新型コロナ】感染男性は開業医　青森市、患者と生徒計５９０人の健康観察"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39004",
+            "text": "【新型コロナ】弘前市ＰＣＲセンター１５日開設"
+      },
+      {
+            "date": "2020\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/39023",
+            "text": "米軍三沢基地到着の軍関係者、コロナ陽性反応"
+      },
       {
             "date": "2020\/07\/10",
             "url": "https://www.daily-tohoku.news/archives/38997",
@@ -39,36 +85,6 @@
             "date": "2020\/07\/09",
             "url": "https://www.daily-tohoku.news/archives/38930",
             "text": "【新型コロナ】十和田市議会会派、市に経済支援策拡充を要望"
-      },
-      {
-            "date": "2020\/07\/08",
-            "url": "https://www.daily-tohoku.news/archives/38815",
-            "text": "【新型コロナ】東北町、プレミアム付き商品券販売へ"
-      },
-      {
-            "date": "2020\/07\/08",
-            "url": "https://www.daily-tohoku.news/archives/38771",
-            "text": "海水浴場様変わり　コロナ禍、手探りの運営　６カ所で開場見送り"
-      },
-      {
-            "date": "2020\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/38760",
-            "text": "報酬削減か消費喚起か　コロナ支援巡り二つの発議案／南部町議会"
-      },
-      {
-            "date": "2020\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/38753",
-            "text": "県提示「企業のデジタル化推進」「交通事業者の感染対策支援」など了承／青森県コロナ経済対策会議"
-      },
-      {
-            "date": "2020\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/38753",
-            "text": "県提示「企業のデジタル化推進」「交通事業者の感染対策支援」など了承／青森県コロナ経済対策会議"
-      },
-      {
-            "date": "2020\/07\/06",
-            "url": "https://www.daily-tohoku.news/archives/38752",
-            "text": "【新型コロナ】海自大湊地方隊が災害派遣訓練実施／被災地支援時、住民と自衛隊の安全確保狙い"
       }
     ]
 }
