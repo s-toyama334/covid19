@@ -1,6 +1,10 @@
 {
     "newsItems": [      
-      
+      {
+            "date": "2020\/07\/12",
+            "url": "https://www.daily-tohoku.news/archives/39111",
+            "text": "【新型コロナ】医療機関名公表、自治体で対応分かれる"
+      },
       {
             "date": "2020\/07\/11",
             "url": "https://www.daily-tohoku.news/archives/39041",
