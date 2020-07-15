@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/39339",
+            "text": "青森市で男性警察官が感染・派遣型風俗店女性の濃厚接触者"
+      },
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39332",
+            "text": "【新型コロナ】野辺地、横浜、六ケ所の３町村の中学生によるスポーツ交流会開催／１８日から"
+      },
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39323",
+            "text": "青森河川国道事務所、２０年度第１四半期の契約件数公表／順調に契約、新型コロナ影響なし"
+      },
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39337",
+            "text": "風俗利用客新たに３人陰性　利用ホテルは３市１８カ所／青森市が会見"
+      },
+      {
             "date": "2020\/07\/15",
             "url": "https://www.daily-tohoku.news/archives/39265",
             "text": "【新型コロナ】青森港クルーズ船、キャンセル相次ぐ／観光業に“荒波”経済損失４億円試算"
@@ -90,10 +110,5 @@
             "url": "https://www.daily-tohoku.news/archives/38997",
             "text": "青森市で女性１人がコロナ感染"
       },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/38951",
-            "text": "【新型コロナ】岩手の宿泊需要回復へ　県、希望者に「地元割クーポン」配布"
-      }
     ]
 }
