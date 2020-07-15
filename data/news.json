@@ -1,5 +1,30 @@
 {
-    "newsItems": [      
+    "newsItems": [
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39265",
+            "text": "【新型コロナ】青森港クルーズ船、キャンセル相次ぐ／観光業に“荒波”経済損失４億円試算"
+      },
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39264",
+            "text": "【新型コロナ】原木滞留、今秋までに解消へ　六戸の加工場や中国へ搬出／青森県森林組合連合会"
+      },
+      {
+            "date": "2020\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/39263",
+            "text": "新型コロナ感染拡大防止策徹底　球場に緊張感漂う／夏季青森県高校野球大会"
+      },
+      {
+            "date": "2020\/07\/14",
+            "url": "https://www.daily-tohoku.news/archives/39255",
+            "text": "新たに利用客２人が陰性／青森・派遣型風俗店勤務の女性、コロナ感染で"
+      },
+      {
+            "date": "2020\/07\/14",
+            "url": "https://www.daily-tohoku.news/archives/39244",
+            "text": "【新型コロナ】洋野町が漁協に独自支援、１２団体に一律５０万円／所属組合員１人３万円上乗せ"
+      },
       {
             "date": "2020\/07\/13",
             "url": "https://www.daily-tohoku.news/archives/39181",
@@ -69,36 +94,6 @@
             "date": "2020\/07\/10",
             "url": "https://www.daily-tohoku.news/archives/38951",
             "text": "【新型コロナ】岩手の宿泊需要回復へ　県、希望者に「地元割クーポン」配布"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/38948",
-            "text": "【新型コロナ】プロスポーツ観戦可能に　青森県が開催要件緩和"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/38942",
-            "text": "【新型コロナ】県内では２カ月ぶりの感染者　青森市で６０代男性陽性"
-      },
-      {
-            "date": "2020\/07\/09",
-            "url": "https://www.daily-tohoku.news/archives/38936",
-            "text": "【速報】青森市で６０代男性が新型コロナ感染"
-      },
-      {
-            "date": "2020\/07\/09",
-            "url": "https://www.daily-tohoku.news/archives/38933",
-            "text": "【新型コロナ】農業者への独自給付金支給開始／南部町"
-      },
-      {
-            "date": "2020\/07\/09",
-            "url": "https://www.daily-tohoku.news/archives/38933",
-            "text": "【新型コロナ】農業者への独自給付金支給開始／南部町"
-      },
-      {
-            "date": "2020\/07\/09",
-            "url": "https://www.daily-tohoku.news/archives/38930",
-            "text": "【新型コロナ】十和田市議会会派、市に経済支援策拡充を要望"
       }
     ]
 }
