@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2020\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/39387",
+            "text": "「ＧｏＴｏトラベル」見直しへ"
+      },
+      {
+            "date": "2020\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/39350",
+            "text": "高校生の就職戦線にもコロナの影響じわり／求人減少、選考延期…県外から地元に切り替える生徒も"
+      },
+      {
+            "date": "2020\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/39367",
+            "text": "感染した警察官は青森県警本部勤務"
+      },
+      {
+            "date": "2020\/07\/16",
             "url": "https://www.daily-tohoku.news/archives/39339",
             "text": "青森市で男性警察官が感染・派遣型風俗店女性の濃厚接触者"
       },
@@ -64,51 +79,6 @@
             "date": "2020\/07\/11",
             "url": "https://www.daily-tohoku.news/archives/39041",
             "text": "【新型コロナ】青森市で２０代女性の感染確認／無店舗風俗店勤務、３０人接客"
-      },
-      {
-            "date": "2020\/07\/11",
-            "url": "https://www.daily-tohoku.news/archives/39040",
-            "text": "【新型コロナ】青森県内約２カ月ぶりの感染者／「東京由来」に危機感"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39032",
-            "text": "【新型コロナ】夏休み短縮は小中学校の約９割／青森県教委まとめ"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39031",
-            "text": "【新型コロナ】具合悪い時は受診して／感染ゼロの岩手県が県民へメッセージ"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39029",
-            "text": "【新型コロナ】八戸市教委、市民大学講座や交流事業を中止に"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39016",
-            "text": "【新型コロナ】八戸市、２２日から宿泊キャンペーン"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39015",
-            "text": "【新型コロナ】感染男性は開業医　青森市、患者と生徒計５９０人の健康観察"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39004",
-            "text": "【新型コロナ】弘前市ＰＣＲセンター１５日開設"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/39023",
-            "text": "米軍三沢基地到着の軍関係者、コロナ陽性反応"
-      },
-      {
-            "date": "2020\/07\/10",
-            "url": "https://www.daily-tohoku.news/archives/38997",
-            "text": "青森市で女性１人がコロナ感染"
       }
     ]
 }
