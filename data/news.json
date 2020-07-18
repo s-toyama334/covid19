@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/18",
+            "url": "https://www.daily-tohoku.news/archives/39613",
+            "text": "【新型コロナ】男性警察官の濃厚接触者８人陰性／青森市"
+      },
+      {
+            "date": "2020\/07\/18",
+            "url": "https://www.daily-tohoku.news/archives/39562",
+            "text": "【新型コロナ】男性警官の濃厚接触者２６人、検査結果１８日判明"
+      },
+      {
+            "date": "2020\/07\/17",
+            "url": "https://www.daily-tohoku.news/archives/39533",
+            "text": "【新型コロナ】二戸地域に「発熱外来」２９日スタート　仮設施設とドライブスルー併用"
+      },
+      {
+            "date": "2020\/07\/17",
+            "url": "https://www.daily-tohoku.news/archives/39527",
+            "text": "コロナ感染疑い、青銀が松森町支店を臨時休業　従業員は陰性　２０日から営業再開"
+      },
+      {
             "date": "2020\/07\/17",
             "url": "https://www.daily-tohoku.news/archives/39444",
             "text": "青銀従業員、コロナ感染の疑い／弘前の松森町支店に勤務"
@@ -74,36 +94,6 @@
             "date": "2020\/07\/15",
             "url": "https://www.daily-tohoku.news/archives/39265",
             "text": "【新型コロナ】青森港クルーズ船、キャンセル相次ぐ／観光業に“荒波”経済損失４億円試算"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39264",
-            "text": "【新型コロナ】原木滞留、今秋までに解消へ　六戸の加工場や中国へ搬出／青森県森林組合連合会"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39263",
-            "text": "新型コロナ感染拡大防止策徹底　球場に緊張感漂う／夏季青森県高校野球大会"
-      },
-      {
-            "date": "2020\/07\/14",
-            "url": "https://www.daily-tohoku.news/archives/39255",
-            "text": "新たに利用客２人が陰性／青森・派遣型風俗店勤務の女性、コロナ感染で"
-      },
-      {
-            "date": "2020\/07\/14",
-            "url": "https://www.daily-tohoku.news/archives/39244",
-            "text": "【新型コロナ】洋野町が漁協に独自支援、１２団体に一律５０万円／所属組合員１人３万円上乗せ"
-      },
-      {
-            "date": "2020\/07\/13",
-            "url": "https://www.daily-tohoku.news/archives/39181",
-            "text": "【新型コロナ】ピーク時、新規感染者１日当たり２３人／青森県試算"
-      },
-      {
-            "date": "2020\/07\/13",
-            "url": "https://www.daily-tohoku.news/archives/39179",
-            "text": "【新型コロナ】感染女性接触２７人特定　６人陰性、１８人連絡取れず／青森市"
       }
     ]
 }
