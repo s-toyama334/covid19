@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/19",
+            "url": "https://www.daily-tohoku.news/archives/39661",
+            "text": "【新型コロナ】男性警察官の濃厚接触者２６人全員陰性"
+      },
+      {
             "date": "2020\/07\/18",
             "url": "https://www.daily-tohoku.news/archives/39613",
             "text": "【新型コロナ】男性警察官の濃厚接触者８人陰性／青森市"
