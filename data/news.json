@@ -1,6 +1,51 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/22",
+            "url": "https://www.daily-tohoku.news/archives/39903",
+            "text": "【新型コロナ】２０代女性の接触者の追跡調査終了／青森市"
+      },
+      {
+            "date": "2020\/07\/21",
+            "url": "https://www.daily-tohoku.news/archives/39818",
+            "text": "新型コロナ対応のビジネス支援、青森県の補助金公募始まる／各地で相談会も"
+      },
+      {
+            "date": "2020\/07\/21",
+            "url": "https://www.daily-tohoku.news/archives/39817",
+            "text": "【新型コロナ】「＃オンライン青森夏まつり」プログラム公表／三社大祭など各地のお囃子競演"
+      },
+      {
+            "date": "2020\/07\/21",
+            "url": "https://www.daily-tohoku.news/archives/39814",
+            "text": "【新型コロナ】男性警察官の通報対応、青森県警の村井本部長が陳謝／県議会文教公安委員会"
+      },
+      {
+            "date": "2020\/07\/21",
+            "url": "https://www.daily-tohoku.news/archives/39805",
+            "text": "【新型コロナ】八戸市総体、中止を決定"
+      },
+      {
+            "date": "2020\/07\/20",
+            "url": "https://www.daily-tohoku.news/archives/39758",
+            "text": "【新型コロナ】旅行者受け入れへ感染防止対策徹底を／十和田市"
+      },
+      {
+            "date": "2020\/07\/20",
+            "url": "https://www.daily-tohoku.news/archives/39749",
+            "text": "【新型コロナ】開業医の受診患者２３５人の体調を確認／青森市"
+      },
+      {
+            "date": "2020\/07\/20",
+            "url": "https://www.daily-tohoku.news/archives/39742",
+            "text": "新型コロナ】旅行者受け入れへ　感染防止対策徹底を／十和田市"
+      },
+      {
+            "date": "2020\/07\/20",
+            "url": "https://www.daily-tohoku.news/archives/39740",
+            "text": "【新型コロナ】事業者応援金２７日申請開始　青森県、８月下旬支給見込み"
+      },
+      {
             "date": "2020\/07\/19",
             "url": "https://www.daily-tohoku.news/archives/39661",
             "text": "【新型コロナ】男性警察官の濃厚接触者２６人全員陰性"
@@ -54,51 +99,6 @@
             "date": "2020\/07\/16",
             "url": "https://www.daily-tohoku.news/archives/39414",
             "text": "生徒の不安解消を　コロナ感染開業医健診受け／青森県高教組"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39409",
-            "text": "「Ｇｏ　Ｔｏ」見直し　小林八戸市長「政府判断を尊重」"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39387",
-            "text": "「ＧｏＴｏトラベル」見直しへ"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39350",
-            "text": "高校生の就職戦線にもコロナの影響じわり／求人減少、選考延期…県外から地元に切り替える生徒も"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39367",
-            "text": "感染した警察官は青森県警本部勤務"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39339",
-            "text": "青森市で男性警察官が感染・派遣型風俗店女性の濃厚接触者"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39332",
-            "text": "【新型コロナ】野辺地、横浜、六ケ所の３町村の中学生によるスポーツ交流会開催／１８日から"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39323",
-            "text": "青森河川国道事務所、２０年度第１四半期の契約件数公表／順調に契約、新型コロナ影響なし"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39337",
-            "text": "風俗利用客新たに３人陰性　利用ホテルは３市１８カ所／青森市が会見"
-      },
-      {
-            "date": "2020\/07\/15",
-            "url": "https://www.daily-tohoku.news/archives/39265",
-            "text": "【新型コロナ】青森港クルーズ船、キャンセル相次ぐ／観光業に“荒波”経済損失４億円試算"
       }
     ]
 }
