@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/26",
+            "url": "https://www.daily-tohoku.news/archives/40114",
+            "text": "【新型コロナ】八戸市の「メールサービス」導入１カ月　配信内容に検討課題も"
+      },
+      {
+            "date": "2020\/07\/26",
+            "url": "https://www.daily-tohoku.news/archives/40084",
+            "text": "新型コロナ踏まえ避難所対応　久慈市、職員向けに研修会"
+      },
+      {
+            "date": "2020\/07\/24",
+            "url": "https://www.daily-tohoku.news/archives/39960",
+            "text": "蕪島海水浴場（八戸）海開き／来場者、コロナ感染注意しながら“夏”楽しむ"
+      },
+      {
             "date": "2020\/07\/22",
             "url": "https://www.daily-tohoku.news/archives/39903",
             "text": "【新型コロナ】２０代女性の接触者の追跡調査終了／青森市"
@@ -79,26 +94,6 @@
             "date": "2020\/07\/17",
             "url": "https://www.daily-tohoku.news/archives/39441",
             "text": "【新型コロナ】直近１カ月の売上７割減　落ち込み業種幅広く／八戸商議所調査"
-      },
-      {
-            "date": "2020\/07\/17",
-            "url": "https://www.daily-tohoku.news/archives/39432",
-            "text": "「ウィズコロナ」時代の観光振興の在り方探る　関係者が意見交換／二戸"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39422",
-            "text": "【新型コロナ】青森県警２０代男性警察官が陽性／風俗店女性と接触"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39422",
-            "text": "【新型コロナ】青森県警２０代男性警察官が陽性／風俗店女性と接触"
-      },
-      {
-            "date": "2020\/07\/16",
-            "url": "https://www.daily-tohoku.news/archives/39414",
-            "text": "生徒の不安解消を　コロナ感染開業医健診受け／青森県高教組"
       }
     ]
 }
