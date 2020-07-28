@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/27",
+            "url": "https://www.daily-tohoku.news/archives/40153",
+            "text": "【新型コロナ】新たに３人退院、１人入院中／青森県"
+      },
+      {
+            "date": "2020\/07\/27",
+            "url": "https://www.daily-tohoku.news/archives/40146",
+            "text": "【新型コロナ】観光事業者対象に感染対策セミナー／青森県"
+      },
+      {
             "date": "2020\/07\/26",
             "url": "https://www.daily-tohoku.news/archives/40114",
             "text": "【新型コロナ】八戸市の「メールサービス」導入１カ月　配信内容に検討課題も"
@@ -79,21 +89,6 @@
             "date": "2020\/07\/17",
             "url": "https://www.daily-tohoku.news/archives/39533",
             "text": "【新型コロナ】二戸地域に「発熱外来」２９日スタート　仮設施設とドライブスルー併用"
-      },
-      {
-            "date": "2020\/07\/17",
-            "url": "https://www.daily-tohoku.news/archives/39527",
-            "text": "コロナ感染疑い、青銀が松森町支店を臨時休業　従業員は陰性　２０日から営業再開"
-      },
-      {
-            "date": "2020\/07\/17",
-            "url": "https://www.daily-tohoku.news/archives/39444",
-            "text": "青銀従業員、コロナ感染の疑い／弘前の松森町支店に勤務"
-      },
-      {
-            "date": "2020\/07\/17",
-            "url": "https://www.daily-tohoku.news/archives/39441",
-            "text": "【新型コロナ】直近１カ月の売上７割減　落ち込み業種幅広く／八戸商議所調査"
       }
     ]
 }
