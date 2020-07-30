@@ -1,6 +1,51 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40306",
+            "text": "【新型コロナ】岩手で初の感染者　全都道府県に拡大"
+      },
+      {
+            "date": "2020\/07\/29",
+            "url": "https://www.daily-tohoku.news/archives/40301",
+            "text": "「コロナ禍で宿泊施設増設は必要？」間木ノ平グリーンパークに／新郷村議会、１０年ぶりの反対討論"
+      },
+      {
+            "date": "2020\/07\/29",
+            "url": "https://www.daily-tohoku.news/archives/40297",
+            "text": "青森県内広域路線バス運行５事業者、３～６月売上高５７％減／新型コロナ影響深刻"
+      },
+      {
+            "date": "2020\/07\/29",
+            "url": "https://www.daily-tohoku.news/archives/40286",
+            "text": "店舗の新型コロナ感染防止対策など補助／岩手県、申請受け付け開始"
+      },
+      {
+            "date": "2020\/07\/29",
+            "url": "https://www.daily-tohoku.news/archives/40273",
+            "text": "岩手で初のコロナ陽性、感染全国に拡大"
+      },
+      {
+            "date": "2020\/07\/29",
+            "url": "https://www.daily-tohoku.news/archives/40233",
+            "text": "コロナ禍の中、完全燃焼　苦難ばねに選手一丸／八学光星、最後の夏戦い抜く"
+      },
+      {
+            "date": "2020\/07\/28",
+            "url": "https://www.daily-tohoku.news/archives/40227",
+            "text": "【新型コロナ】田子町が商工業者らへの緊急支援金、対象期間を９月まで延長"
+      },
+      {
+            "date": "2020\/07\/28",
+            "url": "https://www.daily-tohoku.news/archives/40219",
+            "text": "米軍三沢基地司令官宛に新型コロナ対策の要請書提出／上十三平和委員会など"
+      },
+      {
+            "date": "2020\/07\/28",
+            "url": "https://www.daily-tohoku.news/archives/40218",
+            "text": "一戸町、コロナの独自支援策／特別定額給付金対象外の新生児に１０万円など"
+      },
+      {
             "date": "2020\/07\/27",
             "url": "https://www.daily-tohoku.news/archives/40153",
             "text": "【新型コロナ】新たに３人退院、１人入院中／青森県"
@@ -39,56 +84,6 @@
             "date": "2020\/07\/21",
             "url": "https://www.daily-tohoku.news/archives/39817",
             "text": "【新型コロナ】「＃オンライン青森夏まつり」プログラム公表／三社大祭など各地のお囃子競演"
-      },
-      {
-            "date": "2020\/07\/21",
-            "url": "https://www.daily-tohoku.news/archives/39814",
-            "text": "【新型コロナ】男性警察官の通報対応、青森県警の村井本部長が陳謝／県議会文教公安委員会"
-      },
-      {
-            "date": "2020\/07\/21",
-            "url": "https://www.daily-tohoku.news/archives/39805",
-            "text": "【新型コロナ】八戸市総体、中止を決定"
-      },
-      {
-            "date": "2020\/07\/20",
-            "url": "https://www.daily-tohoku.news/archives/39758",
-            "text": "【新型コロナ】旅行者受け入れへ感染防止対策徹底を／十和田市"
-      },
-      {
-            "date": "2020\/07\/20",
-            "url": "https://www.daily-tohoku.news/archives/39749",
-            "text": "【新型コロナ】開業医の受診患者２３５人の体調を確認／青森市"
-      },
-      {
-            "date": "2020\/07\/20",
-            "url": "https://www.daily-tohoku.news/archives/39742",
-            "text": "新型コロナ】旅行者受け入れへ　感染防止対策徹底を／十和田市"
-      },
-      {
-            "date": "2020\/07\/20",
-            "url": "https://www.daily-tohoku.news/archives/39740",
-            "text": "【新型コロナ】事業者応援金２７日申請開始　青森県、８月下旬支給見込み"
-      },
-      {
-            "date": "2020\/07\/19",
-            "url": "https://www.daily-tohoku.news/archives/39661",
-            "text": "【新型コロナ】男性警察官の濃厚接触者２６人全員陰性"
-      },
-      {
-            "date": "2020\/07\/18",
-            "url": "https://www.daily-tohoku.news/archives/39613",
-            "text": "【新型コロナ】男性警察官の濃厚接触者８人陰性／青森市"
-      },
-      {
-            "date": "2020\/07\/18",
-            "url": "https://www.daily-tohoku.news/archives/39562",
-            "text": "【新型コロナ】男性警官の濃厚接触者２６人、検査結果１８日判明"
-      },
-      {
-            "date": "2020\/07\/17",
-            "url": "https://www.daily-tohoku.news/archives/39533",
-            "text": "【新型コロナ】二戸地域に「発熱外来」２９日スタート　仮設施設とドライブスルー併用"
       }
     ]
 }
