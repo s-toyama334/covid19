@@ -1,6 +1,46 @@
 {
     "newsItems": [
       {
+            "date": "2020\/07\/31",
+            "url": "https://www.daily-tohoku.news/archives/40384",
+            "text": "八戸三社大祭３１日開幕、発祥３００年目の夏始まる／コロナ禍で規模縮小"
+      },
+      {
+            "date": "2020\/07\/31",
+            "url": "https://www.daily-tohoku.news/archives/40381",
+            "text": "【新型コロナ】青森県内の解雇・雇い止め労働者８６６人、雇用環境悪化顕著／アツギ東北むつ事業所の人員整理も影響"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40378",
+            "text": "【新型コロナ】矢巾の男性感染／岩手県３人目　宮古の感染者と会食"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40369",
+            "text": "宮古の男性と会食した１人がコロナ陽性／岩手県"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40363",
+            "text": "新型コロナ対策部会初会合、自治体担当者ら意見交わす／青森県三八地域活性化協議会"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40362",
+            "text": "むつ市が追加の新型コロナ対策発表／自動検温システム導入費の全額助成など"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40348",
+            "text": "弘前大、新型コロナに伴う入試の特例措置発表／総合型選抜の日程を１０月から１１月に変更など"
+      },
+      {
+            "date": "2020\/07\/30",
+            "url": "https://www.daily-tohoku.news/archives/40333",
+            "text": "【新型コロナ】二戸パークホテルが「ＡＩサーマルカメラ」設置／来館者の体温、瞬時に測定"
+      },
+      {
             "date": "2020\/07\/30",
             "url": "https://www.daily-tohoku.news/archives/40306",
             "text": "【新型コロナ】岩手で初の感染者　全都道府県に拡大"
@@ -59,31 +99,6 @@
             "date": "2020\/07\/26",
             "url": "https://www.daily-tohoku.news/archives/40114",
             "text": "【新型コロナ】八戸市の「メールサービス」導入１カ月　配信内容に検討課題も"
-      },
-      {
-            "date": "2020\/07\/26",
-            "url": "https://www.daily-tohoku.news/archives/40084",
-            "text": "新型コロナ踏まえ避難所対応　久慈市、職員向けに研修会"
-      },
-      {
-            "date": "2020\/07\/24",
-            "url": "https://www.daily-tohoku.news/archives/39960",
-            "text": "蕪島海水浴場（八戸）海開き／来場者、コロナ感染注意しながら“夏”楽しむ"
-      },
-      {
-            "date": "2020\/07\/22",
-            "url": "https://www.daily-tohoku.news/archives/39903",
-            "text": "【新型コロナ】２０代女性の接触者の追跡調査終了／青森市"
-      },
-      {
-            "date": "2020\/07\/21",
-            "url": "https://www.daily-tohoku.news/archives/39818",
-            "text": "新型コロナ対応のビジネス支援、青森県の補助金公募始まる／各地で相談会も"
-      },
-      {
-            "date": "2020\/07\/21",
-            "url": "https://www.daily-tohoku.news/archives/39817",
-            "text": "【新型コロナ】「＃オンライン青森夏まつり」プログラム公表／三社大祭など各地のお囃子競演"
       }
     ]
 }
