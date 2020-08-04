@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/01",
+            "url": "https://www.daily-tohoku.news/archives/40455",
+            "text": "【新型コロナ】岩手４人目は北上の会社員男性　単身赴任先から戻り発症"
+      },
+      {
+            "date": "2020\/08\/01",
+            "url": "https://www.daily-tohoku.news/archives/40455",
+            "text": "八戸三社大祭が開幕　コロナ禍、山車運行なく祭礼のみに"
+      },
+      {
+            "date": "2020\/08\/01",
+            "url": "https://www.daily-tohoku.news/archives/40452",
+            "text": "【新型コロナ】感染者の性別、職業非公表へ　青森県が方針変更"
+      },
+      {
+            "date": "2020\/08\/01",
+            "url": "https://www.daily-tohoku.news/archives/40449",
+            "text": "【新型コロナ】４０歳男性が新たに感染／岩手で４人目"
+      },
+      {
             "date": "2020\/07\/31",
             "url": "https://www.daily-tohoku.news/archives/40411",
             "text": "感染者は５０代男性会社員　関西滞在歴あり"
@@ -59,56 +79,6 @@
             "date": "2020\/07\/29",
             "url": "https://www.daily-tohoku.news/archives/40301",
             "text": "「コロナ禍で宿泊施設増設は必要？」間木ノ平グリーンパークに／新郷村議会、１０年ぶりの反対討論"
-      },
-      {
-            "date": "2020\/07\/29",
-            "url": "https://www.daily-tohoku.news/archives/40297",
-            "text": "青森県内広域路線バス運行５事業者、３～６月売上高５７％減／新型コロナ影響深刻"
-      },
-      {
-            "date": "2020\/07\/29",
-            "url": "https://www.daily-tohoku.news/archives/40286",
-            "text": "店舗の新型コロナ感染防止対策など補助／岩手県、申請受け付け開始"
-      },
-      {
-            "date": "2020\/07\/29",
-            "url": "https://www.daily-tohoku.news/archives/40273",
-            "text": "岩手で初のコロナ陽性、感染全国に拡大"
-      },
-      {
-            "date": "2020\/07\/29",
-            "url": "https://www.daily-tohoku.news/archives/40233",
-            "text": "コロナ禍の中、完全燃焼　苦難ばねに選手一丸／八学光星、最後の夏戦い抜く"
-      },
-      {
-            "date": "2020\/07\/28",
-            "url": "https://www.daily-tohoku.news/archives/40227",
-            "text": "【新型コロナ】田子町が商工業者らへの緊急支援金、対象期間を９月まで延長"
-      },
-      {
-            "date": "2020\/07\/28",
-            "url": "https://www.daily-tohoku.news/archives/40219",
-            "text": "米軍三沢基地司令官宛に新型コロナ対策の要請書提出／上十三平和委員会など"
-      },
-      {
-            "date": "2020\/07\/28",
-            "url": "https://www.daily-tohoku.news/archives/40218",
-            "text": "一戸町、コロナの独自支援策／特別定額給付金対象外の新生児に１０万円など"
-      },
-      {
-            "date": "2020\/07\/27",
-            "url": "https://www.daily-tohoku.news/archives/40153",
-            "text": "【新型コロナ】新たに３人退院、１人入院中／青森県"
-      },
-      {
-            "date": "2020\/07\/27",
-            "url": "https://www.daily-tohoku.news/archives/40146",
-            "text": "【新型コロナ】観光事業者対象に感染対策セミナー／青森県"
-      },
-      {
-            "date": "2020\/07\/26",
-            "url": "https://www.daily-tohoku.news/archives/40114",
-            "text": "【新型コロナ】八戸市の「メールサービス」導入１カ月　配信内容に検討課題も"
       }
     ]
 }
