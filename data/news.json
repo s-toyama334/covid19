@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/05",
+            "url": "https://www.daily-tohoku.news/archives/40779",
+            "text": "【新型コロナ】雫石の４０代男性会社員コロナ感染／岩手５人目"
+      },
+      {
             "date": "2020\/08\/01",
             "url": "https://www.daily-tohoku.news/archives/40455",
             "text": "【新型コロナ】岩手４人目は北上の会社員男性　単身赴任先から戻り発症"
@@ -49,36 +54,6 @@
             "date": "2020\/07\/30",
             "url": "https://www.daily-tohoku.news/archives/40369",
             "text": "宮古の男性と会食した１人がコロナ陽性／岩手県"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40363",
-            "text": "新型コロナ対策部会初会合、自治体担当者ら意見交わす／青森県三八地域活性化協議会"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40362",
-            "text": "むつ市が追加の新型コロナ対策発表／自動検温システム導入費の全額助成など"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40348",
-            "text": "弘前大、新型コロナに伴う入試の特例措置発表／総合型選抜の日程を１０月から１１月に変更など"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40333",
-            "text": "【新型コロナ】二戸パークホテルが「ＡＩサーマルカメラ」設置／来館者の体温、瞬時に測定"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40306",
-            "text": "【新型コロナ】岩手で初の感染者　全都道府県に拡大"
-      },
-      {
-            "date": "2020\/07\/29",
-            "url": "https://www.daily-tohoku.news/archives/40301",
-            "text": "「コロナ禍で宿泊施設増設は必要？」間木ノ平グリーンパークに／新郷村議会、１０年ぶりの反対討論"
       }
     ]
 }
