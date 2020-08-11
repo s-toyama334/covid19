@@ -1,6 +1,86 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/11",
+            "url": "https://www.daily-tohoku.news/archives/41111",
+            "text": "【新型コロナ】休廃業・解散、過去最多の懸念／青森県内企業、５００件超も"
+      },
+      {
+            "date": "2020\/08\/11",
+            "url": "https://www.daily-tohoku.news/archives/41110",
+            "text": "【新型コロナ】普段少ない若者の相談増加／あおもりいのちの電話（弘前）"
+      },
+      {
+            "date": "2020\/08\/11",
+            "url": "https://www.daily-tohoku.news/archives/41103",
+            "text": "【新型コロナ】タクシーが買い物など代行サービス／社会実験、八戸市内と三戸郡内で実施"
+      },
+      {
+            "date": "2020\/08\/10",
+            "url": "https://www.daily-tohoku.news/archives/41095",
+            "text": "【新型コロナ】米軍三沢基地内で軍関係者１人陽性"
+      },
+      {
+            "date": "2020\/08\/10",
+            "url": "https://www.daily-tohoku.news/archives/41084",
+            "text": "米軍三沢基地に到着の米軍関係者が新型コロナ陽性"
+      },
+      {
+            "date": "2020\/08\/10",
+            "url": "https://www.daily-tohoku.news/archives/41051",
+            "text": "【新型コロナ】静かなお盆休みの様相、自主的に帰省を見送る県出身者も"
+      },      
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/41004",
+            "text": "【新型コロナ】三村知事「偏見・差別・デマの排除」を評価／全国知事会が緊急提言"
+      },
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/40999",
+            "text": "【新型コロナ】岩手７人目の女児は感染女性の娘"
+      },
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/40998",
+            "text": "【新型コロナ】電話健康相談窓口１１日から電話番号変更／八戸市保健所"
+      },
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/40952",
+            "text": "青森港クルーズ船、今年は寄港全て中止　コロナが直撃"
+      },
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/40949",
+            "text": "コロナ禍に負けるな！　市民限定、１日限りの青森ねぶた"
+      },
+      {
+            "date": "2020\/08\/08",
+            "url": "https://www.daily-tohoku.news/archives/40939",
+            "text": "【久慈でコロナ初確認】急きょイベント中止も　盆前に緊張感高まる"
+      },
+      {
+            "date": "2020\/08\/07",
+            "url": "https://www.daily-tohoku.news/archives/40936",
+            "text": "来春高卒の求人１・２７倍／青森県内　コロナ影響で大幅減"
+      },
+      {
+            "date": "2020\/08\/07",
+            "url": "https://www.daily-tohoku.news/archives/40923",
+            "text": "【新型コロナ】三沢、青森両空港発着便の減便発表／日航"
+      },
+      {
+            "date": "2020\/08\/07",
+            "url": "https://www.daily-tohoku.news/archives/40907",
+            "text": "【新型コロナ】久慈の女性、関東地方の友人と県内観光"
+      },
+      {
+            "date": "2020\/08\/06",
+            "url": "https://www.daily-tohoku.news/archives/40871",
+            "text": "コロナ感染の久慈の女性は関東地方の友人と行動"
+      },
+      {
             "date": "2020\/08\/06",
             "url": "https://www.daily-tohoku.news/archives/40843",
             "text": "【新型コロナ】久慈の２０代女性感染／岩手６人目、県北初確認"
@@ -29,61 +109,6 @@
             "date": "2020\/08\/06",
             "url": "https://www.daily-tohoku.news/archives/40788",
             "text": "【新型コロナ】うがい薬完売相次ぐ　専門家「従来の予防対策継続を」"
-      },
-      {
-            "date": "2020\/08\/05",
-            "url": "https://www.daily-tohoku.news/archives/40779",
-            "text": "【新型コロナ】雫石の４０代男性会社員コロナ感染／岩手５人目"
-      },
-      {
-            "date": "2020\/08\/01",
-            "url": "https://www.daily-tohoku.news/archives/40455",
-            "text": "【新型コロナ】岩手４人目は北上の会社員男性　単身赴任先から戻り発症"
-      },
-      {
-            "date": "2020\/08\/01",
-            "url": "https://www.daily-tohoku.news/archives/40455",
-            "text": "八戸三社大祭が開幕　コロナ禍、山車運行なく祭礼のみに"
-      },
-      {
-            "date": "2020\/08\/01",
-            "url": "https://www.daily-tohoku.news/archives/40452",
-            "text": "【新型コロナ】感染者の性別、職業非公表へ　青森県が方針変更"
-      },
-      {
-            "date": "2020\/08\/01",
-            "url": "https://www.daily-tohoku.news/archives/40449",
-            "text": "【新型コロナ】４０歳男性が新たに感染／岩手で４人目"
-      },
-      {
-            "date": "2020\/07\/31",
-            "url": "https://www.daily-tohoku.news/archives/40411",
-            "text": "感染者は５０代男性会社員　関西滞在歴あり"
-      },
-      {
-            "date": "2020\/07\/31",
-            "url": "https://www.daily-tohoku.news/archives/40406",
-            "text": "青森市で新たに１人が感染"
-      },
-      {
-            "date": "2020\/07\/31",
-            "url": "https://www.daily-tohoku.news/archives/40384",
-            "text": "八戸三社大祭３１日開幕、発祥３００年目の夏始まる／コロナ禍で規模縮小"
-      },
-      {
-            "date": "2020\/07\/31",
-            "url": "https://www.daily-tohoku.news/archives/40381",
-            "text": "【新型コロナ】青森県内の解雇・雇い止め労働者８６６人、雇用環境悪化顕著／アツギ東北むつ事業所の人員整理も影響"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40378",
-            "text": "【新型コロナ】矢巾の男性感染／岩手県３人目　宮古の感染者と会食"
-      },
-      {
-            "date": "2020\/07\/30",
-            "url": "https://www.daily-tohoku.news/archives/40369",
-            "text": "宮古の男性と会食した１人がコロナ陽性／岩手県"
       }
     ]
 }
