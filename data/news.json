@@ -1,6 +1,51 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/15",
+            "url": "https://www.daily-tohoku.news/archives/41334",
+            "text": "【新型コロナ】感染女性の同居家族は陰性"
+      },
+      {
+            "date": "2020\/08\/15",
+            "url": "https://www.daily-tohoku.news/archives/41333",
+            "text": "【新型コロナ】６０代男性の濃厚接触者は陰性"
+      },      
+      {
+            "date": "2020\/08\/15",
+            "url": "https://www.daily-tohoku.news/archives/41333",
+            "text": "【新型コロナ】６０代男性の濃厚接触者は陰性　"
+      },
+      {
+            "date": "2020\/08\/15",
+            "url": "https://www.daily-tohoku.news/archives/41298",
+            "text": "【新型コロナ】帰省中の６０代男性陽性／上十三管内　関東地方で感染か"
+      },
+      {
+            "date": "2020\/08\/14",
+            "url": "https://www.daily-tohoku.news/archives/41293",
+            "text": "【新型コロナ】青森県独自「１０万円応援金」の支給始まる"
+      },
+      {
+            "date": "2020\/08\/14",
+            "url": "https://www.daily-tohoku.news/archives/41290",
+            "text": "【新型コロナ】久慈の５０代女性会社員、関西出張で感染か"
+      },
+      {
+            "date": "2020\/08\/13",
+            "url": "https://www.daily-tohoku.news/archives/41254",
+            "text": "【新型コロナ】久慈の５０代女性感染　市内３人目"
+      },
+      {
+            "date": "2020\/08\/13",
+            "url": "https://www.daily-tohoku.news/archives/41244",
+            "text": "【新型コロナ】米軍三沢基地来訪の軍関係者１人が陽性"
+      },
+      {
+            "date": "2020\/08\/13",
+            "url": "https://www.daily-tohoku.news/archives/41225",
+            "text": "【新型コロナ】県外客対応は…休業や「お断り」も　お盆期間、八戸の飲食店苦慮"
+      },
+      {
             "date": "2020\/08\/12",
             "url": "https://www.daily-tohoku.news/archives/41203",
             "text": "【新型コロナ】関東地方の友人が陽性　久慈の女性「友人から感染した可能性」"
@@ -34,51 +79,6 @@
             "date": "2020\/08\/10",
             "url": "https://www.daily-tohoku.news/archives/41051",
             "text": "【新型コロナ】静かなお盆休みの様相、自主的に帰省を見送る県出身者も"
-      },      
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/41004",
-            "text": "【新型コロナ】三村知事「偏見・差別・デマの排除」を評価／全国知事会が緊急提言"
-      },
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/40999",
-            "text": "【新型コロナ】岩手７人目の女児は感染女性の娘"
-      },
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/40998",
-            "text": "【新型コロナ】電話健康相談窓口１１日から電話番号変更／八戸市保健所"
-      },
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/40952",
-            "text": "青森港クルーズ船、今年は寄港全て中止　コロナが直撃"
-      },
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/40949",
-            "text": "コロナ禍に負けるな！　市民限定、１日限りの青森ねぶた"
-      },
-      {
-            "date": "2020\/08\/08",
-            "url": "https://www.daily-tohoku.news/archives/40939",
-            "text": "【久慈でコロナ初確認】急きょイベント中止も　盆前に緊張感高まる"
-      },
-      {
-            "date": "2020\/08\/07",
-            "url": "https://www.daily-tohoku.news/archives/40936",
-            "text": "来春高卒の求人１・２７倍／青森県内　コロナ影響で大幅減"
-      },
-      {
-            "date": "2020\/08\/07",
-            "url": "https://www.daily-tohoku.news/archives/40923",
-            "text": "【新型コロナ】三沢、青森両空港発着便の減便発表／日航"
-      },
-      {
-            "date": "2020\/08\/07",
-            "url": "https://www.daily-tohoku.news/archives/40907",
-            "text": "【新型コロナ】久慈の女性、関東地方の友人と県内観光"
       }
     ]
 }
