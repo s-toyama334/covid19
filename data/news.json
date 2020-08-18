@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/17",
+            "url": "https://www.daily-tohoku.news/archives/41405",
+            "text": "【新型コロナ】久慈の女性バス運転士感染　感染女性が乗車、接触"
+      },
+      {
             "date": "2020\/08\/15",
             "url": "https://www.daily-tohoku.news/archives/41334",
             "text": "【新型コロナ】感染女性の同居家族は陰性"
