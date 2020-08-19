@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/18",
+            "url": "https://www.daily-tohoku.news/archives/41483",
+            "text": "盛岡―八戸間利用者７７％減　東北新幹線お盆期間／コロナで落ち込む"
+      },      
+      {
+            "date": "2020\/08\/18",
+            "url": "https://www.daily-tohoku.news/archives/41482",
+            "text": "【新型コロナ】久慈のバス運転士、親族５人の検査実施へ／３人と県外で食事"
+      },
+      {
             "date": "2020\/08\/17",
             "url": "https://www.daily-tohoku.news/archives/41405",
             "text": "【新型コロナ】久慈の女性バス運転士感染　感染女性が乗車、接触"
@@ -64,21 +74,6 @@
             "date": "2020\/08\/11",
             "url": "https://www.daily-tohoku.news/archives/41103",
             "text": "【新型コロナ】タクシーが買い物など代行サービス／社会実験、八戸市内と三戸郡内で実施"
-      },
-      {
-            "date": "2020\/08\/10",
-            "url": "https://www.daily-tohoku.news/archives/41095",
-            "text": "【新型コロナ】米軍三沢基地内で軍関係者１人陽性"
-      },
-      {
-            "date": "2020\/08\/10",
-            "url": "https://www.daily-tohoku.news/archives/41084",
-            "text": "米軍三沢基地に到着の米軍関係者が新型コロナ陽性"
-      },
-      {
-            "date": "2020\/08\/10",
-            "url": "https://www.daily-tohoku.news/archives/41051",
-            "text": "【新型コロナ】静かなお盆休みの様相、自主的に帰省を見送る県出身者も"
       }
     ]
 }
