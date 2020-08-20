@@ -1,10 +1,30 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/20",
+            "url": "https://www.daily-tohoku.news/archives/41547",
+            "text": "コロナ感染の警官利用２店舗　賠償求め法的措置も／十和田"
+      },
+      {
+            "date": "2020\/08\/19",
+            "url": "https://www.daily-tohoku.news/archives/41534",
+            "text": "青森県、農家民宿のコロナ対策研修会／消毒など対策学ぶ"
+      },
+      {
+            "date": "2020\/08\/19",
+            "url": "https://www.daily-tohoku.news/archives/41528",
+            "text": "七戸町が新型コロナの抗原検査に補助金"
+      },
+      {
+            "date": "2020\/08\/19",
+            "url": "https://www.daily-tohoku.news/archives/41524",
+            "text": "【新型コロナ】久慈のバス運転士、親族５人全て陰性"
+      },
+      {
             "date": "2020\/08\/18",
             "url": "https://www.daily-tohoku.news/archives/41483",
             "text": "盛岡―八戸間利用者７７％減　東北新幹線お盆期間／コロナで落ち込む"
-      },      
+      },
       {
             "date": "2020\/08\/18",
             "url": "https://www.daily-tohoku.news/archives/41482",
@@ -59,21 +79,6 @@
             "date": "2020\/08\/12",
             "url": "https://www.daily-tohoku.news/archives/41203",
             "text": "【新型コロナ】関東地方の友人が陽性　久慈の女性「友人から感染した可能性」"
-      },
-      {
-            "date": "2020\/08\/11",
-            "url": "https://www.daily-tohoku.news/archives/41111",
-            "text": "【新型コロナ】休廃業・解散、過去最多の懸念／青森県内企業、５００件超も"
-      },
-      {
-            "date": "2020\/08\/11",
-            "url": "https://www.daily-tohoku.news/archives/41110",
-            "text": "【新型コロナ】普段少ない若者の相談増加／あおもりいのちの電話（弘前）"
-      },
-      {
-            "date": "2020\/08\/11",
-            "url": "https://www.daily-tohoku.news/archives/41103",
-            "text": "【新型コロナ】タクシーが買い物など代行サービス／社会実験、八戸市内と三戸郡内で実施"
       }
     ]
 }
