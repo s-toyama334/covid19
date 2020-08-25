@@ -1,6 +1,66 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/25",
+            "url": "https://www.daily-tohoku.news/archives/41860",
+            "text": "【連載・コロナと共に～変わる価値観～】（３）「農業」"
+      },
+      {
+            "date": "2020\/08\/25",
+            "url": "https://www.daily-tohoku.news/archives/41857",
+            "text": "コロナで高まる地方移住　八戸市がオンライン相談窓口開設、支援体制充実"
+      },
+      {
+            "date": "2020\/08\/24",
+            "url": "https://www.daily-tohoku.news/archives/41846",
+            "text": "【新型コロナ】久慈の５０代女性、家庭内感染の可能性　同居家族５人は全員陰性"
+      },
+      {
+            "date": "2020\/08\/24",
+            "url": "https://www.daily-tohoku.news/archives/41799",
+            "text": "【連載・コロナと共に～変わる価値観～】（２）「働き方」"
+      },
+      {
+            "date": "2020\/08\/24",
+            "url": "https://www.daily-tohoku.news/archives/41794",
+            "text": "終息願い大輪５６７０（コロナゼロ）発／八戸花火大会"
+      },
+      {
+            "date": "2020\/08\/23",
+            "url": "https://www.daily-tohoku.news/archives/41787",
+            "text": "【新型コロナ】久慈の５０代女性、新たに感染"
+      },
+      {
+            "date": "2020\/08\/23",
+            "url": "https://www.daily-tohoku.news/archives/41781",
+            "text": "久慈の５０代女性、コロナ感染　岩手県１２人目"
+      },
+      {
+            "date": "2020\/08\/23",
+            "url": "https://www.daily-tohoku.news/archives/41758",
+            "text": "【連載・コロナと共に～変わる価値観～】（１）「地方」"
+      },
+      {
+            "date": "2020\/08\/22",
+            "url": "https://www.daily-tohoku.news/archives/41689",
+            "text": "【新型コロナ】盛岡の感染者は夫婦　接触疑い７０人全員陰性"
+      },
+      {
+            "date": "2020\/08\/21",
+            "url": "https://www.daily-tohoku.news/archives/41663",
+            "text": "【新型コロナ】患者１人退院、入院者ゼロに／青森県内"
+      },
+      {
+            "date": "2020\/08\/21",
+            "url": "https://www.daily-tohoku.news/archives/41660",
+            "text": "【新型コロナ】八戸市、年度内に生まれた新生児に１０万円給付"
+      },
+      {
+            "date": "2020\/08\/21",
+            "url": "https://www.daily-tohoku.news/archives/41659",
+            "text": "【新型コロナ】青森県内の感染症病床１５８床に"
+      },
+      {
             "date": "2020\/08\/20",
             "url": "https://www.daily-tohoku.news/archives/41602",
             "text": "新型コロナ「マイナス影響」７７％　運輸・サービス業で深刻／ＡＣＰ調査"
@@ -9,71 +69,6 @@
             "date": "2020\/08\/20",
             "url": "https://www.daily-tohoku.news/archives/41599",
             "text": "【新型コロナ】盛岡の感染女性は濃厚接触者　県内１１人目"
-      },
-      {
-            "date": "2020\/08\/20",
-            "url": "https://www.daily-tohoku.news/archives/41547",
-            "text": "コロナ感染の警官利用２店舗　賠償求め法的措置も／十和田"
-      },
-      {
-            "date": "2020\/08\/19",
-            "url": "https://www.daily-tohoku.news/archives/41534",
-            "text": "青森県、農家民宿のコロナ対策研修会／消毒など対策学ぶ"
-      },
-      {
-            "date": "2020\/08\/19",
-            "url": "https://www.daily-tohoku.news/archives/41528",
-            "text": "七戸町が新型コロナの抗原検査に補助金"
-      },
-      {
-            "date": "2020\/08\/19",
-            "url": "https://www.daily-tohoku.news/archives/41524",
-            "text": "【新型コロナ】久慈のバス運転士、親族５人全て陰性"
-      },
-      {
-            "date": "2020\/08\/18",
-            "url": "https://www.daily-tohoku.news/archives/41483",
-            "text": "盛岡―八戸間利用者７７％減　東北新幹線お盆期間／コロナで落ち込む"
-      },
-      {
-            "date": "2020\/08\/18",
-            "url": "https://www.daily-tohoku.news/archives/41482",
-            "text": "【新型コロナ】久慈のバス運転士、親族５人の検査実施へ／３人と県外で食事"
-      },
-      {
-            "date": "2020\/08\/17",
-            "url": "https://www.daily-tohoku.news/archives/41405",
-            "text": "【新型コロナ】久慈の女性バス運転士感染　感染女性が乗車、接触"
-      },
-      {
-            "date": "2020\/08\/15",
-            "url": "https://www.daily-tohoku.news/archives/41334",
-            "text": "【新型コロナ】感染女性の同居家族は陰性"
-      },      
-      {
-            "date": "2020\/08\/15",
-            "url": "https://www.daily-tohoku.news/archives/41333",
-            "text": "【新型コロナ】６０代男性の濃厚接触者は陰性　"
-      },
-      {
-            "date": "2020\/08\/15",
-            "url": "https://www.daily-tohoku.news/archives/41298",
-            "text": "【新型コロナ】帰省中の６０代男性陽性／上十三管内　関東地方で感染か"
-      },
-      {
-            "date": "2020\/08\/14",
-            "url": "https://www.daily-tohoku.news/archives/41293",
-            "text": "【新型コロナ】青森県独自「１０万円応援金」の支給始まる"
-      },
-      {
-            "date": "2020\/08\/14",
-            "url": "https://www.daily-tohoku.news/archives/41290",
-            "text": "【新型コロナ】久慈の５０代女性会社員、関西出張で感染か"
-      },
-      {
-            "date": "2020\/08\/13",
-            "url": "https://www.daily-tohoku.news/archives/41254",
-            "text": "【新型コロナ】久慈の５０代女性感染　市内３人目"
       }
     ]
 }
