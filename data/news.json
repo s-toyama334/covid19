@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/26",
+            "url": "https://www.daily-tohoku.news/archives/41942",
+            "text": "【連載・コロナと共に～変わる価値観～】（４）「観光」"
+      },
+      {
+            "date": "2020\/08\/26",
+            "url": "https://www.daily-tohoku.news/archives/41940",
+            "text": "はちのへホコテン、８月３０日に実施／コロナ対策し、今年初開催"
+      },
+      {
+            "date": "2020\/08\/26",
+            "url": "https://www.daily-tohoku.news/archives/41932",
+            "text": "【新型コロナ】盛岡の２０代男性が感染　岩手県１３人目"
+      },
+      {
             "date": "2020\/08\/25",
             "url": "https://www.daily-tohoku.news/archives/41860",
             "text": "【連載・コロナと共に～変わる価値観～】（３）「農業」"
@@ -49,26 +64,6 @@
             "date": "2020\/08\/21",
             "url": "https://www.daily-tohoku.news/archives/41663",
             "text": "【新型コロナ】患者１人退院、入院者ゼロに／青森県内"
-      },
-      {
-            "date": "2020\/08\/21",
-            "url": "https://www.daily-tohoku.news/archives/41660",
-            "text": "【新型コロナ】八戸市、年度内に生まれた新生児に１０万円給付"
-      },
-      {
-            "date": "2020\/08\/21",
-            "url": "https://www.daily-tohoku.news/archives/41659",
-            "text": "【新型コロナ】青森県内の感染症病床１５８床に"
-      },
-      {
-            "date": "2020\/08\/20",
-            "url": "https://www.daily-tohoku.news/archives/41602",
-            "text": "新型コロナ「マイナス影響」７７％　運輸・サービス業で深刻／ＡＣＰ調査"
-      },
-      {
-            "date": "2020\/08\/20",
-            "url": "https://www.daily-tohoku.news/archives/41599",
-            "text": "【新型コロナ】盛岡の感染女性は濃厚接触者　県内１１人目"
       }
     ]
 }
