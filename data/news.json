@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/42008",
+            "text": "【連載・コロナと共に～変わる価値観～】（５）「医療」"
+      },      
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/41998",
+            "text": "青森県内コロナ影響調査７回目　収束長引けば１割廃業検討／東京商工リサーチ"
+      },
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/41996",
+            "text": "【新型コロナ】岩手県で新たに６人感染　盛岡の２０代男性の接触者ら"
+      },
+      {
             "date": "2020\/08\/26",
             "url": "https://www.daily-tohoku.news/archives/41942",
             "text": "【連載・コロナと共に～変わる価値観～】（４）「観光」"
@@ -44,26 +59,6 @@
             "date": "2020\/08\/23",
             "url": "https://www.daily-tohoku.news/archives/41787",
             "text": "【新型コロナ】久慈の５０代女性、新たに感染"
-      },
-      {
-            "date": "2020\/08\/23",
-            "url": "https://www.daily-tohoku.news/archives/41781",
-            "text": "久慈の５０代女性、コロナ感染　岩手県１２人目"
-      },
-      {
-            "date": "2020\/08\/23",
-            "url": "https://www.daily-tohoku.news/archives/41758",
-            "text": "【連載・コロナと共に～変わる価値観～】（１）「地方」"
-      },
-      {
-            "date": "2020\/08\/22",
-            "url": "https://www.daily-tohoku.news/archives/41689",
-            "text": "【新型コロナ】盛岡の感染者は夫婦　接触疑い７０人全員陰性"
-      },
-      {
-            "date": "2020\/08\/21",
-            "url": "https://www.daily-tohoku.news/archives/41663",
-            "text": "【新型コロナ】患者１人退院、入院者ゼロに／青森県内"
       }
     ]
 }
