@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/08\/28",
+            "url": "https://www.daily-tohoku.news/archives/42070",
+            "text": "【連載・コロナと共に～変わる価値観～】（６）「文化・芸術」"
+      },
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/42061",
+            "text": "【新型コロナ】五所川原管内で男女２人感染　８月中旬、関西に滞在"
+      },
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/42056",
+            "text": "【新型コロナ】全自動ＰＣＲ検査装置２台導入／青森県環境保健センター"
+      },
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/42054",
+            "text": "【新型コロナ】家庭内クラスターか　盛岡と遠野の感染者／岩手県内初"
+      },
+      {
+            "date": "2020\/08\/27",
+            "url": "https://www.daily-tohoku.news/archives/42038",
+            "text": "【新型コロナ】感染男性は空自車力分屯基地隊員"
+      },
+      {
             "date": "2020\/08\/27",
             "url": "https://www.daily-tohoku.news/archives/42014",
             "text": "【新型コロナ】五所川原保健所管内で２人感染確認"
@@ -49,21 +74,6 @@
             "date": "2020\/08\/24",
             "url": "https://www.daily-tohoku.news/archives/41846",
             "text": "【新型コロナ】久慈の５０代女性、家庭内感染の可能性　同居家族５人は全員陰性"
-      },
-      {
-            "date": "2020\/08\/24",
-            "url": "https://www.daily-tohoku.news/archives/41799",
-            "text": "【連載・コロナと共に～変わる価値観～】（２）「働き方」"
-      },
-      {
-            "date": "2020\/08\/24",
-            "url": "https://www.daily-tohoku.news/archives/41794",
-            "text": "終息願い大輪５６７０（コロナゼロ）発／八戸花火大会"
-      },
-      {
-            "date": "2020\/08\/23",
-            "url": "https://www.daily-tohoku.news/archives/41787",
-            "text": "【新型コロナ】久慈の５０代女性、新たに感染"
       }
     ]
 }
