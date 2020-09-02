@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/02",
+            "url": "https://www.daily-tohoku.news/archives/42450",
+            "text": "【新型コロナ】岩手・奥州で男性３人感染　全員県外在住の会社員"
+      },
+      {
             "date": "2020\/08\/31",
             "url": "https://www.daily-tohoku.news/archives/42362",
             "text": "コロナ下、ＩＴ駆使し避難所運営／今別で実証実験"
