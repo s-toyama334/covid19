@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/08",
+            "url": "https://www.daily-tohoku.news/archives/42925",
+            "text": "契約終了、来日もできず…　コロナ禍、ＡＬＴ確保に苦慮"
+      },
+      {
+            "date": "2020\/09\/07",
+            "url": "https://www.daily-tohoku.news/archives/42890",
+            "text": "ひとり親世帯に食料品無償提供　コロナ感染拡大受け／六ケ所村社協"
+      },
+      {
+            "date": "2020\/09\/07",
+            "url": "https://www.daily-tohoku.news/archives/42889",
+            "text": "新型コロナ独自対策、野辺地町が新生児に１０万円給付"
+      },
+      {
+            "date": "2020\/09\/07",
+            "url": "https://www.daily-tohoku.news/archives/42887",
+            "text": "【新型コロナ】誹謗中傷拡大受け、久慈市長「冷静な行動を」"
+      },
+      {
+            "date": "2020\/09\/07",
+            "url": "https://www.daily-tohoku.news/archives/42816",
+            "text": "新型コロナで注目のエクモ　医療従事者の育成急務"
+      },
+      {
             "date": "2020\/09\/06",
             "url": "https://www.daily-tohoku.news/archives/42769",
             "text": "コロナ禍、売上減の飲食店に期待感／１０月発行「八戸プレミアム付き食事券」"
@@ -49,41 +74,6 @@
             "date": "2020\/08\/31",
             "url": "https://www.daily-tohoku.news/archives/42362",
             "text": "コロナ下、ＩＴ駆使し避難所運営／今別で実証実験"
-      },
-      {
-            "date": "2020\/08\/31",
-            "url": "https://www.daily-tohoku.news/archives/42358",
-            "text": "障害福祉事業所、約４割が「減収」回答／コロナ影響調査で"
-      },
-      {
-            "date": "2020\/08\/30",
-            "url": "https://www.daily-tohoku.news/archives/42244",
-            "text": "【連載・コロナと共に～変わる価値観】（７）「心構え」"
-      },
-      {
-            "date": "2020\/08\/28",
-            "url": "https://www.daily-tohoku.news/archives/42160",
-            "text": "【新型コロナ】情報伝達システム独自整備へ／六戸町"
-      },
-      {
-            "date": "2020\/08\/28",
-            "url": "https://www.daily-tohoku.news/archives/42149",
-            "text": "【新型コロナ】青森県がＬＩＮＥ開設　感染情報など提供"
-      },
-      {
-            "date": "2020\/08\/28",
-            "url": "https://www.daily-tohoku.news/archives/42142",
-            "text": "【新型コロナ】感染女性の知人は陰性／五所川原管内"
-      },
-      {
-            "date": "2020\/08\/28",
-            "url": "https://www.daily-tohoku.news/archives/42140",
-            "text": "【新型コロナ】減収の肉用牛生産者、漁業者に一律１０万円／久慈市"
-      },
-      {
-            "date": "2020\/08\/28",
-            "url": "https://www.daily-tohoku.news/archives/42135",
-            "text": "イベント人数上限９月末まで延長　コロナ対策で青森県"
       }
     ]
 }
