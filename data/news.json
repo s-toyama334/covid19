@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/13",
+            "url": "https://www.daily-tohoku.news/archives/43306",
+            "text": "新型コロナ感染者情報の公表、東北６県で対応分かれる"
+      },
+      {
+            "date": "2020\/09\/12",
+            "url": "https://www.daily-tohoku.news/archives/43244",
+            "text": "「にんにくとべごまつり」今年はおうちで／田子　コロナで中止の代替企画"
+      },
+      {
+            "date": "2020\/09\/12",
+            "url": "https://www.daily-tohoku.news/archives/43235",
+            "text": "コロナで密集避け山へ？　遭難が過去２０年で最多／青森県内"
+      },
+      {
+            "date": "2020\/09\/11",
+            "url": "https://www.daily-tohoku.news/archives/43217",
+            "text": "【新型コロナ】「まるで呪縛」完治後も後遺症に苦しむ"
+      },
+      {
+            "date": "2020\/09\/11",
+            "url": "https://www.daily-tohoku.news/archives/43212",
+            "text": "コロナ禍の中小製造業支援を　青森県工業会が県へ要望"
+      },
+      {
+            "date": "2020\/09\/11",
+            "url": "https://www.daily-tohoku.news/archives/43194",
+            "text": "観光事業者らコロナ対策を紹介／三八地域活性化協議会"
+      },
+      {
             "date": "2020\/09\/10",
             "url": "https://www.daily-tohoku.news/archives/43140",
             "text": "【新型コロナ】市町村への補助金拡充　三村知事「前向きに進める」"
@@ -39,36 +69,6 @@
             "date": "2020\/09\/07",
             "url": "https://www.daily-tohoku.news/archives/42890",
             "text": "ひとり親世帯に食料品無償提供　コロナ感染拡大受け／六ケ所村社協"
-      },
-      {
-            "date": "2020\/09\/07",
-            "url": "https://www.daily-tohoku.news/archives/42889",
-            "text": "新型コロナ独自対策、野辺地町が新生児に１０万円給付"
-      },
-      {
-            "date": "2020\/09\/07",
-            "url": "https://www.daily-tohoku.news/archives/42887",
-            "text": "【新型コロナ】誹謗中傷拡大受け、久慈市長「冷静な行動を」"
-      },
-      {
-            "date": "2020\/09\/07",
-            "url": "https://www.daily-tohoku.news/archives/42816",
-            "text": "新型コロナで注目のエクモ　医療従事者の育成急務"
-      },
-      {
-            "date": "2020\/09\/06",
-            "url": "https://www.daily-tohoku.news/archives/42769",
-            "text": "コロナ禍、売上減の飲食店に期待感／１０月発行「八戸プレミアム付き食事券」"
-      },
-      {
-            "date": "2020\/09\/06",
-            "url": "https://www.daily-tohoku.news/archives/42768",
-            "text": "コロナ禍、成人男性の引きこもり相談件数増加／北奥羽地方"
-      },
-      {
-            "date": "2020\/09\/05",
-            "url": "https://www.daily-tohoku.news/archives/42702",
-            "text": "【新型コロナ】奥州市勤務の男性感染　職場内感染か"
       }
     ]
 }
