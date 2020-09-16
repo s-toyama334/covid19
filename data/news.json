@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/16",
+            "url": "https://www.daily-tohoku.news/archives/43511",
+            "text": "コロナ下、観光農園に熱視線／南部町　密にならず伸びる個人客"
+      },
+      {
+            "date": "2020\/09\/15",
+            "url": "https://www.daily-tohoku.news/archives/43465",
+            "text": "【新型コロナ】久慈・もぐらんぴあ駅伝中止"
+      },
+      {
             "date": "2020\/09\/14",
             "url": "https://www.daily-tohoku.news/archives/43403",
             "text": "【自民・菅総裁誕生】コロナ追加対策、地域活性化求める／県内経済界"
@@ -49,31 +59,6 @@
             "date": "2020\/09\/09",
             "url": "https://www.daily-tohoku.news/archives/43019",
             "text": "八戸に希望与えたい－　コロナ禍でも諦めず居酒屋開店"
-      },
-      {
-            "date": "2020\/09\/09",
-            "url": "https://www.daily-tohoku.news/archives/43018",
-            "text": "【新型コロナ】感染者の職業　非公表に／青森県"
-      },
-      {
-            "date": "2020\/09\/08",
-            "url": "https://www.daily-tohoku.news/archives/42989",
-            "text": "【新型コロナ】「外来・検査センター」開設へ　インフル流行見据え／十和田市"
-      },
-      {
-            "date": "2020\/09\/08",
-            "url": "https://www.daily-tohoku.news/archives/42982",
-            "text": "【岩手県議会】臨時会、コロナ対応の補正予算案など可決"
-      },
-      {
-            "date": "2020\/09\/08",
-            "url": "https://www.daily-tohoku.news/archives/42925",
-            "text": "契約終了、来日もできず…　コロナ禍、ＡＬＴ確保に苦慮"
-      },
-      {
-            "date": "2020\/09\/07",
-            "url": "https://www.daily-tohoku.news/archives/42890",
-            "text": "ひとり親世帯に食料品無償提供　コロナ感染拡大受け／六ケ所村社協"
       }
     ]
 }
