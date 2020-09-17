@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/17",
+            "url": "https://www.daily-tohoku.news/archives/43588",
+            "text": "【新型コロナ】無症状・軽症者向け施設　県が八戸に１００室確保"
+      },
+      {
+            "date": "2020\/09\/17",
+            "url": "https://www.daily-tohoku.news/archives/43584",
+            "text": "【青森県補正予算案】コロナ対策など４３４億円　過去２番目大型編成"
+      },
+      {
+            "date": "2020\/09\/16",
+            "url": "https://www.daily-tohoku.news/archives/43558",
+            "text": "青森県議会、コロナ対策で議場にアクリル板"
+      },
+      {
+            "date": "2020\/09\/16",
+            "url": "https://www.daily-tohoku.news/archives/43554",
+            "text": "【新型コロナ】５０００人以下イベントの人数制限撤廃／青森県"
+      },
+      {
             "date": "2020\/09\/16",
             "url": "https://www.daily-tohoku.news/archives/43511",
             "text": "コロナ下、観光農園に熱視線／南部町　密にならず伸びる個人客"
@@ -44,21 +64,6 @@
             "date": "2020\/09\/11",
             "url": "https://www.daily-tohoku.news/archives/43194",
             "text": "観光事業者らコロナ対策を紹介／三八地域活性化協議会"
-      },
-      {
-            "date": "2020\/09\/10",
-            "url": "https://www.daily-tohoku.news/archives/43140",
-            "text": "【新型コロナ】市町村への補助金拡充　三村知事「前向きに進める」"
-      },
-      {
-            "date": "2020\/09\/09",
-            "url": "https://www.daily-tohoku.news/archives/43076",
-            "text": "【新型コロナ】むつ市が誹謗中傷対策に本腰"
-      },
-      {
-            "date": "2020\/09\/09",
-            "url": "https://www.daily-tohoku.news/archives/43019",
-            "text": "八戸に希望与えたい－　コロナ禍でも諦めず居酒屋開店"
       }
     ]
 }
