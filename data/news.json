@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/09\/17",
+            "url": "https://www.daily-tohoku.news/archives/43657",
+            "text": "コロナ影響、５３校が修学旅行中止／青森県内公立小中"
+      },
+      {
+            "date": "2020\/09\/17",
+            "url": "https://www.daily-tohoku.news/archives/43652",
+            "text": "コロナ対策応援金、申請期限を１０月末に延長／青森県"
+      },
+      {
+            "date": "2020\/09\/17",
             "url": "https://www.daily-tohoku.news/archives/43588",
             "text": "【新型コロナ】無症状・軽症者向け施設　県が八戸に１００室確保"
       },
@@ -54,16 +64,6 @@
             "date": "2020\/09\/11",
             "url": "https://www.daily-tohoku.news/archives/43217",
             "text": "【新型コロナ】「まるで呪縛」完治後も後遺症に苦しむ"
-      },
-      {
-            "date": "2020\/09\/11",
-            "url": "https://www.daily-tohoku.news/archives/43212",
-            "text": "コロナ禍の中小製造業支援を　青森県工業会が県へ要望"
-      },
-      {
-            "date": "2020\/09\/11",
-            "url": "https://www.daily-tohoku.news/archives/43194",
-            "text": "観光事業者らコロナ対策を紹介／三八地域活性化協議会"
       }
     ]
 }
