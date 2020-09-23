@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/23",
+            "url": "https://www.daily-tohoku.news/archives/44086",
+            "text": "「負けない。」コロナ禍、都内活動に区切り　歌手吉岡さん（八戸出身）恩返しの帰郷へ"
+      },
+      {
+            "date": "2020\/09\/21",
+            "url": "https://www.daily-tohoku.news/archives/43993",
+            "text": "八戸商議所青年部が研修会　“アフターコロナ”経済考える"
+      },
+      {
+            "date": "2020\/09\/21",
+            "url": "https://www.daily-tohoku.news/archives/43975",
+            "text": "コロナ禍、悪夢を見る人増える？　岩手大・松岡教授が調査"
+      },
+      {
+            "date": "2020\/09\/20",
+            "url": "https://www.daily-tohoku.news/archives/43880",
+            "text": "「悩み１人で抱えないで」コロナ禍、重要性高まる　若者の就労支援"
+      },
+      {
+            "date": "2020\/09\/18",
+            "url": "https://www.daily-tohoku.news/archives/43750",
+            "text": "青森県議会が開会　コロナ対策など議論へ"
+      },
+      {
+            "date": "2020\/09\/18",
+            "url": "https://www.daily-tohoku.news/archives/43741",
+            "text": "米軍三沢でコロナ陽性１人確認　濃厚接触者は１人／基地外には出ず"
+      },
+      {
             "date": "2020\/09\/17",
             "url": "https://www.daily-tohoku.news/archives/43657",
             "text": "コロナ影響、５３校が修学旅行中止／青森県内公立小中"
@@ -44,26 +74,6 @@
             "date": "2020\/09\/14",
             "url": "https://www.daily-tohoku.news/archives/43403",
             "text": "【自民・菅総裁誕生】コロナ追加対策、地域活性化求める／県内経済界"
-      },
-      {
-            "date": "2020\/09\/13",
-            "url": "https://www.daily-tohoku.news/archives/43306",
-            "text": "新型コロナ感染者情報の公表、東北６県で対応分かれる"
-      },
-      {
-            "date": "2020\/09\/12",
-            "url": "https://www.daily-tohoku.news/archives/43244",
-            "text": "「にんにくとべごまつり」今年はおうちで／田子　コロナで中止の代替企画"
-      },
-      {
-            "date": "2020\/09\/12",
-            "url": "https://www.daily-tohoku.news/archives/43235",
-            "text": "コロナで密集避け山へ？　遭難が過去２０年で最多／青森県内"
-      },
-      {
-            "date": "2020\/09\/11",
-            "url": "https://www.daily-tohoku.news/archives/43217",
-            "text": "【新型コロナ】「まるで呪縛」完治後も後遺症に苦しむ"
       }
     ]
 }
