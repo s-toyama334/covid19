@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/24",
+            "url": "https://www.daily-tohoku.news/archives/44163",
+            "text": "【新型コロナ】インフル流行時１日４０００件検査必要／青森県試算"
+      },
+      {
+            "date": "2020\/09\/23",
+            "url": "https://www.daily-tohoku.news/archives/44152",
+            "text": "【新型コロナ】発熱外来用プレハブ設置へ／田子診療所"
+      },
+      {
+            "date": "2020\/09\/23",
+            "url": "https://www.daily-tohoku.news/archives/44135",
+            "text": "【新型コロナ】奥入瀬渓流、マイカー規制とエコフェス中止"
+      },
+      {
+            "date": "2020\/09\/23",
+            "url": "https://www.daily-tohoku.news/archives/44134",
+            "text": "【新型コロナ】患者２人退院、青森県内の入院者ゼロに"
+      },
+      {
             "date": "2020\/09\/23",
             "url": "https://www.daily-tohoku.news/archives/44086",
             "text": "「負けない。」コロナ禍、都内活動に区切り　歌手吉岡さん（八戸出身）恩返しの帰郷へ"
@@ -49,31 +69,6 @@
             "date": "2020\/09\/17",
             "url": "https://www.daily-tohoku.news/archives/43584",
             "text": "【青森県補正予算案】コロナ対策など４３４億円　過去２番目大型編成"
-      },
-      {
-            "date": "2020\/09\/16",
-            "url": "https://www.daily-tohoku.news/archives/43558",
-            "text": "青森県議会、コロナ対策で議場にアクリル板"
-      },
-      {
-            "date": "2020\/09\/16",
-            "url": "https://www.daily-tohoku.news/archives/43554",
-            "text": "【新型コロナ】５０００人以下イベントの人数制限撤廃／青森県"
-      },
-      {
-            "date": "2020\/09\/16",
-            "url": "https://www.daily-tohoku.news/archives/43511",
-            "text": "コロナ下、観光農園に熱視線／南部町　密にならず伸びる個人客"
-      },
-      {
-            "date": "2020\/09\/15",
-            "url": "https://www.daily-tohoku.news/archives/43465",
-            "text": "【新型コロナ】久慈・もぐらんぴあ駅伝中止"
-      },
-      {
-            "date": "2020\/09\/14",
-            "url": "https://www.daily-tohoku.news/archives/43403",
-            "text": "【自民・菅総裁誕生】コロナ追加対策、地域活性化求める／県内経済界"
       }
     ]
 }
