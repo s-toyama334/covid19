@@ -1427,7 +1427,7 @@
     "inspection_status_summary": {
         "date": "2020\/09\/25 09:30",
         "attr": "検査実施人数（累計）",
-        "value": 2329
+        "value": 2329,
         "children": [
             {
                 "attr": "検査実施件数（累計）",
