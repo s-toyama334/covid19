@@ -1,5 +1,10 @@
 {
     "newsItems": [
+       {
+            "date": "2020\/09\/28",
+            "url": "https://www.daily-tohoku.news/archives/44512",
+            "text": "【新型コロナ】青森市で女性１人の感染確認"
+      },
       {
             "date": "2020\/09\/24",
             "url": "https://www.daily-tohoku.news/archives/44163",
@@ -64,11 +69,6 @@
             "date": "2020\/09\/17",
             "url": "https://www.daily-tohoku.news/archives/43588",
             "text": "【新型コロナ】無症状・軽症者向け施設　県が八戸に１００室確保"
-      },
-      {
-            "date": "2020\/09\/17",
-            "url": "https://www.daily-tohoku.news/archives/43584",
-            "text": "【青森県補正予算案】コロナ対策など４３４億円　過去２番目大型編成"
       }
     ]
 }
