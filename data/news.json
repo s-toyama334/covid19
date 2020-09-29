@@ -1,6 +1,16 @@
 {
     "newsItems": [
-       {
+      {
+            "date": "2020\/09\/29",
+            "url": "https://www.daily-tohoku.news/archives/44566",
+            "text": "【新型コロナ】感染者の職業非公表を初適用　誹謗中傷対策で"
+      },
+      {
+            "date": "2020\/09\/29",
+            "url": "https://www.daily-tohoku.news/archives/44565",
+            "text": "【新型コロナ】青森市の３０代女性感染　関東に滞在歴"
+      },
+      {
             "date": "2020\/09\/28",
             "url": "https://www.daily-tohoku.news/archives/44512",
             "text": "【新型コロナ】青森市で女性１人の感染確認"
@@ -54,21 +64,6 @@
             "date": "2020\/09\/18",
             "url": "https://www.daily-tohoku.news/archives/43741",
             "text": "米軍三沢でコロナ陽性１人確認　濃厚接触者は１人／基地外には出ず"
-      },
-      {
-            "date": "2020\/09\/17",
-            "url": "https://www.daily-tohoku.news/archives/43657",
-            "text": "コロナ影響、５３校が修学旅行中止／青森県内公立小中"
-      },
-      {
-            "date": "2020\/09\/17",
-            "url": "https://www.daily-tohoku.news/archives/43652",
-            "text": "コロナ対策応援金、申請期限を１０月末に延長／青森県"
-      },
-      {
-            "date": "2020\/09\/17",
-            "url": "https://www.daily-tohoku.news/archives/43588",
-            "text": "【新型コロナ】無症状・軽症者向け施設　県が八戸に１００室確保"
       }
     ]
 }
