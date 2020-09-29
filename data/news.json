@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/09\/30",
+            "url": "https://www.daily-tohoku.news/archives/44664",
+            "text": "八戸市三日町の地価横ばい　コロナ影響、３年連続上昇ならず"
+      },
+      {
+            "date": "2020\/09\/29",
+            "url": "https://www.daily-tohoku.news/archives/44582",
+            "text": "売上高前年割れ７割　青森県内企業　コロナ影響、経済停滞"
+      },
+      {
             "date": "2020\/09\/29",
             "url": "https://www.daily-tohoku.news/archives/44566",
             "text": "【新型コロナ】感染者の職業非公表を初適用　誹謗中傷対策で"
@@ -44,26 +54,6 @@
             "date": "2020\/09\/21",
             "url": "https://www.daily-tohoku.news/archives/43993",
             "text": "八戸商議所青年部が研修会　“アフターコロナ”経済考える"
-      },
-      {
-            "date": "2020\/09\/21",
-            "url": "https://www.daily-tohoku.news/archives/43975",
-            "text": "コロナ禍、悪夢を見る人増える？　岩手大・松岡教授が調査"
-      },
-      {
-            "date": "2020\/09\/20",
-            "url": "https://www.daily-tohoku.news/archives/43880",
-            "text": "「悩み１人で抱えないで」コロナ禍、重要性高まる　若者の就労支援"
-      },
-      {
-            "date": "2020\/09\/18",
-            "url": "https://www.daily-tohoku.news/archives/43750",
-            "text": "青森県議会が開会　コロナ対策など議論へ"
-      },
-      {
-            "date": "2020\/09\/18",
-            "url": "https://www.daily-tohoku.news/archives/43741",
-            "text": "米軍三沢でコロナ陽性１人確認　濃厚接触者は１人／基地外には出ず"
       }
     ]
 }
