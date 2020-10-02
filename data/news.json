@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/01",
+            "url": "https://www.daily-tohoku.news/archives/44828",
+            "text": "【新型コロナ】青森県内の解雇や雇い止め９３１人に"
+      },
+      {
             "date": "2020\/09\/30",
             "url": "https://www.daily-tohoku.news/archives/44685",
             "text": "国勢調査にもコロナの影　調査員不足、ネット回答呼び掛け"
