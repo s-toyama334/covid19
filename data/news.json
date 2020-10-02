@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/02",
+            "url": "https://www.daily-tohoku.news/archives/44887",
+            "text": "【新型コロナ】八戸市で女性１人の感染確認"
+      },
+      {
             "date": "2020\/10\/01",
             "url": "https://www.daily-tohoku.news/archives/44828",
             "text": "【新型コロナ】青森県内の解雇や雇い止め９３１人に"
