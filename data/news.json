@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/04",
+            "url": "https://www.daily-tohoku.news/archives/45025",
+            "text": "コロナ対策配慮、避難所開設・運営の手順確認　三沢市防災訓練"
+      },
+      {
             "date": "2020\/10\/03",
             "url": "https://www.daily-tohoku.news/archives/44980",
             "text": "【速報】岩手・滝沢の女性コロナ感染"
@@ -49,26 +54,6 @@
             "date": "2020\/09\/30",
             "url": "https://www.daily-tohoku.news/archives/44664",
             "text": "八戸市三日町の地価横ばい　コロナ影響、３年連続上昇ならず"
-      },
-      {
-            "date": "2020\/09\/29",
-            "url": "https://www.daily-tohoku.news/archives/44582",
-            "text": "売上高前年割れ７割　青森県内企業　コロナ影響、経済停滞"
-      },
-      {
-            "date": "2020\/09\/29",
-            "url": "https://www.daily-tohoku.news/archives/44566",
-            "text": "【新型コロナ】感染者の職業非公表を初適用　誹謗中傷対策で"
-      },
-      {
-            "date": "2020\/09\/29",
-            "url": "https://www.daily-tohoku.news/archives/44565",
-            "text": "【新型コロナ】青森市の３０代女性感染　関東に滞在歴"
-      },
-      {
-            "date": "2020\/09\/28",
-            "url": "https://www.daily-tohoku.news/archives/44512",
-            "text": "【新型コロナ】青森市で女性１人の感染確認"
       }
     ]
 }
