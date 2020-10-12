@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/12",
+            "url": "https://www.daily-tohoku.news/archives/45640",
+            "text": "コロナ検査対象は約２５０人"
+      },
+      {
+            "date": "2020\/10\/12",
+            "url": "https://www.daily-tohoku.news/archives/45639",
+            "text": "弘前で医師２人がコロナ感染"
+      },
+      {
+            "date": "2020\/10\/12",
+            "url": "https://www.daily-tohoku.news/archives/45622",
+            "text": "コロナ発生で外来休止／弘前の弘愛会病院"
+      },
+      {
             "date": "2020\/10\/11",
             "url": "https://www.daily-tohoku.news/archives/45579",
             "text": "農業アルバイト増加　コロナ影響、求職者増え／青森県内"
