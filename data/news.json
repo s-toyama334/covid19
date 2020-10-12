@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/11",
+            "url": "https://www.daily-tohoku.news/archives/45579",
+            "text": "農業アルバイト増加　コロナ影響、求職者増え／青森県内"
+      },
+      {
+            "date": "2020\/10\/10",
+            "url": "https://www.daily-tohoku.news/archives/45500",
+            "text": "新型コロナで雇用悪化／「再就職できない」青森県内も深刻"
+      },
+      {
+            "date": "2020\/10\/09",
+            "url": "https://www.daily-tohoku.news/archives/45474",
+            "text": "大間マグロ感謝祭　コロナで中止"
+      },
+      {
             "date": "2020\/10\/08",
             "url": "https://www.daily-tohoku.news/archives/45392",
             "text": "【新型コロナ】公表基準見直し「例外設けている」　三村知事が理解求める"
@@ -49,21 +64,6 @@
             "date": "2020\/10\/03",
             "url": "https://www.daily-tohoku.news/archives/44916",
             "text": "【新型コロナ】半年ぶり感染確認、緊張高まる八戸市民"
-      },
-      {
-            "date": "2020\/10\/03",
-            "url": "https://www.daily-tohoku.news/archives/44915",
-            "text": "【新型コロナ】陸自八戸の女性隊員感染　県内３７人目"
-      },
-      {
-            "date": "2020\/10\/02",
-            "url": "https://www.daily-tohoku.news/archives/44900",
-            "text": "八戸などの陸自女性隊員７人がコロナ感染"
-      },
-      {
-            "date": "2020\/10\/02",
-            "url": "https://www.daily-tohoku.news/archives/44893",
-            "text": "【速報】八戸のコロナ感染女性は自衛隊員"
       }
     ]
 }
