@@ -1,9 +1,24 @@
 {
     "newsItems": [
       {
-            "date": "2020\/10\/12",
-            "url": "https://www.daily-tohoku.news/archives/45640",
-            "text": "コロナ検査対象は約２５０人"
+            "date": "2020\/10\/14",
+            "url": "https://www.daily-tohoku.news/archives/45758",
+            "text": "早めにインフル予防接種を　新型コロナとの同時流行に懸念"
+      },
+      {
+            "date": "2020\/10\/13",
+            "url": "https://www.daily-tohoku.news/archives/45726",
+            "text": "【新型コロナ】２７人の陰性確認　弘愛会病院検査対象"
+      },
+      {
+            "date": "2020\/10\/13",
+            "url": "https://www.daily-tohoku.news/archives/45715",
+            "text": "【速報】盛岡で男性１人コロナ感染"
+      },
+      {
+            "date": "2020\/10\/13",
+            "url": "https://www.daily-tohoku.news/archives/45673",
+            "text": "【新型コロナ】弘前の医師２人感染　患者５０人含む２５０人検査対象"
       },
       {
             "date": "2020\/10\/12",
@@ -64,21 +79,6 @@
             "date": "2020\/10\/04",
             "url": "https://www.daily-tohoku.news/archives/45025",
             "text": "コロナ対策配慮、避難所開設・運営の手順確認　三沢市防災訓練"
-      },
-      {
-            "date": "2020\/10\/03",
-            "url": "https://www.daily-tohoku.news/archives/44980",
-            "text": "【速報】岩手・滝沢の女性コロナ感染"
-      },
-      {
-            "date": "2020\/10\/03",
-            "url": "https://www.daily-tohoku.news/archives/44921",
-            "text": "【新型コロナ】抗原検査で「偽陽性」３件／青森県内５月以降"
-      },
-      {
-            "date": "2020\/10\/03",
-            "url": "https://www.daily-tohoku.news/archives/44916",
-            "text": "【新型コロナ】半年ぶり感染確認、緊張高まる八戸市民"
       }
     ]
 }
