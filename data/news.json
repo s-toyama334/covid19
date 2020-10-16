@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/16",
+            "url": "https://www.daily-tohoku.news/archives/45942",
+            "text": "【新型コロナ】利用１００人超、さらに拡大も／弘前飲食店クラスター"
+      },
+      {
+            "date": "2020\/10\/16",
+            "url": "https://www.daily-tohoku.news/archives/45941",
+            "text": "【新型コロナ】青森県内１日最多１６人感染　初の飲食店クラスター"
+      },
+      {
+            "date": "2020\/10\/15",
+            "url": "https://www.daily-tohoku.news/archives/45924",
+            "text": "職員コロナ感染疑いで臨時休業　五所川原支店、１９日再開予定／青い森信金"
+      },
+      {
+            "date": "2020\/10\/15",
+            "url": "https://www.daily-tohoku.news/archives/45900",
+            "text": "【速報】盛岡で２０代女性がコロナ感染　県内２６人目"
+      },
+      {
             "date": "2020\/10\/15",
             "url": "https://www.daily-tohoku.news/archives/45872",
             "text": "コロナ感染者は弘前の飲食店利用者ら"
