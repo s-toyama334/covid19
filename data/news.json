@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/17",
+            "url": "https://www.daily-tohoku.news/archives/46064",
+            "text": "三村知事、コロナ対策巡り激高　むつ市長の発言で〝着火〟"
+      },
+      {
+            "date": "2020\/10\/17",
+            "url": "https://www.daily-tohoku.news/archives/45998",
+            "text": "【新型コロナ】弘前の飲食店クラスターまとめ"
+      },
+      {
+            "date": "2020\/10\/17",
+            "url": "https://www.daily-tohoku.news/archives/46050",
+            "text": "【新型コロナ】弘前クラスター拡大の一途　県の初動遅れが一因か"
+      },
+      {
+            "date": "2020\/10\/16",
+            "url": "https://www.daily-tohoku.news/archives/46048",
+            "text": "【新型コロナ】１日で最多２６人感染　青森県内累計８３人に"
+      },
+      {
             "date": "2020\/10\/16",
             "url": "https://www.daily-tohoku.news/archives/46025",
             "text": "【新型コロナ】県外の利用客４人も感染／弘前飲食店クラスター"
@@ -80,26 +100,6 @@
             "date": "2020\/10\/13",
             "url": "https://www.daily-tohoku.news/archives/45726",
             "text": "【新型コロナ】２７人の陰性確認　弘愛会病院検査対象"
-      },
-      {
-            "date": "2020\/10\/13",
-            "url": "https://www.daily-tohoku.news/archives/45715",
-            "text": "【速報】盛岡で男性１人コロナ感染"
-      },
-      {
-            "date": "2020\/10\/13",
-            "url": "https://www.daily-tohoku.news/archives/45673",
-            "text": "【新型コロナ】弘前の医師２人感染　患者５０人含む２５０人検査対象"
-      },
-      {
-            "date": "2020\/10\/12",
-            "url": "https://www.daily-tohoku.news/archives/45639",
-            "text": "弘前で医師２人がコロナ感染"
-      },
-      {
-            "date": "2020\/10\/12",
-            "url": "https://www.daily-tohoku.news/archives/45622",
-            "text": "コロナ発生で外来休止／弘前の弘愛会病院"
       }
     ]
 }
