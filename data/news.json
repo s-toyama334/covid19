@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/20",
+            "url": "https://www.daily-tohoku.news/archives/46325",
+            "text": "【新型コロナ】新たに１８人感染　休業、イベント中止　弘前市外にも影響拡大"
+      },
+      {
+            "date": "2020\/10\/19",
+            "url": "https://www.daily-tohoku.news/archives/46299",
+            "text": "【速報】さらに８人コロナ感染　青森県内累計１２２人に"
+      },
+      {
+            "date": "2020\/10\/19",
+            "url": "https://www.daily-tohoku.news/archives/46295",
+            "text": "新郷村民対象、コロナ抗原検査費を補助"
+      },
+      {
+            "date": "2020\/10\/19",
+            "url": "https://www.daily-tohoku.news/archives/46289",
+            "text": "【速報】重症２人、中等症３人／青森県内、新型コロナ患者"
+      },
+      {
+            "date": "2020\/10\/19",
+            "url": "https://www.daily-tohoku.news/archives/46288",
+            "text": "【速報】新たに１０人コロナ感染　弘前の飲食店クラスターに関連"
+      },
+      {
+            "date": "2020\/10\/19",
+            "url": "https://www.daily-tohoku.news/archives/46286",
+            "text": "【新型コロナ】八戸の飲みだおれラリー中止／弘前飲食店クラスター受け"
+      },
+      {
             "date": "2020\/10\/19",
             "url": "https://www.daily-tohoku.news/archives/46233",
             "text": "【新型コロナ】弘前の飲食店クラスターまとめ②"
@@ -59,67 +89,6 @@
             "date": "2020\/10\/17",
             "url": "https://www.daily-tohoku.news/archives/46050",
             "text": "【新型コロナ】弘前クラスター拡大の一途　県の初動遅れが一因か"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/46048",
-            "text": "【新型コロナ】１日で最多２６人感染　青森県内累計８３人に"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/46025",
-            "text": "【新型コロナ】県外の利用客４人も感染／弘前飲食店クラスター"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/46021",
-            "text": "【新型コロナ】青森県内でさらに１８人感染"
-      },
-      
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/46001",
-            "text": "【新型コロナ】弘愛会病院もクラスター"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/46000",
-            "text": "【新型コロナ】新たに８人感染　今後も増える見込み／青森県内"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/45942",
-            "text": "【新型コロナ】利用１００人超、さらに拡大も／弘前飲食店クラスター"
-      },
-      {
-            "date": "2020\/10\/16",
-            "url": "https://www.daily-tohoku.news/archives/45941",
-            "text": "【新型コロナ】青森県内１日最多１６人感染　初の飲食店クラスター"
-      },
-      {
-            "date": "2020\/10\/15",
-            "url": "https://www.daily-tohoku.news/archives/45924",
-            "text": "職員コロナ感染疑いで臨時休業　五所川原支店、１９日再開予定／青い森信金"
-      },
-      {
-            "date": "2020\/10\/15",
-            "url": "https://www.daily-tohoku.news/archives/45900",
-            "text": "【速報】盛岡で２０代女性がコロナ感染　県内２６人目"
-      },
-      {
-            "date": "2020\/10\/15",
-            "url": "https://www.daily-tohoku.news/archives/45872",
-            "text": "コロナ感染者は弘前の飲食店利用者ら"
-      },
-      {
-            "date": "2020\/10\/15",
-            "url": "https://www.daily-tohoku.news/archives/45871",
-            "text": "【速報】上十三と弘前管内で８人感染／新型コロナ"
-      },
-      {
-            "date": "2020\/10\/15",
-            "url": "https://www.daily-tohoku.news/archives/45843",
-            "text": "青い森信金がコロナ疑いで五所川原支店を休業"
       }
     ]
 }
