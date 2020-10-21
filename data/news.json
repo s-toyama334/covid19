@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46413",
+            "text": "コロナ対策で一部路線を朝夕増便／八戸市営バス"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46410",
+            "text": "【新型コロナ】高まる緊張、街は昼夜問わず閑散／弘前市内ルポ"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46404",
+            "text": "もみじのライトアップ、青葉湖ウオークが中止／弘前のコロナ拡大受け"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46403",
+            "text": "【新型コロナ】三村知事「感染収束の瀬戸際」　弘前クラスターで危機感"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46402",
+            "text": "【新型コロナ】弘前管内新たに１２人　クラスター関連１００人超に"
+      },
+      {
             "date": "2020\/10\/20",
             "url": "https://www.daily-tohoku.news/archives/46325",
             "text": "【新型コロナ】新たに１８人感染　休業、イベント中止　弘前市外にも影響拡大"
@@ -74,21 +99,6 @@
             "date": "2020\/10\/17",
             "url": "https://www.daily-tohoku.news/archives/46081",
             "text": "【速報】新たに２人が新型コロナ感染　青森県内"
-      },
-      {
-            "date": "2020\/10\/17",
-            "url": "https://www.daily-tohoku.news/archives/46064",
-            "text": "三村知事、コロナ対策巡り激高　むつ市長の発言で〝着火〟"
-      },
-      {
-            "date": "2020\/10\/17",
-            "url": "https://www.daily-tohoku.news/archives/45998",
-            "text": "【新型コロナ】弘前の飲食店クラスターまとめ"
-      },
-      {
-            "date": "2020\/10\/17",
-            "url": "https://www.daily-tohoku.news/archives/46050",
-            "text": "【新型コロナ】弘前クラスター拡大の一途　県の初動遅れが一因か"
       }
     ]
 }
