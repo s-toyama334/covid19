@@ -1,5 +1,26 @@
 {
     "newsItems": [
+      
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46437",
+            "text": "【速報】新型コロナ感染者の１人は弘愛会病院職員"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46436",
+            "text": "【速報】新型コロナ新たに３人感染　弘前飲食店クラスター関連"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46422",
+            "text": "弘前市議２人が新型コロナ感染"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46420",
+            "text": "出生数、大幅減少へ　コロナで妊娠届１１％下落／青森２３・７％減、岩手１１・２％減"
+      },
       {
             "date": "2020\/10\/21",
             "url": "https://www.daily-tohoku.news/archives/46413",
@@ -84,21 +105,6 @@
             "date": "2020\/10\/18",
             "url": "https://www.daily-tohoku.news/archives/46154",
             "text": "【新型コロナ】三村知事が緊急メッセージ　感染拡大受け"
-      },
-      {
-            "date": "2020\/10\/18",
-            "url": "https://www.daily-tohoku.news/archives/46153",
-            "text": "【新型コロナ】青森県内新たに１７人感染　市中感染「可能性かなりある」"
-      },
-      {
-            "date": "2020\/10\/17",
-            "url": "https://www.daily-tohoku.news/archives/46124",
-            "text": "【速報】さらに１５人コロナ感染　累計１００人に／青森県"
-      },
-      {
-            "date": "2020\/10\/17",
-            "url": "https://www.daily-tohoku.news/archives/46081",
-            "text": "【速報】新たに２人が新型コロナ感染　青森県内"
       }
     ]
 }
