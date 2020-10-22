@@ -1,6 +1,40 @@
 {
     "newsItems": [
-      
+      {
+            "date": "2020\/10\/22",
+            "url": "https://www.daily-tohoku.news/archives/46541",
+            "text": "【新型コロナ】新たに３人が感染　弘前飲食店クラスター"
+      },
+      {
+            "date": "2020\/10\/22",
+            "url": "https://www.daily-tohoku.news/archives/46541",
+            "text": "【新型コロナ】新たに３人が感染　弘前飲食店クラスター"
+      },
+      {
+            "date": "2020\/10\/22",
+            "url": "https://www.daily-tohoku.news/archives/46491",
+            "text": "【新型コロナ】弘前の飲食店クラスターまとめ③　感染者１００人超え"
+      },
+      {
+            "date": "2020\/10\/22",
+            "url": "https://www.daily-tohoku.news/archives/46514",
+            "text": "【新型コロナ】八戸の飲食店にも影響じわり／弘前クラスター"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46513",
+            "text": "【新型コロナ】弘前クラスター新たに９人　客９０人と連絡つかず"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46505",
+            "text": "【新型コロナ】校内で感染拡大なら休校検討を　県教委が県立学校に通知"
+      },
+      {
+            "date": "2020\/10\/21",
+            "url": "https://www.daily-tohoku.news/archives/46488",
+            "text": "【速報】さらに５人コロナ感染確認　２１日は計９人に"
+      },
       {
             "date": "2020\/10\/21",
             "url": "https://www.daily-tohoku.news/archives/46437",
@@ -70,41 +104,6 @@
             "date": "2020\/10\/19",
             "url": "https://www.daily-tohoku.news/archives/46288",
             "text": "【速報】新たに１０人コロナ感染　弘前の飲食店クラスターに関連"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46286",
-            "text": "【新型コロナ】八戸の飲みだおれラリー中止／弘前飲食店クラスター受け"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46233",
-            "text": "【新型コロナ】弘前の飲食店クラスターまとめ②"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46247",
-            "text": "【新型コロナ】新たに４人感染　弘前の飲食店クラスター、収束見通せず"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46243",
-            "text": "新型コロナ　男性警察官に損賠請求　十和田の２飲食店提訴へ"
-      },
-      {
-            "date": "2020\/10\/18",
-            "url": "https://www.daily-tohoku.news/archives/46206",
-            "text": "【速報】さらに五所川原管内の男性１人コロナ感染　１８日は計４人に"
-      },
-      {
-            "date": "2020\/10\/18",
-            "url": "https://www.daily-tohoku.news/archives/46175",
-            "text": "【速報】新たに３人コロナ感染　青森県内累計１０３人"
-      },
-      {
-            "date": "2020\/10\/18",
-            "url": "https://www.daily-tohoku.news/archives/46154",
-            "text": "【新型コロナ】三村知事が緊急メッセージ　感染拡大受け"
       }
     ]
 }
