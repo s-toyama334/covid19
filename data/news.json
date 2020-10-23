@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/10\/23",
+            "url": "https://www.daily-tohoku.news/archives/46617",
+            "text": "【速報】新たに１人がコロナ感染　青森県内累計１５０人に"
+      },
+      {
+            "date": "2020\/10\/23",
             "url": "https://www.daily-tohoku.news/archives/46592",
             "text": "【新型コロナ】新たに６人感染　弘前管内累計１００人に"
       },
@@ -89,16 +94,6 @@
             "date": "2020\/10\/20",
             "url": "https://www.daily-tohoku.news/archives/46325",
             "text": "【新型コロナ】新たに１８人感染　休業、イベント中止　弘前市外にも影響拡大"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46299",
-            "text": "【速報】さらに８人コロナ感染　青森県内累計１２２人に"
-      },
-      {
-            "date": "2020\/10\/19",
-            "url": "https://www.daily-tohoku.news/archives/46295",
-            "text": "新郷村民対象、コロナ抗原検査費を補助"
       }
     ]
 }
