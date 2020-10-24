@@ -2,6 +2,26 @@
     "newsItems": [
       {
             "date": "2020\/10\/23",
+            "url": "https://www.daily-tohoku.news/archives/46683",
+            "text": "【新型コロナ】ＰＣＲ検査フル回転　クラスター拡大で"
+      },
+      {
+            "date": "2020\/10\/23",
+            "url": "https://www.daily-tohoku.news/archives/46679",
+            "text": "【新型コロナ】弘前クラスター関連新たに９人　初の３次感染確認"
+      },
+      {
+            "date": "2020\/10\/23",
+            "url": "https://www.daily-tohoku.news/archives/46658",
+            "text": "【速報】さらに８人コロナ感染　青森県内２３日は計９人に"
+      },
+      {
+            "date": "2020\/10\/23",
+            "url": "https://www.daily-tohoku.news/archives/46646",
+            "text": "【速報】盛岡の３０代男性がコロナ感染　県内２７人目"
+      },
+      {
+            "date": "2020\/10\/23",
             "url": "https://www.daily-tohoku.news/archives/46617",
             "text": "【速報】新たに１人がコロナ感染　青森県内累計１５０人に"
       },
@@ -64,36 +84,6 @@
             "date": "2020\/10\/21",
             "url": "https://www.daily-tohoku.news/archives/46420",
             "text": "出生数、大幅減少へ　コロナで妊娠届１１％下落／青森２３・７％減、岩手１１・２％減"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46413",
-            "text": "コロナ対策で一部路線を朝夕増便／八戸市営バス"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46410",
-            "text": "【新型コロナ】高まる緊張、街は昼夜問わず閑散／弘前市内ルポ"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46404",
-            "text": "もみじのライトアップ、青葉湖ウオークが中止／弘前のコロナ拡大受け"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46403",
-            "text": "【新型コロナ】三村知事「感染収束の瀬戸際」　弘前クラスターで危機感"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46402",
-            "text": "【新型コロナ】弘前管内新たに１２人　クラスター関連１００人超に"
-      },
-      {
-            "date": "2020\/10\/20",
-            "url": "https://www.daily-tohoku.news/archives/46325",
-            "text": "【新型コロナ】新たに１８人感染　休業、イベント中止　弘前市外にも影響拡大"
       }
     ]
 }
