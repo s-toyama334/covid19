@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46864",
+            "text": "【新型コロナ】弘前の飲食店クラスターまとめ④いまだ収束見えず"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46873",
+            "text": "農水省がコロナ対策補助金の要件見直し／北奥羽地方に波紋広がる"
+      },
+      {
+            "date": "2020\/10\/25",
+            "url": "https://www.daily-tohoku.news/archives/46859",
+            "text": "【新型コロナ】飲食店クラスター関連で３人感染　一連の感染者数計１４５人に"
+      },
+      {
+            "date": "2020\/10\/25",
+            "url": "https://www.daily-tohoku.news/archives/46842",
+            "text": "【速報】新たに３人がコロナ感染　青森県内累計は１７８人"
+      },
+      {
             "date": "2020\/10\/25",
             "url": "https://www.daily-tohoku.news/archives/46807",
             "text": "小中学生の修学旅行に暗い影　コロナで教育現場も対応苦慮／青森県内"
@@ -59,31 +79,6 @@
             "date": "2020\/10\/22",
             "url": "https://www.daily-tohoku.news/archives/46514",
             "text": "【新型コロナ】八戸の飲食店にも影響じわり／弘前クラスター"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46513",
-            "text": "【新型コロナ】弘前クラスター新たに９人　客９０人と連絡つかず"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46505",
-            "text": "【新型コロナ】校内で感染拡大なら休校検討を　県教委が県立学校に通知"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46488",
-            "text": "【速報】さらに５人コロナ感染確認　２１日は計９人に"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46437",
-            "text": "【速報】新型コロナ感染者の１人は弘愛会病院職員"
-      },
-      {
-            "date": "2020\/10\/21",
-            "url": "https://www.daily-tohoku.news/archives/46436",
-            "text": "【速報】新型コロナ新たに３人感染　弘前飲食店クラスター関連"
       }
     ]
 }
