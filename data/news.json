@@ -2,6 +2,36 @@
     "newsItems": [
       {
             "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46956",
+            "text": "コロナ原因で青森県内初の死者　新規感染は１１人"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46935",
+            "text": "「外出自粛、休業要請の可能性も」　コロナ拡大受け三村知事"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46928",
+            "text": "八戸港フェリー旅客が半減、コロナ拡大影響／トラック航送は微増"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46908",
+            "text": "【速報】コロナ重症７０代女性１人が死亡／青森県"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46907",
+            "text": "【速報】新たに９人がコロナ感染　弘前飲食店クラスター関連"
+      },
+      {
+            "date": "2020\/10\/26",
+            "url": "https://www.daily-tohoku.news/archives/46889",
+            "text": "【新型コロナ】齊藤爾県議（弘前市）が感染　弘前クラスター関連"
+      },
+      {
+            "date": "2020\/10\/26",
             "url": "https://www.daily-tohoku.news/archives/46864",
             "text": "【新型コロナ】弘前の飲食店クラスターまとめ④いまだ収束見えず"
       },
@@ -44,41 +74,6 @@
             "date": "2020\/10\/23",
             "url": "https://www.daily-tohoku.news/archives/46658",
             "text": "【速報】さらに８人コロナ感染　青森県内２３日は計９人に"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46646",
-            "text": "【速報】盛岡の３０代男性がコロナ感染　県内２７人目"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46617",
-            "text": "【速報】新たに１人がコロナ感染　青森県内累計１５０人に"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46592",
-            "text": "【新型コロナ】新たに６人感染　弘前管内累計１００人に"
-      },
-      {
-            "date": "2020\/10\/22",
-            "url": "https://www.daily-tohoku.news/archives/46581",
-            "text": "県が補正１億円専決処分　弘前コロナ対策に補助"
-      },
-      {
-            "date": "2020\/10\/22",
-            "url": "https://www.daily-tohoku.news/archives/46541",
-            "text": "【新型コロナ】新たに３人が感染　弘前飲食店クラスター"
-      },
-      {
-            "date": "2020\/10\/22",
-            "url": "https://www.daily-tohoku.news/archives/46491",
-            "text": "【新型コロナ】弘前の飲食店クラスターまとめ③　感染者１００人超え"
-      },
-      {
-            "date": "2020\/10\/22",
-            "url": "https://www.daily-tohoku.news/archives/46514",
-            "text": "【新型コロナ】八戸の飲食店にも影響じわり／弘前クラスター"
       }
     ]
 }
