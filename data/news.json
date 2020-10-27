@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/47025",
+            "text": "【新型コロナ】青森県内さらに５人感染"
+      },
+      {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/47012",
+            "text": "【新型コロナ】国立弘前病院職員が感染"
+      },
+      {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/46990",
+            "text": "【速報】新型コロナ新たに１人感染／弘前飲食店クラスター"
+      },
+      {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/46977",
+            "text": "ひとり親家庭４割が減収　青森県内、新型コロナが影響"
+      },
+      {
             "date": "2020\/10\/26",
             "url": "https://www.daily-tohoku.news/archives/46956",
             "text": "コロナ原因で青森県内初の死者　新規感染は１１人"
@@ -49,31 +69,6 @@
             "date": "2020\/10\/25",
             "url": "https://www.daily-tohoku.news/archives/46842",
             "text": "【速報】新たに３人がコロナ感染　青森県内累計は１７８人"
-      },
-      {
-            "date": "2020\/10\/25",
-            "url": "https://www.daily-tohoku.news/archives/46807",
-            "text": "小中学生の修学旅行に暗い影　コロナで教育現場も対応苦慮／青森県内"
-      },
-      {
-            "date": "2020\/10\/25",
-            "url": "https://www.daily-tohoku.news/archives/46797",
-            "text": "【新型コロナ】弘愛会で初の院内感染　弘前クラスター新たに１８人"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46683",
-            "text": "【新型コロナ】ＰＣＲ検査フル回転　クラスター拡大で"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46679",
-            "text": "【新型コロナ】弘前クラスター関連新たに９人　初の３次感染確認"
-      },
-      {
-            "date": "2020\/10\/23",
-            "url": "https://www.daily-tohoku.news/archives/46658",
-            "text": "【速報】さらに８人コロナ感染　青森県内２３日は計９人に"
       }
     ]
 }
