@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/10\/28",
+            "url": "https://www.daily-tohoku.news/archives/47061",
+            "text": "【新型コロナ】青森県内新たに１６人感染　累計２０５人に"
+      },
+      {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/47049",
+            "text": "青森県中小企業、コロナ影響で明暗"
+      },
+      {
+            "date": "2020\/10\/27",
+            "url": "https://www.daily-tohoku.news/archives/47035",
+            "text": "産直「のへじ常夜燈市場」１１月から休業　コロナで業績不振"
+      },
+      {
             "date": "2020\/10\/27",
             "url": "https://www.daily-tohoku.news/archives/47025",
             "text": "【新型コロナ】青森県内さらに５人感染"
@@ -54,21 +69,6 @@
             "date": "2020\/10\/26",
             "url": "https://www.daily-tohoku.news/archives/46864",
             "text": "【新型コロナ】弘前の飲食店クラスターまとめ④いまだ収束見えず"
-      },
-      {
-            "date": "2020\/10\/26",
-            "url": "https://www.daily-tohoku.news/archives/46873",
-            "text": "農水省がコロナ対策補助金の要件見直し／北奥羽地方に波紋広がる"
-      },
-      {
-            "date": "2020\/10\/25",
-            "url": "https://www.daily-tohoku.news/archives/46859",
-            "text": "【新型コロナ】飲食店クラスター関連で３人感染　一連の感染者数計１４５人に"
-      },
-      {
-            "date": "2020\/10\/25",
-            "url": "https://www.daily-tohoku.news/archives/46842",
-            "text": "【速報】新たに３人がコロナ感染　青森県内累計は１７８人"
       }
     ]
 }
