@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2020\/10\/28",
+            "url": "https://www.daily-tohoku.news/archives/47116",
+            "text": "【新型コロナ】青森市で新たに１人感染　弘前飲食店クラスター関連"
+      },
+      {
+            "date": "2020\/10\/28",
+            "url": "https://www.daily-tohoku.news/archives/47086",
+            "text": "弘前商議所会頭が新型コロナ感染"
+      },
+      {
+            "date": "2020\/10\/28",
+            "url": "https://www.daily-tohoku.news/archives/47068",
+            "text": "【消費増税１年・北奥羽】消費減退、先見えず　「一時的」コロナで激変"
+      },
+      {
+            "date": "2020\/10\/28",
             "url": "https://www.daily-tohoku.news/archives/47061",
             "text": "【新型コロナ】青森県内新たに１６人感染　累計２０５人に"
       },
@@ -49,26 +64,6 @@
             "date": "2020\/10\/26",
             "url": "https://www.daily-tohoku.news/archives/46928",
             "text": "八戸港フェリー旅客が半減、コロナ拡大影響／トラック航送は微増"
-      },
-      {
-            "date": "2020\/10\/26",
-            "url": "https://www.daily-tohoku.news/archives/46908",
-            "text": "【速報】コロナ重症７０代女性１人が死亡／青森県"
-      },
-      {
-            "date": "2020\/10\/26",
-            "url": "https://www.daily-tohoku.news/archives/46907",
-            "text": "【速報】新たに９人がコロナ感染　弘前飲食店クラスター関連"
-      },
-      {
-            "date": "2020\/10\/26",
-            "url": "https://www.daily-tohoku.news/archives/46889",
-            "text": "【新型コロナ】齊藤爾県議（弘前市）が感染　弘前クラスター関連"
-      },
-      {
-            "date": "2020\/10\/26",
-            "url": "https://www.daily-tohoku.news/archives/46864",
-            "text": "【新型コロナ】弘前の飲食店クラスターまとめ④いまだ収束見えず"
       }
     ]
 }
