@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/11\/02",
+            "url": "https://www.daily-tohoku.news/archives/47551",
+            "text": "【新型コロナ】弘前管内で新たに２人が感染"
+      },
+      {
+            "date": "2020\/11\/02",
             "url": "https://www.daily-tohoku.news/archives/47484",
             "text": "【新型コロナ】弘前の飲食店クラスターまとめ　⑤ピーク過ぎたか"
       },
