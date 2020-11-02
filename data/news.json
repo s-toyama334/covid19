@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/11\/02",
+            "url": "https://www.daily-tohoku.news/archives/47581",
+            "text": "【新型コロナ】八戸の８０代女性はクラスター発生とは別の施設入所者"
+      },
+      {
+            "date": "2020\/11\/02",
+            "url": "https://www.daily-tohoku.news/archives/47578",
+            "text": "【新型コロナ】八戸１人、弘前管内５人感染　２日は計８人に"
+      },
+      {
+            "date": "2020\/11\/02",
             "url": "https://www.daily-tohoku.news/archives/47551",
             "text": "【新型コロナ】弘前管内で新たに２人が感染"
       },
