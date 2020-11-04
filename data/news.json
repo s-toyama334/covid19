@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/04",
+            "url": "https://www.daily-tohoku.news/archives/47723",
+            "text": "【新型コロナ】弘前管内で新たに５人が感染"
+      },
+      {
             "date": "2020\/11\/03",
             "url": "https://www.daily-tohoku.news/archives/47693",
             "text": "【新型コロナ】八戸で８０代以上女性１人感染　クラスター発生の施設利用者"
@@ -79,11 +84,6 @@
             "date": "2020\/10\/31",
             "url": "https://www.daily-tohoku.news/archives/47407",
             "text": "【速報】八戸　残る１人はコロナ感染女性の知人"
-      },
-      {
-            "date": "2020\/10\/31",
-            "url": "https://www.daily-tohoku.news/archives/47405",
-            "text": "【速報】八戸　新型コロナ感染の２人は福祉施設職員"
       }
     ]
 }
