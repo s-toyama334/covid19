@@ -2,7 +2,42 @@
     "newsItems": [
       {
             "date": "2020\/11\/06",
-            "url": "ttps://www.daily-tohoku.news/archives/47855",
+            "url": "https://www.daily-tohoku.news/archives/47950",
+            "text": "【新型コロナ】弘前・イベント開催可否検討要請、１５日まで延長／青森県"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47938",
+            "text": "【新型コロナ】盛岡の２０代女性が感染　岩手県内３０人目"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47938",
+            "text": "【速報】弘前管内で１人のコロナ感染確認　６日は計５人／青森県内"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47936",
+            "text": "【速報】八戸の２０代男性は感染経路不明／新型コロナ"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47910",
+            "text": "【速報】八戸の新型コロナ感染者は２０代男性　県外移動歴あり"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47909",
+            "text": "【速報】新型コロナ新たに八戸１人、青森３人が感染"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47894",
+            "text": "【新型コロナ】弘前クラスター　県の想定より早い時期から感染か"
+      },
+      {
+            "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47855",
             "text": "【新型コロナ】八戸のクラスターまとめ　②２施設で発生、収束へ向かうか"
       },
       {
@@ -39,61 +74,6 @@
             "date": "2020\/11\/04",
             "url": "https://www.daily-tohoku.news/archives/47793",
             "text": "急な要件変更を国側陳謝　コロナ対策の農家交付金"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47788",
-            "text": "【新型コロナ】八戸で２例目のクラスター　県内新規感染は１１人"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47782",
-            "text": "青森県・三村知事定例記者会見　新たなコロナ経済対策「見極める段階」"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47756",
-            "text": "【新型コロナ】八戸市がクラスター発生の施設名公表"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47752",
-            "text": "【新型コロナ】八戸の入居型施設でもクラスター"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47749",
-            "text": "【新型コロナ】八戸５人、青森１人が感染　４日は計１１人に"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47723",
-            "text": "【新型コロナ】弘前管内で新たに５人が感染"
-      },
-      {
-            "date": "2020\/11\/03",
-            "url": "https://www.daily-tohoku.news/archives/47693",
-            "text": "【新型コロナ】八戸で８０代以上女性１人感染　クラスター発生の施設利用者"
-      },
-      {
-            "date": "2020\/11\/03",
-            "url": "https://www.daily-tohoku.news/archives/47691",
-            "text": "【新型コロナ】岩手・一関と盛岡で２人感染"
-      },
-      {
-            "date": "2020\/11\/03",
-            "url": "https://www.daily-tohoku.news/archives/47616",
-            "text": "【新型コロナ】ディメール従業員が感染　８日まで操業停止"
-      },
-      {
-            "date": "2020\/11\/03",
-            "url": "https://www.daily-tohoku.news/archives/47612",
-            "text": "【新型コロナ】八戸の女性感染／クラスターと別の施設入所　県内新たに８人確認"
-      },
-      {
-            "date": "2020\/11\/02",
-            "url": "https://www.daily-tohoku.news/archives/47610",
-            "text": "【新型コロナ】三村知事「関係者は自宅待機を」　八戸クラスターに危機感"
       }
     ]
 }
