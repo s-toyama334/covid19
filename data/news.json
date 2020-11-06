@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/11\/06",
+            "url": "https://www.daily-tohoku.news/archives/47974",
+            "text": "【新型コロナ】青森県内新たに５人　八戸の男性はクラスターと関連なし"
+      },
+      {
+            "date": "2020\/11\/06",
             "url": "https://www.daily-tohoku.news/archives/47950",
             "text": "【新型コロナ】弘前・イベント開催可否検討要請、１５日まで延長／青森県"
       },
