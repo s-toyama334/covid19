@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/07",
+            "url": "https://www.daily-tohoku.news/archives/47974",
+            "text": "【速報】青森など新たに２人コロナ感染　県内累計２７１人"
+      },
+      {
+            "date": "2020\/11\/07",
+            "url": "https://www.daily-tohoku.news/archives/47974",
+            "text": "【新型コロナ】青森県内新たに５人　八戸の男性はクラスターと関連なし"
+      },
+      {
             "date": "2020\/11\/06",
             "url": "https://www.daily-tohoku.news/archives/47974",
             "text": "【新型コロナ】青森県内新たに５人　八戸の男性はクラスターと関連なし"
@@ -74,11 +84,6 @@
             "date": "2020\/11\/04",
             "url": "https://www.daily-tohoku.news/archives/47794",
             "text": "【新型コロナ】入居型施設で新たに５人　八戸２例目のクラスター"
-      },
-      {
-            "date": "2020\/11\/04",
-            "url": "https://www.daily-tohoku.news/archives/47793",
-            "text": "急な要件変更を国側陳謝　コロナ対策の農家交付金"
       }
     ]
 }
