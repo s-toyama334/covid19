@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48112",
+            "text": "【新型コロナ】八戸のクラスターまとめ　③３日連続で陽性者無し　収束近づく"
+      },
+      {
+            "date": "2020\/11\/08",
+            "url": "https://www.daily-tohoku.news/archives/48090",
+            "text": "【速報】弘前、東地方管内で計２人コロナ感染"
+      },
+      {
             "date": "2020\/11\/08",
             "url": "https://www.daily-tohoku.news/archives/48045",
             "text": "【新型コロナ】青森市と東地方保健所管内で２人感染／県内クラスター関連なしか"
@@ -64,21 +74,6 @@
             "date": "2020\/11\/06",
             "url": "https://www.daily-tohoku.news/archives/47881",
             "text": "【新型コロナ】八戸クラスター２施設、関連２４０人検査終了　残るは１０人弱に"
-      },
-      {
-            "date": "2020\/11\/05",
-            "url": "https://www.daily-tohoku.news/archives/47853",
-            "text": "【速報】さらに２人のコロナ感染確認　５日は計８人に／青森県内"
-      },
-      {
-            "date": "2020\/11\/05",
-            "url": "https://www.daily-tohoku.news/archives/47849",
-            "text": "三村知事「コロナ対策交付金の増額を」／全国知事会議"
-      },
-      {
-            "date": "2020\/11\/05",
-            "url": "https://www.daily-tohoku.news/archives/47828",
-            "text": "【速報】新たに５人がコロナ感染／青森県内"
       }
     ]
 }
