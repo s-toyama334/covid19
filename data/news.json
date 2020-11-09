@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/10",
+            "url": "https://www.daily-tohoku.news/archives/48206",
+            "text": "【新型コロナ】弘前管内の女性死亡　８、９日の感染者計３人"
+      },
+      {
+            "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48202",
+            "text": "「コロナ検査せず来店で損害」　十和田の２飲食店が男性警官提訴"
+      },
+      {
+            "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48196",
+            "text": "【速報】盛岡の男性公務員コロナ感染"
+      },
+      {
+            "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48174",
+            "text": "青森県高校生９月求職状況、求人倍率２・０７倍／前年同月比大幅減、コロナ影響"
+      },
+      {
             "date": "2020\/11\/09",
             "url": "https://www.daily-tohoku.news/archives/48160",
             "text": "【新型コロナ】弘前管内の８０代以上女性死亡　県内死者は５人目"
@@ -59,21 +79,6 @@
             "date": "2020\/11\/06",
             "url": "https://www.daily-tohoku.news/archives/47936",
             "text": "【速報】八戸の２０代男性は感染経路不明／新型コロナ"
-      },
-      {
-            "date": "2020\/11\/06",
-            "url": "https://www.daily-tohoku.news/archives/47910",
-            "text": "【速報】八戸の新型コロナ感染者は２０代男性　県外移動歴あり"
-      },
-      {
-            "date": "2020\/11\/06",
-            "url": "https://www.daily-tohoku.news/archives/47909",
-            "text": "【速報】新型コロナ新たに八戸１人、青森３人が感染"
-      },
-      {
-            "date": "2020\/11\/06",
-            "url": "https://www.daily-tohoku.news/archives/47894",
-            "text": "【新型コロナ】弘前クラスター　県の想定より早い時期から感染か"
       }
     ]
 }
