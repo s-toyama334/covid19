@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48160",
+            "text": "【新型コロナ】弘前管内の８０代以上女性死亡　県内死者は５人目"
+      },
+      {
+            "date": "2020\/11\/09",
+            "url": "https://www.daily-tohoku.news/archives/48112",
+            "text": "【新型コロナ】弘前管内で新たに１人感染　クラスター発生の病院勤務"
+      },
+      {
+            "date": "2020\/11\/09",
             "url": "https://www.daily-tohoku.news/archives/48112",
             "text": "【新型コロナ】八戸のクラスターまとめ　③３日連続で陽性者無し　収束近づく"
       },
@@ -64,16 +74,6 @@
             "date": "2020\/11\/06",
             "url": "https://www.daily-tohoku.news/archives/47894",
             "text": "【新型コロナ】弘前クラスター　県の想定より早い時期から感染か"
-      },
-      {
-            "date": "2020\/11\/06",
-            "url": "https://www.daily-tohoku.news/archives/47855",
-            "text": "【新型コロナ】八戸のクラスターまとめ　②２施設で発生、収束へ向かうか"
-      },
-      {
-            "date": "2020\/11\/06",
-            "url": "https://www.daily-tohoku.news/archives/47881",
-            "text": "【新型コロナ】八戸クラスター２施設、関連２４０人検査終了　残るは１０人弱に"
       }
     ]
 }
