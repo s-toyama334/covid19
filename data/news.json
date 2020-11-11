@@ -2,6 +2,31 @@
     "newsItems": [
       {
             "date": "2020\/11\/11",
+            "url": "https://www.daily-tohoku.news/archives/48423",
+            "text": "【新型コロナ】久慈１人含む８人感染／岩手県内"
+      },
+      {
+            "date": "2020\/11\/11",
+            "url": "https://www.daily-tohoku.news/archives/48408",
+            "text": "【速報】新型コロナ感染の１人は久慈の男性公務員"
+      },
+      {
+            "date": "2020\/11\/11",
+            "url": "https://www.daily-tohoku.news/archives/48400",
+            "text": "【新型コロナ】弘前管内で新たに１人感染　健康観察中の再検査で判明"
+      },
+      {
+            "date": "2020\/11\/11",
+            "url": "https://www.daily-tohoku.news/archives/48393",
+            "text": "【速報】盛岡市と葛巻町で８人コロナ感染　飲食店と消防でクラスター発生"
+      },
+      {
+            "date": "2020\/11\/11",
+            "url": "https://www.daily-tohoku.news/archives/48375",
+            "text": "【速報】弘前管内で新たにコロナ１人感染"
+      },
+      {
+            "date": "2020\/11\/11",
             "url": "https://www.daily-tohoku.news/archives/48316",
             "text": "【新型コロナ】八戸２施設クラスター検査終了　市「まだ油断できず」"
       },
@@ -54,26 +79,6 @@
             "date": "2020\/11\/09",
             "url": "https://www.daily-tohoku.news/archives/48112",
             "text": "【新型コロナ】弘前管内で新たに１人感染　クラスター発生の病院勤務"
-      },
-      {
-            "date": "2020\/11\/09",
-            "url": "https://www.daily-tohoku.news/archives/48112",
-            "text": "【新型コロナ】八戸のクラスターまとめ　③３日連続で陽性者無し　収束近づく"
-      },
-      {
-            "date": "2020\/11\/08",
-            "url": "https://www.daily-tohoku.news/archives/48090",
-            "text": "【速報】弘前、東地方管内で計２人コロナ感染"
-      },
-      {
-            "date": "2020\/11\/08",
-            "url": "https://www.daily-tohoku.news/archives/48045",
-            "text": "【新型コロナ】青森市と東地方保健所管内で２人感染／県内クラスター関連なしか"
-      },
-      {
-            "date": "2020\/11\/08",
-            "url": "https://www.daily-tohoku.news/archives/48040",
-            "text": "【新型コロナ】クラスター発生のひまわり苑、施設内など消毒／八戸"
       }
     ]
 }
