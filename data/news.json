@@ -1,54 +1,49 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/15",
+            "url": "https://www.daily-tohoku.news/archives/48705",
+            "text": "【新型コロナ】弘前の大規模クラスター以降　１カ月で２４１人感染／青森県内"
+      },
+      {
+            "date": "2020\/11\/15",
+            "url": "https://www.daily-tohoku.news/archives/48701",
+            "text": "【新型コロナ】八戸で１人感染確認　関西の男性、出張中"
+      },
+      {
+            "date": "2020\/11\/15",
+            "url": "https://www.daily-tohoku.news/archives/48700",
+            "text": "【新型コロナ】岩手で新たに５人感染　盛岡の男性２人など"
+      },
+      {
+            "date": "2020\/11\/14",
+            "url": "https://www.daily-tohoku.news/archives/48684",
+            "text": "米軍三沢基地関係者１人コロナ感染　小桧山市長「感染拡大の可能性低い」"
+      },
+      {
+            "date": "2020\/11\/14",
+            "url": "https://www.daily-tohoku.news/archives/48658",
+            "text": "【速報】八戸管内のコロナ感染者は関西方面から出張中"
+      },
+      {
+            "date": "2020\/11\/14",
+            "url": "https://www.daily-tohoku.news/archives/48656",
+            "text": "【速報】コロナ感染者３人のうち１人は八戸市保健所管内"
+      },
+      {
+            "date": "2020\/11\/14",
+            "url": "https://www.daily-tohoku.news/archives/48645",
+            "text": "【速報】青森県内で新たに３人が新型コロナ感染"
+      },
+      {
+            "date": "2020\/11\/14",
+            "url": "https://www.daily-tohoku.news/archives/48625",
+            "text": "【新型コロナ】繰り返されるネット中傷"
+      },
+      {
             "date": "2020\/11\/14",
             "url": "https://www.daily-tohoku.news/archives/48611",
             "text": "【新型コロナ】米軍三沢で陽性１人確認"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48609",
-            "text": "【新型コロナ】岩手で新たに１３人感染／新たな飲食店クラスター発生、医師や県職員も利用"
-      },
-      {
-            "date": "2020\/11\/13",
-            "url": "https://www.daily-tohoku.news/archives/48604",
-            "text": "【速報】米軍三沢基地の関係者１人コロナ陽性"
-      },
-      {
-            "date": "2020\/11\/13",
-            "url": "https://www.daily-tohoku.news/archives/48547",
-            "text": "【新型コロナ】濃厚接触者なしと確認、米軍三沢基地内２人陽性／三沢市が感染症対策本部会議開催"
-      },
-      {
-            "date": "2020\/11\/13",
-            "url": "https://www.daily-tohoku.news/archives/48528",
-            "text": "【新型コロナ】盛岡の男性新たに感染　久慈の男性は経路不明"
-      },
-      {
-            "date": "2020\/11\/13",
-            "url": "https://www.daily-tohoku.news/archives/48527",
-            "text": "【新型コロナ】米軍三沢基地内で軍関係者２人感染"
-      },
-      {
-            "date": "2020\/11\/13",
-            "url": "https://www.daily-tohoku.news/archives/48526",
-            "text": "【新型コロナ】弘前管内８０代以上女性死亡　県内６人目"
-      },
-      {
-            "date": "2020\/11\/12",
-            "url": "https://www.daily-tohoku.news/archives/48525",
-            "text": "【新型コロナ】岩手で新たに１０人感染／久慈・公務員関連は３人"
-      },
-      {
-            "date": "2020\/11\/12",
-            "url": "https://www.daily-tohoku.news/archives/48479",
-            "text": "【速報】コロナ感染　弘前管内の８０代以上女性死亡"
-      },
-      {
-            "date": "2020\/11\/12",
-            "url": "https://www.daily-tohoku.news/archives/48464",
-            "text": "【速報】盛岡の男性１人コロナ感染　県内４２人目"
       }
     ]
 }
