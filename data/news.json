@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/11\/16",
+            "url": "https://www.daily-tohoku.news/archives/48810",
+            "text": "八戸工大が民間病院２施設でエーロゾル実証実験　新型コロナ感染拡大防止対策"
+      },
+      {
+            "date": "2020\/11\/16",
+            "url": "https://www.daily-tohoku.news/archives/48799",
+            "text": "【速報】新たに１人新型コロナ感染"
+      },
+      {
+            "date": "2020\/11\/16",
             "url": "https://www.daily-tohoku.news/archives/48770",
             "text": "【新型コロナ】関東在住男性と濃厚接触５人陰性　青森県内、新規感染者ゼロ"
       },
@@ -54,16 +64,6 @@
             "date": "2020\/11\/14",
             "url": "https://www.daily-tohoku.news/archives/48645",
             "text": "【速報】青森県内で新たに３人が新型コロナ感染"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48625",
-            "text": "【新型コロナ】繰り返されるネット中傷"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48611",
-            "text": "【新型コロナ】米軍三沢で陽性１人確認"
       }
     ]
 }
