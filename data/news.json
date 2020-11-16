@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/17",
+            "url": "https://www.daily-tohoku.news/archives/48846",
+            "text": "【新型コロナ】盛岡新たに２人感染　飲食店クラスターは７日利用者に集中"
+      },
+      {
+            "date": "2020\/11\/17",
+            "url": "https://www.daily-tohoku.news/archives/48844",
+            "text": "【新型コロナ】県外居住の男性感染／五所川原管内"
+      },
+      {
             "date": "2020\/11\/16",
             "url": "https://www.daily-tohoku.news/archives/48810",
             "text": "八戸工大が民間病院２施設でエーロゾル実証実験　新型コロナ感染拡大防止対策"
@@ -44,26 +54,6 @@
             "date": "2020\/11\/15",
             "url": "https://www.daily-tohoku.news/archives/48700",
             "text": "【新型コロナ】岩手で新たに５人感染　盛岡の男性２人など"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48684",
-            "text": "米軍三沢基地関係者１人コロナ感染　小桧山市長「感染拡大の可能性低い」"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48658",
-            "text": "【速報】八戸管内のコロナ感染者は関西方面から出張中"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48656",
-            "text": "【速報】コロナ感染者３人のうち１人は八戸市保健所管内"
-      },
-      {
-            "date": "2020\/11\/14",
-            "url": "https://www.daily-tohoku.news/archives/48645",
-            "text": "【速報】青森県内で新たに３人が新型コロナ感染"
       }
     ]
 }
