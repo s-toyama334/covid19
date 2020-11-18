@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/19",
+            "url": "https://www.daily-tohoku.news/archives/49037",
+            "text": "【新型コロナ】青森県内、新規感染ゼロ　濃厚接触者７人は陰性"
+      },
+      {
+            "date": "2020\/11\/19",
+            "url": "https://www.daily-tohoku.news/archives/49036",
+            "text": "【新型コロナ】盛岡と宮古の３人新たに感染"
+      },
+      {
+            "date": "2020\/11\/18",
+            "url": "https://www.daily-tohoku.news/archives/49026",
+            "text": "【新型コロナ】青森県が北海道へ保健師１０人派遣へ"
+      },
+      {
             "date": "2020\/11\/18",
             "url": "https://www.daily-tohoku.news/archives/49011",
             "text": "【新型コロナ】国内新規感染者２千人超える"
@@ -49,16 +64,6 @@
             "date": "2020\/11\/16",
             "url": "https://www.daily-tohoku.news/archives/48799",
             "text": "【速報】新たに１人新型コロナ感染"
-      },
-      {
-            "date": "2020\/11\/16",
-            "url": "https://www.daily-tohoku.news/archives/48770",
-            "text": "【新型コロナ】関東在住男性と濃厚接触５人陰性　青森県内、新規感染者ゼロ"
-      },
-      {
-            "date": "2020\/11\/16",
-            "url": "https://www.daily-tohoku.news/archives/48769",
-            "text": "【新型コロナ】岩手で新たに６人感染　盛岡の飲食店クラスター関連"
       },
       {
             "date": "2020\/11\/16",
