@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/20",
+            "url": "https://www.daily-tohoku.news/archives/49122",
+            "text": "新型コロナ、インフル同時流行に備え態勢整備　青森県、東北では最も遅く"
+      },
+      {
             "date": "2020\/11\/19",
             "url": " https://www.daily-tohoku.news/archives/49115",
             "text": "【新型コロナ】盛岡、滝沢など５市で計８人感染"
@@ -59,21 +64,6 @@
             "date": "2020\/11\/17",
             "url": "https://www.daily-tohoku.news/archives/48880",
             "text": "【速報】新たに宮古の男性２人コロナ感染・飲食店の店名公表、利用者に連絡呼び掛け"
-      },
-      {
-            "date": "2020\/11\/17",
-            "url": "https://www.daily-tohoku.news/archives/48846",
-            "text": "【新型コロナ】盛岡新たに２人感染　飲食店クラスターは７日利用者に集中"
-      },
-      {
-            "date": "2020\/11\/17",
-            "url": "https://www.daily-tohoku.news/archives/48844",
-            "text": "【新型コロナ】県外居住の男性感染／五所川原管内"
-      },
-      {
-            "date": "2020\/11\/16",
-            "url": "https://www.daily-tohoku.news/archives/48810",
-            "text": "八戸工大が民間病院２施設でエーロゾル実証実験　新型コロナ感染拡大防止対策"
       }
     ]
 }
