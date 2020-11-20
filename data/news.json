@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2020\/11\/20",
+            "url": "https://www.daily-tohoku.news/archives/49219",
+            "text": "【新型コロナ】盛岡、花巻など８市町で新たに１５人感染　１日当たり最多"
+      },
+      {
+            "date": "2020\/11\/20",
+            "url": "https://www.daily-tohoku.news/archives/49210",
+            "text": "【新型コロナ】新たな診療・検査態勢移行は１２月１日／青森県"
+      },
+      {
+            "date": "2020\/11\/20",
+            "url": "https://www.daily-tohoku.news/archives/49198",
+            "text": "【新型コロナ】八戸市長、２カ所のクラスター感染経路の見方示す"
+      },
+      {
+            "date": "2020\/11\/20",
             "url": "https://www.daily-tohoku.news/archives/49122",
             "text": "新型コロナ、インフル同時流行に備え態勢整備　青森県、東北では最も遅く"
       },
@@ -49,21 +64,6 @@
             "date": "2020\/11\/18",
             "url": "https://www.daily-tohoku.news/archives/48963",
             "text": "【新型コロナ】青森で女性１人感染　１４日に感染が判明した男性の知人"
-      },
-      {
-            "date": "2020\/11\/17",
-            "url": "https://www.daily-tohoku.news/archives/48957",
-            "text": "【新型コロナ】米軍三沢の基地関係者２人感染"
-      },
-      {
-            "date": "2020\/11\/17",
-            "url": "https://www.daily-tohoku.news/archives/48885",
-            "text": "【新型コロナ】青森で１人感染　県内累計２８０人に"
-      },
-      {
-            "date": "2020\/11\/17",
-            "url": "https://www.daily-tohoku.news/archives/48880",
-            "text": "【速報】新たに宮古の男性２人コロナ感染・飲食店の店名公表、利用者に連絡呼び掛け"
       }
     ]
 }
