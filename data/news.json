@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/23",
+            "url": "https://www.daily-tohoku.news/archives/49367",
+            "text": "【新型コロナ】洋野で新たに３人感染　デイサービス施設職員、利用者ら"
+      },
+      {
             "date": "2020\/11\/22",
             "url": "https://www.daily-tohoku.news/archives/49301",
             "text": "【新型コロナ】クラスター経験「ひまわり苑」対応手探り、激励に救われ"
@@ -49,21 +54,6 @@
             "date": "2020\/11\/19",
             "url": "https://www.daily-tohoku.news/archives/49037",
             "text": "【新型コロナ】青森県内、新規感染ゼロ　濃厚接触者７人は陰性"
-      },
-      {
-            "date": "2020\/11\/19",
-            "url": "https://www.daily-tohoku.news/archives/49036",
-            "text": "【新型コロナ】盛岡と宮古の３人新たに感染"
-      },
-      {
-            "date": "2020\/11\/18",
-            "url": "https://www.daily-tohoku.news/archives/49026",
-            "text": "【新型コロナ】青森県が北海道へ保健師１０人派遣へ"
-      },
-      {
-            "date": "2020\/11\/18",
-            "url": "https://www.daily-tohoku.news/archives/49011",
-            "text": "【新型コロナ】国内新規感染者２千人超える"
       }
     ]
 }
