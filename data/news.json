@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/25",
+            "url": "https://www.daily-tohoku.news/archives/49507",
+            "text": "【新型コロナ】岩手は施設名を非公表　クラスター対応、青森と分かれる"
+      },
+      {
+            "date": "2020\/11\/24",
+            "url": "https://www.daily-tohoku.news/archives/49506",
+            "text": "【新型コロナ】洋野のデイサービスでクラスター　岩手県内新たに１４人感染"
+      },
+      {
+            "date": "2020\/11\/24",
+            "url": "https://www.daily-tohoku.news/archives/49504",
+            "text": "【新型コロナ】米軍三沢の基地関係者２人感染"
+      },
+      {
+            "date": "2020\/11\/24",
+            "url": "https://www.daily-tohoku.news/archives/49496",
+            "text": "【新型コロナ】弘前管内５０代男性の接触者７人検査　判明は２５日以降"
+      },
+      {
             "date": "2020\/11\/24",
             "url": "https://www.daily-tohoku.news/archives/49431",
             "text": "【新型コロナ】弘前保健所管内で５０代男性１人感染"
@@ -34,21 +54,6 @@
             "date": "2020\/11\/20",
             "url": "https://www.daily-tohoku.news/archives/49210",
             "text": "【新型コロナ】新たな診療・検査態勢移行は１２月１日／青森県"
-      },
-      {
-            "date": "2020\/11\/20",
-            "url": "https://www.daily-tohoku.news/archives/49198",
-            "text": "【新型コロナ】八戸市長、２カ所のクラスター感染経路の見方示す"
-      },
-      {
-            "date": "2020\/11\/20",
-            "url": "https://www.daily-tohoku.news/archives/49122",
-            "text": "新型コロナ、インフル同時流行に備え態勢整備　青森県、東北では最も遅く"
-      },
-      {
-            "date": "2020\/11\/19",
-            "url": " https://www.daily-tohoku.news/archives/49115",
-            "text": "【新型コロナ】盛岡、滝沢など５市で計８人感染"
       }
     ]
 }
