@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/27",
+            "url": "https://www.daily-tohoku.news/archives/49668",
+            "text": "【新型コロナ】三戸地方保健所管内で３０代男性感染　核燃料サイクル施設構内で勤務"
+      },
+      {
+            "date": "2020\/11\/26",
+            "url": "https://www.daily-tohoku.news/archives/49665",
+            "text": "【新型コロナ】盛岡、宮古、滝沢、釜石の男女１３人感染／岩手県"
+      },
+      {
+            "date": "2020\/11\/26",
+            "url": "https://www.daily-tohoku.news/archives/49663",
+            "text": "【新型コロナ】知事「拡大抑え込めた」／弘前飲食店クラスター"
+      },
+      {
             "date": "2020\/11\/26",
             "url": "https://www.daily-tohoku.news/archives/49633",
             "text": "【新型コロナ】原燃協力会社社員が感染　六ケ所村の核燃料サイクル施設構内で勤務"
