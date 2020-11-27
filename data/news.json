@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/11\/27",
+            "url": "https://www.daily-tohoku.news/archives/49711",
+            "text": "【新型コロナ】新たに盛岡の４人感染"
+      },
+      {
+            "date": "2020\/11\/27",
+            "url": "https://www.daily-tohoku.news/archives/49699",
+            "text": "【新型コロナ】新たに２人感染確認／青森県"
+      },
+      {
+            "date": "2020\/11\/27",
             "url": "https://www.daily-tohoku.news/archives/49668",
             "text": "【新型コロナ】三戸地方保健所管内で３０代男性感染　核燃料サイクル施設構内で勤務"
       },
@@ -84,21 +94,6 @@
             "date": "2020\/11\/24",
             "url": "https://www.daily-tohoku.news/archives/49496",
             "text": "【新型コロナ】弘前管内５０代男性の接触者７人検査　判明は２５日以降"
-      },
-      {
-            "date": "2020\/11\/24",
-            "url": "https://www.daily-tohoku.news/archives/49431",
-            "text": "【新型コロナ】弘前保健所管内で５０代男性１人感染"
-      },
-      {
-            "date": "2020\/11\/24",
-            "url": "https://www.daily-tohoku.news/archives/49430",
-            "text": "【新型コロナ】岩手で１人死亡　新たに宮古、矢巾の男女４人感染"
-      },
-      {
-            "date": "2020\/11\/23",
-            "url": "https://www.daily-tohoku.news/archives/49367",
-            "text": "【新型コロナ】洋野で新たに３人感染　デイサービス施設職員、利用者ら"
       }
     ]
 }
