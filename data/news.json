@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/11\/29",
+            "url": "https://www.daily-tohoku.news/archives/49885",
+            "text": "【速報】岩手で新たに８人コロナ感染　県内累計１９１人に"
+      },
+      {
             "date": "2020\/11\/28",
             "url": "https://www.daily-tohoku.news/archives/49856",
             "text": "【新型コロナ】盛岡、滝沢の２市で男女４人感染"
