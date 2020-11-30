@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/11\/30",
+            "url": "https://www.daily-tohoku.news/archives/49955",
+            "text": "【新型コロナ】三戸管内で新たに１人が感染"
+      },
+      {
+            "date": "2020\/11\/30",
             "url": "https://www.daily-tohoku.news/archives/49929",
             "text": "新型コロナの「診療・検査」１２月１日新態勢スタート／青森県内"
       },
