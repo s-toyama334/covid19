@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/01",
+            "url": "https://www.daily-tohoku.news/archives/50027",
+            "text": "【新型コロナ】青森県内新たに８人感染　三戸地方管内は２人"
+      },
+      {
+            "date": "2020\/12\/01",
+            "url": "https://www.daily-tohoku.news/archives/50024",
+            "text": "【新型コロナ】盛岡で新たに３人感染　岩手県内計１９４人に"
+      },
+      {
+            "date": "2020\/11\/30",
+            "url": "https://www.daily-tohoku.news/archives/50004",
+            "text": "青森県内コロナ解雇１３１６人、前月比３８０人増と大幅悪化"
+      },
+      {
+            "date": "2020\/11\/30",
+            "url": "https://www.daily-tohoku.news/archives/49990",
+            "text": "【速報】新たに７人がコロナ感染　３０日は計８人に／青森県内"
+      },
+      {
+            "date": "2020\/11\/30",
+            "url": "https://www.daily-tohoku.news/archives/49979",
+            "text": "【速報】盛岡で新たに３人がコロナ感染"
+      },
+      {
             "date": "2020\/11\/30",
             "url": "https://www.daily-tohoku.news/archives/49955",
             "text": "【新型コロナ】三戸管内で新たに１人が感染"
@@ -69,26 +94,6 @@
             "date": "2020\/11\/26",
             "url": "https://www.daily-tohoku.news/archives/49665",
             "text": "【新型コロナ】盛岡、宮古、滝沢、釜石の男女１３人感染／岩手県"
-      },
-      {
-            "date": "2020\/11\/26",
-            "url": "https://www.daily-tohoku.news/archives/49663",
-            "text": "【新型コロナ】知事「拡大抑え込めた」／弘前飲食店クラスター"
-      },
-      {
-            "date": "2020\/11\/26",
-            "url": "https://www.daily-tohoku.news/archives/49633",
-            "text": "【新型コロナ】原燃協力会社社員が感染　六ケ所村の核燃料サイクル施設構内で勤務"
-      },
-      {
-            "date": "2020\/11\/26",
-            "url": "https://www.daily-tohoku.news/archives/49625",
-            "text": "【新型コロナ】岩手で新たに１３人感染"
-      },
-      {
-            "date": "2020\/11\/26",
-            "url": "https://www.daily-tohoku.news/archives/49616",
-            "text": "【速報】三戸管内で初の新型コロナ感染確認"
       }
     ]
 }
