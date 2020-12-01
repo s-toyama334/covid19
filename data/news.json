@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/12\/01",
+            "url": "https://www.daily-tohoku.news/archives/50062",
+            "text": "【新型コロナ】青森市、弘前管内の２人が感染"
+      },
+      {
+            "date": "2020\/12\/01",
             "url": "https://www.daily-tohoku.news/archives/50027",
             "text": "【新型コロナ】青森県内新たに８人感染　三戸地方管内は２人"
       },
