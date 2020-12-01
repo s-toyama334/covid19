@@ -2345,7 +2345,7 @@
         ]
     },
     "patients_summary": {
-        "date": "2020\/12\/01 09:00",
+        "date": "2020\/12\/02 09:00",
         "data": [
             {
                 "日付": "2020-03-23T08:00:00.000Z",
@@ -3701,38 +3701,38 @@
         ]
     },
     "inspection_status_summary": {
-        "date": "2020\/11\/30 09:00",
+        "date": "2020\/12\/02 09:00",
         "attr": "検査実施人数（累計）",
-        "value": 6697,
+        "value": 6771,
         "children": [
             {
                 "attr": "検査実施件数（累計）",
-                "value": 6697,
+                "value": 6771,
                 "children": [
                     {
                         "attr": "陰性件数",
-                        "value": 6402
+                        "value": 6472
                     },
                     {
                         "attr": "陽性件数",
-                        "value": 297
+                        "value": 299
                     }
                 ]
             }
         ]
     },
-    "lastUpdate": "2020\/11\/30 09:00",
+    "lastUpdate": "2020\/12\/02 09:00",
     "main_summary": {
         "attr": "検査実施人数",
-        "value":  6697,
+        "value":  6771,
         "children": [
             {
                 "attr": "陽性患者数",
-                "value": 297,
+                "value": 299,
                 "children": [
                     {
                         "attr": "入院中",
-                        "value": 16,
+                        "value": 22,
                         "children": [
                             {
                                 "attr": "軽症・中等症",
@@ -3746,7 +3746,7 @@
                     },
                     {
                         "attr": "退院",
-                        "value": 265
+                        "value": 267
                     },
                     {
                         "attr": "死亡",
