@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50566",
+            "text": "【新型コロナ】八戸、上十三で６人感染　青森県内累計３３０人"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50562",
+            "text": "【新型コロナ】岩手県内　新規患者２７日ぶりゼロ"
+      },
+      {
+            "date": "2020\/12\/06",
+            "url": "https://www.daily-tohoku.news/archives/50536",
+            "text": "【速報】八戸の男女２人コロナ感染"
+      },
+      {
+            "date": "2020\/12\/06",
+            "url": "https://www.daily-tohoku.news/archives/50528",
+            "text": "【新型コロナ】北部上北広域事務組合の職員　新たに２人感染"
+      },
+      {
+            "date": "2020\/12\/06",
+            "url": "https://www.daily-tohoku.news/archives/50517",
+            "text": "【速報】上十三管内で４人がコロナ感染　青森県内累計３２８人"
+      },
+      {
             "date": "2020\/12\/06",
             "url": "https://www.daily-tohoku.news/archives/50498",
             "text": "【新型コロナ】八戸、上十三の男性３人感染　青森県内累計３２４人"
@@ -94,56 +119,6 @@
             "date": "2020\/12\/03",
             "url": "https://www.daily-tohoku.news/archives/50257",
             "text": "【速報】岩手で新たに４人コロナ感染"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50240",
-            "text": "【速報】新型コロナ、青森市で４人感染"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50212",
-            "text": "大会運営関係者がコロナ感染　青森県スケート連盟関係者、言葉失う"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50209",
-            "text": "【新型コロナ】青森県で八戸市職員１人含む８人感染／職員はスケート場勤務、感染経路不明"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50203",
-            "text": "【新型コロナ】岩手で洋野の男性１人含む４人感染　濃厚接触者は家族と職場同僚"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50182",
-            "text": "【速報】市職員はスケート全国大会の運営関係者／新型コロナ"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50177",
-            "text": "【速報】八戸の１人は八戸市職員／新型コロナ"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50174",
-            "text": "【速報】新たに八戸市１人、青森市６人がコロナ感染"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50160",
-            "text": "【速報】洋野の男性１人がコロナ感染　岩手県内４人確認"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50151",
-            "text": "【速報】新型コロナ、三戸地方管内の１人が感染　県内累計３００人に"
-      },
-      {
-            "date": "2020\/12\/02",
-            "url": "https://www.daily-tohoku.news/archives/50137",
-            "text": "コロナ影響、イベント中止や延期相次ぐ"
       }
     ]
 }
