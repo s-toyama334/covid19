@@ -1,6 +1,36 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50659",
+            "text": "【新型コロナ】八戸で職場クラスター　県内新たに計１３人感染"
+      },
+      {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50657",
+            "text": "【新型コロナ】軽症者療養施設のむつ設置　県「準備できない」"
+      },
+      {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50655",
+            "text": "青森県内１０月売上半減企業１２％　前回から悪化、コロナ拡大打撃に"
+      },
+      {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50650",
+            "text": "【新型コロナ】八戸の職場クラスターまとめ／計１０人が感染"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50643",
+            "text": "コロナで収入減、青森県内スポーツ６団体が県に支援要望"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50628",
+            "text": "コロナ禍での生き残り策共有　八戸地域の企業が意見交換会"
+      },
+      {
             "date": "2020\/12\/07",
             "url": "https://www.daily-tohoku.news/archives/50621",
             "text": "【新型コロナ】青森河川国道事務所で１人感染"
@@ -44,91 +74,6 @@
             "date": "2020\/12\/07",
             "url": "https://www.daily-tohoku.news/archives/50566",
             "text": "【新型コロナ】八戸、上十三で６人感染　青森県内累計３３０人"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50562",
-            "text": "【新型コロナ】岩手県内　新規患者２７日ぶりゼロ"
-      },
-      {
-            "date": "2020\/12\/06",
-            "url": "https://www.daily-tohoku.news/archives/50536",
-            "text": "【速報】八戸の男女２人コロナ感染"
-      },
-      {
-            "date": "2020\/12\/06",
-            "url": "https://www.daily-tohoku.news/archives/50528",
-            "text": "【新型コロナ】北部上北広域事務組合の職員　新たに２人感染"
-      },
-      {
-            "date": "2020\/12\/06",
-            "url": "https://www.daily-tohoku.news/archives/50517",
-            "text": "【速報】上十三管内で４人がコロナ感染　青森県内累計３２８人"
-      },
-      {
-            "date": "2020\/12\/06",
-            "url": "https://www.daily-tohoku.news/archives/50498",
-            "text": "【新型コロナ】八戸、上十三の男性３人感染　青森県内累計３２４人"
-      },
-      {
-            "date": "2020\/12\/06",
-            "url": "https://www.daily-tohoku.news/archives/50497",
-            "text": "【新型コロナ】盛岡市と岩手町の７人感染　県内累計２２０人に"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50478",
-            "text": "【速報】新型コロナ　八戸の男性２人は職場の同僚"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50470",
-            "text": "【速報】新たに八戸で２人コロナ感染　青森県内５日は計３人"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50458",
-            "text": "【速報】盛岡市と岩手町の男女７人がコロナ感染"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50450",
-            "text": "【速報】上十三管内で１人がコロナ感染／青森県"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50424",
-            "text": "【新型コロナ】青森県内で６人感染　青森市で初の飲食店クラスター"
-      },
-      {
-            "date": "2020\/12\/05",
-            "url": "https://www.daily-tohoku.news/archives/50422",
-            "text": "【新型コロナ】盛岡で１人感染　岩手累計２１３人に"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50395",
-            "text": "【新型コロナ】北部上北広域事務組合の職員　新たに１人感染確認"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50378",
-            "text": "【速報】盛岡で男性１人コロナ感染"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50370",
-            "text": "【新型コロナ】北部上北広域事務組合の職員１人感染"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50365",
-            "text": "【速報】新たに青森市と弘前管内の２人コロナ感染　４日は計６人"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50352",
-            "text": "【新型コロナ】八学大が休講"
       }
     ]
 }
