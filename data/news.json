@@ -2,6 +2,26 @@
     "newsItems": [
       {
             "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50621",
+            "text": "【新型コロナ】青森河川国道事務所で１人感染"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50619",
+            "text": "【新型コロナ】新たに八戸市と上十三で計２人感染　青森県内累計３４３人"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50616",
+            "text": "【新型コロナ】八戸市内の損保支社で１０人感染"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50614",
+            "text": "【新型コロナ】岩手で新たに２人死亡　新規感染は２日連続でなし"
+      },
+      {
+            "date": "2020\/12\/07",
             "url": "https://www.daily-tohoku.news/archives/50607",
             "text": "【新型コロナ】ユニバース八戸ニュータウン店は８日に営業再開"
       },
