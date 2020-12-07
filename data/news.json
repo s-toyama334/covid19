@@ -2,6 +2,26 @@
     "newsItems": [
       {
             "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50607",
+            "text": "【新型コロナ】ユニバース八戸ニュータウン店は８日に営業再開"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50598",
+            "text": "【新型コロナ】八戸でクラスター発生か　同じ職場で１０人感染"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50593",
+            "text": "【速報】新型コロナ、八戸市で１０人の感染確認　青森市では１人"
+      },
+      {
+            "date": "2020\/12\/07",
+            "url": "https://www.daily-tohoku.news/archives/50578",
+            "text": "【新型コロナ】ユニバースで従業員１人が感染"
+      },
+      {
+            "date": "2020\/12\/07",
             "url": "https://www.daily-tohoku.news/archives/50566",
             "text": "【新型コロナ】八戸、上十三で６人感染　青森県内累計３３０人"
       },
@@ -89,36 +109,6 @@
             "date": "2020\/12\/04",
             "url": "https://www.daily-tohoku.news/archives/50352",
             "text": "【新型コロナ】八学大が休講"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50328",
-            "text": "ＡＴＶ社員が新型コロナ感染"
-      },
-      {
-            "date": "2020\/12\/04",
-            "url": "https://www.daily-tohoku.news/archives/50312",
-            "text": "【新型コロナ】青森県内８人感染　経路不明者徐々に増加「一定の警戒必要」"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50309",
-            "text": "【新型コロナ】盛岡、北上、一関の３市で新たに４人感染"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50306",
-            "text": "【新型コロナ】八工大１３日まで対面授業停止　学生３人感染受け"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50273",
-            "text": "【速報】新たに４人コロナ感染　青森県内累計３１５人"
-      },
-      {
-            "date": "2020\/12\/03",
-            "url": "https://www.daily-tohoku.news/archives/50257",
-            "text": "【速報】岩手で新たに４人コロナ感染"
       }
     ]
 }
