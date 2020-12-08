@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/09",
+            "url": "https://www.daily-tohoku.news/archives/50734",
+            "text": "【新型コロナ】八戸で男性２人感染　職場クラスター関連、計１２人に"
+      },
+      {
+            "date": "2020\/12\/09",
+            "url": "https://www.daily-tohoku.news/archives/50733",
+            "text": "【新型コロナ】軽米の男性１人含む男女４人感染　二戸管内で初"
+      },
+      {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50718",
+            "text": "【新型コロナ】十和田市、成人式参加希望者にＰＣＲ検査義務付け"
+      },
+      {
+            "date": "2020\/12\/08",
+            "url": "https://www.daily-tohoku.news/archives/50716",
+            "text": "【新型コロナ】三沢市、成人式参加者にＰＣＲ検査実施へ"
+      },
+      {
             "date": "2020\/12\/08",
             "url": "https://www.daily-tohoku.news/archives/50703",
             "text": "【新型コロナ】八戸市で２人感染　職場クラスター関連"
@@ -59,36 +79,6 @@
             "date": "2020\/12\/07",
             "url": "https://www.daily-tohoku.news/archives/50616",
             "text": "【新型コロナ】八戸市内の損保支社で１０人感染"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50614",
-            "text": "【新型コロナ】岩手で新たに２人死亡　新規感染は２日連続でなし"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50607",
-            "text": "【新型コロナ】ユニバース八戸ニュータウン店は８日に営業再開"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50598",
-            "text": "【新型コロナ】八戸でクラスター発生か　同じ職場で１０人感染"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50593",
-            "text": "【速報】新型コロナ、八戸市で１０人の感染確認　青森市では１人"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50578",
-            "text": "【新型コロナ】ユニバースで従業員１人が感染"
-      },
-      {
-            "date": "2020\/12\/07",
-            "url": "https://www.daily-tohoku.news/archives/50566",
-            "text": "【新型コロナ】八戸、上十三で６人感染　青森県内累計３３０人"
       }
     ]
 }
