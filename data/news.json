@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/12\/10",
+            "url": "https://www.daily-tohoku.news/archives/50881",
+            "text": "【新型コロナ】八戸市で２人感染"
+      },
+      {
+            "date": "2020\/12\/10",
             "url": "https://www.daily-tohoku.news/archives/50851",
             "text": "【新型コロナ】八戸で宿泊施設での療養始まる"
       },
