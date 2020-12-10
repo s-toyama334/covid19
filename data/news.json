@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/10",
+            "url": "https://www.daily-tohoku.news/archives/50851",
+            "text": "【新型コロナ】八戸で宿泊施設での療養始まる"
+      },
+      {
+            "date": "2020\/12\/10",
+            "url": "https://www.daily-tohoku.news/archives/50847",
+            "text": "【新型コロナ】八戸で飲食店クラスター　県内新たに９人感染"
+      },
+      {
+            "date": "2020\/12\/09",
+            "url": "https://www.daily-tohoku.news/archives/50834",
+            "text": "【新型コロナ】盛岡の８０代男性感染　岩手県内累計２２５人"
+      },
+      {
             "date": "2020\/12\/09",
             "url": "https://www.daily-tohoku.news/archives/50807",
             "text": "【新型コロナ】八戸のクラスター発生店舗名を公表"
@@ -54,21 +69,6 @@
             "date": "2020\/12\/08",
             "url": "https://www.daily-tohoku.news/archives/50695",
             "text": "【新型コロナ】軽米町の男性１人含む４人感染　岩手県内"
-      },
-      {
-            "date": "2020\/12\/08",
-            "url": "https://www.daily-tohoku.news/archives/50670",
-            "text": "コロナ禍の忘年会シーズン　飲食店、予約低調も「最善尽くす」"
-      },
-      {
-            "date": "2020\/12\/08",
-            "url": "https://www.daily-tohoku.news/archives/50659",
-            "text": "【新型コロナ】八戸で職場クラスター　県内新たに計１３人感染"
-      },
-      {
-            "date": "2020\/12\/08",
-            "url": "https://www.daily-tohoku.news/archives/50657",
-            "text": "【新型コロナ】軽症者療養施設のむつ設置　県「準備できない」"
       }
     ]
 }
