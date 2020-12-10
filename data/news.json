@@ -2,8 +2,13 @@
     "newsItems": [
       {
             "date": "2020\/12\/10",
-            "url": "https://www.daily-tohoku.news/archives/50881",
-            "text": "【新型コロナ】八戸市で２人感染"
+            "url": "https://www.daily-tohoku.news/archives/50900",
+            "text": "【新型コロナ】八戸市と青森市でさらに２人感染　青森県内累計３５８人"
+      },
+      {
+            "date": "2020\/12\/10",
+            "url": "https://www.daily-tohoku.news/archives/50891",
+            "text": "【新型コロナ】岩手で新たに５人感染、２人死亡"
       },
       {
             "date": "2020\/12\/10",
