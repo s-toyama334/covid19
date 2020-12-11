@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/12\/11",
+            "url": "https://www.daily-tohoku.news/archives/50996",
+            "text": "【新型コロナ】岩手で過去最多２２人感染"
+      },
+      {
+            "date": "2020\/12\/11",
             "url": "https://www.daily-tohoku.news/archives/50977",
             "text": "【新型コロナ】八戸市１人、青森市２人が感染"
       },
@@ -79,16 +84,6 @@
             "date": "2020\/12\/09",
             "url": "https://www.daily-tohoku.news/archives/50764",
             "text": "【速報】新型コロナ、八戸市の１人含む計４人が感染"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50734",
-            "text": "【新型コロナ】八戸で男性２人感染　職場クラスター関連、計１２人に"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50733",
-            "text": "【新型コロナ】軽米の男性１人含む男女４人感染　二戸管内で初"
       }
     ]
 }
