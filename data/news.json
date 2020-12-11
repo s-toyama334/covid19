@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/12",
+            "url": "https://www.daily-tohoku.news/archives/51049",
+            "text": "【新型コロナ】感染者参加のフットサル大会、十数人の検査予定／青森県"
+      },
+      {
+            "date": "2020\/12\/11",
+            "url": "https://www.daily-tohoku.news/archives/51043",
+            "text": "【新型コロナ】岩手で過去最多２２人感染　雫石の病院でクラスター"
+      },
+      {
+            "date": "2020\/12\/11",
+            "url": "https://www.daily-tohoku.news/archives/51011",
+            "text": "【新型コロナ】七戸病院に発熱外来のプレハブ設置　１１日運用スタート"
+      },
+      {
+            "date": "2020\/12\/11",
+            "url": "https://www.daily-tohoku.news/archives/51002",
+            "text": "【速報】さらに三戸地方管内２人、青森市１人がコロナ感染　１１日は計６人"
+      },
+      {
             "date": "2020\/12\/11",
             "url": "https://www.daily-tohoku.news/archives/50996",
             "text": "【新型コロナ】岩手で過去最多２２人感染"
@@ -59,31 +79,6 @@
             "date": "2020\/12\/09",
             "url": "https://www.daily-tohoku.news/archives/50834",
             "text": "【新型コロナ】盛岡の８０代男性感染　岩手県内累計２２５人"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50807",
-            "text": "【新型コロナ】八戸のクラスター発生店舗名を公表"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50805",
-            "text": "【新型コロナ】八戸の接待伴う飲食店でクラスター発生"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50803",
-            "text": "【新型コロナ】さらに５人感染　青森県内"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50779",
-            "text": "【速報】盛岡の男性１人コロナ感染"
-      },
-      {
-            "date": "2020\/12\/09",
-            "url": "https://www.daily-tohoku.news/archives/50764",
-            "text": "【速報】新型コロナ、八戸市の１人含む計４人が感染"
       }
     ]
 }
