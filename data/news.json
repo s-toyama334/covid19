@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/16",
+            "url": "https://www.daily-tohoku.news/archives/51411",
+            "text": "【新型コロナ】弘前管内で１人が感染"
+      },
+      {
             "date": "2020\/12\/15",
             "url": "https://www.daily-tohoku.news/archives/51350",
             "text": "【新型コロナ】米軍三沢基地で２人感染、三沢市が公表"
