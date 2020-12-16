@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/12\/16",
+            "url": "https://www.daily-tohoku.news/archives/51455",
+            "text": "【新型コロナ】弘前管内で１人感染　県外移動歴、陽性者接触歴なし"
+      },
+      {
+            "date": "2020\/12\/16",
             "url": "https://www.daily-tohoku.news/archives/51420",
             "text": "【新型コロナ】岩手で新たに３人感染"
       },
@@ -59,31 +64,6 @@
             "date": "2020\/12\/14",
             "url": "https://www.daily-tohoku.news/archives/51231",
             "text": "【速報】青森市でさらに１人がコロナ感染　１４日は計２人"
-      },
-      {
-            "date": "2020\/12\/14",
-            "url": "https://www.daily-tohoku.news/archives/51216",
-            "text": "【速報】岩手で４人がコロナ感染　県内累計３０６人に"
-      },
-      {
-            "date": "2020\/12\/14",
-            "url": "https://www.daily-tohoku.news/archives/51208",
-            "text": "【速報】青森市で１人がコロナ感染　県内累計３７４人"
-      },
-      {
-            "date": "2020\/12\/13",
-            "url": "https://www.daily-tohoku.news/archives/51187",
-            "text": "【新型コロナ】弘前、五所川原管内で計２人感染　県内累計３７３人"
-      },
-      {
-            "date": "2020\/12\/13",
-            "url": "https://www.daily-tohoku.news/archives/51173",
-            "text": "【速報】岩手で７人がコロナ感染"
-      },
-      {
-            "date": "2020\/12\/12",
-            "url": "https://www.daily-tohoku.news/archives/51131",
-            "text": "【新型コロナ】青森市が接待伴う飲食店名を公表　利用客延べ１００人"
       }
     ]
 }
