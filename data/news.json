@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2020\/12\/21",
+            "url": "https://www.daily-tohoku.news/archives/51954",
+            "text": "【新型コロナ】青森市で４人感染　県内３９５人に"
+      },
+      {
+            "date": "2020\/12\/21",
             "url": "https://www.daily-tohoku.news/archives/51928",
             "text": "【新型コロナ】弘前管内で５０代女性１人感染"
       },
