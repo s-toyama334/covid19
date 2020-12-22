@@ -1,7 +1,27 @@
 {
     "newsItems": [
       {
-            "date": "2020\/12\/21",
+            "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/52002",
+            "text": "コロナ休業者支援　青森県「副業・兼業サイト」を開設"
+      },
+      {
+            "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/51977",
+            "text": "【速報】八戸のコロナ感染者は６０代女性　感染経路は不明"
+      },
+      {
+            "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/51970",
+            "text": "【速報】八戸市で１人コロナ感染　２２日は県内計５人に"
+      },
+      {
+            "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/51961",
+            "text": "【速報】岩手で新たに５人コロナ感染確認、２人死亡"
+      },
+      {
+            "date": "2020\/12\/22",
             "url": "https://www.daily-tohoku.news/archives/51954",
             "text": "【新型コロナ】青森市で４人感染　県内３９５人に"
       },
@@ -79,31 +99,6 @@
             "date": "2020\/12\/15",
             "url": "https://www.daily-tohoku.news/archives/51350",
             "text": "【新型コロナ】米軍三沢基地で２人感染、三沢市が公表"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51341",
-            "text": "【新型コロナ】青森市の介護事業所でクラスター発生"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51337",
-            "text": "【新型コロナ】さらに青森市で４人感染"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51317",
-            "text": "【速報】岩手で新たに９人コロナ感染、２人死亡"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51309",
-            "text": "【速報】新型コロナ　青森市で３人感染"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51280",
-            "text": "【新型コロナ】青森市で２人感染　市内２例目の飲食店クラスター"
       }
     ]
 }
