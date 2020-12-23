@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/52007",
+            "text": "【新型コロナ】八戸の１人、青森の４人が感染"
+      },
+      {
+            "date": "2020\/12\/22",
+            "url": "https://www.daily-tohoku.news/archives/52004",
+            "text": "【新型コロナ】岩手で２人死亡、新たに５人感染"
+      },
+      {
+            "date": "2020\/12\/22",
             "url": "https://www.daily-tohoku.news/archives/52002",
             "text": "コロナ休業者支援　青森県「副業・兼業サイト」を開設"
       },
@@ -84,21 +94,6 @@
             "date": "2020\/12\/16",
             "url": "https://www.daily-tohoku.news/archives/51455",
             "text": "【新型コロナ】弘前管内で１人感染　県外移動歴、陽性者接触歴なし"
-      },
-      {
-            "date": "2020\/12\/16",
-            "url": "https://www.daily-tohoku.news/archives/51420",
-            "text": "【新型コロナ】岩手で新たに３人感染"
-      },
-      {
-            "date": "2020\/12\/16",
-            "url": "https://www.daily-tohoku.news/archives/51411",
-            "text": "【新型コロナ】弘前管内で１人が感染"
-      },
-      {
-            "date": "2020\/12\/15",
-            "url": "https://www.daily-tohoku.news/archives/51350",
-            "text": "【新型コロナ】米軍三沢基地で２人感染、三沢市が公表"
       }
     ]
 }
