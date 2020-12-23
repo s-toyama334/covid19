@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/23",
+            "url": "https://www.daily-tohoku.news/archives/52055",
+            "text": "【新型コロナ】八戸の３人は２２日判明の女性の職場同僚など"
+      },
+      {
+            "date": "2020\/12\/23",
+            "url": "https://www.daily-tohoku.news/archives/52045",
+            "text": "【新型コロナ】八戸市など７人感染　青森県内累計４００人超え"
+      },
+      {
+            "date": "2020\/12\/23",
+            "url": "https://www.daily-tohoku.news/archives/52036",
+            "text": "【新型コロナ】新たに盛岡の女性２人感染"
+      },
+      {
             "date": "2020\/12\/22",
             "url": "https://www.daily-tohoku.news/archives/52007",
             "text": "【新型コロナ】八戸の１人、青森の４人が感染"
@@ -79,21 +94,6 @@
             "date": "2020\/12\/17",
             "url": "https://www.daily-tohoku.news/archives/51507",
             "text": "【速報】岩手で新たに９人がコロナ感染"
-      },
-      {
-            "date": "2020\/12\/17",
-            "url": "https://www.daily-tohoku.news/archives/51501",
-            "text": "【新型コロナ】東京で新たに８００人以上感染、過去最多を大幅更新"
-      },
-      {
-            "date": "2020\/12\/17",
-            "url": "https://www.daily-tohoku.news/archives/51490",
-            "text": "【新型コロナ】青森市と東地方保健所管内の３人感染"
-      },
-      {
-            "date": "2020\/12\/16",
-            "url": "https://www.daily-tohoku.news/archives/51455",
-            "text": "【新型コロナ】弘前管内で１人感染　県外移動歴、陽性者接触歴なし"
       }
     ]
 }
