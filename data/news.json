@@ -1,6 +1,41 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52248",
+            "text": "【新型コロナ】八戸市で２人が感染"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52245",
+            "text": "【新型コロナ】青森市で３人が感染"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52241",
+            "text": "【新型コロナ】一関の男女５人感染　岩手県内"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52226",
+            "text": "【新型コロナ】青森県総合健診センター職員１人が感染"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52206",
+            "text": "【新型コロナ】弘前飲食店大規模クラスター、県が対応検証／初動甘さ否定せず"
+      },
+      {
+            "date": "2020\/12\/24",
+            "url": "https://www.daily-tohoku.news/archives/52199",
+            "text": "【新型コロナ】八戸で新たに４人感染、全員軽症／県内累計４０７人に"
+      },
+      {
+            "date": "2020\/12\/24",
+            "url": "https://www.daily-tohoku.news/archives/52196",
+            "text": "【新型コロナ】岩手で新たに５人感染、２人死亡／感染者の勤務先名公表"
+      },
+      {
             "date": "2020\/12\/24",
             "url": "https://www.daily-tohoku.news/archives/52086",
             "text": "【新型コロナ】陰性後、健康観察中の濃厚接触者　死後に陽性判明／青森市"
@@ -69,21 +104,6 @@
             "date": "2020\/12\/22",
             "url": "https://www.daily-tohoku.news/archives/51961",
             "text": "【速報】岩手で新たに５人コロナ感染確認、２人死亡"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/51954",
-            "text": "【新型コロナ】青森市で４人感染　県内３９５人に"
-      },
-      {
-            "date": "2020\/12\/21",
-            "url": "https://www.daily-tohoku.news/archives/51928",
-            "text": "【新型コロナ】弘前管内で５０代女性１人感染"
-      },
-      {
-            "date": "2020\/12\/21",
-            "url": "https://www.daily-tohoku.news/archives/51927",
-            "text": "【新型コロナ】雫石の女児１人感染　病院クラスター関連／岩手県"
       }
     ]
 }
