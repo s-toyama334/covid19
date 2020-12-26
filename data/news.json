@@ -1,6 +1,56 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/27",
+            "url": "https://www.daily-tohoku.news/archives/52370",
+            "text": "コロナ影響、帰省本格化も人まばら／八戸駅"
+      },
+      {
+            "date": "2020\/12\/26",
+            "url": "https://www.daily-tohoku.news/archives/52363",
+            "text": "【新型コロナ】青森県内で新たに８人感染　うち八戸は男女２人"
+      },
+      {
+            "date": "2020\/12\/26",
+            "url": "https://www.daily-tohoku.news/archives/52362",
+            "text": "【新型コロナ】岩手で新たに１０人感染　クラスター関連は計８人"
+      },
+      {
+            "date": "2020\/12\/26",
+            "url": "https://www.daily-tohoku.news/archives/52344",
+            "text": "【速報】八戸の２人は感染患者の同居人など／新型コロナ"
+      },
+      {
+            "date": "2020\/12\/26",
+            "url": "https://www.daily-tohoku.news/archives/52342",
+            "text": "【速報】八戸市など青森県内で８人がコロナ感染、１人死亡"
+      },
+      {
+            "date": "2020\/12\/26",
+            "url": "https://www.daily-tohoku.news/archives/52324",
+            "text": "【速報】岩手で新たに１０人がコロナ感染"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52288",
+            "text": "【新型コロナ】青森県内で７人感染　累計４１４人に"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52282",
+            "text": "【新型コロナ】一関で飲食店クラスター　岩手県内５人感染"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52251",
+            "text": "【新型コロナ】上十三と弘前でさらに２人感染　２５日は計７人に"
+      },
+      {
+            "date": "2020\/12\/25",
+            "url": "https://www.daily-tohoku.news/archives/52251",
+            "text": "【新型コロナ】上十三と弘前でさらに２人感染　２５日は計７人に"
+      },
+      {
             "date": "2020\/12\/25",
             "url": "https://www.daily-tohoku.news/archives/52248",
             "text": "【新型コロナ】八戸市で２人が感染"
@@ -59,51 +109,6 @@
             "date": "2020\/12\/23",
             "url": "https://www.daily-tohoku.news/archives/52063",
             "text": "【新型コロナ】ＲＦＳ東京事務所の社員が感染　むつとの往来なし"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52055",
-            "text": "【新型コロナ】八戸の３人は２２日判明の女性の職場同僚など"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52045",
-            "text": "【新型コロナ】八戸市など７人感染　青森県内累計４００人超え"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52036",
-            "text": "【新型コロナ】新たに盛岡の女性２人感染"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/52007",
-            "text": "【新型コロナ】八戸の１人、青森の４人が感染"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/52004",
-            "text": "【新型コロナ】岩手で２人死亡、新たに５人感染"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/52002",
-            "text": "コロナ休業者支援　青森県「副業・兼業サイト」を開設"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/51977",
-            "text": "【速報】八戸のコロナ感染者は６０代女性　感染経路は不明"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/51970",
-            "text": "【速報】八戸市で１人コロナ感染　２２日は県内計５人に"
-      },
-      {
-            "date": "2020\/12\/22",
-            "url": "https://www.daily-tohoku.news/archives/51961",
-            "text": "【速報】岩手で新たに５人コロナ感染確認、２人死亡"
       }
     ]
 }
