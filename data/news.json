@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/12\/27",
+            "url": "https://www.daily-tohoku.news/archives/52432",
+            "text": "【新型コロナ】青森県内で新たに６人感染　八戸市は関東在住の女性１人"
+      },
+      {
+            "date": "2020\/12\/27",
+            "url": "https://www.daily-tohoku.news/archives/52429",
+            "text": "【新型コロナ】岩手で新たに男性９人感染　クラスター発生飲食店の関連６人"
+      },
+      {
+            "date": "2020\/12\/27",
             "url": "https://www.daily-tohoku.news/archives/52370",
             "text": "コロナ影響、帰省本格化も人まばら／八戸駅"
       },
@@ -79,36 +89,6 @@
             "date": "2020\/12\/24",
             "url": "https://www.daily-tohoku.news/archives/52199",
             "text": "【新型コロナ】八戸で新たに４人感染、全員軽症／県内累計４０７人に"
-      },
-      {
-            "date": "2020\/12\/24",
-            "url": "https://www.daily-tohoku.news/archives/52196",
-            "text": "【新型コロナ】岩手で新たに５人感染、２人死亡／感染者の勤務先名公表"
-      },
-      {
-            "date": "2020\/12\/24",
-            "url": "https://www.daily-tohoku.news/archives/52086",
-            "text": "【新型コロナ】陰性後、健康観察中の濃厚接触者　死後に陽性判明／青森市"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52085",
-            "text": "【新型コロナ】八戸で新たに３人感染、２２日感染判明者の同僚など／いずれも性別公表せず"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52081",
-            "text": "【新型コロナ】新たに盛岡の女性２人感染　１人はクラスター発生病院の看護師"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52072",
-            "text": "【新型コロナ】米軍三沢の基地関係者１人感染"
-      },
-      {
-            "date": "2020\/12\/23",
-            "url": "https://www.daily-tohoku.news/archives/52063",
-            "text": "【新型コロナ】ＲＦＳ東京事務所の社員が感染　むつとの往来なし"
       }
     ]
 }
