@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/28",
+            "url": "https://www.daily-tohoku.news/archives/52468",
+            "text": "【新型コロナ】岩手で新たに７人感染"
+      },
+      {
             "date": "2020\/12\/27",
             "url": "https://www.daily-tohoku.news/archives/52432",
             "text": "【新型コロナ】青森県内で新たに６人感染　八戸市は関東在住の女性１人"
