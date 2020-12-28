@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2020\/12\/28",
+            "url": "https://www.daily-tohoku.news/archives/52483",
+            "text": "【新型コロナ】八戸の１人は７０代男性で感染経路不明"
+      },
+      {
+            "date": "2020\/12\/28",
+            "url": "https://www.daily-tohoku.news/archives/52475",
+            "text": "【新型コロナ】弘前管内で学校クラスター発生"
+      },
+      {
+            "date": "2020\/12\/28",
+            "url": "https://www.daily-tohoku.news/archives/52473",
+            "text": "【新型コロナ】八戸市など青森県内１０人感染"
+      },
+      {
+            "date": "2020\/12\/28",
             "url": "https://www.daily-tohoku.news/archives/52468",
             "text": "【新型コロナ】岩手で新たに７人感染"
       },
@@ -69,31 +84,6 @@
             "date": "2020\/12\/25",
             "url": "https://www.daily-tohoku.news/archives/52248",
             "text": "【新型コロナ】八戸市で２人が感染"
-      },
-      {
-            "date": "2020\/12\/25",
-            "url": "https://www.daily-tohoku.news/archives/52245",
-            "text": "【新型コロナ】青森市で３人が感染"
-      },
-      {
-            "date": "2020\/12\/25",
-            "url": "https://www.daily-tohoku.news/archives/52241",
-            "text": "【新型コロナ】一関の男女５人感染　岩手県内"
-      },
-      {
-            "date": "2020\/12\/25",
-            "url": "https://www.daily-tohoku.news/archives/52226",
-            "text": "【新型コロナ】青森県総合健診センター職員１人が感染"
-      },
-      {
-            "date": "2020\/12\/25",
-            "url": "https://www.daily-tohoku.news/archives/52206",
-            "text": "【新型コロナ】弘前飲食店大規模クラスター、県が対応検証／初動甘さ否定せず"
-      },
-      {
-            "date": "2020\/12\/24",
-            "url": "https://www.daily-tohoku.news/archives/52199",
-            "text": "【新型コロナ】八戸で新たに４人感染、全員軽症／県内累計４０７人に"
       }
     ]
 }
