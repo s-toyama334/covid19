@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/30",
+            "url": "https://www.daily-tohoku.news/archives/52637",
+            "text": "【新型コロナ】八戸の３人は２８日判明の男性の同居人"
+      },
+      {
+            "date": "2020\/12\/30",
+            "url": "https://www.daily-tohoku.news/archives/52631",
+            "text": "【新型コロナ】八戸市３人、青森市３人が感染"
+      },
+      {
+            "date": "2020\/12\/30",
+            "url": "https://www.daily-tohoku.news/archives/52623",
+            "text": "【新型コロナ】盛岡などで新たに２人感染、１人死亡／岩手"
+      },
+      {
             "date": "2020\/12\/29",
             "url": "https://www.daily-tohoku.news/archives/52512",
             "text": "【新型コロナ】弘前管内の高校でクラスター　八戸の１人含む計１０人感染"
@@ -64,21 +79,6 @@
             "date": "2020\/12\/26",
             "url": "https://www.daily-tohoku.news/archives/52344",
             "text": "【速報】八戸の２人は感染患者の同居人など／新型コロナ"
-      },
-      {
-            "date": "2020\/12\/26",
-            "url": "https://www.daily-tohoku.news/archives/52342",
-            "text": "【速報】八戸市など青森県内で８人がコロナ感染、１人死亡"
-      },
-      {
-            "date": "2020\/12\/26",
-            "url": "https://www.daily-tohoku.news/archives/52324",
-            "text": "【速報】岩手で新たに１０人がコロナ感染"
-      },
-      {
-            "date": "2020\/12\/25",
-            "url": "https://www.daily-tohoku.news/archives/52288",
-            "text": "【新型コロナ】青森県内で７人感染　累計４１４人に"
       }
     ]
 }
