@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2020\/12\/31",
+            "url": "https://www.daily-tohoku.news/archives/52663",
+            "text": "２０年北奥羽地方経済、コロナで大打撃／観光、飲食業界は苦境続く"
+      },
+      {
+            "date": "2020\/12\/30",
+            "url": "https://www.daily-tohoku.news/archives/52654",
+            "text": "【新型コロナ】新たに八戸３人、青森３人が感染／県内累計４５９人に"
+      },
+      {
             "date": "2020\/12\/30",
             "url": "https://www.daily-tohoku.news/archives/52637",
             "text": "【新型コロナ】八戸の３人は２８日判明の男性の同居人"
@@ -59,26 +69,6 @@
             "date": "2020\/12\/27",
             "url": "https://www.daily-tohoku.news/archives/52429",
             "text": "【新型コロナ】岩手で新たに男性９人感染　クラスター発生飲食店の関連６人"
-      },
-      {
-            "date": "2020\/12\/27",
-            "url": "https://www.daily-tohoku.news/archives/52370",
-            "text": "コロナ影響、帰省本格化も人まばら／八戸駅"
-      },
-      {
-            "date": "2020\/12\/26",
-            "url": "https://www.daily-tohoku.news/archives/52363",
-            "text": "【新型コロナ】青森県内で新たに８人感染　うち八戸は男女２人"
-      },
-      {
-            "date": "2020\/12\/26",
-            "url": "https://www.daily-tohoku.news/archives/52362",
-            "text": "【新型コロナ】岩手で新たに１０人感染　クラスター関連は計８人"
-      },
-      {
-            "date": "2020\/12\/26",
-            "url": "https://www.daily-tohoku.news/archives/52344",
-            "text": "【速報】八戸の２人は感染患者の同居人など／新型コロナ"
       }
     ]
 }
