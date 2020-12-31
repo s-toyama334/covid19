@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2020\/12\/31",
+            "url": "https://www.daily-tohoku.news/archives/52724",
+            "text": "【新型コロナ】青森県内で２３人感染　弘前管内の学校クラスター拡大"
+      },
+      {
+            "date": "2020\/12\/31",
+            "url": "https://www.daily-tohoku.news/archives/52723",
+            "text": "【新型コロナ】盛岡、釜石両市で計３人感染"
+      },
+      {
+            "date": "2020\/12\/31",
             "url": "https://www.daily-tohoku.news/archives/52691",
             "text": "【新型コロナ】盛岡、釜石両市で３人感染"
       },
