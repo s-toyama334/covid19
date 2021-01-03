@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52872",
+            "text": "【新型コロナ】八戸市、弘前管内でさらに２人感染"
+      },
+      {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52863",
+            "text": "【新型コロナ】釜石市などの男女３人感染"
+      },
+      {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52858",
+            "text": "【新型コロナ】青森県、三沢の２店舗を公表"
+      },
+      {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52856",
+            "text": "【速報】上十三、三戸などで８人コロナ感染／青森県内"
+      },
+      {
             "date": "2021\/01\/02",
             "url": "https://www.daily-tohoku.news/archives/52831",
             "text": "【新型コロナ】岩手で２人感染　累計３９１人に"
@@ -69,31 +89,6 @@
             "date": "2020\/12\/29",
             "url": "https://www.daily-tohoku.news/archives/52512",
             "text": "【新型コロナ】弘前管内の高校でクラスター　八戸の１人含む計１０人感染"
-      },
-      {
-            "date": "2020\/12\/29",
-            "url": "https://www.daily-tohoku.news/archives/52510",
-            "text": "【新型コロナ】岩手で新たに７人　累計３７９人に"
-      },
-      {
-            "date": "2020\/12\/28",
-            "url": "https://www.daily-tohoku.news/archives/52496",
-            "text": "弘前商議所の清藤会頭が死去　コロナ感染、入院中"
-      },
-      {
-            "date": "2020\/12\/28",
-            "url": "https://www.daily-tohoku.news/archives/52483",
-            "text": "【新型コロナ】八戸の１人は７０代男性で感染経路不明"
-      },
-      {
-            "date": "2020\/12\/28",
-            "url": "https://www.daily-tohoku.news/archives/52475",
-            "text": "【新型コロナ】弘前管内で学校クラスター発生"
-      },
-      {
-            "date": "2020\/12\/28",
-            "url": "https://www.daily-tohoku.news/archives/52473",
-            "text": "【新型コロナ】八戸市など青森県内１０人感染"
       }
     ]
 }
