@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/02",
+            "url": "https://www.daily-tohoku.news/archives/52831",
+            "text": "【新型コロナ】岩手で２人感染　累計３９１人に"
+      },
+      {
+            "date": "2021\/01\/02",
+            "url": "https://www.daily-tohoku.news/archives/52826",
+            "text": "【新型コロナ】弘前管内の学校クラスター、計５１人に拡大"
+      },
+      {
+            "date": "2021\/01\/02",
+            "url": "https://www.daily-tohoku.news/archives/52805",
+            "text": "【速報】弘前管内で４人コロナ感染"
+      },
+      {
+            "date": "2021\/01\/01",
+            "url": "https://www.daily-tohoku.news/archives/52758",
+            "text": "【速報】八戸市、弘前管内で計１０人コロナ感染"
+      },
+      {
             "date": "2020\/12\/31",
             "url": "https://www.daily-tohoku.news/archives/52724",
             "text": "【新型コロナ】青森県内で２３人感染　弘前管内の学校クラスター拡大"
@@ -74,21 +94,6 @@
             "date": "2020\/12\/28",
             "url": "https://www.daily-tohoku.news/archives/52473",
             "text": "【新型コロナ】八戸市など青森県内１０人感染"
-      },
-      {
-            "date": "2020\/12\/28",
-            "url": "https://www.daily-tohoku.news/archives/52468",
-            "text": "【新型コロナ】岩手で新たに７人感染"
-      },
-      {
-            "date": "2020\/12\/27",
-            "url": "https://www.daily-tohoku.news/archives/52432",
-            "text": "【新型コロナ】青森県内で新たに６人感染　八戸市は関東在住の女性１人"
-      },
-      {
-            "date": "2020\/12\/27",
-            "url": "https://www.daily-tohoku.news/archives/52429",
-            "text": "【新型コロナ】岩手で新たに男性９人感染　クラスター発生飲食店の関連６人"
       }
     ]
 }
