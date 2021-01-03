@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/04",
+            "url": "https://www.daily-tohoku.news/archives/52883",
+            "text": "【新型コロナ】年末年始の動きまとめ／青森県内"
+      },
+      {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52905",
+            "text": "【新型コロナ】三沢の飲食店従業員５人感染　青森県、店舗名公表"
+      },
+      {
+            "date": "2021\/01\/03",
+            "url": "https://www.daily-tohoku.news/archives/52903",
+            "text": "【新型コロナ】岩手で新たに３人感染"
+      },
+      {
             "date": "2021\/01\/03",
             "url": "https://www.daily-tohoku.news/archives/52872",
             "text": "【新型コロナ】八戸市、弘前管内でさらに２人感染"
