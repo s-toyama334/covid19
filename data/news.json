@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/01\/05",
+            "url": "https://www.daily-tohoku.news/archives/53021",
+            "text": "【新型コロナ】青森県内で７人が感染"
+      },
+      {
+            "date": "2021\/01\/05",
+            "url": "https://www.daily-tohoku.news/archives/53016",
+            "text": "【新型コロナ】岩手で新たに６人感染"
+      },
+      {
+            "date": "2021\/01\/05",
             "url": "https://www.daily-tohoku.news/archives/52980",
             "text": "【新型コロナ】青森県立学校、１月１７日まで部活動の対外試合など禁止／学校クラスター発生受け"
       },
@@ -69,36 +79,6 @@
             "date": "2021\/01\/02",
             "url": "https://www.daily-tohoku.news/archives/52826",
             "text": "【新型コロナ】弘前管内の学校クラスター、計５１人に拡大"
-      },
-      {
-            "date": "2021\/01\/02",
-            "url": "https://www.daily-tohoku.news/archives/52805",
-            "text": "【速報】弘前管内で４人コロナ感染"
-      },
-      {
-            "date": "2021\/01\/01",
-            "url": "https://www.daily-tohoku.news/archives/52758",
-            "text": "【速報】八戸市、弘前管内で計１０人コロナ感染"
-      },
-      {
-            "date": "2020\/12\/31",
-            "url": "https://www.daily-tohoku.news/archives/52724",
-            "text": "【新型コロナ】青森県内で２３人感染　弘前管内の学校クラスター拡大"
-      },
-      {
-            "date": "2020\/12\/31",
-            "url": "https://www.daily-tohoku.news/archives/52723",
-            "text": "【新型コロナ】盛岡、釜石両市で計３人感染"
-      },
-      {
-            "date": "2020\/12\/31",
-            "url": "https://www.daily-tohoku.news/archives/52691",
-            "text": "【新型コロナ】盛岡、釜石両市で３人感染"
-      },
-      {
-            "date": "2020\/12\/31",
-            "url": "https://www.daily-tohoku.news/archives/52684",
-            "text": "【新型コロナ】東京、初の感染者千人台"
       }
     ]
 }
