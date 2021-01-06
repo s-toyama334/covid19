@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/06",
+            "url": "https://www.daily-tohoku.news/archives/53091",
+            "text": "【新型コロナ】青森県内で新たに１４人感染"
+      },
+      {
+            "date": "2021\/01\/06",
+            "url": "https://www.daily-tohoku.news/archives/53081",
+            "text": "【新型コロナ】新たに盛岡の男性２人感染"
+      },
+      {
+            "date": "2021\/01\/06",
+            "url": "https://www.daily-tohoku.news/archives/53077",
+            "text": "【新型コロナ】三沢市職員が感染　感染経路不明"
+      },
+      {
             "date": "2021\/01\/05",
             "url": "https://www.daily-tohoku.news/archives/53048",
             "text": "【新型コロナ】青森県内で新たに７人が感染　学校クラスターの検査ほぼ終了"
@@ -59,31 +74,6 @@
             "date": "2021\/01\/03",
             "url": "https://www.daily-tohoku.news/archives/52872",
             "text": "【新型コロナ】八戸市、弘前管内でさらに２人感染"
-      },
-      {
-            "date": "2021\/01\/03",
-            "url": "https://www.daily-tohoku.news/archives/52863",
-            "text": "【新型コロナ】釜石市などの男女３人感染"
-      },
-      {
-            "date": "2021\/01\/03",
-            "url": "https://www.daily-tohoku.news/archives/52858",
-            "text": "【新型コロナ】青森県、三沢の２店舗を公表"
-      },
-      {
-            "date": "2021\/01\/03",
-            "url": "https://www.daily-tohoku.news/archives/52856",
-            "text": "【速報】上十三、三戸などで８人コロナ感染／青森県内"
-      },
-      {
-            "date": "2021\/01\/02",
-            "url": "https://www.daily-tohoku.news/archives/52831",
-            "text": "【新型コロナ】岩手で２人感染　累計３９１人に"
-      },
-      {
-            "date": "2021\/01\/02",
-            "url": "https://www.daily-tohoku.news/archives/52826",
-            "text": "【新型コロナ】弘前管内の学校クラスター、計５１人に拡大"
       }
     ]
 }
