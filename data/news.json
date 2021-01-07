@@ -2,7 +2,17 @@
     "newsItems": [
       {
             "date": "2021\/01\/07",
-            "url": "s://www.daily-tohoku.news/archives/53191",
+            "url": "https://www.daily-tohoku.news/archives/53197",
+            "text": "【新型コロナ】菅首相が首都圏１都３県に緊急事態宣言"
+      },
+      {
+            "date": "2021\/01\/07",
+            "url": "https://www.daily-tohoku.news/archives/53196",
+            "text": "【新型コロナ】青森刑務所の男性職員が感染"
+      },
+      {
+            "date": "2021\/01\/07",
+            "url": "https://www.daily-tohoku.news/archives/53191",
             "text": "【新型コロナ】上十三、青森市、弘前管内で８人が感染"
       },
       {
