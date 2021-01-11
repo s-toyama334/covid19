@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/11",
+            "url": "https://www.daily-tohoku.news/archives/53513",
+            "text": "【新型コロナ】上十三管内など新たに計６人感染／青森県内"
+      },
+      {
+            "date": "2021\/01\/11",
+            "url": "https://www.daily-tohoku.news/archives/53509",
+            "text": "【新型コロナ】岩手で新たに３人感染"
+      },
+      {
             "date": "2021\/01\/10",
             "url": "https://www.daily-tohoku.news/archives/53443",
             "text": "【新型コロナ】八戸の２人、三沢飲食店利用者の接触者など"
@@ -84,61 +94,6 @@
             "date": "2021\/01\/08",
             "url": "https://www.daily-tohoku.news/archives/53271",
             "text": "【速報】岩手で新たに５人がコロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53223",
-            "text": "【新型コロナ】青森県内８人感染　県外関係者との接触で感染目立つ"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53221",
-            "text": "【新型コロナ】新たに盛岡、北上の男性３人感染"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53197",
-            "text": "【新型コロナ】菅首相が首都圏１都３県に緊急事態宣言"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53196",
-            "text": "【新型コロナ】青森刑務所の男性職員が感染"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53191",
-            "text": "【新型コロナ】上十三、青森市、弘前管内で８人が感染"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53186",
-            "text": "【新型コロナ】新たに盛岡と北上の男性３人感染　岩手県"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53184",
-            "text": "【新型コロナ】原燃役員が感染"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53177",
-            "text": "【新型コロナ】東京の感染者、初の２千人台"
-      },
-      {
-            "date": "2021\/01\/07",
-            "url": "https://www.daily-tohoku.news/archives/53155",
-            "text": "【新型コロナ】空自三沢隊員が感染"
-      },
-      {
-            "date": "2021\/01\/06",
-            "url": "https://www.daily-tohoku.news/archives/53091",
-            "text": "【新型コロナ】青森県内で新たに１４人感染"
-      },
-      {
-            "date": "2021\/01\/06",
-            "url": "https://www.daily-tohoku.news/archives/53081",
-            "text": "【新型コロナ】新たに盛岡の男性２人感染"
       }
     ]
 }
