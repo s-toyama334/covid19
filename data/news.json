@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/13",
+            "url": "https://www.daily-tohoku.news/archives/53646",
+            "text": "【新型コロナ】八戸、上十三で計２人確認　八戸の感染者は再検査で判明"
+      },
+      {
+            "date": "2021\/01\/12",
+            "url": "https://www.daily-tohoku.news/archives/53644",
+            "text": "【新型コロナ】二戸管内で２人感染　岩手県内累計４３４人に"
+      },
+      {
+            "date": "2021\/01\/12",
+            "url": "https://www.daily-tohoku.news/archives/53619",
+            "text": "コロナ感染の警官側は請求棄却求め争う　十和田２飲食店休業の損害賠償訴訟"
+      },
+      {
             "date": "2021\/01\/11",
             "url": "https://www.daily-tohoku.news/archives/53513",
             "text": "【新型コロナ】上十三管内など新たに計６人感染／青森県内"
@@ -69,31 +84,6 @@
             "date": "2021\/01\/08",
             "url": "https://www.daily-tohoku.news/archives/53318",
             "text": "【新型コロナ】八戸で新たに４人感染　県内は計９人"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53290",
-            "text": "【新型コロナ】岩手県が１都３県との往来自粛を要請"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53285",
-            "text": "【新型コロナ】青森県が１都３県との往来自粛を要請"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53283",
-            "text": "【新型コロナ】青い森信金の職員１人が感染"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53276",
-            "text": "【速報】青森県内で新たに９人がコロナ感染"
-      },
-      {
-            "date": "2021\/01\/08",
-            "url": "https://www.daily-tohoku.news/archives/53271",
-            "text": "【速報】岩手で新たに５人がコロナ感染、１人死亡"
       }
     ]
 }
