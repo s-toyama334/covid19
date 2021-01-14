@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53814",
+            "text": "【新型コロナ】青森市の高校でクラスター　部活動で感染拡大か"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53812",
+            "text": "【新型コロナ】洋野の女性含む５人感染　岩手県内累計４４９人"
+      },
+      {
+            "date": "2021\/01\/14",
+            "url": "https://www.daily-tohoku.news/archives/53803",
+            "text": "【新型コロナ】米軍三沢の基地関係者１人陽性"
+      },
+      {
             "date": "2021\/01\/14",
             "url": "https://www.daily-tohoku.news/archives/53782",
             "text": "【新型コロナ】青森県で２５人感染"
@@ -69,31 +84,6 @@
             "date": "2021\/01\/10",
             "url": "https://www.daily-tohoku.news/archives/53434",
             "text": "【新型コロナ】八戸市で２人感染"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53430",
-            "text": "【新型コロナ】一戸と久慈で計４人感染"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53412",
-            "text": "【新型コロナ】三沢市内２飲食店名公表から１週間／市民に不安広がる"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53397",
-            "text": "【新型コロナ】青森県内で新たに５人感染　上十三管内は２人"
-      },
-      {
-            "date": "2021\/01\/09",
-            "url": "https://www.daily-tohoku.news/archives/53383",
-            "text": "【新型コロナ】空自三沢の隊員感染"
-      },
-      {
-            "date": "2021\/01\/09",
-            "url": "https://www.daily-tohoku.news/archives/53373",
-            "text": "【新型コロナ】一戸の５０代男性が感染、感染経路不明／県内で新たに７人判明"
       }
     ]
 }
