@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53854",
+            "text": "【新型コロナ】八戸市、青森市などで新たに計１５人が感染"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53848",
+            "text": "【新型コロナ】岩手で新たに５人感染"
+      },
+      {
+            "date": "2021\/01\/15",
             "url": "https://www.daily-tohoku.news/archives/53814",
             "text": "【新型コロナ】青森市の高校でクラスター　部活動で感染拡大か"
       },
