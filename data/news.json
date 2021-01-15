@@ -2,6 +2,31 @@
     "newsItems": [
       {
             "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53890",
+            "text": "【新型コロナ】八戸、三戸地方など県内１５人感染　青森の高校クラスター関連３４人に　"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53888",
+            "text": "【新型コロナ】ヴァンラーレ２０代選手１人感染"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53887",
+            "text": "【新型コロナ】盛岡、滝沢、花巻、北上の４市で男女５人感染"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53886",
+            "text": "【新型コロナ】米軍三沢基地で２人感染　飲食店クラスター関連"
+      },
+      {
+            "date": "2021\/01\/15",
+            "url": "https://www.daily-tohoku.news/archives/53884",
+            "text": "【新型コロナ】青森大の学生１人が感染"
+      },
+      {
+            "date": "2021\/01\/15",
             "url": "https://www.daily-tohoku.news/archives/53854",
             "text": "【新型コロナ】八戸市、青森市などで新たに計１５人が感染"
       },
@@ -64,36 +89,6 @@
             "date": "2021\/01\/12",
             "url": "https://www.daily-tohoku.news/archives/53644",
             "text": "【新型コロナ】二戸管内で２人感染　岩手県内累計４３４人に"
-      },
-      {
-            "date": "2021\/01\/12",
-            "url": "https://www.daily-tohoku.news/archives/53619",
-            "text": "コロナ感染の警官側は請求棄却求め争う　十和田２飲食店休業の損害賠償訴訟"
-      },
-      {
-            "date": "2021\/01\/11",
-            "url": "https://www.daily-tohoku.news/archives/53513",
-            "text": "【新型コロナ】上十三管内など新たに計６人感染／青森県内"
-      },
-      {
-            "date": "2021\/01\/11",
-            "url": "https://www.daily-tohoku.news/archives/53509",
-            "text": "【新型コロナ】岩手で新たに３人感染"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53443",
-            "text": "【新型コロナ】八戸の２人、三沢飲食店利用者の接触者など"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53435",
-            "text": "【新型コロナ】岩手県北の４人、感染判明者の同居人や濃厚接触者"
-      },
-      {
-            "date": "2021\/01\/10",
-            "url": "https://www.daily-tohoku.news/archives/53434",
-            "text": "【新型コロナ】八戸市で２人感染"
       }
     ]
 }
