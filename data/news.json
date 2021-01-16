@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/16",
+            "url": "https://www.daily-tohoku.news/archives/53968",
+            "text": "【新型コロナ】青森市の高校　地域スポーツで新たなクラスター発生"
+      },
+      {
+            "date": "2021\/01\/16",
+            "url": "https://www.daily-tohoku.news/archives/53942",
+            "text": "【速報】八戸の女性はコロナ感染経路不明"
+      },
+      {
+            "date": "2021\/01\/16",
+            "url": "https://www.daily-tohoku.news/archives/53938",
+            "text": "【速報】青森県内でさらに７人がコロナ感染　１６日は計１３人"
+      },
+      {
+            "date": "2021\/01\/16",
+            "url": "https://www.daily-tohoku.news/archives/53935",
+            "text": "【速報】青森市で６人コロナ感染　新たなクラスター"
+      },
+      {
+            "date": "2021\/01\/16",
+            "url": "https://www.daily-tohoku.news/archives/53925",
+            "text": "【速報】岩手で新たに３人コロナ感染"
+      },
+      {
             "date": "2021\/01\/15",
             "url": "https://www.daily-tohoku.news/archives/53890",
             "text": "【新型コロナ】八戸、三戸地方など県内１５人感染　青森の高校クラスター関連３４人に　"
@@ -64,31 +89,6 @@
             "date": "2021\/01\/14",
             "url": "https://www.daily-tohoku.news/archives/53734",
             "text": "【新型コロナ】むつ市長「誹謗中傷やめて」　管内初の感染受け訴え"
-      },
-      {
-            "date": "2021\/01\/13",
-            "url": "https://www.daily-tohoku.news/archives/53733",
-            "text": "【新型コロナ】むつ管内で初確認／県外在住の３０代男性　県内新規感染は１３人"
-      },
-      {
-            "date": "2021\/01\/13",
-            "url": "https://www.daily-tohoku.news/archives/53681",
-            "text": "【新型コロナ】むつ管内で初の感染確認　青森県内新たに１３人"
-      },
-      {
-            "date": "2021\/01\/13",
-            "url": "https://www.daily-tohoku.news/archives/53677",
-            "text": "【速報】岩手で新たに１０人がコロナ感染"
-      },
-      {
-            "date": "2021\/01\/13",
-            "url": "https://www.daily-tohoku.news/archives/53646",
-            "text": "【新型コロナ】八戸、上十三で計２人確認　八戸の感染者は再検査で判明"
-      },
-      {
-            "date": "2021\/01\/12",
-            "url": "https://www.daily-tohoku.news/archives/53644",
-            "text": "【新型コロナ】二戸管内で２人感染　岩手県内累計４３４人に"
       }
     ]
 }
