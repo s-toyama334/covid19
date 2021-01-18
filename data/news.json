@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/18",
+            "url": "https://www.daily-tohoku.news/archives/54135",
+            "text": "八戸えんぶり全行事中止　コロナ拡大受け苦渋の決断　"
+      },
+      {
+            "date": "2021\/01\/18",
+            "url": "https://www.daily-tohoku.news/archives/54134",
+            "text": "【新型コロナ】五所川原管内で１人感染　葬祭行事でクラスター発生"
+      },
+      {
+            "date": "2021\/01\/18",
+            "url": "https://www.daily-tohoku.news/archives/54132",
+            "text": "【新型コロナ】岩手で新たに４人感染　累計４７１人に"
+      },
+      {
             "date": "2021\/01\/17",
             "url": "https://www.daily-tohoku.news/archives/54045",
             "text": "【新型コロナ】盛岡、花巻で計１０人が感染／花巻の大学でクラスター"
@@ -44,61 +59,6 @@
             "date": "2021\/01\/15",
             "url": "https://www.daily-tohoku.news/archives/53888",
             "text": "【新型コロナ】ヴァンラーレ２０代選手１人感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53887",
-            "text": "【新型コロナ】盛岡、滝沢、花巻、北上の４市で男女５人感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53886",
-            "text": "【新型コロナ】米軍三沢基地で２人感染　飲食店クラスター関連"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53884",
-            "text": "【新型コロナ】青森大の学生１人が感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53854",
-            "text": "【新型コロナ】八戸市、青森市などで新たに計１５人が感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53848",
-            "text": "【新型コロナ】岩手で新たに５人感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53814",
-            "text": "【新型コロナ】青森市の高校でクラスター　部活動で感染拡大か"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53812",
-            "text": "【新型コロナ】洋野の女性含む５人感染　岩手県内累計４４９人"
-      },
-      {
-            "date": "2021\/01\/14",
-            "url": "https://www.daily-tohoku.news/archives/53803",
-            "text": "【新型コロナ】米軍三沢の基地関係者１人陽性"
-      },
-      {
-            "date": "2021\/01\/14",
-            "url": "https://www.daily-tohoku.news/archives/53782",
-            "text": "【新型コロナ】青森県で２５人感染"
-      },
-      {
-            "date": "2021\/01\/14",
-            "url": "https://www.daily-tohoku.news/archives/53770",
-            "text": "【新型コロナ】洋野の女性含む５人感染　岩手"
-      },
-      {
-            "date": "2021\/01\/14",
-            "url": "https://www.daily-tohoku.news/archives/53734",
-            "text": "【新型コロナ】むつ市長「誹謗中傷やめて」　管内初の感染受け訴え"
       }
     ]
 }
