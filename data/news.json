@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/19",
+            "url": "https://www.daily-tohoku.news/archives/54225",
+            "text": "【新型コロナ】青森市クラスター４９人に　新規感染は計１２人"
+      },
+      {
+            "date": "2021\/01\/19",
+            "url": "https://www.daily-tohoku.news/archives/54217",
+            "text": "【新型コロナ】岩手で新たに４人感染　１人は学生クラスター関連"
+      },
+      {
             "date": "2021\/01\/18",
             "url": "https://www.daily-tohoku.news/archives/54135",
             "text": "八戸えんぶり全行事中止　コロナ拡大受け苦渋の決断　"
@@ -34,31 +44,6 @@
             "date": "2021\/01\/16",
             "url": "https://www.daily-tohoku.news/archives/53942",
             "text": "【速報】八戸の女性はコロナ感染経路不明"
-      },
-      {
-            "date": "2021\/01\/16",
-            "url": "https://www.daily-tohoku.news/archives/53938",
-            "text": "【速報】青森県内でさらに７人がコロナ感染　１６日は計１３人"
-      },
-      {
-            "date": "2021\/01\/16",
-            "url": "https://www.daily-tohoku.news/archives/53935",
-            "text": "【速報】青森市で６人コロナ感染　新たなクラスター"
-      },
-      {
-            "date": "2021\/01\/16",
-            "url": "https://www.daily-tohoku.news/archives/53925",
-            "text": "【速報】岩手で新たに３人コロナ感染"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53890",
-            "text": "【新型コロナ】八戸、三戸地方など県内１５人感染　青森の高校クラスター関連３４人に　"
-      },
-      {
-            "date": "2021\/01\/15",
-            "url": "https://www.daily-tohoku.news/archives/53888",
-            "text": "【新型コロナ】ヴァンラーレ２０代選手１人感染"
       }
     ]
 }
