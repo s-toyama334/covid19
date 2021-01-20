@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/01\/20",
+            "url": "https://www.daily-tohoku.news/archives/54317",
+            "text": "【新型コロナ】五所川原管内の保育施設でクラスター　重症の７０代女性死亡"
+      },
+      {
+            "date": "2021\/01\/20",
+            "url": "https://www.daily-tohoku.news/archives/54310",
+            "text": "【新型コロナ】岩手で新たに８人確認　盛岡の利用店名を公表、従業員２人感染"
+      },
+      {
+            "date": "2021\/01\/20",
             "url": "https://www.daily-tohoku.news/archives/54278",
             "text": "【新型コロナ】重症の７０代女性死亡　青森県内死者９人に"
       },
@@ -39,26 +49,6 @@
             "date": "2021\/01\/18",
             "url": "https://www.daily-tohoku.news/archives/54132",
             "text": "【新型コロナ】岩手で新たに４人感染　累計４７１人に"
-      },
-      {
-            "date": "2021\/01\/17",
-            "url": "https://www.daily-tohoku.news/archives/54045",
-            "text": "【新型コロナ】盛岡、花巻で計１０人が感染／花巻の大学でクラスター"
-      },
-      {
-            "date": "2021\/01\/17",
-            "url": "https://www.daily-tohoku.news/archives/54042",
-            "text": "【新型コロナ】青森県内で新たに８人感染　青森市の学校クラスター関連は２人"
-      },
-      {
-            "date": "2021\/01\/16",
-            "url": "https://www.daily-tohoku.news/archives/53968",
-            "text": "【新型コロナ】青森市の高校　地域スポーツで新たなクラスター発生"
-      },
-      {
-            "date": "2021\/01\/16",
-            "url": "https://www.daily-tohoku.news/archives/53942",
-            "text": "【速報】八戸の女性はコロナ感染経路不明"
       }
     ]
 }
