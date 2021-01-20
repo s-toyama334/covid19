@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/01\/20",
+            "url": "https://www.daily-tohoku.news/archives/54278",
+            "text": "【新型コロナ】重症の７０代女性死亡　青森県内死者９人に"
+      },
+      {
+            "date": "2021\/01\/20",
             "url": "https://www.daily-tohoku.news/archives/54275",
             "text": "【新型コロナ】五所川原管内の保育施設でクラスター　新規感染は４人"
       },
