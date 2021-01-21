@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/22",
+            "url": "https://www.daily-tohoku.news/archives/54409",
+            "text": "【新型コロナ】八戸市民病院の医師感染、診療科外来休止　県内計６人確認　"
+      },
+      {
+            "date": "2021\/01\/21",
+            "url": "https://www.daily-tohoku.news/archives/54405",
+            "text": "【新型コロナ】盛岡滞在の１０代女性感染確認"
+      },
+      {
+            "date": "2021\/01\/21",
+            "url": "https://www.daily-tohoku.news/archives/54398",
+            "text": "コロナワクチン迅速接種へ対策室／八戸市保健所"
+      },
+      {
+            "date": "2021\/01\/21",
+            "url": "https://www.daily-tohoku.news/archives/54389",
+            "text": "【新型コロナ】米軍三沢基地関係者１人感染"
+      },
+      {
             "date": "2021\/01\/21",
             "url": "https://www.daily-tohoku.news/archives/54373",
             "text": "【新型コロナ】男性医師は内分泌糖尿病科で１８～２０日に外来診療"
@@ -44,31 +64,6 @@
             "date": "2021\/01\/20",
             "url": "https://www.daily-tohoku.news/archives/54272",
             "text": "【新型コロナ】盛岡、北上、花巻の３市で新たに８人感染"
-      },
-      {
-            "date": "2021\/01\/19",
-            "url": "https://www.daily-tohoku.news/archives/54225",
-            "text": "【新型コロナ】青森市クラスター４９人に　新規感染は計１２人"
-      },
-      {
-            "date": "2021\/01\/19",
-            "url": "https://www.daily-tohoku.news/archives/54217",
-            "text": "【新型コロナ】岩手で新たに４人感染　１人は学生クラスター関連"
-      },
-      {
-            "date": "2021\/01\/18",
-            "url": "https://www.daily-tohoku.news/archives/54135",
-            "text": "八戸えんぶり全行事中止　コロナ拡大受け苦渋の決断　"
-      },
-      {
-            "date": "2021\/01\/18",
-            "url": "https://www.daily-tohoku.news/archives/54134",
-            "text": "【新型コロナ】五所川原管内で１人感染　葬祭行事でクラスター発生"
-      },
-      {
-            "date": "2021\/01\/18",
-            "url": "https://www.daily-tohoku.news/archives/54132",
-            "text": "【新型コロナ】岩手で新たに４人感染　累計４７１人に"
       }
     ]
 }
