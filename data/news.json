@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/01\/24",
+            "url": "https://www.daily-tohoku.news/archives/54680",
+            "text": "【新型コロナ】盛岡で１人感染"
+      },
+      {
+            "date": "2021\/01\/24",
+            "url": "https://www.daily-tohoku.news/archives/54672",
+            "text": "【新型コロナ】青森県内　新規感染なし"
+      },
+      {
+            "date": "2021\/01\/24",
             "url": "https://www.daily-tohoku.news/archives/54594",
             "text": "【新型コロナ】三戸管内の介護施設でクラスター／県内新規感染は９人"
       },
