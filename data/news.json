@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/01\/28",
+            "url": "https://www.daily-tohoku.news/archives/54960",
+            "text": "【新型コロナ】米軍三沢基地で１人感染"
+      },
+      {
             "date": "2021\/01\/27",
             "url": "https://www.daily-tohoku.news/archives/54922",
             "text": "【新型コロナ】青森県内４人感染　累計６９５人に"
