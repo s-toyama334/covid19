@@ -1,5 +1,16 @@
 {
     "newsItems": [
+
+      {
+            "date": "2021\/01\/30",
+            "url": "https://www.daily-tohoku.news/archives/55190",
+            "text": "【新型コロナ】青森市の高校でクラスター　部活動に関連　青森県内９人感染"
+      },
+      {
+            "date": "2021\/01\/30",
+            "url": "https://www.daily-tohoku.news/archives/55183",
+            "text": "【新型コロナ】北上市で１人感染、岩手県内累計４９６人"
+      },
       {
             "date": "2021\/01\/29",
             "url": "https://www.daily-tohoku.news/archives/55113",
