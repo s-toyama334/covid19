@@ -1,6 +1,10 @@
 {
     "newsItems": [
-
+      {
+            "date": "2021\/01\/31",
+            "url": "https://www.daily-tohoku.news/archives/55256",
+            "text": "【新型コロナ】青森県内新たに６人感染　八戸の会員制施設でクラスター発生"
+      },
       {
             "date": "2021\/01\/30",
             "url": "https://www.daily-tohoku.news/archives/55190",
@@ -55,31 +59,6 @@
             "date": "2021\/01\/28",
             "url": "https://www.daily-tohoku.news/archives/54966",
             "text": "【新型コロナ】岩手で新たに１人死亡　新規感染はゼロ"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/54960",
-            "text": "【新型コロナ】米軍三沢基地で１人感染"
-      },
-      {
-            "date": "2021\/01\/27",
-            "url": "https://www.daily-tohoku.news/archives/54922",
-            "text": "【新型コロナ】青森県内４人感染　累計６９５人に"
-      },
-      {
-            "date": "2021\/01\/27",
-            "url": "https://www.daily-tohoku.news/archives/54915",
-            "text": "【新型コロナ】岩手で新たに６人感染　雫石・クラスター発生病院の患者４人"
-      },
-      {
-            "date": "2021\/01\/27",
-            "url": "https://www.daily-tohoku.news/archives/54895",
-            "text": "内分泌糖尿病科２９日再開／八戸市民病院　コロナ検査終了受け"
-      },
-      {
-            "date": "2021\/01\/26",
-            "url": "https://www.daily-tohoku.news/archives/54801",
-            "text": "【新型コロナ】八戸市やむつ管内などで１０人感染"
       }
     ]
 }
