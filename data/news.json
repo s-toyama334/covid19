@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/01",
+            "url": "https://www.daily-tohoku.news/archives/55285",
+            "text": "【新型コロナ】セントラルフィットネスクラブ八戸が当面臨時休業　利用者が感染"
+      },
+      {
             "date": "2021\/01\/31",
             "url": "https://www.daily-tohoku.news/archives/55256",
             "text": "【新型コロナ】青森県内新たに６人感染　八戸の会員制施設でクラスター発生"
