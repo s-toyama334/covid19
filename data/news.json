@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/03",
+            "url": "https://www.daily-tohoku.news/archives/55446",
+            "text": "【新型コロナ】八戸のスポーツ施設クラスター計１１人に"
+      },
+      {
+            "date": "2021\/02\/03",
+            "url": "https://www.daily-tohoku.news/archives/55444",
+            "text": "【新型コロナ】盛岡と宮古で新たに３人感染／岩手県内"
+      },
+      {
             "date": "2021\/02\/02",
             "url": "https://www.daily-tohoku.news/archives/55414",
             "text": "【新型コロナ】感染者の１人は三八地域の県立学校教職員"
@@ -59,31 +69,6 @@
             "date": "2021\/01\/28",
             "url": "https://www.daily-tohoku.news/archives/55015",
             "text": "【新型コロナ】青森県で感染者２人死亡　県内新規感染は八戸市、三戸管内で計４人"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/55010",
-            "text": "【新型コロナ】岩手で新たに１人死亡、死者累計２７人　新規感染発表なし"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/55011",
-            "text": "青森県内初、業務中コロナ感染で労災請求４件　介護関係者など"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/54974",
-            "text": "【新型コロナ】青森県で２人死亡"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/54972",
-            "text": "【新型コロナ】八戸市と三戸地方管内で４人感染"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/54966",
-            "text": "【新型コロナ】岩手で新たに１人死亡　新規感染はゼロ"
       }
     ]
 }
