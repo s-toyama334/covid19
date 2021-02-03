@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/04",
+            "url": "https://www.daily-tohoku.news/archives/55527",
+            "text": "【新型コロナ】迫るワクチン接種　乏しい情報、苦悩の自治体"
+      },
+      {
             "date": "2021\/02\/03",
             "url": "https://www.daily-tohoku.news/archives/55485",
             "text": "【新型コロナ】八戸市などで６人感染　青森県"
