@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/02\/05",
+            "url": "https://www.daily-tohoku.news/archives/55660",
+            "text": "【新型コロナ】八戸市と弘前管内で２人が感染"
+      },
+      {
+            "date": "2021\/02\/05",
             "url": "https://www.daily-tohoku.news/archives/55652",
             "text": "【新型コロナ】宮古と大船渡の２人感染　岩手県内"
       },
