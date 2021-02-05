@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/05",
+            "url": "https://www.daily-tohoku.news/archives/55652",
+            "text": "【新型コロナ】宮古と大船渡の２人感染　岩手県内"
+      },
+      {
             "date": "2021\/02\/04",
             "url": "https://www.daily-tohoku.news/archives/55607",
             "text": "【新型コロナ】青森県内で新たに６人感染　八戸市２人、三戸地方１人など"
@@ -54,21 +59,6 @@
             "date": "2021\/02\/01",
             "url": "https://www.daily-tohoku.news/archives/55357",
             "text": "むつ総合病院、コロナ対応病棟新設へ"
-      },
-      {
-            "date": "2021\/02\/01",
-            "url": "https://www.daily-tohoku.news/archives/55285",
-            "text": "【新型コロナ】セントラルフィットネスクラブ八戸が当面臨時休業　利用者が感染"
-      },
-      {
-            "date": "2021\/01\/31",
-            "url": "https://www.daily-tohoku.news/archives/55256",
-            "text": "【新型コロナ】青森県内新たに６人感染　八戸の会員制施設でクラスター発生"
-      },
-      {
-            "date": "2021\/01\/30",
-            "url": "https://www.daily-tohoku.news/archives/55190",
-            "text": "【新型コロナ】青森市の高校でクラスター　部活動に関連　青森県内９人感染"
       }
     ]
 }
