@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/02\/04",
+            "url": "https://www.daily-tohoku.news/archives/55607",
+            "text": "【新型コロナ】青森県内で新たに６人感染　八戸市２人、三戸地方１人など"
+      },
+      {
+            "date": "2021\/02\/04",
+            "url": "https://www.daily-tohoku.news/archives/55600",
+            "text": "【新型コロナ】岩手で４人感染、１人死亡　宮古で地域クラスター"
+      },
+      {
+            "date": "2021\/02\/04",
             "url": "https://www.daily-tohoku.news/archives/55527",
             "text": "【新型コロナ】迫るワクチン接種　乏しい情報、苦悩の自治体"
       },
@@ -59,31 +69,6 @@
             "date": "2021\/01\/30",
             "url": "https://www.daily-tohoku.news/archives/55190",
             "text": "【新型コロナ】青森市の高校でクラスター　部活動に関連　青森県内９人感染"
-      },
-      {
-            "date": "2021\/01\/30",
-            "url": "https://www.daily-tohoku.news/archives/55183",
-            "text": "【新型コロナ】北上市で１人感染、岩手県内累計４９６人"
-      },
-      {
-            "date": "2021\/01\/29",
-            "url": "https://www.daily-tohoku.news/archives/55113",
-            "text": "【新型コロナ】八戸で３人感染　県内累計７００人超"
-      },
-      {
-            "date": "2021\/01\/29",
-            "url": "https://www.daily-tohoku.news/archives/55107",
-            "text": "【新型コロナ】医療従事者向けワクチン優先接種　県内６７病院で実施へ"
-      },
-      {
-            "date": "2021\/01\/29",
-            "url": "https://www.daily-tohoku.news/archives/55087",
-            "text": "【新型コロナ】岩手の新規感染　２日連続ゼロ"
-      },
-      {
-            "date": "2021\/01\/28",
-            "url": "https://www.daily-tohoku.news/archives/55015",
-            "text": "【新型コロナ】青森県で感染者２人死亡　県内新規感染は八戸市、三戸管内で計４人"
       }
     ]
 }
