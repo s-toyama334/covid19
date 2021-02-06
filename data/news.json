@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/02\/06",
+            "url": "https://www.daily-tohoku.news/archives/55719",
+            "text": "【新型コロナ】弘前管内で２人感染　青森県"
+      },
+      {
+            "date": "2021\/02\/06",
             "url": "https://www.daily-tohoku.news/archives/55714",
             "text": "【新型コロナ】岩手で新たに２人感染　累計５１３人に"
       },
