@@ -7955,15 +7955,15 @@
     "inspection_status_summary": {
         "date": "2021\/02\/12 18:00",
         "attr": "検査実施人数（累計）",
-        "value": 15881,
+        "value": 16135,
         "children": [
             {
                 "attr": "検査実施件数（累計）",
-                "value": 15881,
+                "value": 16135,
                 "children": [
                     {
                         "attr": "陰性件数",
-                        "value": 15087
+                        "value": 15341
                     },
                     {
                         "attr": "陽性件数",
@@ -7976,7 +7976,7 @@
     "lastUpdate": "2021\/02\/12 18:00",
     "main_summary": {
         "attr": "検査実施人数",
-        "value":  15881,
+        "value":  16135,
         "children": [
             {
                 "attr": "陽性患者数",
@@ -7984,7 +7984,7 @@
                 "children": [
                     {
                         "attr": "入院中",
-                        "value": 31,
+                        "value": 55,
                         "children": [
                             {
                                 "attr": "軽症・中等症",
@@ -8002,7 +8002,7 @@
                     },
                     {
                         "attr": "死亡",
-                        "value": 15
+                        "value": 16
                     }
                 ]
             }
