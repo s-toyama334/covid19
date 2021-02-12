@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/11",
+            "url": "https://www.daily-tohoku.news/archives/56124",
+            "text": "【新型コロナ】医療従事者４人感染　黒石の病院クラスター／青森県"
+      },
+      {
+            "date": "2021\/02\/11",
+            "url": "https://www.daily-tohoku.news/archives/56099",
+            "text": "【速報】大船渡で新たに１人がコロナ感染／岩手県"
+      },
+      {
+            "date": "2021\/02\/11",
+            "url": "https://www.daily-tohoku.news/archives/56073",
+            "text": "【新型コロナ】黒石あけぼの病院でクラスター　感染拡大の恐れ、県「重大事案」と危機感"
+      },
+      {
+            "date": "2021\/02\/11",
+            "url": "https://www.daily-tohoku.news/archives/56071",
+            "text": "【新型コロナ】黒石の病院で４０人感染のクラスター　県内１日当たり過去最多"
+      },
+      {
             "date": "2021\/02\/10",
             "url": "https://www.daily-tohoku.news/archives/56030",
             "text": "【新型コロナ】黒石市の病院でクラスター"
@@ -34,36 +54,6 @@
             "date": "2021\/02\/06",
             "url": "https://www.daily-tohoku.news/archives/55714",
             "text": "【新型コロナ】岩手で新たに２人感染　累計５１３人に"
-      },
-      {
-            "date": "2021\/02\/05",
-            "url": "https://www.daily-tohoku.news/archives/55692",
-            "text": "【新型コロナ】八戸の感染者はスポーツ施設関連　県内２人感染"
-      },
-      {
-            "date": "2021\/02\/05",
-            "url": "https://www.daily-tohoku.news/archives/55652",
-            "text": "【新型コロナ】宮古と大船渡の２人感染　岩手県内"
-      },
-      {
-            "date": "2021\/02\/04",
-            "url": "https://www.daily-tohoku.news/archives/55607",
-            "text": "【新型コロナ】青森県内で新たに６人感染　八戸市２人、三戸地方１人など"
-      },
-      {
-            "date": "2021\/02\/04",
-            "url": "https://www.daily-tohoku.news/archives/55600",
-            "text": "【新型コロナ】岩手で４人感染、１人死亡　宮古で地域クラスター"
-      },
-      {
-            "date": "2021\/02\/04",
-            "url": "https://www.daily-tohoku.news/archives/55527",
-            "text": "【新型コロナ】迫るワクチン接種　乏しい情報、苦悩の自治体"
-      },
-      {
-            "date": "2021\/02\/03",
-            "url": "https://www.daily-tohoku.news/archives/55485",
-            "text": "【新型コロナ】八戸市などで６人感染　青森県"
       }
     ]
 }
