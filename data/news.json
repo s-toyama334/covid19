@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/02\/14",
+            "url": "https://www.daily-tohoku.news/archives/56325",
+            "text": "【新型コロナ】弘前管内で１人死亡、黒石の病院関連で４人感染／青森県内"
+      },
+      {
+            "date": "2021\/02\/14",
             "url": "https://www.daily-tohoku.news/archives/56323",
             "text": "【新型コロナ】大船渡で新たに１人感染／岩手県内"
       },
@@ -59,21 +64,6 @@
             "date": "2021\/02\/08",
             "url": "https://www.daily-tohoku.news/archives/55843",
             "text": "学校でのコロナ感染、どこまで公表？　東北６県で対応分かれる"
-      },
-      {
-            "date": "2021\/02\/07",
-            "url": "https://www.daily-tohoku.news/archives/55821",
-            "text": "【新型コロナ】八戸市などで４人感染　３人がスポーツ施設関連／青森県"
-      },
-      {
-            "date": "2021\/02\/06",
-            "url": "https://www.daily-tohoku.news/archives/55719",
-            "text": "【新型コロナ】弘前管内で２人感染　青森県"
-      },
-      {
-            "date": "2021\/02\/06",
-            "url": "https://www.daily-tohoku.news/archives/55714",
-            "text": "【新型コロナ】岩手で新たに２人感染　累計５１３人に"
       }
     ]
 }
