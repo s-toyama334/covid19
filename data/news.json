@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/14",
+            "url": "https://www.daily-tohoku.news/archives/56323",
+            "text": "【新型コロナ】大船渡で新たに１人感染／岩手県内"
+      },
+      {
             "date": "2021\/02\/13",
             "url": "https://www.daily-tohoku.news/archives/56244",
             "text": "【【速報】黒石の病院関連で７人コロナ陽性　感染者８００人超え"
