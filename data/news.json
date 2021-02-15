@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/15",
+            "url": "https://www.daily-tohoku.news/archives/56431",
+            "text": "【新型コロナ】１４、１５日に計５人感染　いずれも黒石の病院クラスター関連"
+      },
+      {
+            "date": "2021\/02\/15",
+            "url": "https://www.daily-tohoku.news/archives/56429",
+            "text": "【新型コロナ】大船渡で新たに男女４人感染／岩手県内"
+      },
+      {
+            "date": "2021\/02\/15",
+            "url": "https://www.daily-tohoku.news/archives/56386",
+            "text": "【速報】弘前管内で１人コロナ感染　青森県"
+      },
+      {
             "date": "2021\/02\/14",
             "url": "https://www.daily-tohoku.news/archives/56325",
             "text": "【新型コロナ】弘前管内で１人死亡、黒石の病院関連で４人感染／青森県内"
@@ -49,21 +64,6 @@
             "date": "2021\/02\/10",
             "url": "https://www.daily-tohoku.news/archives/56030",
             "text": "【新型コロナ】黒石市の病院でクラスター"
-      },
-      {
-            "date": "2021\/02\/10",
-            "url": "https://www.daily-tohoku.news/archives/56028",
-            "text": "【新型コロナ】弘前管内で４０人感染、五所川原管内で１人死亡"
-      },
-      {
-            "date": "2021\/02\/08",
-            "url": "https://www.daily-tohoku.news/archives/55872",
-            "text": "【新型コロナ】青森県内７日ぶり感染確認なし"
-      },
-      {
-            "date": "2021\/02\/08",
-            "url": "https://www.daily-tohoku.news/archives/55843",
-            "text": "学校でのコロナ感染、どこまで公表？　東北６県で対応分かれる"
       }
     ]
 }
