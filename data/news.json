@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/02\/16",
+            "url": "https://www.daily-tohoku.news/archives/56483",
+            "text": "【新型コロナ】大船渡、陸前高田、宮古３市で計６人／岩手県内"
+      },
+      {
             "date": "2021\/02\/15",
             "url": "https://www.daily-tohoku.news/archives/56431",
             "text": "【新型コロナ】１４、１５日に計５人感染　いずれも黒石の病院クラスター関連"
