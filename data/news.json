@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/02\/17",
+            "url": "https://www.daily-tohoku.news/archives/56576",
+            "text": "【新型コロナ】弘前管内で１人死亡、八戸市と弘前管内で２人感染／青森県内"
+      },
+      {
+            "date": "2021\/02\/17",
+            "url": "https://www.daily-tohoku.news/archives/56567",
+            "text": "【速報】岩手で新たに９人コロナ感染　盛岡、大船渡、宮古の３市"
+      },
+      {
+            "date": "2021\/02\/17",
             "url": "https://www.daily-tohoku.news/archives/56546",
             "text": "【新型コロナ】ワクチン国内接種開始／東京医療センター"
       },
