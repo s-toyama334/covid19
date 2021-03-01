@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/01",
+            "url": "https://www.daily-tohoku.news/archives/57507",
+            "text": "【新型コロナ】青森、岩手ともに感染確認なし"
+      },
+      {
             "date": "2021\/02\/28",
             "url": "https://www.daily-tohoku.news/archives/57433",
             "text": "【新型コロナ】青森、岩手新規感染なし"
