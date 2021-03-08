@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/08",
+            "url": "https://www.daily-tohoku.news/archives/58200",
+            "text": "【新型コロナ】３日連続新規感染ゼロ／青森県内"
+      },
+      {
             "date": "2021\/03\/07",
             "url": "https://www.daily-tohoku.news/archives/58094",
             "text": "【新型コロナ】青森県内、２日連続で新規感染者なし"
@@ -54,26 +59,6 @@
             "date": "2021\/03\/01",
             "url": "https://www.daily-tohoku.news/archives/57507",
             "text": "【新型コロナ】青森、岩手ともに感染確認なし"
-      },
-      {
-            "date": "2021\/02\/28",
-            "url": "https://www.daily-tohoku.news/archives/57433",
-            "text": "【新型コロナ】青森、岩手新規感染なし"
-      },
-      {
-            "date": "2021\/02\/27",
-            "url": "https://www.daily-tohoku.news/archives/57371",
-            "text": "【新型コロナ】宮古の男性看護師１人感染　岩手県内累計５５４人に"
-      },
-      {
-            "date": "2021\/02\/27",
-            "url": "https://www.daily-tohoku.news/archives/57362",
-            "text": "【新型コロナ】青森県内新規感染者なし"
-      },
-      {
-            "date": "2021\/02\/26",
-            "url": "https://www.daily-tohoku.news/archives/57306",
-            "text": "【新型コロナ】クラスター発生の黒石の病院職員２人感染　八戸市滞在の県外２人も"
       }
     ]
 }
