@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/03\/10",
+            "url": "ttps://www.daily-tohoku.news/archives/58403",
+            "text": "【新型コロナ】八戸市、上十三管内などで６人感染"
+      },
+      {
+            "date": "2021\/03\/10",
+            "url": "https://www.daily-tohoku.news/archives/58393",
+            "text": "【新型コロナ】東奥日報社の男性社員が感染"
+      },
+      {
+            "date": "2021\/03\/10",
             "url": "https://www.daily-tohoku.news/archives/58371",
             "text": "【新型コロナ】県総合社会教育センター１１日まで臨時休館"
       },
@@ -34,16 +44,6 @@
             "date": "2021\/03\/06",
             "url": "https://www.daily-tohoku.news/archives/57996",
             "text": "【新型コロナ】青森、岩手ともに新規感染なし"
-      },
-      {
-            "date": "2021\/03\/05",
-            "url": "https://www.daily-tohoku.news/archives/57961",
-            "text": "【新型コロナ】青森県内初の変異株　起源不明タイプ「広がりない」"
-      },
-      {
-            "date": "2021\/03\/05",
-            "url": "https://www.daily-tohoku.news/archives/57954",
-            "text": "【新型コロナ】上十三管内で２人感染、１人は関東に滞在歴／青森県"
       }
     ]
 }
