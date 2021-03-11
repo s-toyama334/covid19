@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2021\/03\/11",
+            "url": "https://www.daily-tohoku.news/archives/58517",
+            "text": "【新型コロナ】青森県内でさらに３人感染　１１日は計８人に"
+      },
+      {
+            "date": "2021\/03\/11",
+            "url": "https://www.daily-tohoku.news/archives/58513",
+            "text": "【新型コロナ】八戸で３人感染、市職員も"
+      },
+      {
+            "date": "2021\/03\/11",
+            "url": "https://www.daily-tohoku.news/archives/58506",
+            "text": "【新型コロナ】岩手で新たに２人感染"
+      },
+      {
+            "date": "2021\/03\/11",
             "url": "https://www.daily-tohoku.news/archives/58495",
             "text": "【新型コロナ】青森県立中央病院の医師２人感染"
       },
