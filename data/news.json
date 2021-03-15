@@ -1,6 +1,20 @@
 {
     "newsItems": [
-
+      {
+            "date": "2021\/03\/14",
+            "url": "https://www.daily-tohoku.news/archives/58810",
+            "text": "【新型コロナ】青森テレビで新たに１人感染"
+      },
+      {
+            "date": "2021\/03\/14",
+            "url": "https://www.daily-tohoku.news/archives/58801",
+            "text": "【速報】上十三管内などで７人コロナ感染"
+      },
+      {
+            "date": "2021\/03\/14",
+            "url": "https://www.daily-tohoku.news/archives/58794",
+            "text": "【速報】岩手で３人コロナ感染、うち２人は久慈"
+      },
       {
             "date": "2021\/03\/13",
             "url": "https://www.daily-tohoku.news/archives/58760",
@@ -75,21 +89,6 @@
             "date": "2021\/03\/11",
             "url": "https://www.daily-tohoku.news/archives/58493",
             "text": "【新型コロナ】青森市で２人感染　飲食店でクラスター発生"
-      },
-      {
-            "date": "2021\/03\/10",
-            "url": "https://www.daily-tohoku.news/archives/58403",
-            "text": "【新型コロナ】八戸市、上十三管内などで６人感染"
-      },
-      {
-            "date": "2021\/03\/10",
-            "url": "https://www.daily-tohoku.news/archives/58393",
-            "text": "【新型コロナ】東奥日報社の男性社員が感染"
-      },
-      {
-            "date": "2021\/03\/10",
-            "url": "https://www.daily-tohoku.news/archives/58371",
-            "text": "【新型コロナ】県総合社会教育センター１１日まで臨時休館"
       }
     ]
 }
