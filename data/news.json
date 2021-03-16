@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59032",
+            "text": "【新型コロナ】青森市１３人、弘前管内１人感染　新たにクラスター２件"
+      },
+      {
             "date": "2021\/03\/16",
             "url": "https://www.daily-tohoku.news/archives/58990",
             "text": "【新型コロナ】青森テレビが職場内クラスター公表"
