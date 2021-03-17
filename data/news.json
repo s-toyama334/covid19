@@ -2,6 +2,26 @@
     "newsItems": [
       {
             "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59093",
+            "text": "【新型コロナ】青森県内で新たに職場クラスター"
+      },
+      {
+            "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59092",
+            "text": "【新型コロナ】青森テレビで７人目の感染者"
+      },
+      {
+            "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59086",
+            "text": "【新型コロナ】青森県内で４人感染"
+      },
+      {
+            "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59078",
+            "text": "【新型コロナ】岩手で６人感染　久慈の３人は地域クラスター関連"
+      },
+      {
+            "date": "2021\/03\/16",
             "url": "https://www.daily-tohoku.news/archives/59032",
             "text": "【新型コロナ】青森市１３人、弘前管内１人感染　新たにクラスター２件"
       },
@@ -54,26 +74,6 @@
             "date": "2021\/03\/13",
             "url": "https://www.daily-tohoku.news/archives/58758",
             "text": "【新型コロナ】久慈で３人感染　岩手県内累計５６１人に"
-      },
-      {
-            "date": "2021\/03\/13",
-            "url": "https://www.daily-tohoku.news/archives/58738",
-            "text": "【新型コロナ】青森テレビで新たに社員２人感染"
-      },
-      {
-            "date": "2021\/03\/12",
-            "url": "https://www.daily-tohoku.news/archives/58678",
-            "text": "【新型コロナ】県内新規感染６人で八戸は２人　上十三の事業所でクラスターも"
-      },
-      {
-            "date": "2021\/03\/12",
-            "url": "https://www.daily-tohoku.news/archives/58676",
-            "text": "【新型コロナ】三沢郵便局の窓口担当が感染"
-      },
-      {
-            "date": "2021\/03\/12",
-            "url": "https://www.daily-tohoku.news/archives/58675",
-            "text": "【新型コロナ】久慈で１人感染　岩手県内累計５５８人に"
       }
     ]
 }
