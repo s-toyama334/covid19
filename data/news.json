@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/18",
+            "url": "https://www.daily-tohoku.news/archives/59146",
+            "text": "青森県内初、コロナ感染で６件労災認定"
+      },
+      {
+            "date": "2021\/03\/17",
+            "url": "https://www.daily-tohoku.news/archives/59127",
+            "text": "【新型コロナ】青森市のクラスター関連で４人感染／青森県内"
+      },
+      {
             "date": "2021\/03\/17",
             "url": "https://www.daily-tohoku.news/archives/59093",
             "text": "【新型コロナ】青森県内で新たに職場クラスター"
@@ -54,26 +64,6 @@
             "date": "2021\/03\/14",
             "url": "https://www.daily-tohoku.news/archives/58810",
             "text": "【新型コロナ】青森テレビで新たに１人感染"
-      },
-      {
-            "date": "2021\/03\/14",
-            "url": "https://www.daily-tohoku.news/archives/58801",
-            "text": "【速報】上十三管内などで７人コロナ感染"
-      },
-      {
-            "date": "2021\/03\/14",
-            "url": "https://www.daily-tohoku.news/archives/58794",
-            "text": "【速報】岩手で３人コロナ感染、うち２人は久慈"
-      },
-      {
-            "date": "2021\/03\/13",
-            "url": "https://www.daily-tohoku.news/archives/58760",
-            "text": "【新型コロナ】青森県内で８人感染　青森市飲食店クラスター関連１７人に"
-      },
-      {
-            "date": "2021\/03\/13",
-            "url": "https://www.daily-tohoku.news/archives/58758",
-            "text": "【新型コロナ】久慈で３人感染　岩手県内累計５６１人に"
       }
     ]
 }
