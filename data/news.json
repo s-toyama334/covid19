@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/03\/19",
+            "url": "https://www.daily-tohoku.news/archives/59292",
+            "text": "【新型コロナ】青森テレビで１人感染　累計１０人に"
+      },
+      {
+            "date": "2021\/03\/19",
             "url": "https://www.daily-tohoku.news/archives/59289",
             "text": "【新型コロナ】職場クラスターは朝日生命保険"
       },
