@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/03\/19",
+            "url": "https://www.daily-tohoku.news/archives/59289",
+            "text": "【新型コロナ】職場クラスターは朝日生命保険"
+      },
+      {
+            "date": "2021\/03\/19",
+            "url": "https://www.daily-tohoku.news/archives/59288",
+            "text": "【新型コロナ】八戸市などで新たに５人感染／青森県内"
+      },
+      {
+            "date": "2021\/03\/19",
             "url": "https://www.daily-tohoku.news/archives/59245",
             "text": "４都県緊急事態２１日で全面解除　コロナ変異株検査強化"
       },
@@ -59,26 +69,6 @@
             "date": "2021\/03\/17",
             "url": "https://www.daily-tohoku.news/archives/59078",
             "text": "【新型コロナ】岩手で６人感染　久慈の３人は地域クラスター関連"
-      },
-      {
-            "date": "2021\/03\/16",
-            "url": "https://www.daily-tohoku.news/archives/59032",
-            "text": "【新型コロナ】青森市１３人、弘前管内１人感染　新たにクラスター２件"
-      },
-      {
-            "date": "2021\/03\/16",
-            "url": "https://www.daily-tohoku.news/archives/58990",
-            "text": "【新型コロナ】青森テレビが職場内クラスター公表"
-      },
-      {
-            "date": "2021\/03\/16",
-            "url": "https://www.daily-tohoku.news/archives/58989",
-            "text": "【新型コロナ】青森市で二つのクラスター"
-      },
-      {
-            "date": "2021\/03\/16",
-            "url": "https://www.daily-tohoku.news/archives/58983",
-            "text": "【新型コロナ】青森市、弘前管内で計１４人感染"
       }
     ]
 }
