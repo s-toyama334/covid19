@@ -1,9 +1,14 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/25",
+            "url": "https://www.daily-tohoku.news/archives/59817",
+            "text": "【青森コロナ１年】県内初のクラスター発生施設　職員の心の傷、今も癒えず"
+      },
+      {
             "date": "2021\/03\/24",
-            "url": "https://www.daily-tohoku.news/archives/59769",
-            "text": "【新型コロナ】八戸などで新たに７人感染／青森県内"
+            "url": "https://www.daily-tohoku.news/archives/59807",
+            "text": "【新型コロナ】青森県内７人感染　八戸市では２０代男性１人"
       },
       {
             "date": "2021\/03\/24",
@@ -49,21 +54,6 @@
             "date": "2021\/03\/21",
             "url": "https://www.daily-tohoku.news/archives/59498",
             "text": "【新型コロナ】久慈など岩手で２人感染　県内累計５８７人に"
-      },
-      {
-            "date": "2021\/03\/21",
-            "url": "https://www.daily-tohoku.news/archives/59497",
-            "text": "【新型コロナ】弘前管内で１人感染　県内累計８９６人に"
-      },
-      {
-            "date": "2021\/03\/21",
-            "url": "https://www.daily-tohoku.news/archives/59458",
-            "text": "【新型コロナ】微増兆候、変異株に懸念　専門家「年末年始以上の急拡大も」"
-      },
-      {
-            "date": "2021\/03\/20",
-            "url": "https://www.daily-tohoku.news/archives/59414",
-            "text": "【新型コロナ】久慈管内などで２人感染　岩手県内累計５８５人に"
       }
     ]
 }
