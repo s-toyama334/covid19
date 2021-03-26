@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/2６",
+            "url": "https://www.daily-tohoku.news/archives/59976",
+            "text": "【新型コロナ】青森県内で８人感染　八戸市は４人"
+      },
+      {
+            "date": "2021\/03\/2６",
+            "url": "https://www.daily-tohoku.news/archives/59967",
+            "text": "【速報】盛岡と滝沢で新たに５人コロナ感染　岩手県内"
+      },
+      {
             "date": "2021\/03\/25",
             "url": "https://www.daily-tohoku.news/archives/59869",
             "text": "【新型コロナ】青森県内で１２人感染　上十三管内１人など"
@@ -29,26 +39,6 @@
             "date": "2021\/03\/24",
             "url": "https://www.daily-tohoku.news/archives/59713",
             "text": "【コロナ県内初確認１年】対策コーディネーターの大西医師に聞く"
-      },
-      {
-            "date": "2021\/03\/24",
-            "url": "https://www.daily-tohoku.news/archives/59709",
-            "text": "【新型コロナ】県内感染初確認から１年　生活一変、ワクチン見通し不透明"
-      },
-      {
-            "date": "2021\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/59708",
-            "text": "【新型コロナ】青森県内で新たに６人　累計感染者９００人超"
-      },
-      {
-            "date": "2021\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/59662",
-            "text": "【新型コロナ】紫波の男性１人感染／岩手県内"
-      },
-      {
-            "date": "2021\/03\/23",
-            "url": "https://www.daily-tohoku.news/archives/59605",
-            "text": "【新型コロナ】２１日感染判明の女性は医療従事者"
       }
     ]
 }
