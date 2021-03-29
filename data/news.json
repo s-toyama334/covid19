@@ -1,6 +1,46 @@
 {
     "newsItems": [
       {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60271",
+            "text": "【新型コロナ】青森県内１２人感染　八戸は１０代以下４人含む"
+      },
+      {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60258",
+            "text": "【新型コロナ】岩手で４人感染　盛岡市３、奥州市１"
+      },
+      {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60232",
+            "text": "【速報】青森県内で新たに１２人コロナ感染　八戸市は５人"
+      },
+      {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60227",
+            "text": "【速報】岩手で新たに４人コロナ感染　盛岡市と奥州市"
+      },
+      {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60203",
+            "text": "【コロナ初確認から１年】地域経済に暗い影　支援継続求める声"
+      },
+      {
+            "date": "2021\/03\/28",
+            "url": "https://www.daily-tohoku.news/archives/60197",
+            "text": "【新型コロナ】弘前クラスター、八戸にも波及か　遺伝子解析で判明"
+      },
+      {
+            "date": "2021\/03\/27",
+            "url": "https://www.daily-tohoku.news/archives/60101",
+            "text": "【新型コロナ】盛岡で３人感染、１人は医療従事者／岩手県内"
+      },
+      {
+            "date": "2021\/03\/27",
+            "url": "https://www.daily-tohoku.news/archives/60100",
+            "text": "【新型コロナ】青森県内で３人感染　弘前、五所川原各管内と県外"
+      },
+      {
             "date": "2021\/03\/27",
             "url": "https://www.daily-tohoku.news/archives/60090",
             "text": "【新型コロナ】青森県内で新たに３人感染"
@@ -24,16 +64,6 @@
             "date": "2021\/03\/25",
             "url": "https://www.daily-tohoku.news/archives/59869",
             "text": "【新型コロナ】青森県内で１２人感染　上十三管内１人など"
-      },
-      {
-            "date": "2021\/03\/25",
-            "url": "https://www.daily-tohoku.news/archives/59861",
-            "text": "【速報】二戸管内２人を含む５人コロナ感染　岩手県内"
-      },
-      {
-            "date": "2021\/03\/25",
-            "url": "https://www.daily-tohoku.news/archives/59817",
-            "text": "【青森コロナ１年】県内初のクラスター発生施設　職員の心の傷、今も癒えず"
       }
     ]
 }
