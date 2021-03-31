@@ -1,5 +1,21 @@
 {
     "newsItems": [
+
+      {
+            "date": "2021\/03\/31",
+            "url": "https://www.daily-tohoku.news/archives/60526",
+            "text": "【新型コロナ】青森県で過去最多の８１人感染　累計千人超え"
+      },
+      {
+            "date": "2021\/03\/31",
+            "url": "https://www.daily-tohoku.news/archives/60518",
+            "text": "【速報】盛岡など４市町で７人コロナ感染"
+      },
+      {
+            "date": "2021\/03\/31",
+            "url": "https://www.daily-tohoku.news/archives/60508",
+            "text": "【新型コロナ】青森署の男性警察官が感染"
+      },
       {
             "date": "2021\/03\/30",
             "url": "https://www.daily-tohoku.news/archives/60462",
