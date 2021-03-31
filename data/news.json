@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/03\/30",
+            "url": "https://www.daily-tohoku.news/archives/60462",
+            "text": "【新型コロナ】青森県内６人感染　弘前管内の小学校でクラスター"
+      },
+      {
+            "date": "2021\/03\/30",
+            "url": "https://www.daily-tohoku.news/archives/60461",
+            "text": "【新型コロナ】盛岡、一関、住田で５人感染　岩手県内患者累計６１４人"
+      },
+      {
+            "date": "2021\/03\/30",
             "url": "https://www.daily-tohoku.news/archives/60411",
             "text": "【新型コロナ】西北地域の県立学校教職員１人感染"
       },
@@ -54,21 +64,6 @@
             "date": "2021\/03\/28",
             "url": "https://www.daily-tohoku.news/archives/60197",
             "text": "【新型コロナ】弘前クラスター、八戸にも波及か　遺伝子解析で判明"
-      },
-      {
-            "date": "2021\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/60101",
-            "text": "【新型コロナ】盛岡で３人感染、１人は医療従事者／岩手県内"
-      },
-      {
-            "date": "2021\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/60100",
-            "text": "【新型コロナ】青森県内で３人感染　弘前、五所川原各管内と県外"
-      },
-      {
-            "date": "2021\/03\/27",
-            "url": "https://www.daily-tohoku.news/archives/60090",
-            "text": "【新型コロナ】青森県内で新たに３人感染"
       }
     ]
 }
