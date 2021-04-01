@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/60702",
+            "text": "【新型コロナ】岩手で２５人感染・盛岡の教育保育施設でクラスター"
+      },
+      {
+            "date": "2021\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/60698",
+            "text": "【新型コロナ】青森県内で８人感染　クラスターの施設は新規なし"
+      },
+      {
+            "date": "2021\/04\/01",
+            "url": "https://www.daily-tohoku.news/archives/60695",
+            "text": "青森県内企業、３割が赤字　２０年度、新型コロナの影響大きく"
+      },
+      {
             "date": "2021\/03\/31",
             "url": "https://www.daily-tohoku.news/archives/60545",
             "text": "【新型コロナ】新規クラスターは「ゆきわり会」(青森)の２施設"
@@ -54,26 +69,6 @@
             "date": "2021\/03\/30",
             "url": "https://www.daily-tohoku.news/archives/60401",
             "text": "【新型コロナ】盛岡、一関、住田で５人感染／岩手県内"
-      },
-      {
-            "date": "2021\/03\/29",
-            "url": "https://www.daily-tohoku.news/archives/60352",
-            "text": "【新型コロナ】青森市の不動産事業所でクラスター　八戸市の７人も関連"
-      },
-      {
-            "date": "2021\/03\/29",
-            "url": "https://www.daily-tohoku.news/archives/60351",
-            "text": "【新型コロナ】宮古で１人感染　岩手県内累計６０９人に"
-      },
-      {
-            "date": "2021\/03\/28",
-            "url": "https://www.daily-tohoku.news/archives/60271",
-            "text": "【新型コロナ】青森県内１２人感染　八戸は１０代以下４人含む"
-      },
-      {
-            "date": "2021\/03\/28",
-            "url": "https://www.daily-tohoku.news/archives/60258",
-            "text": "【新型コロナ】岩手で４人感染　盛岡市３、奥州市１"
       }
     ]
 }
