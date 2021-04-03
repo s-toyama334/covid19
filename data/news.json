@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/0３",
+            "url": "https://www.daily-tohoku.news/archives/60864",
+            "text": "【新型コロナ】青森県内で１２人感染　青森市で飲食店クラスター"
+      },
+      {
+            "date": "2021\/04\/0３",
+            "url": "https://www.daily-tohoku.news/archives/60862",
+            "text": "【新型コロナ】岩手で１４人感染　教育保育施設クラスターさらに５人"
+      },
+      {
+            "date": "2021\/04\/0２",
+            "url": "https://www.daily-tohoku.news/archives/60784",
+            "text": "【新型コロナ】青森県で新たに１９人感染　障害者施設クラスター計８０人に拡大"
+      },
+      {
+            "date": "2021\/04\/0２",
+            "url": "https://www.daily-tohoku.news/archives/60783",
+            "text": "【新型コロナ】岩手で２７人感染　教育保育施設クラスター、子どもに拡大"
+      },
+      {
             "date": "2021\/04\/01",
             "url": "https://www.daily-tohoku.news/archives/60702",
             "text": "【新型コロナ】岩手で２５人感染・盛岡の教育保育施設でクラスター"
@@ -54,21 +74,6 @@
             "date": "2021\/03\/30",
             "url": "https://www.daily-tohoku.news/archives/60461",
             "text": "【新型コロナ】盛岡、一関、住田で５人感染　岩手県内患者累計６１４人"
-      },
-      {
-            "date": "2021\/03\/30",
-            "url": "https://www.daily-tohoku.news/archives/60411",
-            "text": "【新型コロナ】西北地域の県立学校教職員１人感染"
-      },
-      {
-            "date": "2021\/03\/30",
-            "url": "https://www.daily-tohoku.news/archives/60407",
-            "text": "【新型コロナ】新たに６人感染／青森県内"
-      },
-      {
-            "date": "2021\/03\/30",
-            "url": "https://www.daily-tohoku.news/archives/60401",
-            "text": "【新型コロナ】盛岡、一関、住田で５人感染／岩手県内"
       }
     ]
 }
