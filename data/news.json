@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/60913",
+            "text": "【新型コロナ】三戸地方などでさらに４人感染　４日は計１０人"
+      },
+      {
+            "date": "2021\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/60905",
+            "text": "【速報】岩手で新たに１７人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/04",
+            "url": "https://www.daily-tohoku.news/archives/60896",
+            "text": "【速報】八戸市で６人コロナ感染"
+      },
+      {
             "date": "2021\/04\/0３",
             "url": "https://www.daily-tohoku.news/archives/60864",
             "text": "【新型コロナ】青森県内で１２人感染　青森市で飲食店クラスター"
@@ -49,31 +64,6 @@
             "date": "2021\/03\/31",
             "url": "https://www.daily-tohoku.news/archives/60528",
             "text": "【新型コロナ】青森市と東地方の施設でクラスター"
-      },
-      {
-            "date": "2021\/03\/31",
-            "url": "https://www.daily-tohoku.news/archives/60526",
-            "text": "【新型コロナ】青森県で過去最多の８１人感染　累計千人超え"
-      },
-      {
-            "date": "2021\/03\/31",
-            "url": "https://www.daily-tohoku.news/archives/60518",
-            "text": "【速報】盛岡など４市町で７人コロナ感染"
-      },
-      {
-            "date": "2021\/03\/31",
-            "url": "https://www.daily-tohoku.news/archives/60508",
-            "text": "【新型コロナ】青森署の男性警察官が感染"
-      },
-      {
-            "date": "2021\/03\/30",
-            "url": "https://www.daily-tohoku.news/archives/60462",
-            "text": "【新型コロナ】青森県内６人感染　弘前管内の小学校でクラスター"
-      },
-      {
-            "date": "2021\/03\/30",
-            "url": "https://www.daily-tohoku.news/archives/60461",
-            "text": "【新型コロナ】盛岡、一関、住田で５人感染　岩手県内患者累計６１４人"
       }
     ]
 }
