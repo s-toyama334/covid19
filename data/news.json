@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2021\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/61083",
+            "text": "【新型コロナ】青森市の運動施設でクラスター"
+      },
+      {
+            "date": "2021\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/61081",
+            "text": "【新型コロナ】八戸でさらに３人感染　６日は県内で計２２人"
+      },
+      {
+            "date": "2021\/04\/06",
+            "url": "https://www.daily-tohoku.news/archives/61076",
+            "text": "【速報】盛岡などで新たに８人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/61062",
             "text": "【新型コロナ】八戸で新たに５人感染　教育保育施設クラスター拡大"
       },
@@ -44,21 +59,6 @@
             "date": "2021\/04\/04",
             "url": "https://www.daily-tohoku.news/archives/60896",
             "text": "【速報】八戸市で６人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/0３",
-            "url": "https://www.daily-tohoku.news/archives/60864",
-            "text": "【新型コロナ】青森県内で１２人感染　青森市で飲食店クラスター"
-      },
-      {
-            "date": "2021\/04\/0３",
-            "url": "https://www.daily-tohoku.news/archives/60862",
-            "text": "【新型コロナ】岩手で１４人感染　教育保育施設クラスターさらに５人"
-      },
-      {
-            "date": "2021\/04\/0２",
-            "url": "https://www.daily-tohoku.news/archives/60784",
-            "text": "【新型コロナ】青森県で新たに１９人感染　障害者施設クラスター計８０人に拡大"
       }
     ]
 }
