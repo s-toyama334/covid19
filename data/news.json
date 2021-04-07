@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/61185",
+            "text": "【新型コロナ】青森県内でＮ５０１Ｙ型初確認"
+      },
+      {
+            "date": "2021\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/61181",
+            "text": "【新型コロナ】上十三管内でクラスター発生"
+      },
+      {
+            "date": "2021\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/61175",
+            "text": "【新型コロナ】上十三管内で７人感染　青森県内で計１１人"
+      },
+      {
+            "date": "2021\/04\/07",
+            "url": "https://www.daily-tohoku.news/archives/61166",
+            "text": "【速報】盛岡など４市で９人コロナ感染・岩手県内"
+      },
+      {
             "date": "2021\/04\/06",
             "url": "https://www.daily-tohoku.news/archives/61083",
             "text": "【新型コロナ】青森市の運動施設でクラスター"
@@ -39,26 +59,6 @@
             "date": "2021\/04\/0５",
             "url": "https://www.daily-tohoku.news/archives/60966",
             "text": "【コロナ県内初確認１年】観光、宿泊産業打撃深刻　「我慢の時」から反転攻勢へ"
-      },
-      {
-            "date": "2021\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/60957",
-            "text": "【新型コロナ】青森県内で１０人感染　八戸６人、教育保育施設でクラスター"
-      },
-      {
-            "date": "2021\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/60913",
-            "text": "【新型コロナ】三戸地方などでさらに４人感染　４日は計１０人"
-      },
-      {
-            "date": "2021\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/60905",
-            "text": "【速報】岩手で新たに１７人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/04",
-            "url": "https://www.daily-tohoku.news/archives/60896",
-            "text": "【速報】八戸市で６人コロナ感染"
       }
     ]
 }
