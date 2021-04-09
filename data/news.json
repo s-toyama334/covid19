@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/61304",
+            "text": "【新型コロナ】青森県内で１２人感染　病床使用率ステージ３相当に"
+      },
+      {
+            "date": "2021\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/61303",
+            "text": "【新型コロナ】岩手で１０人感染　うち５人は感染経路不明"
+      },
+      {
+            "date": "2021\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/61299",
+            "text": "【新型コロナ】大規模クラスター発生の障害者施設　関理事長「感染拡大防止徹底する」"
+      },
+      {
+            "date": "2021\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/61298",
+            "text": "【新型コロナ】米軍三沢基地関係者１人が陽性　６日公表感染者の濃厚接触者"
+      },
+      {
+            "date": "2021\/04\/08",
+            "url": "https://www.daily-tohoku.news/archives/61224",
+            "text": "【新型コロナ】イベント「推奨される状況にない」大西医師　青森県内クラスター続発"
+      },
+      {
             "date": "2021\/04\/07",
             "url": "https://www.daily-tohoku.news/archives/61185",
             "text": "【新型コロナ】青森県内でＮ５０１Ｙ型初確認"
@@ -44,21 +69,6 @@
             "date": "2021\/04\/0５",
             "url": "https://www.daily-tohoku.news/archives/61002",
             "text": "【新型コロナ】青森市、弘前で計６人感染"
-      },
-      {
-            "date": "2021\/04\/0５",
-            "url": "https://www.daily-tohoku.news/archives/60997",
-            "text": "【速報】新たに盛岡で１人コロナ感染　岩手県内"
-      },
-      {
-            "date": "2021\/04\/0５",
-            "url": "https://www.daily-tohoku.news/archives/60968",
-            "text": "【新型コロナ】八戸市長が関連施設に感染防止徹底促す　各部局長に指示"
-      },
-      {
-            "date": "2021\/04\/0５",
-            "url": "https://www.daily-tohoku.news/archives/60966",
-            "text": "【コロナ県内初確認１年】観光、宿泊産業打撃深刻　「我慢の時」から反転攻勢へ"
       }
     ]
 }
