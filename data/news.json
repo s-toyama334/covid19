@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/12",
+            "url": "https://www.daily-tohoku.news/archives/61583",
+            "text": "【新型コロナワクチン】高齢者接種きょう開始／青森県内は青森、むつ両市"
+      },
+      {
+            "date": "2021\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/61579",
+            "text": "【新型コロナ】八戸市立小学校でクラスター　教職員ら関連含め計８人"
+      },
+      {
+            "date": "2021\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/61553",
+            "text": "【速報】八戸で４人コロナ感染　県内累計１１６３人に"
+      },
+      {
+            "date": "2021\/04\/11",
+            "url": "https://www.daily-tohoku.news/archives/61551",
+            "text": "【速報】岩手で新たに７人コロナ感染　盛岡など３市で"
+      },
+      {
             "date": "2021\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/61502",
             "text": "【新型コロナ】青森県内で１５人感染　上十三管内のクラスターは１６人に"
