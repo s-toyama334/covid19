@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2021\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/61776",
+            "text": "【新型コロナ】八戸市の小学校関連は３人増　青森市で新たな飲食店クラスターも"
+      },
+      {
+            "date": "2021\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/61773",
+            "text": "【新型コロナ】岩手で２人感染　県内累計７６３人に"
+      },
+      {
+            "date": "2021\/04\/13",
+            "url": "https://www.daily-tohoku.news/archives/61770",
+            "text": "【新型コロナ】米軍三沢基地関係者２人が陽性"
+      },
+      {
+            "date": "2021\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/61713",
             "text": "【新型コロナ】大阪の感染者、初の１０００人超"
       },
@@ -79,16 +94,6 @@
             "date": "2021\/04\/08",
             "url": "https://www.daily-tohoku.news/archives/61303",
             "text": "【新型コロナ】岩手で１０人感染　うち５人は感染経路不明"
-      },
-      {
-            "date": "2021\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/61299",
-            "text": "【新型コロナ】大規模クラスター発生の障害者施設　関理事長「感染拡大防止徹底する」"
-      },
-      {
-            "date": "2021\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/61298",
-            "text": "【新型コロナ】米軍三沢基地関係者１人が陽性　６日公表感染者の濃厚接触者"
       }
     ]
 }
