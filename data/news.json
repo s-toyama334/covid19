@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/1４",
+            "url": "https://www.daily-tohoku.news/archives/61865",
+            "text": "青森県内で１９人コロナ感染　八戸市３人、上十三管内４人など　"
+      },
+      {
+            "date": "2021\/04\/1４",
+            "url": "https://www.daily-tohoku.news/archives/61858",
+            "text": "【新型コロナ】青森慈恵会病院でクラスター　患者５人、職員２人が感染"
+      },
+      {
+            "date": "2021\/04\/1４",
+            "url": "https://www.daily-tohoku.news/archives/61856",
+            "text": "【新型コロナ】青森市で１１人感染　医療機関でクラスター"
+      },
+      {
+            "date": "2021\/04\/1４",
+            "url": "https://www.daily-tohoku.news/archives/61853",
+            "text": "【新型コロナ】青森慈恵会病院で計７人感染　外来や手術など休止"
+      },
+      {
+            "date": "2021\/04\/1４",
+            "url": "https://www.daily-tohoku.news/archives/61848",
+            "text": "【速報】岩手県内で新たに２人コロナ感染、１人死亡"
+      },
+      {
             "date": "2021\/04\/13",
             "url": "https://www.daily-tohoku.news/archives/61776",
             "text": "【新型コロナ】八戸市の小学校関連は３人増　青森市で新たな飲食店クラスターも"
@@ -64,36 +89,6 @@
             "date": "2021\/04\/10",
             "url": "https://www.daily-tohoku.news/archives/61501",
             "text": "【新型コロナ】岩手県で８人感染　県内累計７４５人"
-      },
-      {
-            "date": "2021\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/61453",
-            "text": "【どうなるワクチン住民接種】（２）さまざまなコロナワクチン"
-      },
-      {
-            "date": "2021\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/61420",
-            "text": "【新型コロナ】青森県内で１３人感染　上十三管内のクラスターは１２人に"
-      },
-      {
-            "date": "2021\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/61417",
-            "text": "【新型コロナ】盛岡などで５人感染　県内累計７３７人"
-      },
-      {
-            "date": "2021\/04\/09",
-            "url": "https://www.daily-tohoku.news/archives/61376",
-            "text": "【新型コロナ】青森県内で１３人感染"
-      },
-      {
-            "date": "2021\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/61304",
-            "text": "【新型コロナ】青森県内で１２人感染　病床使用率ステージ３相当に"
-      },
-      {
-            "date": "2021\/04\/08",
-            "url": "https://www.daily-tohoku.news/archives/61303",
-            "text": "【新型コロナ】岩手で１０人感染　うち５人は感染経路不明"
       }
     ]
 }
