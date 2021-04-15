@@ -1,9 +1,14 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/15",
+            "url": "https://www.daily-tohoku.news/archives/61968",
+            "text": "青森県内、新たに４５人コロナ感染　八戸市４人、上十三管内３人など"
+      },
+      {
             "date": "2021\/04\/1４",
             "url": "https://www.daily-tohoku.news/archives/61865",
-            "text": "青森県内で１９人コロナ感染　八戸市３人、上十三管内４人など　"
+            "text": "青森県内で１９人コロナ感染　八戸市３人、上十三管内４人など"
       },
       {
             "date": "2021\/04\/1４",
@@ -79,16 +84,6 @@
             "date": "2021\/04\/11",
             "url": "https://www.daily-tohoku.news/archives/61551",
             "text": "【速報】岩手で新たに７人コロナ感染　盛岡など３市で"
-      },
-      {
-            "date": "2021\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/61502",
-            "text": "【新型コロナ】青森県内で１５人感染　上十三管内のクラスターは１６人に"
-      },
-      {
-            "date": "2021\/04\/10",
-            "url": "https://www.daily-tohoku.news/archives/61501",
-            "text": "【新型コロナ】岩手県で８人感染　県内累計７４５人"
       }
     ]
 }
