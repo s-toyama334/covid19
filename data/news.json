@@ -2,6 +2,21 @@
     "newsItems": [
       {
             "date": "2021\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/62092",
+            "text": "青森県内で新たに１３人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/62077",
+            "text": "【速報】岩手で新たに３人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/16",
+            "url": "https://www.daily-tohoku.news/archives/62076",
+            "text": "南郷ジャズフェス中止　コロナの感染拡大踏まえ"
+      },
+      {
+            "date": "2021\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/62050",
             "text": "青森市で８人コロナ感染　飲食店でクラスターも"
       },
@@ -59,36 +74,6 @@
             "date": "2021\/04\/12",
             "url": "https://www.daily-tohoku.news/archives/61665",
             "text": "【新型コロナ】青森県内２日間で１８人感染　小学校クラスターは１０人に"
-      },
-      {
-            "date": "2021\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/61663",
-            "text": "【新型コロナ】岩手で２日間１６人感染　盛岡など４市と県央管内"
-      },
-      {
-            "date": "2021\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/61626",
-            "text": "【速報】青森県内で１４人コロナ感染　八戸市は３人"
-      },
-      {
-            "date": "2021\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/61583",
-            "text": "【新型コロナワクチン】高齢者接種きょう開始／青森県内は青森、むつ両市"
-      },
-      {
-            "date": "2021\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/61579",
-            "text": "【新型コロナ】八戸市立小学校でクラスター　教職員ら関連含め計８人"
-      },
-      {
-            "date": "2021\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/61553",
-            "text": "【速報】八戸で４人コロナ感染　県内累計１１６３人に"
-      },
-      {
-            "date": "2021\/04\/11",
-            "url": "https://www.daily-tohoku.news/archives/61551",
-            "text": "【速報】岩手で新たに７人コロナ感染　盛岡など３市で"
       }
     ]
 }
