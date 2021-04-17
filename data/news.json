@@ -1,9 +1,29 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/62246",
+            "text": "青森県内で２６人コロナ感染　青森市の障害者施設クラスター、過去最大に"
+      }, 
+      {
+            "date": "2021\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/62212",
+            "text": "青森市のコロナ感染者は県病勤務"
+      }, 
+      {
+            "date": "2021\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/62210",
+            "text": "【速報】青森県内で26人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/17",
+            "url": "https://www.daily-tohoku.news/archives/62204",
+            "text": "【速報】青森市で新たな飲食店クラスター　店名も公表"
+      },
+      {
             "date": "2021\/04\/16",
             "url": "https://www.daily-tohoku.news/archives/62092",
-            "text": "青森県内で新たに１３人コロナ感染"
+            "text": "【速報】青森県内で新たに１３人コロナ感染"
       },
       {
             "date": "2021\/04\/16",
@@ -49,31 +69,6 @@
             "date": "2021\/04\/1４",
             "url": "https://www.daily-tohoku.news/archives/61848",
             "text": "【速報】岩手県内で新たに２人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/61776",
-            "text": "【新型コロナ】八戸市の小学校関連は３人増　青森市で新たな飲食店クラスターも"
-      },
-      {
-            "date": "2021\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/61773",
-            "text": "【新型コロナ】岩手で２人感染　県内累計７６３人に"
-      },
-      {
-            "date": "2021\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/61770",
-            "text": "【新型コロナ】米軍三沢基地関係者２人が陽性"
-      },
-      {
-            "date": "2021\/04\/13",
-            "url": "https://www.daily-tohoku.news/archives/61713",
-            "text": "【新型コロナ】大阪の感染者、初の１０００人超"
-      },
-      {
-            "date": "2021\/04\/12",
-            "url": "https://www.daily-tohoku.news/archives/61665",
-            "text": "【新型コロナ】青森県内２日間で１８人感染　小学校クラスターは１０人に"
       }
     ]
 }
