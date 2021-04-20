@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/04\/20",
+            "url": "https://www.daily-tohoku.news/archives/62508",
+            "text": "青森県内、新たに１６人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/20",
             "url": "https://www.daily-tohoku.news/archives/62498",
             "text": "岩手で新たに５人コロナ感染"
       },
