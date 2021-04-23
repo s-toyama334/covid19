@@ -1,17 +1,32 @@
 {
     "newsItems": [
       {
-            "date": "2021\/04\/21",
+            "date": "2021\/04\/23",
+            "url": "https://www.daily-tohoku.news/archives/62783",
+            "text": "青森市で新たに２件のクラスター、市内のコロナ感染者２５人"
+      },
+      {
+            "date": "2021\/04\/23",
+            "url": "https://www.daily-tohoku.news/archives/62775",
+            "text": "青森県内で２７人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/23",
+            "url": "https://www.daily-tohoku.news/archives/62771",
+            "text": "【速報】盛岡などで９人コロナ感染／岩手"
+      },
+      {
+            "date": "2021\/04\/22",
             "url": "https://www.daily-tohoku.news/archives/62608",
             "text": "【速報】青森県内で４０人コロナ感染　上十三３人、八戸市１人"
       },
       {
-            "date": "2021\/04\/21",
+            "date": "2021\/04\/22",
             "url": "https://www.daily-tohoku.news/archives/62598",
             "text": "【速報】青森市で新たに３件のクラスター　市内のコロナ感染者３２人"
       },
       {
-            "date": "2021\/04\/21",
+            "date": "2021\/04\/22",
             "url": "https://www.daily-tohoku.news/archives/62593",
             "text": "【速報】岩手県内、北上と宮古管内で８人コロナ感染"
       },
@@ -34,26 +49,6 @@
             "date": "2021\/04\/21",
             "url": "https://www.daily-tohoku.news/archives/62593",
             "text": "岩手県内、北上と宮古管内で８人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/20",
-            "url": "https://www.daily-tohoku.news/archives/62508",
-            "text": "青森県内、新たに１６人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/20",
-            "url": "https://www.daily-tohoku.news/archives/62498",
-            "text": "岩手で新たに５人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/19",
-            "url": "https://www.daily-tohoku.news/archives/62401",
-            "text": "青森県内で１５人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/19",
-            "url": "https://www.daily-tohoku.news/archives/62396",
-            "text": "盛岡と釜石の２人コロナ感染／岩手"
       }
     ]
 }
