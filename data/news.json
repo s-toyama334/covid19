@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/62989",
+            "text": "青森市で１人死亡　青森県内２０人コロナ感染"
+      },
+      {
+            "date": "2021\/04\/25",
+            "url": "https://www.daily-tohoku.news/archives/62982",
+            "text": "宮古などで１０人コロナ感染／岩手"
+      },
+      {
             "date": "2021\/04\/24",
             "url": "https://www.daily-tohoku.news/archives/62931",
             "text": "久慈管内などで２７人コロナ感染　岩手、累計８３８人"
