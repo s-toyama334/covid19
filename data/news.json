@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/04\/26",
+            "url": "https://www.daily-tohoku.news/archives/63069",
+            "text": "盛岡などで３人コロナ感染／岩手県内"
+      },
+      {
             "date": "2021\/04\/25",
             "url": "https://www.daily-tohoku.news/archives/62989",
             "text": "青森市で１人死亡　青森県内２０人コロナ感染"
@@ -54,21 +59,6 @@
             "date": "2021\/04\/21",
             "url": "https://www.daily-tohoku.news/archives/62587",
             "text": "青森中央学院大など臨時休校　関係者コロナ感染"
-      },
-      {
-            "date": "2021\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/62608",
-            "text": "青森県内で４０人コロナ感染　上十三３人、八戸市１人"
-      },
-      {
-            "date": "2021\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/62598",
-            "text": "青森市で新たに３件のクラスター　市内のコロナ感染者３２人"
-      },
-      {
-            "date": "2021\/04\/21",
-            "url": "https://www.daily-tohoku.news/archives/62593",
-            "text": "岩手県内、北上と宮古管内で８人コロナ感染"
       }
     ]
 }
