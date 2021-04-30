@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/04\/30",
+            "url": "https://www.daily-tohoku.news/archives/63514",
+            "text": "青森県内で新たに２３人コロナ感染　青森市で１９人など"
+      },
+      {
+            "date": "2021\/04\/30",
             "url": "https://www.daily-tohoku.news/archives/63500",
             "text": "岩手で新たに１１人コロナ感染　盛岡など３市と中部管内"
       },
