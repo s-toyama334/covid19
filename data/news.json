@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/03",
+            "url": "https://www.daily-tohoku.news/archives/63785",
+            "text": "【速報】青森県内で１２人コロナ感染　弘前管内と青森市"
+      },
+      {
+            "date": "2021\/05\/03",
+            "url": "https://www.daily-tohoku.news/archives/63782",
+            "text": "【速報】 岩手で１８人コロナ感染　盛岡など５市と県央、中部管内"
+      },
+      {
             "date": "2021\/05\/02",
             "url": "https://www.daily-tohoku.news/archives/63705",
             "text": "青森市などで２２人コロナ感染　八戸で１人死亡"
@@ -69,31 +79,6 @@
             "date": "2021\/04\/27",
             "url": "https://www.daily-tohoku.news/archives/63159",
             "text": "岩手県内、新たに７人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/63077",
-            "text": "八戸市のコロナ感染者から変異株"
-      },
-      {
-            "date": "2021\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/63075",
-            "text": "青森県内、新たに７人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/26",
-            "url": "https://www.daily-tohoku.news/archives/63069",
-            "text": "盛岡などで３人コロナ感染／岩手県内"
-      },
-      {
-            "date": "2021\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/62989",
-            "text": "青森市で１人死亡　青森県内２０人コロナ感染"
-      },
-      {
-            "date": "2021\/04\/25",
-            "url": "https://www.daily-tohoku.news/archives/62982",
-            "text": "宮古などで１０人コロナ感染／岩手"
       }
     ]
 }
