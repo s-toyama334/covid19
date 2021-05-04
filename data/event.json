@@ -1,9 +1,39 @@
 {
     "eventItems": [
-        {
-            "datetext": "２月",
-            "url": "https://www.daily-tohoku.news/archives/47345",
-            "text": "南部地方えんぶり（南部町）"
+      {
+            "datetext": "９月",
+            "url": "https://www.daily-tohoku.news/archives/62642",
+            "text": "五戸まつり（五戸町）"
+        },
+      {
+            "datetext": "夏",
+            "url": "https://www.daily-tohoku.news/archives/62722",
+            "text": "八戸七夕まつり（八戸市）"
+        },
+      {
+            "datetext": "７月",
+            "url": "https://www.daily-tohoku.news/archives/62076",
+            "text": "南郷ジャズフェス（八戸市）"
+        },
+      {
+            "datetext": "６月",
+            "url": "https://www.daily-tohoku.news/archives/63557",
+            "text": "佐井村うに祭り（佐井村）"
+        },
+      {
+            "datetext": "６月",
+            "url": "https://www.daily-tohoku.news/archives/63532",
+            "text": "わかさぎマラソン（東北町）"
+        },
+      {
+            "datetext": "６月",
+            "url": "https://www.daily-tohoku.news/archives/62529",
+            "text": "キリスト祭（新郷村）"
+        },
+      {
+            "datetext": "５月",
+            "url": "https://www.daily-tohoku.news/archives/62105",
+            "text": "菜の花フェスティバル（横浜町）"
         }
     ]
 }
