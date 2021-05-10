@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/10",
+            "url": "https://www.daily-tohoku.news/archives/64382",
+            "text": "【再配信】青森県内で３２人コロナ感染　五所川原管内でクラスターも"
+      },
+      {
+            "date": "2021\/05\/10",
+            "url": "https://www.daily-tohoku.news/archives/64367",
+            "text": "【速報】岩手県内で１３人コロナ感染、１人死亡"
+      },
+      {
+            "date": "2021\/05\/10",
+            "url": "https://www.daily-tohoku.news/archives/64334",
+            "text": "【コロナワクチン】接種後に陽性事例相次ぐ　免疫に時間、感染対策継続を"
+      },
+      {
             "date": "2021\/05\/09",
             "url": "https://www.daily-tohoku.news/archives/64290",
             "text": "青森県内で新たに１３人コロナ感染"
@@ -69,56 +84,6 @@
             "date": "2021\/05\/05",
             "url": "https://www.daily-tohoku.news/archives/63948",
             "text": "【速報】岩手で新たに９人コロナ感染　盛岡など４市"
-      },
-      {
-            "date": "2021\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/63901",
-            "text": "青森県内で８人感染、上十三管内で１人"
-      },
-      {
-            "date": "2021\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/63871",
-            "text": "岩手で１４人コロナ感染　県内累計千人超える"
-      },
-      {
-            "date": "2021\/05\/04",
-            "url": "https://www.daily-tohoku.news/archives/63820",
-            "text": "青森県内で１２人感染　八戸で県外女性の陽性確認"
-      },
-      {
-            "date": "2021\/05\/03",
-            "url": "https://www.daily-tohoku.news/archives/63785",
-            "text": "青森県内で１２人コロナ感染　弘前管内と青森市"
-      },
-      {
-            "date": "2021\/05\/03",
-            "url": "https://www.daily-tohoku.news/archives/63782",
-            "text": "岩手で１８人コロナ感染　盛岡など５市と県央、中部管内"
-      },
-      {
-            "date": "2021\/05\/02",
-            "url": "https://www.daily-tohoku.news/archives/63705",
-            "text": "青森市などで２２人コロナ感染　八戸で１人死亡"
-      },
-      {
-            "date": "2021\/05\/02",
-            "url": "https://www.daily-tohoku.news/archives/63701",
-            "text": "盛岡などで２２人コロナ感染／岩手県内　１人死亡"
-      },
-      {
-            "date": "2021\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/63626",
-            "text": "弘前管内などで２２人コロナ感染／青森"
-      },
-      {
-            "date": "2021\/05\/01",
-            "url": "https://www.daily-tohoku.news/archives/63623",
-            "text": "盛岡などで３６人コロナ感染／岩手"
-      },
-      {
-            "date": "2021\/04\/30",
-            "url": "https://www.daily-tohoku.news/archives/63514",
-            "text": "青森県内で新たに２３人コロナ感染　青森市で１９人など"
       }
     ]
 }
