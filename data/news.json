@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/17",
+            "url": "https://www.daily-tohoku.news/archives/65183",
+            "text": "青森県内で２９人コロナ感染"
+      },
+      {
+            "date": "2021\/05\/17",
+            "url": "https://www.daily-tohoku.news/archives/65175",
+            "text": "青森市の高校でクラスター"
+      },
+      {
+            "date": "2021\/05\/17",
+            "url": "https://www.daily-tohoku.news/archives/65166",
+            "text": "岩手で１８人コロナ感染"
+      },
+      {
             "date": "2021\/05\/16",
             "url": "https://www.daily-tohoku.news/archives/65094",
             "text": "【新型コロナ】東地方の小学校でクラスター　青森県内１０人感染"
