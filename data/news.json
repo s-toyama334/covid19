@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/05\/20",
+            "url": "https://www.daily-tohoku.news/archives/65502",
+            "text": "【新型コロナ】新たに変異株１例確認／青森県内"
+      },
+      {
+            "date": "2021\/05\/20",
             "url": "https://www.daily-tohoku.news/archives/65494",
             "text": "八戸市の高校でクラスター"
       },
@@ -84,21 +89,6 @@
             "date": "2021\/05\/15",
             "url": "https://www.daily-tohoku.news/archives/64986",
             "text": "【新型コロナ】盛岡などで２８人感染　中部管内の教育保育施設でクラスター"
-      },
-      {
-            "date": "2021\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/64985",
-            "text": "【新型コロナ】全国の半数「爆発的拡大」　感染６千人超、第４波衰えず"
-      },
-      {
-            "date": "2021\/05\/14",
-            "url": "https://www.daily-tohoku.news/archives/64871",
-            "text": "【新型コロナ】青森県内で新規感染３１人、変異株１件　青森市でクラスター２件"
-      },
-      {
-            "date": "2021\/05\/14",
-            "url": "https://www.daily-tohoku.news/archives/64871",
-            "text": "【新型コロナ】青森県内で新規感染３１人、変異株１件　青森市でクラスター２件"
       }
     ]
 }
