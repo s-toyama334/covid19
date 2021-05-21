@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/21",
+            "url": "https://www.daily-tohoku.news/archives/65586",
+            "text": "岩手県内で１３人コロナ感染"
+      },
+      {
             "date": "2021\/05\/20",
             "url": "https://www.daily-tohoku.news/archives/65502",
             "text": "【新型コロナ】新たに変異株１例確認／青森県内"
@@ -69,26 +74,6 @@
             "date": "2021\/05\/17",
             "url": "https://www.daily-tohoku.news/archives/65166",
             "text": "【速報】岩手で１８人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/16",
-            "url": "https://www.daily-tohoku.news/archives/65094",
-            "text": "【新型コロナ】東地方の小学校でクラスター　青森県内１０人感染"
-      },
-      {
-            "date": "2021\/05\/16",
-            "url": "https://www.daily-tohoku.news/archives/65093",
-            "text": "【新型コロナ】盛岡などで１７人感染、１人死亡／岩手県"
-      },
-      {
-            "date": "2021\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/64987",
-            "text": "【新型コロナ】青森県内で１６人感染　上十三管内は１人"
-      },
-      {
-            "date": "2021\/05\/15",
-            "url": "https://www.daily-tohoku.news/archives/64986",
-            "text": "【新型コロナ】盛岡などで２８人感染　中部管内の教育保育施設でクラスター"
       }
     ]
 }
