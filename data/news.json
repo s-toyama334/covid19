@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/05\/21",
+            "url": "https://www.daily-tohoku.news/archives/65597",
+            "text": "青森市の趣味の場でクラスター"
+      },
+      {
+            "date": "2021\/05\/21",
             "url": "https://www.daily-tohoku.news/archives/65586",
             "text": "岩手県内で１３人コロナ感染"
       },
@@ -64,16 +69,6 @@
             "date": "2021\/05\/17",
             "url": "https://www.daily-tohoku.news/archives/65183",
             "text": "【速報】青森県内で２９人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/65175",
-            "text": "【速報】青森市の高校でクラスター"
-      },
-      {
-            "date": "2021\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/65166",
-            "text": "【速報】岩手で１８人コロナ感染"
       }
     ]
 }
